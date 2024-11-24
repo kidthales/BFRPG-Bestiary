@@ -237,247 +237,184 @@ Polar bears are found in far northern regions.  They are larger and more powerfu
 Bears attack by rending opponents with their claws, dragging them in and biting them.  A successful hit with both paws indicates a hug attack for additional damage (as given for each specific bear type).  All bears are very tough to kill, and are able to move and attack for one round after losing all hit points.
 
 @@
-@STOP@
 
 Bee, Giant
-Armor Class:
-13
-Hit Dice:
-1/2* (1d4 hit points)
-No. of Attacks:
-1 sting
-Damage:
-1d4 + poison sting
-Movement:
-10' Fly 50'
-No. Appearing:
-1d6, Wild 1d6, Lair 5d6
-Save As:
-Fighter: 1
-Morale:
-9 (12 if queen is threatened)
-Treasure Type:
-Special
-XP:
-13
+Armor Class: 13
+Hit Dice: 1/2* (1d4 hit points)
+No. of Attacks: 1 sting
+Damage: 1d4 + poison sting
+Movement: 10' Fly 50'
+No. Appearing: 1d6, Wild 1d6, Lair 5d6
+Save As: Fighter: 1
+Morale: 9 (12 if queen is threatened)
+Treasure Type: Special
+XP: 13
+
 Giant bees live in hives, generally in underground areas.  In each such hive will be a queen who has 2 hit dice and inflicts only a bite doing 1d8 points of damage.  She is immobile, and if she is threatened all bees in the hive will fight without checking morale.  The queen is worth 75 XP if defeated.
 Those stung by a giant bee must save vs. Poison or die.  A giant bee that successfully stings another creature pulls away, leaving its stinger in the creature; the bee then dies.
 Each giant bee hive will contain honeycomb filled with honey, which is entirely safe to eat and is worth 10 GP per gallon if carefully removed.  Generally 2d10+10 gallons of honey will be present in any given hive.  There is also a 15% chance that one of the cells in the honeycomb will contain special honey which acts as 1d6+1 Potions of Healing if consumed.  This honey can be discovered by chance, or through the use of detect magic.
+
+@@
+
 Beetle, Giant Bombardier
-Armor Class:
-16
-Hit Dice:
-2*
-No. of Attacks:
-1 bite, 1 spray (special, see below)
-Damage:
-1d6 bite, 2d6 spray
-Movement:
-40'
-No. Appearing:
-1d8, Wild 2d6, Lair 2d6
-Save As:
-Fighter: 2
-Morale:
-8
-Treasure Type:
-None
-XP:
-100
+Armor Class: 16
+Hit Dice: 2*
+No. of Attacks: 1 bite, 1 spray (special, see below)
+Damage: 1d6 bite, 2d6 spray
+Movement: 40'
+No. Appearing: 1d8, Wild 2d6, Lair 2d6
+Save As: Fighter: 2
+Morale: 8
+Treasure Type: None
+XP: 100
+
 Giant bombardier beetles have red head and thorax sections and black abdomens.  They are 3 to 4 feet long.  In combat, a giant bombardier beetle bites opponents in front of it, and sprays a cone of very hot and noxious gases from a nozzle in the rearmost tip of the abdomen.  This toxic blast causes 2d6 points of damage to all within a cone 10' long and 10' wide at the far end (a save vs. Death Ray for half damage is allowed).  A giant bombardier beetle can use this spray attack up to five times per day, but no more than once per three rounds.  Faced with enemies attacking from one direction, a giant bombardier beetle may choose to turn away and use the spray attack rather than biting.
 Giant bombardier beetles, like most beetles, have about the same visual acuity in all directions, and thus suffer no penalty to Armor Class when attacked from behind.
+
+@@
+
 Beetle, Giant Fire
-Armor Class:
-16
-Hit Dice:
-1+2
-No. of Attacks:
-1 bite
-Damage:
-2d4 bite
-Movement:
-40'
-No. Appearing:
-1d8, Wild 2d6, Lair 2d6
-Save As:
-Fighter: 1
-Morale:
-7
-Treasure Type:
-None
-XP:
-25
+Armor Class: 16
+Hit Dice: 1+2
+No. of Attacks: 1 bite
+Damage: 2d4 bite
+Movement: 40'
+No. Appearing: 1d8, Wild 2d6, Lair 2d6
+Save As: Fighter: 1
+Morale: 7
+Treasure Type: None
+XP: 25
+
 Giant fire beetles are huge, being 18 to 30 inches long, and have shiny black carapaces.  Each has a pair of glowing red organs located just below their eyes which illuminate a radius of 10 feet around the creature.  These glands continue to glow for 1d6 days after one is killed, and may be removed and used for illumination by any adventurers not too squeamish to do so.
 They are normally timid but will fight if cornered.  Like most beetles, they have more or less the same visual acuity in all directions, and thus those who attack them from behind receive no bonus to do so.
+
+@@
+
 Beetle, Giant Oil
-Armor Class:
-16
-Hit Dice:
-2*
-No. of Attacks:
-1 bite + spray (see below)
-Damage:
-2d4 bite, special spray (see below)
-Movement:
-40'
-No. Appearing:
-1d8, Wild 2d6, Lair 2d6
-Save As:
-Fighter: 2
-Morale:
-8
-Treasure Type:
-None
-XP:
-100
+Armor Class: 16
+Hit Dice: 2*
+No. of Attacks: 1 bite + spray (see below)
+Damage: 2d4 bite, special spray (see below)
+Movement: 40'
+No. Appearing: 1d8, Wild 2d6, Lair 2d6
+Save As: Fighter: 2
+Morale: 8
+Treasure Type: None
+XP: 100
+
 Giant oil beetles are about 3 feet long, and are often found burrowing in soil or roaming dungeon corridors.  Their eyes are arranged on the sides of their heads such that they can see perfectly well behind them as well as in front, negating any normal bonus for attacking from behind.
 In addition to its bite, a giant oil beetle can attack with a spray of oil from its abdomen; this can only be applied to opponents within 5 feet of the back of the beetle, and an attack roll is needed to hit.  Living creatures hit by this spray suffer a penalty of -2 on all attack rolls for 24 hours due to painful blisters inflicted by the irritating oil.  A cure light wounds spell may be used to remove this effect, but if so used the spell does not also restore hit points to the victim.
+
+@@
+
 Beetle, Giant Tiger
-Armor Class:
-17
-Hit Dice:
-3+1
-No. of Attacks:
-1 bite
-Damage:
-2d6 bite
-Movement:
-60' (10')
-No. Appearing:
-1d6, Wild 2d4, Lair 2d4
-Save As:
-Fighter: 3
-Morale:
-9
-Treasure Type:
-U
-XP:
-145
+Armor Class: 17
+Hit Dice: 3+1
+No. of Attacks: 1 bite
+Damage: 2d6 bite
+Movement: 60' (10')
+No. Appearing: 1d6, Wild 2d4, Lair 2d4
+Save As: Fighter: 3
+Morale: 9
+Treasure Type: U
+XP: 145
+
 Giant tiger beetles are predatory monsters around 5 feet long.  Their carapaces tend to be dark brown with lighter brown striped or spotted patterns, but there are many variations.
 They are fast runners, depending on their speed to run down prey, and they willingly prey on any creature of man size or smaller.  Like most beetles, they have more or less the same visual acuity in all directions, and thus suffer no penalty to Armor Class when attacked from behind.
-Bison
-See Cattle (including Aurochs and Bison) on page 15.
-Black Pudding
-See Jelly, Black on page 94.
+
+@@
+
 Blink Dog (Flicker Beast)
-Armor Class:
-15
-Hit Dice:
-4*
-No. of Attacks:
-1 bite
-Damage:
-1d6 bite
-Movement:
-40'
-No. Appearing:
-1d6, Wild 1d6, Lair 1d6
-Save As:
-Fighter: 4
-Morale:
-6
-Treasure Type:
-C
-XP:
-280
+Armor Class: 15
+Hit Dice: 4*
+No. of Attacks: 1 bite
+Damage: 1d6 bite
+Movement: 40'
+No. Appearing: 1d6, Wild 1d6, Lair 1d6
+Save As: Fighter: 4
+Morale: 6
+Treasure Type: C
+XP: 280
+
 Blink dogs, also known as flicker beasts, are strange creatures which resemble wolves or hyenas who can teleport up to 120 feet at will.  Teleportation is so easy for them that they can sometimes teleport away before being attacked.  When one knows of the attacker's action (i.e. can see or possibly hear the attack about to happen) it is allowed a saving throw vs. Death Ray, and on a successful roll it teleports 1d6 x 10 feet in a random direction (but never into solid matter, nor into any dangerous area the creature knows about).
 These creatures are pack hunters, using their teleportation to confuse their prey until they are able to surround it.  In this way, some members of the pack will be able to attack from behind, a trick they are so good at that they receive the same benefits as a thief: +4 to hit and double damage if the hit is successful.
 Blink dogs are large canines, typically light brown in color with short bristly hair; some varieties are striped or spotted.  They communicate using a language of barks, growls, and yips which is somewhat limited but can convey useful tactical information.  They are shy, generally avoiding a fight if possible, but they hate deceivers and will generally attack them on sight.
+
+@@
+
 Blood Rose
-Armor Class:
-13
-Hit Dice:
-2* to 4*
-No. of Attacks:
-1 to 3 canes, each + blood drain
-Damage:
-1d6 cane, 1d6/round blood drain
-Movement:
-1'
-No. Appearing:
-Wild 1d8
-Save As:
-Fighter: 2
-Morale:
-12
-Treasure Type:
-None
-XP:
-100 – 280
+Armor Class: 13
+Hit Dice: 2* to 4*
+No. of Attacks: 1 to 3 canes, each + blood drain
+Damage: 1d6 cane, 1d6/round blood drain
+Movement: 1'
+No. Appearing: Wild 1d8
+Save As: Fighter: 2
+Morale: 12
+Treasure Type: None
+XP: 100 - 280
+
 Blood roses appear to be normal rose bushes, but are actually animated plants, dimly aware of their surroundings.  These plants are always in bloom, bearing beautiful flowers that are normally white (or rarely, yellow) in color.
 The fragrance of the flowers is detectable up to 30' from the plant in ideal conditions.  Blood roses can move about slowly, and will try to find locations sheltered from the wind in order to achieve those ideal conditions.  Living creatures who smell the fragrance must save vs. Poison or become befuddled; such a victim will drop anything carried and try to approach the plant.  Each round an unaffected living creature can smell the fragrance it must make this save.  Befuddled creatures will not resist the attacks of the blood rose; if affected creatures are removed from the area, the effect of the fragrance will expire 2d4 rounds later.  Undead monsters, constructs, etc. are not affected.
 Each blood rose plant will have 1, 2 or 3 whiplike canes studded with thorns with which it can attack.  When a cane hits, it wraps around the victim and begins to drain blood, doing 1d6 points of damage per round.  A blood rose which has recently (within one day) "eaten" in this way will have flowers ranging from pink to deep wine red in color, which will fade slowly back to white or yellow as the plant digests the blood it has consumed.
+
+@@
+
 Boar
-Armor Class:
-13
-Hit Dice:
-3
-No. of Attacks:
-1 tusk
-Damage:
-2d4 tusk
-Movement:
-50' (10')
-No. Appearing:
-Wild 1d6
-Save As:
-Fighter: 3
-Morale:
-9
-Treasure Type:
-None
-XP:
-145
+Armor Class: 13
+Hit Dice: 3
+No. of Attacks: 1 tusk
+Damage: 2d4 tusk
+Movement: 50' (10')
+No. Appearing: Wild 1d6
+Save As: Fighter: 3
+Morale: 9
+Treasure Type: None
+XP: 145
+
 Wild boars are the natural variety of swine.  They are surly and aggressive, prone to attacking characters just because they are present.  Note that "boar" refers specifically to the male of the species, but females are equally large and fierce, more so if they have offspring.
 Wild boars have stocky and muscular bodies, covered with bristly hair which may be black, brown, or gray in color.  Those in colder climates will have an under-layer of warm fur, while those found in warmer areas will not.
+
+@@
+
 Bugbear
-Armor Class:
-15 (13)
-Hit Dice:
-3+1
-No. of Attacks:
-1 weapon
-Damage:
-1d8+1 or by weapon +1
-Movement:
-30' Unarmored 40'
-No. Appearing:
-2d4, Wild 5d4, Lair 5d4
-Save As:
-Fighter: 3
-Morale:
-9
-Treasure Type:
-Q, R each; B, L, M in lair
-XP:
-145
+Armor Class: 15 (13)
+Hit Dice: 3+1
+No. of Attacks: 1 weapon
+Damage: 1d8+1 or by weapon +1
+Movement: 30' Unarmored 40'
+No. Appearing: 2d4, Wild 5d4, Lair 5d4
+Save As: Fighter: 3
+Morale: 9
+Treasure Type: Q, R each; B, L, M in lair
+XP: 145
+
 Bugbears look like huge, hairy goblins, standing about 6 feet tall.  Their eyes are usually a darkish brown color and they move very quietly.  They are wild and cruel, and bully smaller humanoids whenever possible.
 Bugbear attacks are coordinated, and their tactics are sound if not brilliant.  They are able to move in nearly complete silence, surprising opponents on 1-3 on 1d6.  In order to remain silent, they must wear only leather or hide armor, as indicated in the Armor Class scores above.  Bugbears receive a +1 bonus on damage due to their great Strength.  As with most goblinoid monsters, they have Darkvision with a 30' range.
 One out of every eight bugbears will be a hardened warrior of 4+4 Hit Dice (240 XP), with a +2 bonus to damage.  In lairs of 16 or more bugbears, there will be a chieftain of 6+6 Hit Dice (500 XP), with a +3 bonus to damage.  Bugbears gain a +1 bonus to their morale if they are led by a hardened warrior or chieftain.  In the lair, bugbears never fail a morale check as long as the chieftain is alive.  In addition, there is a 2 in 6 chance that a shaman will be present in a lair.  A shaman is equal to an ordinary bugbear statistically, but possesses 1d4+1 levels of Clerical abilities.
+
+@@
+
 Caecilia, Giant
-Armor Class:
-14
-Hit Dice:
-6*
-No. of Attacks:
-1 bite + swallow on natural 19 or 20
-Damage:
-1d8 bite + 1d8/round if swallowed
-Movement:
-20' (10')
-No. Appearing:
-1d3, Lair 1d3
-Save As:
-Fighter: 3
-Morale:
-9
-Treasure Type:
-B
-XP:
-555
+Armor Class: 14
+Hit Dice: 6*
+No. of Attacks: 1 bite + swallow on natural 19 or 20
+Damage: 1d8 bite + 1d8/round if swallowed
+Movement: 20' (10')
+No. Appearing: 1d3, Lair 1d3
+Save As: Fighter: 3
+Morale: 9
+Treasure Type: B
+XP: 555
+
 Caecilia are carnivorous, legless amphibians; they strongly resemble earthworms, but they have bony skeletons and sharp teeth.  Caecilia live entirely underground.  The giant variety can grow up to 30' long and frequently are found in caverns or dungeons.  They are nearly blind, but caecilia are very sensitive to sound and vibrations, and are able to find their prey regardless of light or the absence thereof.
 A giant caecilia can swallow a single small humanoid (such as a goblin or halfling) whole.  On a natural attack roll of 19 or 20, such a victim has been swallowed (assuming that roll does actually hit the victim).  A swallowed victim suffers 1d8 damage per round, and may only attack from the inside with a small cutting or stabbing weapon such as a dagger.  While the inside of the caecilia is easier for the victim to hit, fighting while swallowed is more difficult, so no modifiers to the attack roll are applied.
 Once a caecilia has swallowed an opponent, it will generally attempt to disengage from combat, going to its lair to rest and digest its meal.
+
+@@
+
+@STOP@
+
 Cattle (including Aurochs and Bison)
 
 Cattle
@@ -492,7 +429,7 @@ Hit Dice:
 3
 4
 No. of Attacks:
-–  1 horn/head butt or 1 trample  –
+-  1 horn/head butt or 1 trample  -
 Damage:
 1d4 butt
 2d4 trample
@@ -501,7 +438,7 @@ Damage:
 2d4 butt
 2d6 trample
 Movement:
-–  50’ (10')  –
+-  50’ (10')  -
 No. Appearing:
 Special
 Wild 10d12
@@ -747,7 +684,7 @@ Hit Dice:
 6*
 7**
 No. of Attacks:
-–  3 bites (see below)  –
+-  3 bites (see below)  -
 Damage:
 1d6 snake bite, 1d8 panther bite
 1d6 + poison snake bite,
@@ -2347,23 +2284,23 @@ Hit Dice:
 12* (+10)
 16* (+12)
 No. of Attacks:
-– 1 strike or knock down, see below –
+- 1 strike or knock down, see below -
 Damage:
 1d12
 2d8
 3d6
 Movement:
-– Fly 120' –
+- Fly 120' -
 No. Appearing:
-– special –
+- special -
 Save As:
 Fighter: 8
 Fighter: 12
 Fighter: 16
 Morale:
-– 10 –
+- 10 -
 Treasure Type:
-– None –
+- None -
 XP:
 945
 1,975
@@ -2391,17 +2328,17 @@ Damage:
 2d8
 3d6
 Movement:
-– 40' –
+- 40' -
 No. Appearing:
-– special –
+- special -
 Save As:
 Fighter: 8
 Fighter: 12
 Fighter: 16
 Morale:
-– 10 –
+- 10 -
 Treasure Type:
-– None –
+- None -
 XP:
 945
 1,975
@@ -2429,17 +2366,17 @@ Damage:
 2d8
 3d6
 Movement:
-– 20' (10') –
+- 20' (10') -
 No. Appearing:
-– special –
+- special -
 Save As:
 Fighter: 8
 Fighter: 12
 Fighter: 16
 Morale:
-– 10 –
+- 10 -
 Treasure Type:
-– None –
+- None -
 XP:
 945
 1,975
@@ -2467,17 +2404,17 @@ Damage:
 2d8
 3d6
 Movement:
-– 40' Fly 30' –
+- 40' Fly 30' -
 No. Appearing:
-– special –
+- special -
 Save As:
 Fighter: 8
 Fighter: 12
 Fighter: 16
 Morale:
-– 10 –
+- 10 -
 Treasure Type:
-– None –
+- None -
 XP:
 945
 1,975
@@ -2499,23 +2436,23 @@ Hit Dice:
 12* (+10)
 16* (+12)
 No. of Attacks:
-– 1 strike or 1 thunderclap –
+- 1 strike or 1 thunderclap -
 Damage:
 1d12
 2d8
 3d6
 Movement:
-– 40' Fly 80' –
+- 40' Fly 80' -
 No. Appearing:
-– special –
+- special -
 Save As:
 Fighter: 8
 Fighter: 12
 Fighter: 16
 Morale:
-– 10 –
+- 10 -
 Treasure Type:
-– None –
+- None -
 XP:
 945
 1,975
@@ -2543,17 +2480,17 @@ Damage:
 2d8
 3d6
 Movement:
-– 20' (10') –
+- 20' (10') -
 No. Appearing:
-– special –
+- special -
 Save As:
 Fighter: 8
 Fighter: 12
 Fighter: 16
 Morale:
-– 10 –
+- 10 -
 Treasure Type:
-– None –
+- None -
 XP:
 945
 1,975
@@ -2581,17 +2518,17 @@ Damage:
 2d8
 3d6
 Movement:
-– 20' (15') Swim 60' –
+- 20' (15') Swim 60' -
 No. Appearing:
-– special –
+- special -
 Save As:
 Fighter: 8
 Fighter: 12
 Fighter: 16
 Morale:
-– 10 –
+- 10 -
 Treasure Type:
-– None –
+- None -
 XP:
 945
 1,975
@@ -2620,17 +2557,17 @@ Damage:
 2d8
 3d6
 Movement:
-– 40' –
+- 40' -
 No. Appearing:
-– special –
+- special -
 Save As:
 Fighter: 8
 Fighter: 12
 Fighter: 16
 Morale:
-– 10 –
+- 10 -
 Treasure Type:
-– None –
+- None -
 XP:
 945
 1,975
@@ -2647,7 +2584,7 @@ Hit Dice:
 9 (+8)
 10 (+9)
 No. of Attacks:
-–  2 tusks, 1 trunk grab, 2 tramples  –
+-  2 tusks, 1 trunk grab, 2 tramples  -
 Damage:
 2d4 tusk,
 2d6 grab,
@@ -2916,7 +2853,7 @@ Hit Dice:
 2*
 2**
 No. of Attacks:
-–  2 claws, 1 bite  –
+-  2 claws, 1 bite  -
 Damage:
 1d4 claw, 1d4 bite, all plus paralysis
 1d4 claw, 1d4 bite, + paralysis + stench
@@ -4167,15 +4104,15 @@ Hit Dice:
 5*
 7*
 No. of Attacks:
-–  1 bite  –
+-  1 bite  -
 Damage:
 1d4 + poison
 1d6 + poison
 1d8 + poison
 Movement:
-–  40' (special)  –
+-  40' (special)  -
 No. Appearing:
-–  1d4, Wild 1d6  –
+-  1d4, Wild 1d6  -
 Save As:
 Fighter: 3
 Fighter: 5
@@ -4185,7 +4122,7 @@ Morale:
 8
 9
 Treasure Type:
-–  None  –
+-  None  -
 XP:
 175
 405
@@ -4371,7 +4308,7 @@ Hit Dice:
 15 (+11)
 13 (+10)
 No. of Attacks:
-– 2 tusks, 1 trunk grab, 2 tramples –
+- 2 tusks, 1 trunk grab, 2 tramples -
 Damage:
 3d6 tusk,
 2d6 trunk,
@@ -4813,16 +4750,16 @@ Hit Dice:
 16* (+12) to
 20* (+13)
 No. of Attacks:
-–  1 bite, 1 sting  –
+-  1 bite, 1 sting  -
 Damage:
 2d8 bite, 1d8+poison sting
 3d8 bite, 1d10+poison sting
 Movement:
-–  20' (15') Burrow 20' (15')  –
+-  20' (15') Burrow 20' (15')  -
 No. Appearing:
-–  1d2, Wild 1d4  –
+-  1d2, Wild 1d4  -
 Save As:
-–  Fighter: 6 to 10 (1/2 of Hit Dice)  –
+-  Fighter: 6 to 10 (1/2 of Hit Dice)  -
 Morale:
 10
 10
@@ -5335,7 +5272,7 @@ Movement:
 60'
 60'
 No. Appearing:
-–  1d4, Wild 1d8, Lair 1d8  –
+-  1d4, Wild 1d8, Lair 1d8  -
 Save As:
 Fighter: 2
 Fighter: 2
@@ -5628,16 +5565,16 @@ Hit Dice:
 6
 7
 No. of Attacks:
-–  8 tentacles, 1 bite  –
+-  8 tentacles, 1 bite  -
 Damage:
 1d4 tentacle,
 1d10 bite
 1d4 tentacle,
 1d12 bite
 Movement:
-–  Swim 40'  –
+-  Swim 40'  -
 No. Appearing:
-–  Wild 1d4 (see below)  –
+-  Wild 1d4 (see below)  -
 Save As:
 Fighter: 6
 Fighter: 7
@@ -5812,7 +5749,7 @@ Hit Dice:
 6*
 7*
 No. of Attacks:
-–  2 claws, 1 bite  –
+-  2 claws, 1 bite  -
 Damage:
 1d6 claw,
 1d10 bite
@@ -5860,7 +5797,7 @@ Hit Dice:
 3*-4*
 5*-6*
 No. of Attacks:
-–  2 claws, 1 bite  –
+-  2 claws, 1 bite  -
 Damage:
 1d4 claw,
 1d4 bite
@@ -5873,15 +5810,15 @@ Movement:
 50'
 40'
 No. Appearing:
-–  special, see below  –
+-  special, see below  -
 Save As:
 Fighter:1-2
 Fighter:3-4
 Fighter:5-6
 Morale:
-–  9 (7)  –
+-  9 (7)  -
 Treasure Type:
-–  None  –
+-  None  -
 XP:
 1 HD 37,
 2 HD 100
