@@ -91,7 +91,7 @@
         "Barklings see well in the dark, having Darkvision with a range of 30 feet, but their sense of smell is where they excel; a barkling can track almost any living or corporeal undead creature by scent, even if it has been as much as a day since it passed.",
         "In combat barklings usually wear chainmail armor which they craft themselves (as shown in the Armor Class given above).",
         "One out of every ten barklings will be a warrior with 1 hit die (25 XP).  In barkling encampments, one out of every twenty will be a chieftain of 2 hit dice (75 XP) having a +1 bonus to damage due to strength.  In villages of 50 or more there will be a barkling lord of 3 hit dice (145 XP) who has +1 bonus to damage.  Barklings gain a +1 bonus to their morale as long as they are led by any of their leaders.",
-        "In addition, a lair has a chance equal to 1-2 on 1d6 of a wizard being present (or 1-3 on 1d6 if a chieftain is present).  A wizard is equivalent to a 1 hit die warrior barkling statistically, but has Magic-User abilities at level 1d4+1.  For XP purposes, treat the wizard barkling as if it has a number of hit dice equal to its magic-user level \u20111, and assign one special ability bonus asterisk.",
+        "In addition, a lair has a chance equal to 1-2 on 1d6 of a wizard being present (or 1-3 on 1d6 if a chieftain is present).  A wizard is equivalent to a 1 hit die warrior barkling statistically, but has Magic-User abilities at level 1d4+1.  For XP purposes, treat the wizard barkling as if it has a number of hit dice equal to its magic-user level -1, and assign one special ability bonus asterisk.",
         "Barklings are sometimes confused with kobolds, for whom they have a particular hatred; calling a barkling a kobold or suggesting that the two species are related is considered a terrible insult."
     ],
     "hitdice": "1/2 (1d4 hit points)",
@@ -148,7 +148,7 @@
     "morale": "6",
     "movement": "30' Fly 40'",
     "name": "Bat",
-    "noappearing": "1d100, Wild\u00a01d100, Lair\u00a01d100",
+    "noappearing": "1d100, Wild 1d100, Lair 1d100",
     "noattacks": "1 special",
     "saveas": "Normal Man",
     "treasure": "None",
@@ -165,7 +165,7 @@
     "morale": "8",
     "movement": "10' Fly 60' (10')",
     "name": "Giant Bat",
-    "noappearing": "1d10, Wild 1d10, Lair\u00a01d10",
+    "noappearing": "1d10, Wild 1d10, Lair 1d10",
     "noattacks": "1 bite",
     "saveas": "Fighter: 2",
     "treasure": "None",
@@ -424,7 +424,7 @@
     ],
     "hitdice": "2+2",
     "morale": "5 (8)",
-    "movement": "50\u2019 (10')",
+    "movement": "50' (10')",
     "name": "Cattle",
     "noappearing": "Special",
     "noattacks": "1 horn/head butt or 1 trample",
@@ -441,7 +441,7 @@
     ],
     "hitdice": "3",
     "morale": "7 (9)",
-    "movement": "50\u2019 (10')",
+    "movement": "50' (10')",
     "name": "Aurochs",
     "noappearing": "Wild 10d12",
     "noattacks": "1 horn/head butt or 1 trample",
@@ -458,7 +458,7 @@
     ],
     "hitdice": "4",
     "morale": "7 (9)",
-    "movement": "50\u2019 (10')",
+    "movement": "50' (10')",
     "name": "Bison",
     "noappearing": "Wild 10d12",
     "noattacks": "1 horn/head butt or 1 trample",
@@ -549,7 +549,7 @@
     "movement": "40' (10') Fly 60' (15')",
     "name": "Chimera",
     "noappearing": "1d2, Wild 1d4, Lair 1d4",
-    "noattacks": "2 claws, 1 lion bite, 1 goat horns, 1\u00a0dragon bite or breath",
+    "noattacks": "2 claws, 1 lion bite, 1 goat horns, 1 dragon bite or breath",
     "saveas": "Fighter: 9",
     "treasure": "F",
     "xp": "1,225"
@@ -842,7 +842,7 @@
     "armorclass": "15",
     "damage": "1d4 dagger or 1d4 fist",
     "description": [
-        "Dryads are female nature spirits; each is mystically bound to a single, enormous oak tree and must never stray more than 300 yards from it.  Any who do become ill and die within 4d6 hours.  A dryad\u2019s oak does not radiate magic.  A dryad lives as long as her tree, and dies when the tree dies; likewise, if the dryad is killed, her tree dies also.",
+        "Dryads are female nature spirits; each is mystically bound to a single, enormous oak tree and must never stray more than 300 yards from it.  Any who do become ill and die within 4d6 hours.  A dryad's oak does not radiate magic.  A dryad lives as long as her tree, and dies when the tree dies; likewise, if the dryad is killed, her tree dies also.",
         "A dryad resembles an elf woman, with skin like fine polished wood or smooth bark and hair like leaves; the hair color of a dryad usually changes with the seasons, being brown in the winter, pale green in the spring, darker green in the summer, and yellow, orange, or red in the fall.",
         "Though they are usually content to live alone, dryads are often friends with creatures such as treant or other nature spirits who might live nearby.  Once per day a dryad can cast a charm similar to the spell charm person, and one may choose to use this ability to compel an interesting human or elf to remain with her as a companion for a period of up to a year.  The companion can be taken into and brought out of the dryad's tree so long as the charm is still in effect."
     ],
@@ -864,7 +864,7 @@
     ],
     "hitdice": "2",
     "morale": "8",
-    "movement": "10\u2019 Fly 160\u2019 (10\u2019)",
+    "movement": "10' Fly 160' (10')",
     "name": "Eagle",
     "noappearing": "1, Wild 1d4",
     "noattacks": "2 talons, 1 beak",
@@ -1104,5 +1104,249 @@
     "saveas": "Fighter: 16",
     "treasure": "None",
     "xp": "3,385"
+},
+{
+    "armorclass": "19 (m)",
+    "damage": "1d12",
+    "description": [
+        "A lightning elemental resembles dark clouds lit from within by flashes of lightning.  One can magnetically draw metal items towards itself as if using telekinesis.  It deals 1d8 extra points of damage to creatures that are in contact with water or metal but not touching solid ground.  A lightning elemental takes double damage when attacked by air or wind attacks (including air elementals), and from the attacks of wood elementals as well.  A lightning elemental can choose either to strike a single creature or create a mighty thunderclap.  If the latter attack is used, all creatures within a 30 foot radius must save vs. Paralysis or be deafened for 1d8 turns."
+    ],
+    "hitdice": "8*",
+    "morale": "10",
+    "movement": "40' Fly 80'",
+    "name": "Elemental, Lightning*, Staff",
+    "noappearing": "special",
+    "noattacks": "1 strike or 1 thunderclap",
+    "saveas": "Fighter: 8",
+    "treasure": "None",
+    "xp": "3,385"
+},
+{
+    "armorclass": "21 (m)",
+    "damage": "2d8",
+    "description": [
+        "A lightning elemental resembles dark clouds lit from within by flashes of lightning.  One can magnetically draw metal items towards itself as if using telekinesis.  It deals 1d8 extra points of damage to creatures that are in contact with water or metal but not touching solid ground.  A lightning elemental takes double damage when attacked by air or wind attacks (including air elementals), and from the attacks of wood elementals as well.  A lightning elemental can choose either to strike a single creature or create a mighty thunderclap.  If the latter attack is used, all creatures within a 30 foot radius must save vs. Paralysis or be deafened for 1d8 turns."
+    ],
+    "hitdice": "12* (+10)",
+    "morale": "10",
+    "movement": "40' Fly 80'",
+    "name": "Elemental, Lightning*, Device",
+    "noappearing": "special",
+    "noattacks": "1 strike or 1 thunderclap",
+    "saveas": "Fighter: 12",
+    "treasure": "None",
+    "xp": "945"
+},
+{
+    "armorclass": "23 (m)",
+    "damage": "3d6",
+    "description": [
+        "A lightning elemental resembles dark clouds lit from within by flashes of lightning.  One can magnetically draw metal items towards itself as if using telekinesis.  It deals 1d8 extra points of damage to creatures that are in contact with water or metal but not touching solid ground.  A lightning elemental takes double damage when attacked by air or wind attacks (including air elementals), and from the attacks of wood elementals as well.  A lightning elemental can choose either to strike a single creature or create a mighty thunderclap.  If the latter attack is used, all creatures within a 30 foot radius must save vs. Paralysis or be deafened for 1d8 turns."
+    ],
+    "hitdice": "16* (+12)",
+    "morale": "10",
+    "movement": "40' Fly 80'",
+    "name": "Elemental, Lightning*, Spell",
+    "noappearing": "special",
+    "noattacks": "1 strike or 1 thunderclap",
+    "saveas": "Fighter: 16",
+    "treasure": "None",
+    "xp": "1,975"
+},
+{
+    "armorclass": "19 (m)",
+    "damage": "1d12",
+    "description": [
+        "Metal elementals appear to be somewhat abstract humanoid figures formed from metal.  They are able to move as if liquid, though they are cool and hard to the touch.  Their semi-liquid form permits them to form their extremities into wickedly sharp blades, which is their preferred means of attack.  Those wearing metal armor receive no protection against a metal elemental (except for magical bonuses, if any); indeed, on a successful hit one deals an additional 1d8 points of damage to creatures, vehicles, or structures that are made of or in direct contact with some form of metal.  Lightning attacks deal double damage to a metal elemental.  Like an earth elemental, a metal elemental cannot cross a body of water greater than its own height."
+    ],
+    "hitdice": "8*",
+    "morale": "10",
+    "movement": "20' (10')",
+    "name": "Elemental, Metal*, Staff",
+    "noappearing": "special",
+    "noattacks": "1",
+    "saveas": "Fighter: 8",
+    "treasure": "None",
+    "xp": "945"
+},
+{
+    "armorclass": "21 (m)",
+    "damage": "2d8",
+    "description": [
+        "Metal elementals appear to be somewhat abstract humanoid figures formed from metal.  They are able to move as if liquid, though they are cool and hard to the touch.  Their semi-liquid form permits them to form their extremities into wickedly sharp blades, which is their preferred means of attack.  Those wearing metal armor receive no protection against a metal elemental (except for magical bonuses, if any); indeed, on a successful hit one deals an additional 1d8 points of damage to creatures, vehicles, or structures that are made of or in direct contact with some form of metal.  Lightning attacks deal double damage to a metal elemental.  Like an earth elemental, a metal elemental cannot cross a body of water greater than its own height."
+    ],
+    "hitdice": "12* (+10)",
+    "morale": "10",
+    "movement": "20' (10')",
+    "name": "Elemental, Metal*, Device",
+    "noappearing": "special",
+    "noattacks": "1",
+    "saveas": "Fighter: 12",
+    "treasure": "None",
+    "xp": "1,975"
+},
+{
+    "armorclass": "23 (m)",
+    "damage": "3d6",
+    "description": [
+        "Metal elementals appear to be somewhat abstract humanoid figures formed from metal.  They are able to move as if liquid, though they are cool and hard to the touch.  Their semi-liquid form permits them to form their extremities into wickedly sharp blades, which is their preferred means of attack.  Those wearing metal armor receive no protection against a metal elemental (except for magical bonuses, if any); indeed, on a successful hit one deals an additional 1d8 points of damage to creatures, vehicles, or structures that are made of or in direct contact with some form of metal.  Lightning attacks deal double damage to a metal elemental.  Like an earth elemental, a metal elemental cannot cross a body of water greater than its own height."
+    ],
+    "hitdice": "16* (+12)",
+    "morale": "10",
+    "movement": "20' (10')",
+    "name": "Elemental, Metal*, Spell",
+    "noappearing": "special",
+    "noattacks": "1",
+    "saveas": "Fighter: 16",
+    "treasure": "None",
+    "xp": "3,385"
+},
+{
+    "armorclass": "18 (m)",
+    "damage": "1d12",
+    "description": [
+        "Water elementals resemble roiling waves of water, which seem to fall upon any creature they attack, only to reform the next round.  They take double damage when attacked with air or wind attacks (including air elementals).  A water elemental cannot move more than 60' from a body of water.  They do an extra 1d8 points of damage against creatures, vehicles, or structures which are in the water."
+    ],
+    "hitdice": "8*",
+    "morale": "10",
+    "movement": "20' (15') Swim 60'",
+    "name": "Elemental, Water*, Staff",
+    "noappearing": "special",
+    "noattacks": "1",
+    "saveas": "Fighter: 8",
+    "treasure": "None",
+    "xp": "945"
+},
+{
+    "armorclass": "20 (m)",
+    "damage": "2d8",
+    "description": [
+        "Water elementals resemble roiling waves of water, which seem to fall upon any creature they attack, only to reform the next round.  They take double damage when attacked with air or wind attacks (including air elementals).  A water elemental cannot move more than 60' from a body of water.  They do an extra 1d8 points of damage against creatures, vehicles, or structures which are in the water."
+    ],
+    "hitdice": "12* (+10)",
+    "morale": "10",
+    "movement": "20' (15') Swim 60'",
+    "name": "Elemental, Water*, Device",
+    "noappearing": "special",
+    "noattacks": "1",
+    "saveas": "Fighter: 12",
+    "treasure": "None",
+    "xp": "1,975"
+},
+{
+    "armorclass": "22 (m)",
+    "damage": "3d6",
+    "description": [
+        "Water elementals resemble roiling waves of water, which seem to fall upon any creature they attack, only to reform the next round.  They take double damage when attacked with air or wind attacks (including air elementals).  A water elemental cannot move more than 60' from a body of water.  They do an extra 1d8 points of damage against creatures, vehicles, or structures which are in the water."
+    ],
+    "hitdice": "16* (+12)",
+    "morale": "10",
+    "movement": "20' (15') Swim 60'",
+    "name": "Elemental, Water*, Spell",
+    "noappearing": "special",
+    "noattacks": "1",
+    "saveas": "Fighter: 16",
+    "treasure": "None",
+    "xp": "3,385"
+},
+{
+    "armorclass": "17 (m)",
+    "damage": "1d12",
+    "description": [
+        "Wood elementals appears to be large, leafless trees.  They deal 1d8 points of extra damage to creatures in contact with any woody materials, living or dead (including weapons or shields made mainly of wood).  On the other hand, they suffer double damage from fire or lightning attacks of any kind, including the attacks of fire or lightning elementals."
+    ],
+    "hitdice": "8*",
+    "morale": "10",
+    "movement": "40'",
+    "name": "Elemental, Wood*, Staff",
+    "noappearing": "special",
+    "noattacks": "1",
+    "saveas": "Fighter: 8",
+    "treasure": "None",
+    "xp": "945"
+},
+{
+    "armorclass": "19 (m)",
+    "damage": "2d8",
+    "description": [
+        "Wood elementals appears to be large, leafless trees.  They deal 1d8 points of extra damage to creatures in contact with any woody materials, living or dead (including weapons or shields made mainly of wood).  On the other hand, they suffer double damage from fire or lightning attacks of any kind, including the attacks of fire or lightning elementals."
+    ],
+    "hitdice": "12* (+10)",
+    "morale": "10",
+    "movement": "40'",
+    "name": "Elemental, Wood*, Device",
+    "noappearing": "special",
+    "noattacks": "1",
+    "saveas": "Fighter: 12",
+    "treasure": "None",
+    "xp": "1,975"
+},
+{
+    "armorclass": "21 (m)",
+    "damage": "3d6",
+    "description": [
+        "Wood elementals appears to be large, leafless trees.  They deal 1d8 points of extra damage to creatures in contact with any woody materials, living or dead (including weapons or shields made mainly of wood).  On the other hand, they suffer double damage from fire or lightning attacks of any kind, including the attacks of fire or lightning elementals."
+    ],
+    "hitdice": "16* (+12)",
+    "morale": "10",
+    "movement": "40'",
+    "name": "Elemental, Wood*, Spell",
+    "noappearing": "special",
+    "noattacks": "1",
+    "saveas": "Fighter: 16",
+    "treasure": "None",
+    "xp": "3,385"
+},
+{
+    "armorclass": "16",
+    "damage": "2d4 tusk, 2d6 grab, 2d8 trample",
+    "description": [
+        "For an Asiatic elephant, a light load is up to 7,000 pounds, and a heavy load up to 14,000 pounds.",
+        "Though elephants have five distinct attack modes (two tusks, a trunk grab, and two tramples with the front feet), a single elephant can apply no more than two of these attacks to any single opponent of small or medium size; large opponents may be targeted by three of these attacks in a round.  However, an elephant can attack multiple opponents in its immediate area at the same time.",
+        "An elephant has no treasure as such, but the tusks of an elephant are worth 1d8 x 100 gp each."
+    ],
+    "hitdice": "9 (+8)",
+    "morale": "8",
+    "movement": "40' (10')",
+    "name": "Elephant, Asiatic",
+    "noappearing": "Wild 1d20",
+    "noattacks": "2 tusks, 1 trunk grab, 2 tramples",
+    "saveas": "Fighter: 9",
+    "treasure": "special",
+    "xp": "1,075"
+},
+{
+    "armorclass": "18",
+    "damage": "2d6 tusk, 2d6 grab, 2d8 trample",
+    "description": [
+        "A light load for an African elephant is 7,500 pounds; a heavy load, up to 15,000 pounds.",
+        "Though elephants have five distinct attack modes (two tusks, a trunk grab, and two tramples with the front feet), a single elephant can apply no more than two of these attacks to any single opponent of small or medium size; large opponents may be targeted by three of these attacks in a round.  However, an elephant can attack multiple opponents in its immediate area at the same time.",
+        "An elephant has no treasure as such, but the tusks of an elephant are worth 1d8 x 100 gp each."
+    ],
+    "hitdice": "10 (+9)",
+    "morale": "8",
+    "movement": "50' (15')",
+    "name": "Elephant, African",
+    "noappearing": "Wild 1d12",
+    "noattacks": "2 tusks, 1 trunk grab, 2 tramples",
+    "saveas": "Fighter: 10",
+    "treasure": "special",
+    "xp": "1,300"
+},
+{
+    "armorclass": "11",
+    "damage": "1d4 talon, 1d4 beak",
+    "description": [
+        "Falcons are birds with wingspans of 16 to 20 inches; they stand about 1.5 to 2 feet tall and weigh about 3 pounds.  These are the most popular of the hunting birds used by royalty.  Falcons can only carry prey up to 1 pound.  They will hunt snakes, small rodents, and even other birds such as wild ducks.  Falcons appear in a variety of colors, typically ranging from dark gray on top to white with dark stripes on the bottom; kestrels, a variety of falcon, have reddish brown to dark brown feathers with dark stripes.  A falcon typically attacks prey by diving, striking first with the talons before making the kill with its sharp beak."
+    ],
+    "hitdice": "1/2 (1d4 hit points)",
+    "morale": "8",
+    "movement": "10' Fly 160'(10')",
+    "name": "Falcon",
+    "noappearing": "1, Wild 1d4",
+    "noattacks": "2 talons, 1 beak",
+    "saveas": "Fighter: 1",
+    "treasure": "None",
+    "xp": "10"
 },
 ]

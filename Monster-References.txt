@@ -33,3 +33,7 @@ The summoner of an elemental must concentrate on it to control it, and may take 
 Elementals must be summoned from a large quantity of the appropriate natural material.  For example, air elementals require a large quantity of air (so small underground spaces will not support the summoning of one); earth elementals require access to natural earth or stone (and worked stone such as the stone walls of a castle will not work); fire elementals require a large fire such as a bonfire; and water elementals require access to a substantial body of water, at the very least a river or lake (small streams and artificial pools will not work).  Finally, when an elemental is summoned, no other elemental of the same type may be summoned in the same day within a radius of 100 miles of the location.
 Non-magical weapons cannot harm an elemental.  Attacks made by an elemental should be considered magical for purposes of determining how much damage creatures resistant to the elemental's attack form should suffer.
 Generally, elementals are immune to both normal and magical forms of their own attack form.  Most are more susceptible to attacks from one or two specific other types of elemental; this is noted in the text for each type.
+
+Elk
+See Antelope on page 1.
+
