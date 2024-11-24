@@ -1,0 +1,174 @@
+[
+{
+    "armor class": "17",
+    "damage": "2d6 bite",
+    "description": [
+        "Giant ants are fantastically enlarged versions of the more common variety of ants.  Normal workers are 5 to 6 feet long; queens are larger, growing up to 9 feet in length.  Giant ants may be red or black; there is no statistical difference between them.  Though relatively shy when first encountered, once combat begins they will fight to the death.  They are known to collect shiny things, and so will sometimes have a small amount of treasure in their lair.",
+        "Giant ants may occasionally mine shiny metals such as gold or silver; one in three (1-2 on 1d6) giant ant lairs will contain 1d100 x 1d100 gp value in relatively pure nuggets."
+    ],
+    "hit dice": "4",
+    "morale": "7 on first sighting, 12 after engaged",
+    "movement": "60' (10')",
+    "name": "Ant, Giant",
+    "no. appearing": "2d6, Lair 4d6",
+    "no. of attacks": "1 bite",
+    "save as": "Fighter: 4",
+    "treasure type": "U or special",
+    "xp": "240"
+},
+{
+    "armor class": "15",
+    "damage": "1d10 bite",
+    "description": [
+        "Large and huge ants are similar to giant ants in all ways except for size; large ants are 1 to 2 feet long, while huge ants are 3 to 4 feet in length.  Though smaller, their colonies have more members, and so their lair treasures are of similar size to those found in the lairs of giant ants."
+    ],
+    "hit dice": "2",
+    "morale": "7 on first sighting, 12 after engaged",
+    "movement": "50'",
+    "name": "Ant, Huge",
+    "no. appearing": "3d6, Lair 4d8",
+    "no. of attacks": "1 bite",
+    "save as": "Fighter: 2",
+    "treasure type": "U or special",
+    "xp": "75"
+},
+{
+    "armor class": "13",
+    "damage": "1d6 bite",
+    "description": [
+        "Large and huge ants are similar to giant ants in all ways except for size; large ants are 1 to 2 feet long, while huge ants are 3 to 4 feet in length.  Though smaller, their colonies have more members, and so their lair treasures are of similar size to those found in the lairs of giant ants."
+    ],
+    "hit dice": "1",
+    "morale": "7 on first sighting, 12 after engaged",
+    "movement": "40'",
+    "name": "Ant, Large",
+    "no. appearing": "4d6, Lair 4d10",
+    "no. of attacks": "1 bite",
+    "save as": "Fighter: 1",
+    "treasure type": "U or special",
+    "xp": "25"
+},
+{
+    "armor class": "13",
+    "damage": "1d4 or 1d6 or 1d8 (see below)",
+    "description": [
+        "The statistics above represent the swifter sorts of wild herd animals, including deer (1 hit die, usually), antelope (2 hit dice), elk (3 hit dice), and moose (4 hit dice).  They are skittish and will flee if provoked, but males are more aggressive in the presence of females (use the parenthesized morale in this case).",
+        "Cattle, aurochs, and bison are not included in this category but rather can be found on page 15.",
+        "Generally, 1 hit die herd animals inflict 1d4 points of damage on a hit, 2 and 3 hit die animals inflict 1d6, and 4 hit die animals inflict 1d8.  The GM should feel free to vary from these figures as he or she sees fit; there are many types of herd animals in the world, and some are better armed than others."
+    ],
+    "hit dice": "1 to 4",
+    "morale": "5 (7)",
+    "movement": "80' (10')",
+    "name": "Antelope (Herd Animals)",
+    "no. appearing": "Wild 3d10",
+    "no. of attacks": "1 butt",
+    "save as": "Fighter: 1 to 4 (as Hit Dice)",
+    "treasure type": "None",
+    "xp": "25 - 240"
+},
+{
+    "armor class": "14",
+    "damage": "1d4 claw",
+    "description": [
+        "Carnivorous apes appear much like ordinary gorillas, but are bad-tempered and aggressive.  They are actually omnivores, but have a marked preference for meat.  Adult females are 41/2 to 5 feet tall and weigh up to 300 pounds, while males are larger, being 51/2 to 6 feet tall and weighing up to 400 pounds."
+    ],
+    "hit dice": "4",
+    "morale": "7",
+    "movement": "40'",
+    "name": "Ape, Carnivorous",
+    "no. appearing": "1d6, Wild 2d4, Lair 2d4",
+    "no. of attacks": "2 claws",
+    "save as": "Fighter: 4",
+    "treasure type": "None",
+    "xp": "240"
+},
+{
+    "armor class": "15 (11)",
+    "damage": "1d4 bite, 1d4 or by weapon",
+    "description": [
+        "Barklings are diminutive furry humanoids with very dog-like faces.  They stand between 21/2 and 31/2 feet tall and typically weigh around 45 pounds.  They are pack hunters by nature, shy when encountered singly or in small groups but bold when their numbers are overwhelming.  Use the higher morale figure when a barkling group outnumbers their enemies by 3 combatants to 1 or more.",
+        "Barklings can deliver a nasty bite but prefer to fight with weapons, favoring small weapons made for their stature and relative lack of strength; all such weapons do 1d4 points of damage on a hit.",
+        "Barklings see well in the dark, having Darkvision with a range of 30 feet, but their sense of smell is where they excel; a barkling can track almost any living or corporeal undead creature by scent, even if it has been as much as a day since it passed.",
+        "In combat barklings usually wear chainmail armor which they craft themselves (as shown in the Armor Class given above).",
+        "One out of every ten barklings will be a warrior with 1 hit die (25 XP).  In barkling encampments, one out of every twenty will be a chieftain of 2 hit dice (75 XP) having a +1 bonus to damage due to strength.  In villages of 50 or more there will be a barkling lord of 3 hit dice (145 XP) who has +1 bonus to damage.  Barklings gain a +1 bonus to their morale as long as they are led by any of their leaders.",
+        "In addition, a lair has a chance equal to 1-2 on 1d6 of a wizard being present (or 1-3 on 1d6 if a chieftain is present).  A wizard is equivalent to a 1 hit die warrior barkling statistically, but has Magic-User abilities at level 1d4+1.  For XP purposes, treat the wizard barkling as if it has a number of hit dice equal to its magic-user level \u20111, and assign one special ability bonus asterisk.",
+        "Barklings are sometimes confused with kobolds, for whom they have a particular hatred; calling a barkling a kobold or suggesting that the two species are related is considered a terrible insult."
+    ],
+    "hit dice": "1/2 (1d4 hit points)",
+    "morale": "7 (9)",
+    "movement": "20' Unarmored 40'",
+    "name": "Barkling",
+    "no. appearing": "3d4, Wild 4d6, Lair 5d10",
+    "no. of attacks": "1 bite or 1 weapon",
+    "save as": "Normal Man",
+    "treasure type": "P, Q each; C, K in lair",
+    "xp": "10"
+},
+{
+    "armor class": "16",
+    "damage": "1d10 bite, petrification gaze",
+    "description": [
+        "A basilisk is a giant six-legged lizard-like monster that petrifies living creatures with its gaze.  A basilisk has dark brown, green, or black skin on its back and a pale yellow or white belly.  Adults reach a body length of 5 to 7 feet with a tail of roughly equal length, and a weight of 250 to 400 pounds.  There is no particular difference in size between males and females.",
+        "Any living creature meeting the gaze of a basilisk must save vs. Petrify or be turned to stone instantly.  In general, any creature surprised by the basilisk will meet its gaze.  Those who attempt to fight the monster while averting their eyes suffer penalties of -4 to attack and -2 to AC.  It is possible to use a mirror to fight the monster, in which case the penalties are -2 to attack and no penalty to AC.  If a basilisk sees its own reflection in a mirror it must save vs. Petrify or be turned to stone; a petrified basilisk loses its power to petrify.  Basilisks instinctively avoid mirrors or other reflective surfaces, even drinking with their eyes closed, but if an attacker can manage to surprise the monster with a mirror it may see its reflection."
+    ],
+    "hit dice": "6**",
+    "morale": "9",
+    "movement": "20' (10')",
+    "name": "Basilisk, Common",
+    "no. appearing": "1d6, Wild 1d6, Lair 1d6",
+    "no. of attacks": "1 bite, 1 gaze",
+    "save as": "Fighter: 6",
+    "treasure type": "F",
+    "xp": "610"
+},
+{
+    "armor class": "17",
+    "damage": "1d12 + poison bite, petrification gaze",
+    "description": [
+        "The greater basilisk appears identical to the common variety, save that it is larger, having a body length of about 8 feet with a 7 to 9 foot long tail and weighing between 400 and 750 pounds.  The skin of the greater basilisk is toxic to the touch, such that any living creature bitten by one or who touches one with bare skin must save vs. Poison or die.  This effect persists even after the monster is dead, typically for about 2d20 hours; the only way to tell if the effect has subsided is to touch the corpse, an obviously bad idea."
+    ],
+    "hit dice": "8***",
+    "morale": "10",
+    "movement": "20' (10')",
+    "name": "Basilisk, Greater*",
+    "no. appearing": "1",
+    "no. of attacks": "1 bite, 1 gaze",
+    "save as": "Fighter: 8",
+    "treasure type": "F, K",
+    "xp": "1,085"
+},
+{
+    "armor class": "14",
+    "damage": "Confusion",
+    "description": [
+        "Bats have a natural sonar that allows them to operate in total darkness; for game purposes, treat this ability as equivalent to Darkvision.",
+        "A group of normal-sized bats has no effective attack (at least in terms of inflicting damage), but can confuse those in the area, flying around apparently randomly.  For every ten bats in the area, one creature can be confused; such a creature will suffer a penalty of -2 on all attack and saving throw rolls while the bats remain in the area."
+    ],
+    "hit dice": "1 Hit Point",
+    "morale": "6",
+    "movement": "30' Fly 40'",
+    "name": "Bat",
+    "no. appearing": "1d100, Wild\u00a01d100, Lair\u00a01d100",
+    "no. of attacks": "1 special",
+    "save as": "Normal Man",
+    "treasure type": "None",
+    "xp": "10"
+},
+{
+    "armor class": "14",
+    "damage": "1d4",
+    "description": [
+        "Bats have a natural sonar that allows them to operate in total darkness; for game purposes, treat this ability as equivalent to Darkvision.",
+        "A giant bat has a wingspan of 15 feet and weighs about 200 pounds.  They have the same sensory abilities as normal-sized bats, but being much larger, they are able to attack adventurers; many are carnivorous, making such attacks likely."
+    ],
+    "hit dice": "2",
+    "morale": "8",
+    "movement": "10' Fly 60' (10')",
+    "name": "Giant Bat",
+    "no. appearing": "1d10, Wild 1d10, Lair\u00a01d10",
+    "no. of attacks": "1 bite",
+    "save as": "Fighter: 2",
+    "treasure type": "None",
+    "xp": "75"
+},
+]
