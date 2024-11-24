@@ -71,178 +71,202 @@ Due to their highly magical nature, efreet cannot be harmed by non-magical weapo
 
 @@
 
-@STOP@
+Elemental, Air*, Staff
+Armor Class: 18 (m)
+Hit Dice: 8*
+No. of Attacks: 1 strike or knock down, see below
+Damage: 1d12
+Movement: Fly 120'
+No. Appearing: special
+Save As: Fighter: 8
+Morale: 10
+Treasure Type: None
+XP: 945
 
-Elemental*
-An elemental is a being formed from one of the foundational elements of reality.  In Western traditions, the classical elements are air, earth, fire, and water; Asian traditions include a different group: fire, earth, metal, water, and wood.  This book presents the full range needed for either tradition, and to those types are added cold and lightning elementals for those who wish to be less traditional.  As always, the Game Master decides what sort of monsters appear in their world, and so not all of the following creatures may be encountered.
-Each type of elemental may be summoned to the material plane by means of one of three different methods:
-Conjured by the 5th level Magic-User spell conjure elemental; or,
-Summoned by means of a magical staff; or,
-Summoned by a device, as given in the Miscellaneous Magic subsection of the Treasure section of this book.
-These three types of elementals are quite reasonably called staff, device, and conjured elementals.  The hit dice of an elemental depends on the type, as follows:
-Type
-Hit Dice
-Staff
-8
-Device
-12
-Conjured
-16
-The summoner of an elemental must concentrate on it to control it, and may take no other action, including attacking, being attacked, or moving, or control will be lost.  Once control is lost it cannot be regained, and the uncontrolled elemental will move directly toward the summoner and attack.
-Elementals must be summoned from a large quantity of the appropriate natural material.  For example, air elementals require a large quantity of air (so small underground spaces will not support the summoning of one); earth elementals require access to natural earth or stone (and worked stone such as the stone walls of a castle will not work); fire elementals require a large fire such as a bonfire; and water elementals require access to a substantial body of water, at the very least a river or lake (small streams and artificial pools will not work).  Finally, when an elemental is summoned, no other elemental of the same type may be summoned in the same day within a radius of 100 miles of the location.
-Non-magical weapons cannot harm an elemental.  Attacks made by an elemental should be considered magical for purposes of determining how much damage creatures resistant to the elemental's attack form should suffer.
-Generally, elementals are immune to both normal and magical forms of their own attack form.  Most are more susceptible to attacks from one or two specific other types of elemental; this is noted in the text for each type.
-Elemental, Air*
-
-Staff
-Device
-Spell
-Armor Class:
-18 (m)
-20 (m)
-22 (m)
-Hit Dice:
-8*
-12* (+10)
-16* (+12)
-No. of Attacks:
-- 1 strike or knock down, see below -
-Damage:
-1d12
-2d8
-3d6
-Movement:
-- Fly 120' -
-No. Appearing:
-- special -
-Save As:
-Fighter: 8
-Fighter: 12
-Fighter: 16
-Morale:
-- 10 -
-Treasure Type:
-- None -
-XP:
-945
-1,975
-3,385
 Air elementals resemble "dust devils", that is, small whirlwinds, but they are much more powerful.  Air elementals take double damage when attacked by earth-based attacks (including by earth elementals).  An air elemental may choose either to attack a single opponent, thus receiving one attack per round at the listed damage, or may choose to knock all opponents in a 5' radius to the ground; if the latter attack is used, all creatures of 2 hit dice or less must save vs. Death Ray or fall prone.  Creatures of 3 or more levels or hit dice are not so affected.  Air elementals do an additional 1d8 points of damage against creatures or vehicles which are airborne.
-Elemental, Cold*
 
-Staff
-Device
-Spell
-Armor Class:
-18 (m)
-20 (m)
-22 (m)
-Hit Dice:
-8*
-12* (+10)
-16* (+12)
-No. of Attacks:
-1
-1
-1
-Damage:
-1d12
-2d8
-3d6
-Movement:
-- 40' -
-No. Appearing:
-- special -
-Save As:
-Fighter: 8
-Fighter: 12
-Fighter: 16
-Morale:
-- 10 -
-Treasure Type:
-- None -
-XP:
-945
-1,975
-3,385
+@@
+
+Elemental, Air*, Device
+Armor Class: 20 (m)
+Hit Dice: 12* (+10)
+No. of Attacks: 1 strike or knock down, see below
+Damage: 2d8
+Movement: Fly 120'
+No. Appearing: special
+Save As: Fighter: 12
+Morale: 10
+Treasure Type: None
+XP: 1,975
+
+Air elementals resemble "dust devils", that is, small whirlwinds, but they are much more powerful.  Air elementals take double damage when attacked by earth-based attacks (including by earth elementals).  An air elemental may choose either to attack a single opponent, thus receiving one attack per round at the listed damage, or may choose to knock all opponents in a 5' radius to the ground; if the latter attack is used, all creatures of 2 hit dice or less must save vs. Death Ray or fall prone.  Creatures of 3 or more levels or hit dice are not so affected.  Air elementals do an additional 1d8 points of damage against creatures or vehicles which are airborne.
+
+@@
+
+Elemental, Air*, Spell
+Armor Class: 22 (m)
+Hit Dice: 16* (+12)
+No. of Attacks: 1 strike or knock down, see below
+Damage: 3d6
+Movement: Fly 120'
+No. Appearing: special
+Save As: Fighter: 16
+Morale: 10
+Treasure Type: None
+XP: 3,385
+
+Air elementals resemble "dust devils", that is, small whirlwinds, but they are much more powerful.  Air elementals take double damage when attacked by earth-based attacks (including by earth elementals).  An air elemental may choose either to attack a single opponent, thus receiving one attack per round at the listed damage, or may choose to knock all opponents in a 5' radius to the ground; if the latter attack is used, all creatures of 2 hit dice or less must save vs. Death Ray or fall prone.  Creatures of 3 or more levels or hit dice are not so affected.  Air elementals do an additional 1d8 points of damage against creatures or vehicles which are airborne.
+
+@@
+
+Elemental, Cold*, Staff
+Armor Class: 18 (m)
+Hit Dice: 8*
+No. of Attacks: 1
+Damage: 1d12
+Movement: 40'
+No. Appearing: special
+Save As: Fighter: 8
+Morale: 10
+Treasure Type: None
+XP: 945
+
 A cold elemental resembles a crude, headless ice statue with long sharp icicles in place of hands.  A cold elemental suffers double damage from fire attacks, including the attacks of fire elementals.  It deals an additional 1d8 points of damage against creatures that are hot or flaming in nature, as well as creatures made of liquids or jelly.  A cold elemental's body is so bitterly cold that creatures within 5 feet take 1d6 points of damage automatically, unless they are immune to the effects of cold.  Any liquids the cold elemental touches immediately freeze solid.  A cold elemental cannot enter places where the temperature is above 50 degrees Fahrenheit, and if forced to do so will suffer 1d6 points of damage each round.
-Elemental, Earth*
 
-Staff
-Device
-Spell
-Armor Class:
-18 (m)
-20 (m)
-22 (m)
-Hit Dice:
-8*
-12* (+10)
-16* (+12)
-No. of Attacks:
-1
-1
-1
-Damage:
-1d12
-2d8
-3d6
-Movement:
-- 20' (10') -
-No. Appearing:
-- special -
-Save As:
-Fighter: 8
-Fighter: 12
-Fighter: 16
-Morale:
-- 10 -
-Treasure Type:
-- None -
-XP:
-945
-1,975
-3,385
+@@
+
+Elemental, Cold*, Device
+Armor Class: 20 (m)
+Hit Dice: 12* (+10)
+No. of Attacks: 1
+Damage: 2d8
+Movement: 40'
+No. Appearing: special
+Save As: Fighter: 12
+Morale: 10
+Treasure Type: None
+XP: 1,975
+
+A cold elemental resembles a crude, headless ice statue with long sharp icicles in place of hands.  A cold elemental suffers double damage from fire attacks, including the attacks of fire elementals.  It deals an additional 1d8 points of damage against creatures that are hot or flaming in nature, as well as creatures made of liquids or jelly.  A cold elemental's body is so bitterly cold that creatures within 5 feet take 1d6 points of damage automatically, unless they are immune to the effects of cold.  Any liquids the cold elemental touches immediately freeze solid.  A cold elemental cannot enter places where the temperature is above 50 degrees Fahrenheit, and if forced to do so will suffer 1d6 points of damage each round.
+
+@@
+
+Elemental, Cold*, Spell
+Armor Class: 22 (m)
+Hit Dice: 16* (+12)
+No. of Attacks: 1
+Damage: 3d6
+Movement: 40'
+No. Appearing: special
+Save As: Fighter: 16
+Morale: 10
+Treasure Type: None
+XP: 3,385
+
+A cold elemental resembles a crude, headless ice statue with long sharp icicles in place of hands.  A cold elemental suffers double damage from fire attacks, including the attacks of fire elementals.  It deals an additional 1d8 points of damage against creatures that are hot or flaming in nature, as well as creatures made of liquids or jelly.  A cold elemental's body is so bitterly cold that creatures within 5 feet take 1d6 points of damage automatically, unless they are immune to the effects of cold.  Any liquids the cold elemental touches immediately freeze solid.  A cold elemental cannot enter places where the temperature is above 50 degrees Fahrenheit, and if forced to do so will suffer 1d6 points of damage each round.
+
+@@
+
+Elemental, Earth*, Staff
+Armor Class: 18 (m)
+Hit Dice: 8*
+No. of Attacks: 1
+Damage: 1d12
+Movement: 20' (10')
+No. Appearing: special
+Save As: Fighter: 8
+Morale: 10
+Treasure Type: None
+XP: 945
+
 Earth elementals resemble crude, sometimes headless humanoid statues, with clublike hands and feet.  They cannot cross a body of water wider than their own height.  Earth elementals take double damage when attacked by fire (including fire elementals).  They do an additional 1d8 points of damage against creatures, vehicles, or structures which rest on the ground.
-Elemental, Fire*
 
-Staff
-Device
-Spell
-Armor Class:
-18 (m)
-20 (m)
-22 (m)
-Hit Dice:
-8*
-12* (+10)
-16* (+12)
-No. of Attacks:
-1
-1
-1
-Damage:
-1d12
-2d8
-3d6
-Movement:
-- 40' Fly 30' -
-No. Appearing:
-- special -
-Save As:
-Fighter: 8
-Fighter: 12
-Fighter: 16
-Morale:
-- 10 -
-Treasure Type:
-- None -
-XP:
-945
-1,975
-3,385
+@@
+
+Elemental, Earth*, Device
+Armor Class: 20 (m)
+Hit Dice: 12* (+10)
+No. of Attacks: 1
+Damage: 2d8
+Movement: 20' (10')
+No. Appearing: special
+Save As: Fighter: 12
+Morale: 10
+Treasure Type: None
+XP: 1,975
+
+Earth elementals resemble crude, sometimes headless humanoid statues, with clublike hands and feet.  They cannot cross a body of water wider than their own height.  Earth elementals take double damage when attacked by fire (including fire elementals).  They do an additional 1d8 points of damage against creatures, vehicles, or structures which rest on the ground.
+
+@@
+
+Elemental, Earth*, Spell
+Armor Class: 22 (m)
+Hit Dice: 16* (+12)
+No. of Attacks: 1
+Damage: 3d6
+Movement: 20' (10')
+No. Appearing: special
+Save As: Fighter: 16
+Morale: 10
+Treasure Type: None
+XP: 3,385
+
+Earth elementals resemble crude, sometimes headless humanoid statues, with clublike hands and feet.  They cannot cross a body of water wider than their own height.  Earth elementals take double damage when attacked by fire (including fire elementals).  They do an additional 1d8 points of damage against creatures, vehicles, or structures which rest on the ground.
+
+@@
+
+Elemental, Fire*, Staff
+Armor Class: 18 (m)
+Hit Dice: 8*
+No. of Attacks: 1
+Damage: 1d12
+Movement: 40' Fly 30'
+No. Appearing: special
+Save As: Fighter: 8
+Morale: 10
+Treasure Type: None
+XP: 945
+
 Fire elementals are simply flames, which may appear generally humanoid for brief moments when they attack.  Fire elementals take double damage when attacked by water (including water elementals).    They cannot cross a body of water wider than their own diameter.  They do an additional 1d8 points of damage against creatures which are cold or icy in nature.
 Remember that a fire elemental is constantly burning; such a creature may easily start fires if it moves into an area containing items which burn easily, such as dry wood, paper, or oil.  No specific rules are given for such fires, but the GM is directed to the rules for burning oil for an example of fire damage.
+
+@@
+
+Elemental, Fire*, Device
+Armor Class: 20 (m)
+Hit Dice: 12* (+10)
+No. of Attacks: 1
+Damage: 2d8
+Movement: 40' Fly 30'
+No. Appearing: special
+Save As: Fighter: 12
+Morale: 10
+Treasure Type: None
+XP: 1,975
+
+Fire elementals are simply flames, which may appear generally humanoid for brief moments when they attack.  Fire elementals take double damage when attacked by water (including water elementals).    They cannot cross a body of water wider than their own diameter.  They do an additional 1d8 points of damage against creatures which are cold or icy in nature.
+Remember that a fire elemental is constantly burning; such a creature may easily start fires if it moves into an area containing items which burn easily, such as dry wood, paper, or oil.  No specific rules are given for such fires, but the GM is directed to the rules for burning oil for an example of fire damage.
+
+@@
+
+Elemental, Fire*, Spell
+Armor Class: 22 (m)
+Hit Dice: 16* (+12)
+No. of Attacks: 1
+Damage: 3d6
+Movement: 40' Fly 30'
+No. Appearing: special
+Save As: Fighter: 16
+Morale: 10
+Treasure Type: None
+XP: 3,385
+
+Fire elementals are simply flames, which may appear generally humanoid for brief moments when they attack.  Fire elementals take double damage when attacked by water (including water elementals).    They cannot cross a body of water wider than their own diameter.  They do an additional 1d8 points of damage against creatures which are cold or icy in nature.
+Remember that a fire elemental is constantly burning; such a creature may easily start fires if it moves into an area containing items which burn easily, such as dry wood, paper, or oil.  No specific rules are given for such fires, but the GM is directed to the rules for burning oil for an example of fire damage.
+
+@@
+
+@STOP@
 
 Elemental, Lightning*
 
