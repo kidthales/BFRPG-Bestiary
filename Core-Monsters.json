@@ -588,4 +588,52 @@
     "treasure type": "None",
     "xp": "145"
 },
+{
+    "armor class": "15",
+    "damage": "1d8 bite",
+    "description": [
+        "Crocodiles are large semiaquatic reptiles that live throughout the tropics.  They are ambush predators, waiting for fish or land animals to come close, then rushing out to attack.  When in their natural element, they surprise on 1-4 on 1d6."
+    ],
+    "hit dice": "2",
+    "morale": "7",
+    "movement": "30' (10') Swim 30' (10')",
+    "name": "Crocodile",
+    "no. appearing": "Wild 1d8",
+    "no. of attacks": "1 bite",
+    "save as": "Fighter: 2",
+    "treasure type": "None",
+    "xp": "75"
+},
+{
+    "armor class": "17",
+    "damage": "2d8 bite",
+    "description": [
+        "Large Crocodiles:  These huge creatures are from 12-20 feet long.  Large crocodiles fight and behave like their smaller cousins."
+    ],
+    "hit dice": "6",
+    "morale": "8",
+    "movement": "30' (10') Swim 30' (10')",
+    "name": "Crocodile, Large",
+    "no. appearing": "Wild 1d4",
+    "no. of attacks": "1 bite",
+    "save as": "Fighter: 6",
+    "treasure type": "None",
+    "xp": "500"
+},
+{
+    "armor class": "19",
+    "damage": "3d8 bite",
+    "description": [
+        "Giant Crocodiles:  These gigantic creatures usually live in salt water and are generally more than 20 feet long.  Giant crocodiles fight and behave like their smaller cousins."
+    ],
+    "hit dice": "15 (+11)",
+    "morale": "9",
+    "movement": "30' (10') Swim 30' (10')",
+    "name": "Crocodile, Giant",
+    "no. appearing": "Wild 1d3",
+    "no. of attacks": "1 bite",
+    "save as": "Fighter: 15",
+    "treasure type": "None",
+    "xp": "2,850"
+},
 ]
