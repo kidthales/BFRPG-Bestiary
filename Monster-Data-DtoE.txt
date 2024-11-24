@@ -1,0 +1,496 @@
+
+Dryad
+Armor Class: 15
+Hit Dice: 2*
+No. of Attacks: 1 dagger or 1 fist
+Damage: 1d4 dagger or 1d4 fist
+Movement: 40'
+No. Appearing: Lair 1d6
+Save As: Magic-User: 4
+Morale: 6
+Treasure Type: D
+XP: 100
+
+Dryads are female nature spirits; each is mystically bound to a single, enormous oak tree and must never stray more than 300 yards from it.  Any who do become ill and die within 4d6 hours.  A dryad's oak does not radiate magic.  A dryad lives as long as her tree, and dies when the tree dies; likewise, if the dryad is killed, her tree dies also.
+A dryad resembles an elf woman, with skin like fine polished wood or smooth bark and hair like leaves; the hair color of a dryad usually changes with the seasons, being brown in the winter, pale green in the spring, darker green in the summer, and yellow, orange, or red in the fall.
+Though they are usually content to live alone, dryads are often friends with creatures such as treant or other nature spirits who might live nearby.  Once per day a dryad can cast a charm similar to the spell charm person, and one may choose to use this ability to compel an interesting human or elf to remain with her as a companion for a period of up to a year.  The companion can be taken into and brought out of the dryad's tree so long as the charm is still in effect.
+
+@@
+
+Eagle
+Armor Class: 13
+Hit Dice: 2
+No. of Attacks: 2 talons, 1 beak
+Damage: 1d6 talon, 1d4 beak
+Movement: 10' Fly 160' (10')
+No. Appearing: 1, Wild 1d4
+Save As: Fighter: 2
+Morale: 8
+Treasure Type: None
+XP: 145
+
+Eagles are large birds with wingspans 61/2 to 71/2 feet in width.  They stand about 21/2 to 3 feet tall and weigh about 13 lbs.  These birds have heavy talons and large beaks with a sharp hooked end.  Eagles are known to carry prey up to 15 lbs.  An eagle will also kill and start to eat animals that are 5 times the eagle's size, up to 80 lbs.  Fish-eating eagles are usually the largest varieties, while other types hunt small animals such as rodents or snakes.  Coloring is dependent on the species of eagle,  and should be chosen by the GM; various brown, gray, black, or white markings are most common, though solid darker colors are sometimes seen.  The beaks may range from bright yellowish orange to black.  Eagles will dive at a prey and attack with both sets of talons, then attack with the beak.
+
+@@
+
+Eagle, Giant
+Armor Class: 15
+Hit Dice: 4
+No. of Attacks: 2 claws, 1 bite
+Damage: 1d6 claw, 1d8 bite
+Movement: 10' fly 90'
+No. Appearing: 2d6
+Save As: Fighter: 4
+Morale: 7 (12 if defending a nest)
+Treasure Type: None
+XP: 240
+
+An average giant eagle has a wingspan of 15 to 20 feet and stands 8 to 12 feet tall.  They are intelligent creatures, and many speak Common or another language common in their home territory.
+Individual giant eagles are rarely encountered alone, as they prefer to live in loose communities.  However, when they hunt they do so in a solitary fashion, with each eagle choosing a single creature as prey.  As they can communicate with each other, it is extremely rare for two of them to make the mistake of attacking the same prey; in fact, it is not uncommon for one to attack alone to scatter a group of prey so they can each more easily choose a victim.
+Giant eagles mate for life.  If a nest with eggs or hatchlings is threatened, both parents will fight without checking morale, and other giant eagles in their community may come to their defense but will still seek to scatter any opponents so as to attack them one on one.
+
+@@
+
+Efreeti*
+Armor Class: 21 (m)
+Hit Dice: 10* (+9)
+No. of Attacks: 1 huge weapon or magic
+Damage: 2d8 huge weapon or see below
+Movement: 30' Fly 80' (10')
+No. Appearing: 1
+Save As: Fighter: 15
+Morale: 12 (9)
+Treasure Type: None
+XP: 1,390
+
+Efreet (singular efreeti) are a race of manlike creatures believed to be from the Elemental Plane of Fire.  They are large beings, 11 to 12 feet in height and weighing around 2,000 pounds, though their weight is generally immaterial due to their ability to fly by magical means.
+Note that the 12 morale reflects an efreeti's absolute control over its own fear, but does not indicate that the creature will throw its life away easily.  Use the "9" figure to determine whether an outmatched efreeti decides to leave a combat.
+Efreet have a number of magical powers, which can be used at will (that is, without needing magic words or gestures): become invisible, with unlimited uses per day; assume gaseous form, as the potion, up to one hour per day; create illusions, as the spell phantasmal force but including sound as well as visual elements, three times per day; create flame, with unlimited uses; and create a wall of fire (as the spell), once per day.  Create flame allows the efreet to cause a flame to appear in its hand or otherwise on its person at will; it behaves as desired by the efreet, becoming as large as a torch flame or as small as a candle, and ignites flammable material just as any ordinary flame does.  The flame can be thrown as a weapon with a range of up to 60', causing 1d8 points of damage on a successful hit.  The efreet can create another flame, and throw it as well if desired, once per round.
+Efreet may assume the form of a column of fire at will, with no limit as to the number of times per day this power may be used; an efreeti in flame-form fights as if it were a fire elemental.
+Due to their highly magical nature, efreet cannot be harmed by non-magical weapons.  They are immune to normal fire, and suffer only half damage from magical fire attacks.
+
+@@
+
+Elemental, Air*, Staff
+Armor Class: 18 (m)
+Hit Dice: 8*
+No. of Attacks: 1 strike or knock down, see below
+Damage: 1d12
+Movement: Fly 120'
+No. Appearing: special
+Save As: Fighter: 8
+Morale: 10
+Treasure Type: None
+XP: 945
+
+Air elementals resemble "dust devils", that is, small whirlwinds, but they are much more powerful.  Air elementals take double damage when attacked by earth-based attacks (including by earth elementals).  An air elemental may choose either to attack a single opponent, thus receiving one attack per round at the listed damage, or may choose to knock all opponents in a 5' radius to the ground; if the latter attack is used, all creatures of 2 hit dice or less must save vs. Death Ray or fall prone.  Creatures of 3 or more levels or hit dice are not so affected.  Air elementals do an additional 1d8 points of damage against creatures or vehicles which are airborne.
+
+@@
+
+Elemental, Air*, Device
+Armor Class: 20 (m)
+Hit Dice: 12* (+10)
+No. of Attacks: 1 strike or knock down, see below
+Damage: 2d8
+Movement: Fly 120'
+No. Appearing: special
+Save As: Fighter: 12
+Morale: 10
+Treasure Type: None
+XP: 1,975
+
+Air elementals resemble "dust devils", that is, small whirlwinds, but they are much more powerful.  Air elementals take double damage when attacked by earth-based attacks (including by earth elementals).  An air elemental may choose either to attack a single opponent, thus receiving one attack per round at the listed damage, or may choose to knock all opponents in a 5' radius to the ground; if the latter attack is used, all creatures of 2 hit dice or less must save vs. Death Ray or fall prone.  Creatures of 3 or more levels or hit dice are not so affected.  Air elementals do an additional 1d8 points of damage against creatures or vehicles which are airborne.
+
+@@
+
+Elemental, Air*, Spell
+Armor Class: 22 (m)
+Hit Dice: 16* (+12)
+No. of Attacks: 1 strike or knock down, see below
+Damage: 3d6
+Movement: Fly 120'
+No. Appearing: special
+Save As: Fighter: 16
+Morale: 10
+Treasure Type: None
+XP: 3,385
+
+Air elementals resemble "dust devils", that is, small whirlwinds, but they are much more powerful.  Air elementals take double damage when attacked by earth-based attacks (including by earth elementals).  An air elemental may choose either to attack a single opponent, thus receiving one attack per round at the listed damage, or may choose to knock all opponents in a 5' radius to the ground; if the latter attack is used, all creatures of 2 hit dice or less must save vs. Death Ray or fall prone.  Creatures of 3 or more levels or hit dice are not so affected.  Air elementals do an additional 1d8 points of damage against creatures or vehicles which are airborne.
+
+@@
+
+Elemental, Cold*, Staff
+Armor Class: 18 (m)
+Hit Dice: 8*
+No. of Attacks: 1
+Damage: 1d12
+Movement: 40'
+No. Appearing: special
+Save As: Fighter: 8
+Morale: 10
+Treasure Type: None
+XP: 945
+
+A cold elemental resembles a crude, headless ice statue with long sharp icicles in place of hands.  A cold elemental suffers double damage from fire attacks, including the attacks of fire elementals.  It deals an additional 1d8 points of damage against creatures that are hot or flaming in nature, as well as creatures made of liquids or jelly.  A cold elemental's body is so bitterly cold that creatures within 5 feet take 1d6 points of damage automatically, unless they are immune to the effects of cold.  Any liquids the cold elemental touches immediately freeze solid.  A cold elemental cannot enter places where the temperature is above 50 degrees Fahrenheit, and if forced to do so will suffer 1d6 points of damage each round.
+
+@@
+
+Elemental, Cold*, Device
+Armor Class: 20 (m)
+Hit Dice: 12* (+10)
+No. of Attacks: 1
+Damage: 2d8
+Movement: 40'
+No. Appearing: special
+Save As: Fighter: 12
+Morale: 10
+Treasure Type: None
+XP: 1,975
+
+A cold elemental resembles a crude, headless ice statue with long sharp icicles in place of hands.  A cold elemental suffers double damage from fire attacks, including the attacks of fire elementals.  It deals an additional 1d8 points of damage against creatures that are hot or flaming in nature, as well as creatures made of liquids or jelly.  A cold elemental's body is so bitterly cold that creatures within 5 feet take 1d6 points of damage automatically, unless they are immune to the effects of cold.  Any liquids the cold elemental touches immediately freeze solid.  A cold elemental cannot enter places where the temperature is above 50 degrees Fahrenheit, and if forced to do so will suffer 1d6 points of damage each round.
+
+@@
+
+Elemental, Cold*, Spell
+Armor Class: 22 (m)
+Hit Dice: 16* (+12)
+No. of Attacks: 1
+Damage: 3d6
+Movement: 40'
+No. Appearing: special
+Save As: Fighter: 16
+Morale: 10
+Treasure Type: None
+XP: 3,385
+
+A cold elemental resembles a crude, headless ice statue with long sharp icicles in place of hands.  A cold elemental suffers double damage from fire attacks, including the attacks of fire elementals.  It deals an additional 1d8 points of damage against creatures that are hot or flaming in nature, as well as creatures made of liquids or jelly.  A cold elemental's body is so bitterly cold that creatures within 5 feet take 1d6 points of damage automatically, unless they are immune to the effects of cold.  Any liquids the cold elemental touches immediately freeze solid.  A cold elemental cannot enter places where the temperature is above 50 degrees Fahrenheit, and if forced to do so will suffer 1d6 points of damage each round.
+
+@@
+
+Elemental, Earth*, Staff
+Armor Class: 18 (m)
+Hit Dice: 8*
+No. of Attacks: 1
+Damage: 1d12
+Movement: 20' (10')
+No. Appearing: special
+Save As: Fighter: 8
+Morale: 10
+Treasure Type: None
+XP: 945
+
+Earth elementals resemble crude, sometimes headless humanoid statues, with clublike hands and feet.  They cannot cross a body of water wider than their own height.  Earth elementals take double damage when attacked by fire (including fire elementals).  They do an additional 1d8 points of damage against creatures, vehicles, or structures which rest on the ground.
+
+@@
+
+Elemental, Earth*, Device
+Armor Class: 20 (m)
+Hit Dice: 12* (+10)
+No. of Attacks: 1
+Damage: 2d8
+Movement: 20' (10')
+No. Appearing: special
+Save As: Fighter: 12
+Morale: 10
+Treasure Type: None
+XP: 1,975
+
+Earth elementals resemble crude, sometimes headless humanoid statues, with clublike hands and feet.  They cannot cross a body of water wider than their own height.  Earth elementals take double damage when attacked by fire (including fire elementals).  They do an additional 1d8 points of damage against creatures, vehicles, or structures which rest on the ground.
+
+@@
+
+Elemental, Earth*, Spell
+Armor Class: 22 (m)
+Hit Dice: 16* (+12)
+No. of Attacks: 1
+Damage: 3d6
+Movement: 20' (10')
+No. Appearing: special
+Save As: Fighter: 16
+Morale: 10
+Treasure Type: None
+XP: 3,385
+
+Earth elementals resemble crude, sometimes headless humanoid statues, with clublike hands and feet.  They cannot cross a body of water wider than their own height.  Earth elementals take double damage when attacked by fire (including fire elementals).  They do an additional 1d8 points of damage against creatures, vehicles, or structures which rest on the ground.
+
+@@
+
+Elemental, Fire*, Staff
+Armor Class: 18 (m)
+Hit Dice: 8*
+No. of Attacks: 1
+Damage: 1d12
+Movement: 40' Fly 30'
+No. Appearing: special
+Save As: Fighter: 8
+Morale: 10
+Treasure Type: None
+XP: 945
+
+Fire elementals are simply flames, which may appear generally humanoid for brief moments when they attack.  Fire elementals take double damage when attacked by water (including water elementals).    They cannot cross a body of water wider than their own diameter.  They do an additional 1d8 points of damage against creatures which are cold or icy in nature.
+Remember that a fire elemental is constantly burning; such a creature may easily start fires if it moves into an area containing items which burn easily, such as dry wood, paper, or oil.  No specific rules are given for such fires, but the GM is directed to the rules for burning oil for an example of fire damage.
+
+@@
+
+Elemental, Fire*, Device
+Armor Class: 20 (m)
+Hit Dice: 12* (+10)
+No. of Attacks: 1
+Damage: 2d8
+Movement: 40' Fly 30'
+No. Appearing: special
+Save As: Fighter: 12
+Morale: 10
+Treasure Type: None
+XP: 1,975
+
+Fire elementals are simply flames, which may appear generally humanoid for brief moments when they attack.  Fire elementals take double damage when attacked by water (including water elementals).    They cannot cross a body of water wider than their own diameter.  They do an additional 1d8 points of damage against creatures which are cold or icy in nature.
+Remember that a fire elemental is constantly burning; such a creature may easily start fires if it moves into an area containing items which burn easily, such as dry wood, paper, or oil.  No specific rules are given for such fires, but the GM is directed to the rules for burning oil for an example of fire damage.
+
+@@
+
+Elemental, Fire*, Spell
+Armor Class: 22 (m)
+Hit Dice: 16* (+12)
+No. of Attacks: 1
+Damage: 3d6
+Movement: 40' Fly 30'
+No. Appearing: special
+Save As: Fighter: 16
+Morale: 10
+Treasure Type: None
+XP: 3,385
+
+Fire elementals are simply flames, which may appear generally humanoid for brief moments when they attack.  Fire elementals take double damage when attacked by water (including water elementals).    They cannot cross a body of water wider than their own diameter.  They do an additional 1d8 points of damage against creatures which are cold or icy in nature.
+Remember that a fire elemental is constantly burning; such a creature may easily start fires if it moves into an area containing items which burn easily, such as dry wood, paper, or oil.  No specific rules are given for such fires, but the GM is directed to the rules for burning oil for an example of fire damage.
+
+@@
+
+Elemental, Lightning*, Staff
+Armor Class: 19 (m)
+Hit Dice: 8*
+No. of Attacks: 1 strike or 1 thunderclap
+Damage: 1d12
+Movement: 40' Fly 80'
+No. Appearing: special
+Save As: Fighter: 8
+Morale: 10
+Treasure Type: None
+XP: 3,385
+
+A lightning elemental resembles dark clouds lit from within by flashes of lightning.  One can magnetically draw metal items towards itself as if using telekinesis.  It deals 1d8 extra points of damage to creatures that are in contact with water or metal but not touching solid ground.  A lightning elemental takes double damage when attacked by air or wind attacks (including air elementals), and from the attacks of wood elementals as well.  A lightning elemental can choose either to strike a single creature or create a mighty thunderclap.  If the latter attack is used, all creatures within a 30 foot radius must save vs. Paralysis or be deafened for 1d8 turns.
+
+@@
+
+Elemental, Lightning*, Device
+Armor Class: 21 (m)
+Hit Dice: 12* (+10)
+No. of Attacks: 1 strike or 1 thunderclap
+Damage: 2d8
+Movement: 40' Fly 80'
+No. Appearing: special
+Save As: Fighter: 12
+Morale: 10
+Treasure Type: None
+XP: 945
+
+A lightning elemental resembles dark clouds lit from within by flashes of lightning.  One can magnetically draw metal items towards itself as if using telekinesis.  It deals 1d8 extra points of damage to creatures that are in contact with water or metal but not touching solid ground.  A lightning elemental takes double damage when attacked by air or wind attacks (including air elementals), and from the attacks of wood elementals as well.  A lightning elemental can choose either to strike a single creature or create a mighty thunderclap.  If the latter attack is used, all creatures within a 30 foot radius must save vs. Paralysis or be deafened for 1d8 turns.
+
+@@
+
+
+Elemental, Lightning*, Spell
+Armor Class: 23 (m)
+Hit Dice: 16* (+12)
+No. of Attacks: 1 strike or 1 thunderclap
+Damage: 3d6
+Movement: 40' Fly 80'
+No. Appearing: special
+Save As: Fighter: 16
+Morale: 10
+Treasure Type: None
+XP: 1,975
+
+A lightning elemental resembles dark clouds lit from within by flashes of lightning.  One can magnetically draw metal items towards itself as if using telekinesis.  It deals 1d8 extra points of damage to creatures that are in contact with water or metal but not touching solid ground.  A lightning elemental takes double damage when attacked by air or wind attacks (including air elementals), and from the attacks of wood elementals as well.  A lightning elemental can choose either to strike a single creature or create a mighty thunderclap.  If the latter attack is used, all creatures within a 30 foot radius must save vs. Paralysis or be deafened for 1d8 turns.
+
+@@
+
+Elemental, Metal*, Staff
+Armor Class: 19 (m)
+Hit Dice: 8*
+No. of Attacks: 1
+Damage: 1d12
+Movement: 20' (10')
+No. Appearing: special
+Save As: Fighter: 8
+Morale: 10
+Treasure Type: None
+XP: 945
+
+Metal elementals appear to be somewhat abstract humanoid figures formed from metal.  They are able to move as if liquid, though they are cool and hard to the touch.  Their semi-liquid form permits them to form their extremities into wickedly sharp blades, which is their preferred means of attack.  Those wearing metal armor receive no protection against a metal elemental (except for magical bonuses, if any); indeed, on a successful hit one deals an additional 1d8 points of damage to creatures, vehicles, or structures that are made of or in direct contact with some form of metal.  Lightning attacks deal double damage to a metal elemental.  Like an earth elemental, a metal elemental cannot cross a body of water greater than its own height.
+
+@@
+
+Elemental, Metal*, Device
+Armor Class: 21 (m)
+Hit Dice: 12* (+10)
+No. of Attacks: 1
+Damage: 2d8
+Movement: 20' (10')
+No. Appearing: special
+Save As: Fighter: 12
+Morale: 10
+Treasure Type: None
+XP: 1,975
+
+Metal elementals appear to be somewhat abstract humanoid figures formed from metal.  They are able to move as if liquid, though they are cool and hard to the touch.  Their semi-liquid form permits them to form their extremities into wickedly sharp blades, which is their preferred means of attack.  Those wearing metal armor receive no protection against a metal elemental (except for magical bonuses, if any); indeed, on a successful hit one deals an additional 1d8 points of damage to creatures, vehicles, or structures that are made of or in direct contact with some form of metal.  Lightning attacks deal double damage to a metal elemental.  Like an earth elemental, a metal elemental cannot cross a body of water greater than its own height.
+
+@@
+
+Elemental, Metal*, Spell
+Armor Class: 23 (m)
+Hit Dice: 16* (+12)
+No. of Attacks: 1
+Damage: 3d6
+Movement: 20' (10')
+No. Appearing: special
+Save As: Fighter: 16
+Morale: 10
+Treasure Type: None
+XP: 3,385
+
+Metal elementals appear to be somewhat abstract humanoid figures formed from metal.  They are able to move as if liquid, though they are cool and hard to the touch.  Their semi-liquid form permits them to form their extremities into wickedly sharp blades, which is their preferred means of attack.  Those wearing metal armor receive no protection against a metal elemental (except for magical bonuses, if any); indeed, on a successful hit one deals an additional 1d8 points of damage to creatures, vehicles, or structures that are made of or in direct contact with some form of metal.  Lightning attacks deal double damage to a metal elemental.  Like an earth elemental, a metal elemental cannot cross a body of water greater than its own height.
+
+@@
+
+Elemental, Water*, Staff
+Armor Class: 18 (m)
+Hit Dice: 8*
+No. of Attacks: 1
+Damage: 1d12
+Movement: 20' (15') Swim 60'
+No. Appearing: special
+Save As: Fighter: 8
+Morale: 10
+Treasure Type: None
+XP: 945
+
+Water elementals resemble roiling waves of water, which seem to fall upon any creature they attack, only to reform the next round.  They take double damage when attacked with air or wind attacks (including air elementals).  A water elemental cannot move more than 60' from a body of water.  They do an extra 1d8 points of damage against creatures, vehicles, or structures which are in the water.
+
+@@
+
+Elemental, Water*, Device
+Armor Class: 20 (m)
+Hit Dice: 12* (+10)
+No. of Attacks: 1
+Damage: 2d8
+Movement: 20' (15') Swim 60'
+No. Appearing: special
+Save As: Fighter: 12
+Morale: 10
+Treasure Type: None
+XP: 1,975
+
+Water elementals resemble roiling waves of water, which seem to fall upon any creature they attack, only to reform the next round.  They take double damage when attacked with air or wind attacks (including air elementals).  A water elemental cannot move more than 60' from a body of water.  They do an extra 1d8 points of damage against creatures, vehicles, or structures which are in the water.
+
+@@
+
+Elemental, Water*, Spell
+Armor Class: 22 (m)
+Hit Dice: 16* (+12)
+No. of Attacks: 1
+Damage: 3d6
+Movement: 20' (15') Swim 60'
+No. Appearing: special
+Save As: Fighter: 16
+Morale: 10
+Treasure Type: None
+XP: 3,385
+
+Water elementals resemble roiling waves of water, which seem to fall upon any creature they attack, only to reform the next round.  They take double damage when attacked with air or wind attacks (including air elementals).  A water elemental cannot move more than 60' from a body of water.  They do an extra 1d8 points of damage against creatures, vehicles, or structures which are in the water.
+
+@@
+
+Elemental, Wood*, Staff
+Armor Class: 17 (m)
+Hit Dice: 8*
+No. of Attacks: 1
+Damage: 1d12
+Movement: 40'
+No. Appearing: special
+Save As: Fighter: 8
+Morale: 10
+Treasure Type: None
+XP: 945
+
+Wood elementals appears to be large, leafless trees.  They deal 1d8 points of extra damage to creatures in contact with any woody materials, living or dead (including weapons or shields made mainly of wood).  On the other hand, they suffer double damage from fire or lightning attacks of any kind, including the attacks of fire or lightning elementals.
+
+@@
+
+Elemental, Wood*, Device
+Armor Class: 19 (m)
+Hit Dice: 12* (+10)
+No. of Attacks: 1
+Damage: 2d8
+Movement: 40'
+No. Appearing: special
+Save As: Fighter: 12
+Morale: 10
+Treasure Type: None
+XP: 1,975
+
+Wood elementals appears to be large, leafless trees.  They deal 1d8 points of extra damage to creatures in contact with any woody materials, living or dead (including weapons or shields made mainly of wood).  On the other hand, they suffer double damage from fire or lightning attacks of any kind, including the attacks of fire or lightning elementals.
+
+@@
+
+Elemental, Wood*, Spell
+Armor Class: 21 (m)
+Hit Dice: 16* (+12)
+No. of Attacks: 1
+Damage: 3d6
+Movement: 40'
+No. Appearing: special
+Save As: Fighter: 16
+Morale: 10
+Treasure Type: None
+XP: 3,385
+
+Wood elementals appears to be large, leafless trees.  They deal 1d8 points of extra damage to creatures in contact with any woody materials, living or dead (including weapons or shields made mainly of wood).  On the other hand, they suffer double damage from fire or lightning attacks of any kind, including the attacks of fire or lightning elementals.
+
+@@
+
+Elephant, Asiatic
+Armor Class: 16
+Hit Dice: 9 (+8)
+No. of Attacks: 2 tusks, 1 trunk grab, 2 tramples 
+Damage: 2d4 tusk, 2d6 grab, 2d8 trample
+Movement: 40' (10')
+No. Appearing: Wild 1d20
+Save As: Fighter: 9
+Morale: 8
+Treasure Type: special
+XP: 1,075
+
+For an Asiatic elephant, a light load is up to 7,000 pounds, and a heavy load up to 14,000 pounds.
+Though elephants have five distinct attack modes (two tusks, a trunk grab, and two tramples with the front feet), a single elephant can apply no more than two of these attacks to any single opponent of small or medium size; large opponents may be targeted by three of these attacks in a round.  However, an elephant can attack multiple opponents in its immediate area at the same time.
+An elephant has no treasure as such, but the tusks of an elephant are worth 1d8 x 100 gp each.
+
+@@
+
+Elephant, African
+Armor Class: 18
+Hit Dice: 10 (+9)
+No. of Attacks: 2 tusks, 1 trunk grab, 2 tramples 
+Damage: 2d6 tusk, 2d6 grab, 2d8 trample
+Movement: 50' (15')
+No. Appearing: Wild 1d12
+Save As: Fighter: 10
+Morale: 8
+Treasure Type: special
+XP: 1,300
+
+A light load for an African elephant is 7,500 pounds; a heavy load, up to 15,000 pounds.
+Though elephants have five distinct attack modes (two tusks, a trunk grab, and two tramples with the front feet), a single elephant can apply no more than two of these attacks to any single opponent of small or medium size; large opponents may be targeted by three of these attacks in a round.  However, an elephant can attack multiple opponents in its immediate area at the same time.
+An elephant has no treasure as such, but the tusks of an elephant are worth 1d8 x 100 gp each.
+
+@@

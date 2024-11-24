@@ -1349,4 +1349,55 @@
     "treasure": "None",
     "xp": "10"
 },
+{
+    "armorclass": "16",
+    "damage": "2d6 bite",
+    "description": [
+        "Barracuda are predatory fish found in salt water.  Giant barracudas can exceed 20' in length.  They have elongated bodies,  pointed heads and prominent jaws.  Their bodies are covered with smooth scales, typically blue, gray or silver in color.  They have extremely keen eyesight and are surprised only on a 1 on 1d6.  Due to the quickness of their attack, barracuda are capable of surprising on 1-3 on 1d6 and gain a +2 bonus to Initiative.",
+        "Giant barracuda always appear singly and are 50% likely to break off the attack after 1d4 rounds if they haven't killed their prey.  They are attracted to shiny objects."
+    ],
+    "hitdice": "5",
+    "morale": "8",
+    "movement": "Swim 60'",
+    "name": "Fish, Giant Barracuda",
+    "noappearing": "Wild 2d4",
+    "noattacks": "1 bite",
+    "saveas": "Fighter: 5",
+    "treasure": "None",
+    "xp": "360"
+},
+{
+    "armorclass": "15",
+    "damage": "2d8+1 bite",
+    "description": [
+        "Barracuda are predatory fish found in salt water.  Huge barracudas are about 12' long.  They have elongated bodies,  pointed heads and prominent jaws.  Their bodies are covered with smooth scales, typically blue, gray or silver in color.  They have extremely keen eyesight and are surprised only on a 1 on 1d6.  Due to the quickness of their attack, barracuda are capable of surprising on 1-3 on 1d6 and gain a +2 bonus to Initiative.",
+        "Huge barracuda always appear singly and are 50% likely to break off the attack after 1d4 rounds if they haven't killed their prey.  They are attracted to shiny objects."
+    ],
+    "hitdice": "9 (+8)",
+    "morale": "10",
+    "movement": "Swim 60' (10')",
+    "name": "Fish, Huge Barracuda",
+    "noappearing": "Wild 1",
+    "noattacks": "1 bite",
+    "saveas": "Fighter: 9",
+    "treasure": "None",
+    "xp": "1,075"
+},
+{
+    "armorclass": "13",
+    "damage": "1d6",
+    "description": [
+        "Giant bass are generally between 10' and 25' long.  Most are greenish-grey marked with dark lateral stripes, though some are almost completely black.  They are generally found in lakes or rivers, as they are not adapted for salt water.",
+        "Giant bass are predatory, and on a natural attack roll of 20 a giant bass will swallow whole a dwarf-sized or smaller creature, which then takes 2d4 damage per round until it is dead.  Swallowed characters can attack only with daggers or similar short weapons.  Note that each giant bass can swallow at most one character, and a giant bass which has swallowed a character will attempt to retreat (having achieved its goal)."
+    ],
+    "hitdice": "2",
+    "morale": "8",
+    "movement": "Swim 40' (10')",
+    "name": "Fish, Giant Bass",
+    "noappearing": "Wild 1d6",
+    "noattacks": "1 bite",
+    "saveas": "Fighter: 2",
+    "treasure": "None",
+    "xp": "75"
+},
 ]
