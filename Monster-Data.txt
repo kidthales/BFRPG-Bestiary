@@ -413,220 +413,181 @@ Once a caecilia has swallowed an opponent, it will generally attempt to disengag
 
 @@
 
-@STOP@
-
-Cattle (including Aurochs and Bison)
-
 Cattle
-Aurochs
-Bison
-Armor Class:
-14
-16
-16
-Hit Dice:
-2+2
-3
-4
-No. of Attacks:
--  1 horn/head butt or 1 trample  -
-Damage:
-1d4 butt
-2d4 trample
-1d6 butt
-2d4 trample
-2d4 butt
-2d6 trample
-Movement:
--  50’ (10')  -
-No. Appearing:
-Special
-Wild 10d12
+Armor Class: 14
+Hit Dice: 2+2
+No. of Attacks: 1 horn/head butt or 1 trample
+Damage: 1d4 butt, 2d4 trample
+Movement: 50’ (10')
+No. Appearing: Special
+Save As: Fighter: 3
+Morale: 5 (8)
+Treasure Type: None
+XP: 75
 
-Save As:
-Fighter: 3
-Fighter: 3
-Fighter: 4
-Morale:
-5 (8)
-7 (9)
-7 (9)
-Treasure Type:
-None
-None
-None
-XP:
-75
-145
-240
 Cattle are large mammals with cloven hooves and horned heads.  Cattle are raised mostly for their meat (beef), leather, and milk.  Cattle eat grass and are fairly gentle unless spooked, in which case they will stampede (run in a group). Anyone caught in the path of the stampede will suffer at least one trampling attack, as determined by the GM.  Male cattle are called bulls, females are cows, and young are calves (calf is singular).  If attacked, cattle will charge, generally using their horns to attack.  Bulls are larger (+1 hit die), less easily frightened (use the second listed morale figure), and are quite aggressive in defense of the herd.  A bull will likely attack if he sees quick movements from creatures he might be able to reach with a charge.  Meanwhile, if unable to flee cows will usually assume a roughly circular formation with their heads outward, while calves will be kept in the center, though if the opponents are small enough they may instead charge en masse, trampling all creatures in their path.
 A typical small farm with cattle will have a bull, 5d4 cows, and 2d10 calves (but not more than the number of cows).
-Aurochs are wild cattle; they are shaggy and rough-looking.  Bison are the largest species of wild bovines.  All types of bovines tend to behave in the same general way, as described above.
 An ox is typically a castrated bull used as a draft animal; females may be used, rarely, but males are preferred due to their greater size and strength.  Oxen are usually paired as a team to pull a fully-loaded wagon (or the equivalent of 3,000 lb).  Oxen require less food and water, being able to eat rough grass better than draft horses, which makes them valuable to merchants with large caravans going over semi-arid prairie.
+
+@@
+
+Aurochs
+Armor Class: 16
+Hit Dice: 3
+No. of Attacks: 1 horn/head butt or 1 trample
+Damage: 1d6 butt, 2d4 trample
+Movement: 50’ (10')
+No. Appearing: Wild 10d12
+Save As: Fighter: 3
+Morale: 7 (9)
+Treasure Type: None
+XP: 145
+
+Aurochs are wild cattle; they are shaggy and rough-looking.  
+All types of bovines tend to behave in the same general way, as described above.
+
+@@
+
+Bison
+Armor Class: 16
+Hit Dice: 4
+No. of Attacks: 1 horn/head butt or 1 trample
+Damage: 2d4 butt, 2d6 trample
+Movement: 50’ (10')
+No. Appearing: Wild 10d12
+Save As: Fighter: 4
+Morale: 7 (9)
+Treasure Type: None
+XP: 240
+
+Bison are the largest species of wild bovines.  
+All types of bovines tend to behave in the same general way, as described above.
+
+@@
+
 Cave Locust, Giant
-Armor Class:
-16
-Hit Dice:
-2**
-No. of Attacks:
-1 bite or 1 bump or 1 spit
-Damage:
-1d2 bite, 1d4* bump, special spit
-Movement:
-20' Fly 60' (15')
-No. Appearing:
-2d10, Wild 1d10
-Save As:
-Fighter: 2
-Morale:
-5
-Treasure Type:
-None
-XP:
-125
+Armor Class: 16
+Hit Dice: 2**
+No. of Attacks: 1 bite or 1 bump or 1 spit
+Damage: 1d2 bite, 1d4* bump, special spit
+Movement: 20' Fly 60' (15')
+No. Appearing: 2d10, Wild 1d10
+Save As: Fighter: 2
+Morale: 5
+Treasure Type: None
+XP: 125
+
 Giant cave locusts are pale, cricket-like creatures that live underground.  An average giant cave locust is 2 to 4 feet long.  They are eyeless, depending on their sound-sensitive antennae, vibration-sensitive feet and a variety of touch-sensitive "hairs" on their legs to sense the environment around them.
 These creatures eat subterranean fungus (including shriekers) as well as carrion; they are not predators, but if disturbed they will attack, shrieking loudly, biting, jumping wildly around, or spitting nasty goo.
 All giant cave locusts in a group will shriek when disturbed, attracting wandering monsters.  The GM should roll a wandering monster check each round that one or more cave locusts are attacking; if wandering monsters are indicated, they will arrive in 1d4 rounds.
 Any giant cave locust that is engaged (adjacent to an opponent) will attempt to bite, doing 1d2 damage on a successful hit.  This does not interrupt the monster's shrieking.
 A giant cave locust can leap up to 60' horizontally, or up to 30' up.  If one of these creatures is not engaged at the beginning of the round, it will leap toward one of the opponent creatures; roll a normal attack roll, and if the attack hits, the target creature takes 1d4 points of non-lethal damage from the impact.
 Finally, a giant cave locust can spray a greenish-brown goo (its digestive juices) up to 10' away.  Each giant cave locust can perform this attack just once per encounter.  This spit attack will usually be reserved until they fail a morale check, in which case all remaining giant cave locusts will spit at their nearest opponent, and then all will attempt to flee in the next round.  To spit on an opponent, the giant cave locust rolls an attack against Armor Class 11 (plus Dexterity and magical bonuses, but no normal armor value applies).  If the attack hits, the target must save vs. Poison or be unable to do anything for 3d6 rounds due to the horrible smell.
+
+@@
+
 Centaur
-Armor Class:
-15 (13)
-Hit Dice:
-4
-No. of Attacks:
-2 hooves, 1 weapon
-Damage:
-1d6 hoof, 1d6 or by weapon
-Movement:
-50' Unarmored 60' (10')
-No. Appearing:
-Wild 2d10
-Save As:
-Fighter: 4
-Morale:
-8
-Treasure Type:
-A
-XP:
-240
+Armor Class: 15 (13)
+Hit Dice: 4
+No. of Attacks: 2 hooves, 1 weapon
+Damage: 1d6 hoof, 1d6 or by weapon
+Movement: 50' Unarmored 60' (10')
+No. Appearing: Wild 2d10
+Save As: Fighter: 4
+Morale: 8
+Treasure Type: A
+XP: 240
+
 Centaurs appear to be half man, half horse, having the torso, arms and head of a man in the position a horse's head would otherwise occupy.  The horse part of a centaur is as large and powerful as a warhorse; males average 7 feet in height and weigh about a ton (2,000 pounds), while females are just a bit shorter and very close to the same weight.  Centaurs may charge with a spear or lance just as a man on horseback, with the same bonuses.  They typically wear leather armor when prepared for combat.
 Centaurs are generally haughty and aloof, but very honorable.  Most would rather die than allow any sort of humanoid to ride on their backs.
+
+@@
+
 Centipede, Giant
-Armor Class:
-11
-Hit Dice:
-1/2* (1d4 hit points)
-No. of Attacks:
-1 bite
-Damage:
-poison bite
-Movement:
-40'
-No. Appearing:
-2d4, Wild 2d4, Lair 2d4
-Save As:
-Normal Man
-Morale:
-7 (see below)
-Treasure Type:
-None
-XP:
-13
+Armor Class: 11
+Hit Dice: 1/2* (1d4 hit points)
+No. of Attacks: 1 bite
+Damage: poison bite
+Movement: 40'
+No. Appearing: 2d4, Wild 2d4, Lair 2d4
+Save As: Normal Man
+Morale: 7 (see below)
+Treasure Type: None
+XP: 13
+
 Giant centipedes are larger versions of the normal sort, being 2 to 3 feet long.  Centipedes are fast-moving, predatory, venomous arthropods, having long segmented bodies with exoskeletons.  They prefer to live in underground areas, shadowy forested areas, and other places out of direct sunlight; however, there are desert-dwelling varieties that hide under the sand waiting for prey to wander by.
 These creatures are aggressive and always hungry, attacking any living creature and only checking morale if injured.  Giant centipedes attack with a poisonous bite, and those bitten must save vs. Poison or die; however, the poison is somewhat weak and thus grants a bonus of +2 on the saving throw.
+
+@@
+
 Cheetah
-Armor Class:
-14
-Hit Dice:
-2
-No. of Attacks:
-2 claws, 1 bite
-Damage:
-1d4 claw, 2d4 bite
-Movement:
-100'
-No. Appearing:
-Wild 1d3, Lair 1d3
-Save As:
-Fighter: 2
-Morale:
-7
-Treasure Type:
-None
-XP:
-75
+Armor Class: 14
+Hit Dice: 2
+No. of Attacks: 2 claws, 1 bite
+Damage: 1d4 claw, 2d4 bite
+Movement: 100'
+No. Appearing: Wild 1d3, Lair 1d3
+Save As: Fighter: 2
+Morale: 7
+Treasure Type: None
+XP: 75
+
 A Cheetah is one of the fastest land animals; a large (about 100 pounds) cat capable of reaching up to 75 miles per hour when running.  It hunts alone or in small groups (usually composed of siblings).  It will rarely attack humans unless compelled to do so, but a female will ferociously defend her young.
+
+@@
+
 Chimera
-Armor Class:
-16
-Hit Dice:
-9** (+8)
-No. of Attacks:
-2 claws, 1 lion bite, 1 goat horns, 1 dragon bite or breath
-Damage:
-1d4 claw, 2d4 bite (lion or dragon), 1d8 horns (goat), 3d4 dragon breath
-Movement:
-40' (10') Fly 60' (15')
-No. Appearing:
-1d2, Wild 1d4, Lair 1d4
-Save As:
-Fighter: 9
-Morale:
-9
-Treasure Type:
-F
-XP:
-1,225
+Armor Class: 16
+Hit Dice: 9** (+8)
+No. of Attacks: 2 claws, 1 lion bite, 1 goat horns, 1 dragon bite or breath
+Damage: 1d4 claw, 2d4 bite (lion or dragon), 1d8 horns (goat), 3d4 dragon breath
+Movement: 40' (10') Fly 60' (15')
+No. Appearing: 1d2, Wild 1d4, Lair 1d4
+Save As: Fighter: 9
+Morale: 9
+Treasure Type: F
+XP: 1,225
+
 Chimeras are strange creatures having a lion's body with the heads of a lion, a goat, and a dragon, and the wings of a dragon.  The dragon head of a chimera could be any common dragon except cloud (i.e. desert, forest, ice, mountain, plains, or sea), and has the same type of breath weapon as that sort of dragon.  Regardless of type, the dragon's head breathes a 50' long cone with a 10' wide end which inflicts 3d6 points of damage; victims may save vs. Dragon Breath for one-half damage.
 Chimeras are cruel and voracious.  They can speak Dragon but seldom bother to do so, except when toadying to more powerful creatures.
+
+@@
+
 Cockatrice
-Armor Class:
-14
-Hit Dice:
-5**
-No. of Attacks:
-1 beak
-Damage:
-1d6 + petrification beak
-Movement:
-30' Fly 60' (10')
-No. Appearing:
-1d4, Wild 1d8, Lair 1d8
-Save As:
-Fighter: 5
-Morale:
-7
-Treasure Type:
-D
-XP:
-450
+Armor Class: 14
+Hit Dice: 5**
+No. of Attacks: 1 beak
+Damage: 1d6 + petrification beak
+Movement: 30' Fly 60' (10')
+No. Appearing: 1d4, Wild 1d8, Lair 1d8
+Save As: Fighter: 5
+Morale: 7
+Treasure Type: D
+XP: 450
+
 A cockatrice is a strange creature, appearing to be a chicken (hen or rooster) with a long serpentine neck and tail; the neck is topped by a more or less normal looking chicken head.  Like a common rooster, a male cockatrice has wattles and a full comb, while the much rarer females have neither.  An individual cockatrice weighs more than a chicken, averaging about 20 pounds.  A cockatrice is no more intelligent than any animal, but they are bad-tempered and prone to attack if disturbed.
 Anyone touched by a cockatrice, or who touches one (even if gloved), must save vs. Petrify or be turned to stone.
+
+@@
+
 Crab, Giant
-Armor Class:
-18
-Hit Dice:
-3
-No. of Attacks:
-2 pincers
-Damage:
-2d6 pincer
-Movement:
-20' Swim 20'
-No. Appearing:
-1d2, Wild 1d6, Lair 1d6
-Save As:
-Fighter: 3
-Morale:
-7
-Treasure Type:
-None
-XP:
-145
+Armor Class: 18
+Hit Dice: 3
+No. of Attacks: 2 pincers
+Damage: 2d6 pincer
+Movement: 20' Swim 20'
+No. Appearing: 1d2, Wild 1d6, Lair 1d6
+Save As: Fighter: 3
+Morale: 7
+Treasure Type: None
+XP: 145
+
 Giant crabs naturally resemble the ordinary variety, but are much larger, averaging 5' in diameter (not counting their legs).  These creatures are often found in water-filled caves, particularly those connected to a river, lake or sea, and are tolerant of both fresh and salt water.  Also, they are able to live in stagnant water, though they prefer a better environment.
 Giant crabs carry their eyes on armored stalks, which means that no bonus is awarded for attacking them from behind.
+
+@@
+@STOP@
+
 Crocodile
 
 Normal
