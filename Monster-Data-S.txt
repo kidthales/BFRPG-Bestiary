@@ -336,205 +336,159 @@ Spitting cobras average about 7' in length at adulthood.  They use their spreadi
 
 @@
 
-@STOP@
-
 Spectre*
-Armor Class:
-17 (m)
-Hit Dice:
-6**
-No. of Attacks:
-1 touch
-Damage:
-Energy drain 2 levels/touch
-Movement:
-Fly 100'
-No. Appearing:
-1d4, Lair 1d8
-Save As:
-Fighter: 6
-Morale:
-11
-Treasure Type:
-E
-XP:
-610
+Armor Class: 17 (m)
+Hit Dice: 6**
+No. of Attacks: 1 touch
+Damage: Energy drain 2 levels/touch
+Movement: Fly 100'
+No. Appearing: 1d4, Lair 1d8
+Save As: Fighter: 6
+Morale: 11
+Treasure Type: E
+XP: 610
+
 Spectres are incorporeal undead monsters.  On any successful hit against a living creature, a spectre drains two life energy levels in addition to doing normal damage.  Any character slain by a spectre will arise at the next sunset (but not sooner than 6 hours after death) as a spectre under the control of its killer.
 A spectre will normally resemble the living creature it used to be.  Most spectres are formed from humanoid creatures, but some may have other forms and sizes; statistically, most such creatures will be as given above, but of course the GM may create special types.
 Like all undead, they may be Turned by Clerics and are immune to sleep, charm, and hold magics.  Due to their incorporeal nature, they cannot be harmed by non-magical weapons.
+
+@@
+
 Spider, Giant Black Widow
-Armor Class:
-14
-Hit Dice:
-3*
-No. of Attacks:
-1 bite
-Damage:
-2d6 + poison
-Movement:
-20' Web 40'
-No. Appearing:
-1d3, Wild 1d3, Lair 1d3
-Save As:
-Fighter: 3
-Morale:
-8
-Treasure Type:
-None
-XP:
-175
+Armor Class: 14
+Hit Dice: 3*
+No. of Attacks: 1 bite
+Damage: 2d6 + poison
+Movement: 20' Web 40'
+No. Appearing: 1d3, Wild 1d3, Lair 1d3
+Save As: Fighter: 3
+Morale: 8
+Treasure Type: None
+XP: 175
+
 The giant black widow spider is a much enlarged version of the ordinary black widow; a full-grown male has a leg-span of 2 feet, while an adult female will be 3' or more across.  Despite the size difference, both genders are statistically equal.  Both genders are marked with an orange "hourglass" on the abdomen.
 The venom of the giant black widow is strong, such that those bitten must save vs. Poison at a penalty of -2 or die.  Giant black widow spiders spin strong, sticky, nearly invisible webs, usually across passageways or cave entrances, or sometimes between trees in the wilderness; those who stumble into these webs become stuck, and must roll to escape just as if opening a door.  Any character stuck in such a web cannot effectively cast spells or use a weapon.
+
+@@
+
 Spider, Giant Crab
-Armor Class:
-13
-Hit Dice:
-2*
-No. of Attacks:
-1 bite
-Damage:
-1d8 + poison
-Movement:
-40'
-No. Appearing:
-1d4, Wild 1d4, Lair 1d4
-Save As:
-Fighter: 2
-Morale:
-7
-Treasure Type:
-None
-XP:
-100
+Armor Class: 13
+Hit Dice: 2*
+No. of Attacks: 1 bite
+Damage: 1d8 + poison
+Movement: 40'
+No. Appearing: 1d4, Wild 1d4, Lair 1d4
+Save As: Fighter: 2
+Morale: 7
+Treasure Type: None
+XP: 100
+
 Crab spiders are ambush predators, hiding using various forms of camouflage and leaping out to bite their surprised prey.  Giant crab spiders are horribly enlarged, being around 3' in length.  They can change color slowly (over the course of a few days), taking on the overall coloration of their preferred lair or ambush location.  After this change is complete, the spider is able to surprise potential prey on 1-4 on 1d6 when in that preferred location.  Anyone bitten by a giant crab spider must save vs. Poison or die.
+
+@@
+
 Spider, Giant Tarantula
-Armor Class:
-15
-Hit Dice:
-4*
-No. of Attacks:
-1 bite
-Damage:
-1d8 + poison
-Movement:
-50'
-No. Appearing:
-1d3, Wild 1d3, Lair 1d3
-Save As:
-Fighter: 4
-Morale:
-8
-Treasure Type:
-None
-XP:
-280
+Armor Class: 15
+Hit Dice: 4*
+No. of Attacks: 1 bite
+Damage: 1d8 + poison
+Movement: 50'
+No. Appearing: 1d3, Wild 1d3, Lair 1d3
+Save As: Fighter: 4
+Morale: 8
+Treasure Type: None
+XP: 280
+
 Giant tarantulas are huge, hairy spiders, about the size of a pony.  They run down their prey much as wolves do.  The bite of the giant tarantula is poisonous; those bitten must save vs. Poison or be forced to dance wildly.  The dance lasts 2d10 rounds, during which time the victim has a -4 penalty on attack and saving throw rolls.  If the victim is a Thief, they cannot use any Thief abilities while dancing.  Onlookers must save vs. Spells or begin dancing themselves; such "secondary" victims suffer the same penalties as above, but they will only dance for 2d4 rounds.
 Each round the original victim dances, they must save vs. Poison again or take 1d4 points of damage.  Secondary victims do not suffer this effect.  Neutralize poison will cure the original victim, and dispel magic will stop the dance for all victims in the area of effect, whether they are original or secondary.
+
+@@
+
 Sprite
-Armor Class:
-15
-Hit Dice:
-1/2 (1d4 hit points) *
-No. of Attacks:
-1 dagger or 1 spell
-Damage:
-1d4 dagger or by spell
-Movement:
-20' Fly 60'
-No. Appearing:
-3d6, Wild 3d6, Lair 5d8
-Save As:
-Magic-User: 4 (with Elf bonuses)
-Morale:
-7
-Treasure Type:
-S
-XP:
-13
+Armor Class: 15
+Hit Dice: 1/2 (1d4 hit points) *
+No. of Attacks: 1 dagger or 1 spell
+Damage: 1d4 dagger or by spell
+Movement: 20' Fly 60'
+No. Appearing: 3d6, Wild 3d6, Lair 5d8
+Save As: Magic-User: 4 (with Elf bonuses)
+Morale: 7
+Treasure Type: S
+XP: 13
+
 Sprites are reclusive fey creatures which resemble tiny elves just a foot tall with dragonfly-like wings.  Though they may act as tricksters on occasion, they hate all forms of evil and ugliness, fighting all such foes with their tiny weapons and their magical abilities.  Sprites are clever but they are not deep thinkers, and sometimes can be fooled into helping an evil creature or harming a good one due to their natural belief that evil is ugly and ugly is evil.
 Five sprites acting together can cast remove curse, or its reversed form bestow curse, once per day.
-Squid, Giant
 
-Male
-Female
-Armor Class:
-16
-17
-Hit Dice:
-6
-7
-No. of Attacks:
--  8 tentacles, 1 bite 
-Damage:
-1d4 tentacle,
-1d10 bite
-1d4 tentacle,
-1d12 bite
-Movement:
--  Swim 40' 
-No. Appearing:
--  Wild 1d4 (see below) 
-Save As:
-Fighter: 6
-Fighter: 7
-Morale:
-8
-8
-Treasure Type:
-None
-None
-XP:
-500
-670
+@@
+
+Squid, Giant, Male
+Armor Class: 16
+Hit Dice: 6
+No. of Attacks: 8 tentacles, 1 bite 
+Damage: 1d4 tentacle, 1d10 bite
+Movement: Swim 40' 
+No. Appearing: Wild 1d4 (see below) 
+Save As: Fighter: 6
+Morale: 8
+Treasure Type: None
+XP: 500
+
 The giant squid dwells in the deep ocean.  One can grow to a tremendous size, to a maximum of around 40 feet for females and 33 feet for males.  The mantle of the giant squid is about 61/2 feet long (more for females, less for males).  Their tentacles are studded with barbs and sharp-edged suckers.
 Members of any group of these creatures encountered are equally likely to be male or female.  The GM may roll for this or may assign them as they see fit.
 In order to bite a creature, the giant squid must hit with at least two tentacles first.  Further, any time a giant squid hits with at least one tentacle per each 75 pounds of weight of its prey, it has grabbed it; unless the victim can find a way to resist (using whatever method the player might think of and whatever rolls the GM may choose), they will be pulled into the water and thus be in danger of drowning.  Don't forget to account for the weight of armor worn!
 If a giant squid fails a morale check, it will squirt out a cloud of black "ink" 30' in diameter and then jet away at twice normal speed for 3d8 rounds.  If a group fails a morale check they will move away in random directions in hopes that at least one will escape any pursuit.
+
+@@
+
+Squid, Giant, Female
+Armor Class: 17
+Hit Dice: 7
+No. of Attacks: 8 tentacles, 1 bite 
+Damage: 1d4 tentacle, 1d12 bite
+Movement: Swim 40' 
+No. Appearing: Wild 1d4 (see below) 
+Save As: Fighter: 7
+Morale: 8
+Treasure Type: None
+XP: 670
+
+The giant squid dwells in the deep ocean.  One can grow to a tremendous size, to a maximum of around 40 feet for females and 33 feet for males.  The mantle of the giant squid is about 61/2 feet long (more for females, less for males).  Their tentacles are studded with barbs and sharp-edged suckers.
+Members of any group of these creatures encountered are equally likely to be male or female.  The GM may roll for this or may assign them as they see fit.
+In order to bite a creature, the giant squid must hit with at least two tentacles first.  Further, any time a giant squid hits with at least one tentacle per each 75 pounds of weight of its prey, it has grabbed it; unless the victim can find a way to resist (using whatever method the player might think of and whatever rolls the GM may choose), they will be pulled into the water and thus be in danger of drowning.  Don't forget to account for the weight of armor worn!
+If a giant squid fails a morale check, it will squirt out a cloud of black "ink" 30' in diameter and then jet away at twice normal speed for 3d8 rounds.  If a group fails a morale check they will move away in random directions in hopes that at least one will escape any pursuit.
+
+@@
+
 Stirge
-Armor Class:
-13
-Hit Dice:
-1*
-No. of Attacks:
-1 bite
-Damage:
-1d4 bite, 1d4/round blood drain
-Movement:
-10' Fly 60'
-No. Appearing:
-1d10, Wild 3d12, Lair 3d12
-Save As:
-Fighter: 1
-Morale:
-9
-Treasure Type:
-D
-XP:
-37
+Armor Class: 13
+Hit Dice: 1*
+No. of Attacks: 1 bite
+Damage: 1d4 bite, 1d4/round blood drain
+Movement: 10' Fly 60'
+No. Appearing: 1d10, Wild 3d12, Lair 3d12
+Save As: Fighter: 1
+Morale: 9
+Treasure Type: D
+XP: 37
+
 Stirges are weird winged creatures that some say may have invaded from some other plane of existence.  They are relatively small, just about 1 foot long with a wingspan of about 2 feet and an average weight of 1 pound.  They vaguely resemble hairless bats with a rubbery tubular proboscis and no back legs (so that their body simply comes to a blunt point at the rear).
 If a stirge hits a living creature, it grabs on with hooked claws on its wing joints and quickly embeds its proboscis in the victim's body.  The proboscis has rows of tiny serrated teeth on the inside, and literally turns itself inside out as it carves a way into the victim's body.  This causes 1d4 points of damage, and the stirge then proceeds to suck the victim's blood, inflicting an additional 1d4 points of damage each round.
 Once attached, the creature can only be removed by killing it.  The victim cannot use weapons larger than a dagger or hand axe to attack the creature, and cannot attack it at all if attacked from behind.  Others may attack the creature with a bonus of +2 on the die roll, but any attack that misses hits the victim instead.
+
+@@
+
 Strangle Vine
-Armor Class:
-15
-Hit Dice:
-6
-No. of Attacks:
-1 entangle
-Damage:
-1d8 + 1d8/round entangle
-Movement:
-5'
-No. Appearing:
-1d4+1
-Save As:
-Fighter: 6
-Morale:
-12
-Treasure Type:
-U
-XP:
-500
+Armor Class: 15
+Hit Dice: 6
+No. of Attacks: 1 entangle
+Damage: 1d8 + 1d8/round entangle
+Movement: 5'
+No. Appearing: 1d4+1
+Save As: Fighter: 6
+Morale: 12
+Treasure Type: U
+XP: 500
+
 A strangle vine (sometimes called an assassin vine) is a strange animated plant found in temperate and tropical forests, particularly in areas with poor-quality soil.  They fertilize their soil by entangling, constricting, and killing living creatures, then depositing the bodies in loose soil around the plant's base.
 Because it can lie very still indeed, a strangle vine surprises on a roll of 1-4 on 1d6.  A successful hit inflicts 1d8 points of damage, and the victim becomes entangled, suffering an additional 1d8 points of damage thereafter.  A victim may attempt to escape by rolling a saving throw vs. Death Ray with Strength bonus added; this is a full action, so the victim may not attempt this and also perform an attack.  The plant will continue to crush its victim until one or the other is dead or the victim manages to escape.
 Strangle vines are actually mobile, able to uproot themselves and move slowly from place to place; one  generally only does so to seek new hunting grounds.  They have no visual organs but can sense foes within 30 feet by sound and vibration.
