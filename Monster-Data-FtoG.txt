@@ -66,147 +66,101 @@ Giant bass are predatory, and on a natural attack roll of 20 a giant bass will s
 
 @@
 
-@STOP@
-
 Fish, Giant Catfish
-Armor Class:
-16
-Hit Dice:
-8
-No. of Attacks:
-1 bite, 2 fins
-Damage:
-2d8 bite, 1d4+poison fin
-Movement:
-Swim 30' (10')
-No. Appearing:
-Wild 1d2
-Save As:
-Fighter: 8
-Morale:
-8
-Treasure Type:
-None
-XP:
-875
+Armor Class: 16
+Hit Dice: 8
+No. of Attacks: 1 bite, 2 fins
+Damage: 2d8 bite, 1d4+poison fin
+Movement: Swim 30' (10')
+No. Appearing: Wild 1d2
+Save As: Fighter: 8
+Morale: 8
+Treasure Type: None
+XP: 875
+
 Giant catfish fins are edged with a natural poison that causes a painful burning sensation for 3d10 rounds if a save vs. Poison is failed.  The pain causes the affected character or creature to suffer a -1 penalty on all attack rolls and saving throws; further poisonings will increase this penalty by -1 each, down to a maximum penalty of -5 as well as adding 6 rounds to the duration of the poison effect.
 Because of its large size (15 to 20 feet long) and body design, a giant catfish cannot target more than one of its attacks on any single creature; that is, it cannot bite and fin the same opponent, nor use both fins on one victim.
+
+@@
+
 Fish, Giant Piranha
-Armor Class:
-15
-Hit Dice:
-4
-No. of Attacks:
-1 bite
-Damage:
-1d8
-Movement:
-Swim 50'
-No. Appearing:
-Wild 2d4
-Save As:
-Fighter: 4
-Morale:
-7 (11)
-Treasure Type:
-None
-XP:
-240
+Armor Class: 15
+Hit Dice: 4
+No. of Attacks: 1 bite
+Damage: 1d8
+Movement: Swim 50'
+No. Appearing: Wild 2d4
+Save As: Fighter: 4
+Morale: 7 (11)
+Treasure Type: None
+XP: 240
+
 Giant piranha average 5' in length at adulthood, and are aggressive carnivores.  They are able to sense blood in the water just as sharks do, and once they smell or taste blood in the water, their morale rises to the parenthesized figure.
+
+@@
+
 Fly, Giant
-Armor Class:
-14
-Hit Dice:
-2
-No. of Attacks:
-1 bite
-Damage:
-1d8
-Movement:
-30' Fly 60'
-No. Appearing:
-1d6, Wild 2d6
-Save As:
-Fighter: 2
-Morale:
-8
-Treasure Type:
-None
-XP:
-75
+Armor Class: 14
+Hit Dice: 2
+No. of Attacks: 1 bite
+Damage: 1d8
+Movement: 30' Fly 60'
+No. Appearing: 1d6, Wild 2d6
+Save As: Fighter: 2
+Morale: 8
+Treasure Type: None
+XP: 75
+
 Giant flies look much like ordinary houseflies, but are about 3' long.  Some are banded yellow and black, and are thus mistaken for giant bees.  Giant flies are predators; after killing prey, they will sometimes lay eggs in the remains.
+
+@@
+
 Frog, Giant (and Toad, Giant)
-Armor Class:
-13
-Hit Dice:
-2
-No. of Attacks:
-1 tongue or 1 bite
-Damage:
-tongue grab or 1d4+1 bite
-Movement:
-30' Swim 30'
-No. Appearing:
-1d4, Wild 1d4
-Save As:
-Fighter: 2
-Morale:
-6
-Treasure Type:
-None
-XP:
-75
+Armor Class: 13
+Hit Dice: 2
+No. of Attacks: 1 tongue or 1 bite
+Damage: tongue grab or 1d4+1 bite
+Movement: 30' Swim 30'
+No. Appearing: 1d4, Wild 1d4
+Save As: Fighter: 2
+Morale: 6
+Treasure Type: None
+XP: 75
+
 Giant frogs are enlarged versions of the common frog; most resemble bullfrogs in appearance, but an adult giant frog is 3' long and weighs about 250 pounds.  They are predators, but will normally only attack creatures smaller than themselves.  Giant toads are statistically just like giant frogs; however, they are often found in "drier" areas as they do not have to maintain a wet skin surface.
 A giant frog can stretch its tongue out up to 15' and drag up to dwarf-sized prey to its mouth; on every subsequent round, the victim is hit automatically.  On a natural 20 attack roll, the victim is swallowed whole, taking 1d6 points of damage per round thereafter.  Each giant frog can swallow only one such victim.
+
+@@
+
 Gargoyle*
-Armor Class:
-15 (m)
-Hit Dice:
-4**
-No. of Attacks:
-2 claws, 1 bite, 1 horn
-Damage:
-1d4 claw, 1d6 bite, 1d4 horn
-Movement:
-30' Fly 50' (15')
-No. Appearing:
-1d6, Wild 2d4, Lair 2d4
-Save As:
-Fighter: 6
-Morale:
-11
-Treasure Type:
-C
-XP:
-320
+Armor Class: 15 (m)
+Hit Dice: 4**
+No. of Attacks: 2 claws, 1 bite, 1 horn
+Damage: 1d4 claw, 1d6 bite, 1d4 horn
+Movement: 30' Fly 50' (15')
+No. Appearing: 1d6, Wild 2d4, Lair 2d4
+Save As: Fighter: 6
+Morale: 11
+Treasure Type: C
+XP: 320
+
 Gargoyles are demonic-looking winged humanoid monsters with gray stone-like skin.  They can remain still for an extended period, and are thus often mistaken for stone statues.  Gargoyles use this disguise to ambush their foes, surprising on 1-4 on 1d6 if their foes do not otherwise suspect them.  They are cruel monsters, inflicting pain on other creatures for the sole purpose of enjoyment.
 Gargoyles can go for very long periods of time, on the order of decades, without air or sustenance.  Due to their highly magical nature, they can only be harmed by magical weapons.
 
-Gelatinous Cube
-See Jelly, Glass on page 95.
-Ghast
-See Ghoul (and Ghast) on page 62.
+@@
+
 Ghost*
-Armor Class:
-20 (m)
-Hit Dice:
-10* (+9)
-No. of Attacks:
-1 touch or possession + fear
-Damage:
-1d8 + special touch and see below
-Movement:
-30'
-No. Appearing:
-1
-Save As:
-Fighter: 10
-Morale:
-10
-Treasure Type:
-E, N, O
-XP:
-1,390
+Armor Class: 20 (m)
+Hit Dice: 10* (+9)
+No. of Attacks: 1 touch or possession + fear
+Damage: 1d8 + special touch and see below
+Movement: 30'
+No. Appearing: 1
+Save As: Fighter: 10
+Morale: 10
+Treasure Type: E, N, O
+XP: 1,390
+
 A ghost is the soul or spirit of a deceased sentient creature that has for some reason remained on the material plane.  They usually appear as they did in life, but sometimes the appearance of a ghost is altered by its original personality; for instance, the ghost of an angry person might have a threatening or even demonic visage.  Ghosts are undead, and as such are immune to sleep, charm, and hold magic.
 Seeing a ghost is so terrible that any living creature who does so must save vs. Spells or flee for 2d6 rounds.  Anyone who successfully makes this save may not be so affected by that ghost again.
 A ghost that hits a living target with its touch attack does 1d8 points of damage, and at the same time regenerates the same number of hit points.  In addition, the victim loses 1 Constitution point.  Elves and dwarves (and other long-lived creatures such as dragons) are allowed a saving throw vs. Death Ray to resist this effect, which must be rolled on each hit.  Characters who lose Constitution appear to have aged.  If a ghost is fighting a living creature which does not have a Constitution score, the GM should assign whatever score they see fit.
@@ -214,561 +168,416 @@ Like most incorporeal creatures, ghosts may normally be hit only by magical weap
 Lost Constitution can be regained at a rate of one point per casting of restoration; nothing else (except a wish) can restore Constitution lost to a ghost. If a character's Constitution falls to 0, they die permanently and cannot be raised (but still may be reincarnated).
 Once per turn, a ghost can use telekinesis (as the spell) as if it were a 10th level Magic-User.
 Instead of attacking, a ghost may attempt to possess a living creature. This ability is similar to a magic jar spell (as if cast by a 10th level Magic-User), except that it does not require a receptacle.  To use this ability, the ghost must be able to move into the target (so it is possible to avoid this attack by outrunning the ghost).  The target can resist the attack with a successful save vs. Spells.  A creature that successfully saves is immune to being possessed by that ghost for 24 hours.  If the save fails, the ghost enters the target's body and controls it; control may be maintained until the ghost chooses to leave the victim's body, or until it is driven out by means of a remove curse or dispel evil spell.  While it is possessing a living creature, a ghost may not use any of its special abilities.
-Ghoul (and Ghast)
+
+@@
 
 Ghoul
-Ghast
-Armor Class:
-14
-15
-Hit Dice:
-2*
-2**
-No. of Attacks:
--  2 claws, 1 bite 
-Damage:
-1d4 claw, 1d4 bite, all plus paralysis
-1d4 claw, 1d4 bite, + paralysis + stench
-Movement:
-30'
-30'
-No. Appearing:
-1d6, Wild 2d8, Lair 2d8
-1d4, Wild 1d8, Lair 1d8
-Save As:
-Fighter: 2
-Fighter: 2
-Morale:
-9
-9
-Treasure Type:
-B
-B
-XP:
-100
-125
+Armor Class: 14
+Hit Dice: 2*
+No. of Attacks: 2 claws, 1 bite 
+Damage: 1d4 claw, 1d4 bite, all plus paralysis
+Movement: 30'
+No. Appearing: 1d6, Wild 2d8, Lair 2d8
+Save As: Fighter: 2
+Morale: 9
+Treasure Type: B
+XP: 100
+
 Ghouls are undead monsters which eat the flesh of dead humanoids to survive.  They are vile, disgusting carrion-eaters, but are more than willing to kill for food.  Those slain by ghouls will generally be stored until they begin to rot before the ghouls will actually eat them.
 Living creatures hit by a ghoul's bite or claw attack must save vs. Paralysis or be paralyzed for 2d8 turns.  Elves are immune to this paralysis.  Ghouls try to attack with surprise whenever possible, striking from behind tombstones or bursting from shallow graves; when they attack in this way, they are able to surprise opponents on 1-3 on 1d6. Like all undead, they may be Turned by Clerics and are immune to sleep, charm, and hold magics.
 Humanoids bitten by ghouls may be infected with ghoul fever.  Each time a humanoid is bitten, there is a 5% chance of the infection being passed.  The afflicted humanoid is allowed to save vs. Death Ray; if the save is failed, the humanoid dies within a day.
 An afflicted humanoid who dies of ghoul fever rises as a ghoul at the next midnight. A humanoid who becomes a ghoul in this way retains none of the knowledge or abilities they possessed in life.  The newly-risen ghoul is not under the control of any other ghouls, but hungers for the flesh of the dead and behaves like any other ghoul in all respects.
-Ghasts look and fight almost exactly like ghouls, but they are smarter and just a bit more powerful.  Refer to the previous paragraphs for information about their claw attacks and other abilities.
+
+@@
+
+Ghast
+Armor Class: 15
+Hit Dice: 2**
+No. of Attacks: 2 claws, 1 bite 
+Damage: 1d4 claw, 1d4 bite, + paralysis + stench
+Movement: 30'
+No. Appearing: 1d4, Wild 1d8, Lair 1d8
+Save As: Fighter: 2
+Morale: 9
+Treasure Type: B
+XP: 125
+
+Ghasts look and fight almost exactly like ghouls, but they are smarter and just a bit more powerful.  Review the Ghoul entry for details.
 The stink of death and corruption surrounding these creatures is overwhelming. Living creatures within 10 feet must succeed on a save vs. Poison or be sickened for 2d6 rounds (-2 to attack rolls). A creature that successfully saves cannot be affected again by the same ghast's stench for 24 hours. A neutralize poison spell removes the effect from a sickened creature.
 They may be Turned by Clerics using the same column as the ghoul, but as they are superior to ghouls, in a mixed group of ghasts and ghouls the GM should apply Turning effects to the ordinary ghouls first.
 Humanoids bitten by ghasts may be infected with ghast fever. Each time a humanoid is bitten, there is a 10% chance of the infection being passed. The afflicted humanoid is allowed to save vs. Death Ray; if the save is failed, the humanoid dies within a day.
 An afflicted humanoid who dies of ghast fever rises as a ghast at the next midnight, in a similar fashion to the ghoul. However, a humanoid who becomes a ghast in this way retains all of the knowledge and abilities they possessed in life, unless those abilities are directly incompatible with the creature's new form (as decided by the GM).  For such ghasts, the GM should also adjust XP values to include any such abilities.  The newly-risen ghast is not under the control of any other ghasts, but hungers for the flesh of the living and behaves like any other ghast in all respects.
+
+@@
+
 Giant, Cloud
-Armor Class:
-19 (13)
-Hit Dice:
-12+3* (+10)
-No. of Attacks:
-1 giant weapon or 1 thrown rock
-Damage:
-6d6 giant weapon or 3d6 rock
-Movement:
-20' Unarmored 40' (10')
-No. Appearing:
-1d2, Wild 1d3, Lair 1d3
-Save As:
-Fighter: 12
-Morale:
-10
-Treasure Type:
-E + 1d12x1,000 gp
-XP:
-1,975
+Armor Class: 19 (13)
+Hit Dice: 12+3* (+10)
+No. of Attacks: 1 giant weapon or 1 thrown rock
+Damage: 6d6 giant weapon or 3d6 rock
+Movement: 20' Unarmored 40' (10')
+No. Appearing: 1d2, Wild 1d3, Lair 1d3
+Save As: Fighter: 12
+Morale: 10
+Treasure Type: E + 1d12x1,000 gp
+XP: 1,975
+
 Cloud giants are huge, with males averaging 18 feet tall and females 17 feet tall; an adult cloud giant will normally weigh more than 4,750 pounds.  They have very pale skin, sometimes with a slight bluish tint, and their hair is bright metallic colors such as silver, brass, or even gold.  They have long lives, with most surviving to 400 years barring disease or misadventure.
 Cloud giants are often vain, convinced they are the highest form of creation.  They wear the finest clothing, make and eat the best food and drink, and live in castles built on high mountains or even in the clouds themselves.  Like most giants, they are suspicious of the smaller races, but cloud giants do not usually prey upon them, preferring instead to demand tribute from smaller humanoids living nearby.
 Despite being self-centered, they fight in highly trained units that use sound tactics; their belief in their own superiority allows no less.  Attacking from above is preferred, and ranged attacks are always considered better than melee.  To that end, cloud giants can throw large stones up to 200' for 3d6 points of damage each.  Also, 5% of cloud giants have the abilities of a Magic-User of level 2 to 8 (2d4).  A favorite tactic is to encircle enemies, barraging them with rocks while the giants with magical abilities confound them with spells.  In battle, cloud giants wear finely crafted, intricately engraved plate mail.
+
+@@
+
 Giant, Cyclops
-Armor Class:
-15 (13)
-Hit Dice:
-13* (+10)
-No. of Attacks:
-1 giant club or 1 rock (thrown)
-Damage:
-3d10 giant club or 3d6 rock
-Movement:
-20' Unarmored 30'
-No. Appearing:
-1, Wild 1d4, Lair 1d4
-Save As:
-Fighter: 13
-Morale:
-9
-Treasure Type:
-E + 1d8x1,000 gp
-XP:
-2,285
+Armor Class: 15 (13)
+Hit Dice: 13* (+10)
+No. of Attacks: 1 giant club or 1 rock (thrown)
+Damage: 3d10 giant club or 3d6 rock
+Movement: 20' Unarmored 30'
+No. Appearing: 1, Wild 1d4, Lair 1d4
+Save As: Fighter: 13
+Morale: 9
+Treasure Type: E + 1d8x1,000 gp
+XP: 2,285
+
 A cyclops is a one-eyed giant.  Huge and brutish, they most resemble hill giants, and even dress in the same "style," layers of crudely prepared hides with the fur left on, unwashed and unrepaired.  They are reclusive and unfriendly to almost all of the smaller races.
 A cyclops can throw a large rock up to 200' for 3d6 points of damage, but they aim poorly and thus suffer an attack penalty of -2.  Once per year, a cyclops can cast the spell bestow curse (the reverse of the spell remove curse).
+
+@@
+
 Giant, Fire
-Armor Class:
-17 (13)
-Hit Dice:
-11+2* (+9)
-No. of Attacks:
-1 giant weapon or 1 thrown rock
-Damage:
-5d6 giant weapon or 3d6 rock
-Movement:
-20' Unarmored 40' (10')
-No. Appearing:
-1d2, Wild 1d3, Lair 1d3
-Save As:
-Fighter: 11
-Morale:
-9
-Treasure Type:
-E + 1d10x1,000 gp
-XP:
-1,670
+Armor Class: 17 (13)
+Hit Dice: 11+2* (+9)
+No. of Attacks: 1 giant weapon or 1 thrown rock
+Damage: 5d6 giant weapon or 3d6 rock
+Movement: 20' Unarmored 40' (10')
+No. Appearing: 1d2, Wild 1d3, Lair 1d3
+Save As: Fighter: 11
+Morale: 9
+Treasure Type: E + 1d10x1,000 gp
+XP: 1,670
+
 Despite their great size, fire giants have a Dwarf-like appearance, being barrel-chested with thick arms and legs; average males stand 14 feet tall and weigh around 3,200 pounds, while females average 13 feet tall and around 3,000 pounds.  Their skin is ruddy, their hair is black, and their eyes are a very dark red that is almost black (and looks that color in poor lighting).
 Fire giants are unfriendly to almost all other humanoid races, though they sometimes subjugate those living nearby to act as their servants.
 In combat they favor heavy plate steel armor (the first AC given above) made of steel blackened by quenching in oil.  They arm themselves with massive weapons made of the same material.  A fire giant can throw large stones up to 200' for 3d6 points of damage.  Fire giants are immune to all fire-based attacks.
+
+@@
+
 Giant, Frost
-Armor Class:
-17 (13)
-Hit Dice:
-10+1* (+9)
-No. of Attacks:
-1 giant weapon or 1 thrown rock
-Damage:
-4d6 giant weapon or 3d6 rock
-Movement:
-20' Unarmored 40' (10')
-No. Appearing:
-1d2, Wild 1d4, Lair 1d4
-Save As:
-Fighter: 10
-Morale:
-9
-Treasure Type:
-E + 1d10x1,000 gp
-XP:
-1,390
+Armor Class: 17 (13)
+Hit Dice: 10+1* (+9)
+No. of Attacks: 1 giant weapon or 1 thrown rock
+Damage: 4d6 giant weapon or 3d6 rock
+Movement: 20' Unarmored 40' (10')
+No. Appearing: 1d2, Wild 1d4, Lair 1d4
+Save As: Fighter: 10
+Morale: 9
+Treasure Type: E + 1d10x1,000 gp
+XP: 1,390
+
 Frost giants have pale, almost white skin, blonde or pale blue hair, and bright blue eyes.  Average males stand 15 feet tall and weigh around 2,800 pounds, while females average 14 feet tall and 2,500 pounds.
 Frost giants are, first and foremost, cunning.  They dislike the smaller races as much as any giant, but rather than attacking outright they will try to use their advantages to convince those weaker than them to submit.  If faced with a stronger force, frost giants will parley or withdraw if possible, attacking only if victory seems assured.
 In combat frost giants prefer brightly-polished steel chainmail worn over their customary clothing of leather and fur (the first AC given above), and weapons of the same material.  A frost giant can throw large stones up to 200' for 3d6 points of damage.  Frost giants are immune to all ice or cold-based attacks.
+
+@@
+
 Giant, Hill
-Armor Class:
-15 (13)
-Hit Dice:
-8
-No. of Attacks:
-1 giant weapon (club)
-Damage:
-2d8 giant weapon
-Movement:
-30' Unarmored 40'
-No. Appearing:
-1d4, Wild 2d4, Lair 2d4
-Save As:
-Fighter: 8
-Morale:
-8
-Treasure Type:
-E + 1d8x1,000 gp
-XP:
-875
+Armor Class: 15 (13)
+Hit Dice: 8
+No. of Attacks: 1 giant weapon (club)
+Damage: 2d8 giant weapon
+Movement: 30' Unarmored 40'
+No. Appearing: 1d4, Wild 2d4, Lair 2d4
+Save As: Fighter: 8
+Morale: 8
+Treasure Type: E + 1d8x1,000 gp
+XP: 875
+
 The smallest of giants, adult hill giants stand between 10 and 12 feet in height and weigh about 1,100 pounds.  They have medium brown skin, though they are often so dirty as to hide their true skin color; their hair is dark, lank, and greasy, and their  eyes are dark as well.  They wear crude clothing made of leather; the lack of livestock or game of great enough size often results in whole pelts being stitched together.
 Whether attacking with a weapon or fist, hill giants deal 2d8 damage.  Hill giants are brutish and aggressive.  They are sometimes found leading groups of ogres or bugbears.  Hill giants often keep dire wolves as pets.
+
+@@
+
 Giant, Mountain
-Armor Class:
-15 (13)
-Hit Dice:
-16 (+12)
-No. of Attacks:
-1 giant weapon or 1 thrown rock
-Damage:
-7d6 (8d6) giant weapon, 4d6 rock
-Movement:
-40' Unarmored 50' (10')
-No. Appearing:
-1d4, Wild 1d4, Lair 1d4+1
-Save As:
-Fighter: 16
-Morale:
-10
-Treasure Type:
-E + 1d12x1,000 gp
-XP:
-3,250
+Armor Class: 15 (13)
+Hit Dice: 16 (+12)
+No. of Attacks: 1 giant weapon or 1 thrown rock
+Damage: 7d6 (8d6) giant weapon, 4d6 rock
+Movement: 40' Unarmored 50' (10')
+No. Appearing: 1d4, Wild 1d4, Lair 1d4+1
+Save As: Fighter: 16
+Morale: 10
+Treasure Type: E + 1d12x1,000 gp
+XP: 3,250
+
 Mountain giants are the largest of all giants, with adult males averaging 24 feet in height and weighing around 16,000 pounds.  Females are slightly smaller, standing 22 feet tall on the average and weighing around 14,000 pounds.  They look very much like enormous, thickly built hill giants, and among humans they are often seen as little more than that.  This is underselling the mountain giants, however, for though their crafting is primitive they have an intricately detailed social structure.
 Mountain giants live in clans, led by the oldest male and female (or by their oldest offspring if the elders choose to delegate leadership due to advanced age).  Each clan rules over and controls a group of 1d6 mountain peaks, generally spanning an area with a 5-6 mile diameter.  They prefer peaks connected by high ridges so that they do not have to descend too far when walking their territory.  Clan members who are mated establish households within the territory; unmarried members typically live with their parents until they are wed.  The "lair" encounter figures above are for a single household, but if one household is attacked and the attackers subsequently retreat, upon their return they will usually find much of the rest of the clan waiting for them in ambush.
 They wear armor made of wood held together with heavy rope, and wield giant clubs or staves carved from fully grown trees harvested from the lower reaches of their territory.  If they live near storm giants, they may trade for better weapons (the second damage rating given above) but usually cannot afford storm giant armor.
 A mountain giant can throw large stones up to 240' for 4d6 points of damage each.
 
+@@
+
 Giant, Stone
-Armor Class:
-17 (15)
-Hit Dice:
-9 (+8)
-No. of Attacks:
-1 stone club or 1 thrown rock
-Damage:
-3d6 stone club or 3d6 rock
-Movement:
-30' Unarmored 40'
-No. Appearing:
-1d2, Wild 1d6, Lair 1d6
-Save As:
-Fighter: 9
-Morale:
-9
-Treasure Type:
-E + 1d8x1,000 gp
-XP:
-1,075
+Armor Class: 17 (15)
+Hit Dice: 9 (+8)
+No. of Attacks: 1 stone club or 1 thrown rock
+Damage: 3d6 stone club or 3d6 rock
+Movement: 30' Unarmored 40'
+No. Appearing: 1d2, Wild 1d6, Lair 1d6
+Save As: Fighter: 9
+Morale: 9
+Treasure Type: E + 1d8x1,000 gp
+XP: 1,075
+
 Stone giants are not the largest of giants, but with an average adult standing 12 feet tall and weighing roughly 1,500 pounds they are still formidable.  There is no substantial difference in height between males and females.  They usually dress in heavy leather clothing with sections having been boiled to stiffen them; these outfits serve as armor and give them the first AC above.  Stone giants are reclusive, but they will defend their territory (typically in rocky mountainous terrain) against any who trespass therein.
 A stone giant can throw large stones up to 300' for 3d6 points of damage.  They will fight in groups to defend their territory but use only simple, basic tactics and strategy.
+
+@@
+
 Giant, Storm
-Armor Class:
-19 (13)
-Hit Dice:
-15** (+11)
-No. of Attacks:
-1 giant weapon or 1 lightning bolt
-Damage:
-8d6 giant weapon or 15d6 lightning
-Movement:
-30' Unarmored 50' (10')
-No. Appearing:
-1, Wild 1d3, Lair 1d3
-Save As:
-Fighter: 15
-Morale:
-10
-Treasure Type:
-E + 1d20x1,000 gp
-XP:
-3,100
+Armor Class: 19 (13)
+Hit Dice: 15** (+11)
+No. of Attacks: 1 giant weapon or 1 lightning bolt
+Damage: 8d6 giant weapon or 15d6 lightning
+Movement: 30' Unarmored 50' (10')
+No. Appearing: 1, Wild 1d3, Lair 1d3
+Save As: Fighter: 15
+Morale: 10
+Treasure Type: E + 1d20x1,000 gp
+XP: 3,100
+
 Storm giants are nearly the largest of the giants, with adult males standing 21 feet tall and weighing around 12,000 pounds; adult females average 20 feet and typically weigh around 11,000 pounds.  Most storm giants have pale skin and dark hair, but some individuals have skin of a lavender color, and some have pale white or silver hair.  Their eyes range from bright blue to deep gray in color.
 They prefer to dress in light clothing, such as tunics, sandals, and so on, but in battle they wear finely-crafted plate mail armor of bright metal and wield weapons of the same sort.  Their equipment usually appears to be silver but those of the highest class or rank wear armor and bear arms of a bright and shining golden color.
 Unlike most other giants, storm giants have been known to befriend humans, elves, or dwarves.
 Storm giants have the ability to throw lightning bolts as if they were spears (which work just as the spell does, and can be used once per five rounds; a save vs. Spells reduces damage to half).  They prefer to attack first with lightning before moving on to other attack forms.  Not surprisingly, storm giants are resistant to all forms of lightning or electrical attack, suffering only half damage normal when so attacked.
 Also note that 10% of storm giants have the abilities of a Magic-User of level 2 to 12 (2d6).
+
+@@
+
 Gnoll
-Armor Class:
-15 (13)
-Hit Dice:
-2
-No. of Attacks:
-1 weapon
-Damage:
-2d4 or by weapon +1
-Movement:
-30' Unarmored 40'
-No. Appearing:
-1d6, Wild 3d6, Lair 3d6
-Save As:
-Fighter: 2
-Morale:
-8
-Treasure Type:
-Q, S each; D, K in lair
-XP:
-75
+Armor Class: 15 (13)
+Hit Dice: 2
+No. of Attacks: 1 weapon
+Damage: 2d4 or by weapon +1
+Movement: 30' Unarmored 40'
+No. Appearing: 1d6, Wild 3d6, Lair 3d6
+Save As: Fighter: 2
+Morale: 8
+Treasure Type: Q, S each; D, K in lair
+XP: 75
+
 Gnolls are large fur-covered humanoids, averaging 71/2 feet in height and weighing about 300 pounds.  They are best recognized by their heads, which resemble those of hyenas (or perhaps wolves) but with shorter muzzles than either.
 Gnolls are nocturnal and have Darkvision with a 30' range.  They are cruel carnivores, preferring intelligent creatures for food because they scream more.  They show little discipline when fighting unless they have a strong leader.
 One out of every six gnolls will be a hardened warrior of 4 Hit Dice (240 XP) having a +1 bonus to damage due to strength.  Gnolls gain a +1 bonus to their morale if they are led by such a warrior.  In lairs of 12 or greater, there will be a pack leader of 6 Hit Dice (500 XP) having a +2 bonus to damage.  In the lair, gnolls never fail a morale check as long as the pack leader is alive.  In addition, a lair has a chance equal to 1-2 on 1d6 of a shaman being present, and 1 on 1d6 of a witch or warlock.  A shaman is equivalent to a hardened warrior statistically, and in addition has Clerical abilities at level 1d4+1.  A witch or warlock is equivalent to a regular gnoll, and has Magic-User abilities of level 1d4.
+
+@@
+
 Gnome
-Armor Class:
-15 (11)
-Hit Dice:
-1
-No. of Attacks:
-1 weapon
-Damage:
-1d6 or by weapon
-Movement:
-20' Unarmored 40'
-No. Appearing:
-1d8, Wild 5d8, Lair 5d8
-Save As:
-Fighter: 1 (with Dwarf bonuses)
-Morale:
-8
-Treasure Type:
-D
-XP:
-25
+Armor Class: 15 (11)
+Hit Dice: 1
+No. of Attacks: 1 weapon
+Damage: 1d6 or by weapon
+Movement: 20' Unarmored 40'
+No. Appearing: 1d8, Wild 5d8, Lair 5d8
+Save As: Fighter: 1 (with Dwarf bonuses)
+Morale: 8
+Treasure Type: D
+XP: 25
+
 Gnomes are humanoids distantly related to dwarves; they have a similar appearance, but are smaller (averaging 3 to 31/2 feet tall and weighing 40 to 45 pounds) and less stocky.  Their ears are pointed, not in as pronounced a fashion as elves but certainly noticeable, and their noses likewise are pointed a bit more than those of most other kinds of humanoids.  Their preferred habitat is the forest, preferably in a hilly temperate region.
 They have Darkvision with a 30' range. When attacked in melee by creatures larger than man-sized, gnomes gain a +1 bonus to their Armor Class.  Outdoors in their preferred forest terrain they are able to hide very effectively; so long as they remain still there is only a 20% chance they will be detected.  If one or more gnomes who are successfully hiding attack from ambush, they surprise their foes on 1-4 on 1d6.
 Gnomes have their own language, and many also know the language of the dwarves.  Some gnomes make their living as traders, often acting as go-betweens for dwarves and humans, and those gnomes naturally tend to learn Common.  Those who are engaged in defending their forest settlements from humanoid incursions often choose to learn Goblin or Orc.
 Gnomes encountered in the wilderness (who are not traders or merchants) are likely to be unfriendly, but not hostile.  They tolerate dwarves but dislike most other humanoid races.  When forced to interact with other races, a gnome will generally be recalcitrant, unless offered a significant amount of treasure.
 The statistics given above are for warriors.  In a settlement or lair, for every warrior there will be an average of three civilians having 1-1 Hit Dice and Armor Class 11; such gnomes have Morale of 7.  One out of every eight gnome warriors will be a sergeant having 3 Hit Dice (145 XP).  Gnomes gain a +1 bonus to their morale if they are led by a sergeant.  Both warriors and sergeants commonly wear chainmail. In gnomish communities, one out of every sixteen warriors will be a captain of 5 Hit Dice (360 XP) with an Armor Class of 16 (11), adding a shield.  In addition, in communities of 35 or greater, there will be a king of 7 Hit Dice (670 XP), with an Armor Class of 18 (11), in plate mail and carrying a shield, having a +1 bonus damage due to strength.  In their community, gnomes never fail a morale check as long as the king is alive.  There is a chance equal to 1-4 on 1d6 that a community will have a Cleric of level 1d6+1, and 1-2 on 1d6 of a Magic-User of level 1d6.  Gnomish Clerics use 1d6 hit dice and Magic-Users use 1d4 hit dice, and in all other ways behave as if they were normal characters.
+
+@@
+
 Goblin
-Armor Class:
-14 (11)
-Hit Dice:
-1-1
-No. of Attacks:
-1 weapon
-Damage:
-1d6 or by weapon
-Movement:
-20' Unarmored 30'
-No. Appearing:
-2d4,Wild 6d10, Lair 6d10
-Save As:
-Fighter: 1
-Morale:
-7 or see below
-Treasure Type:
-R each; C in lair
-XP:
-10
+Armor Class: 14 (11)
+Hit Dice: 1-1
+No. of Attacks: 1 weapon
+Damage: 1d6 or by weapon
+Movement: 20' Unarmored 30'
+No. Appearing: 2d4,Wild 6d10, Lair 6d10
+Save As: Fighter: 1
+Morale: 7 or see below
+Treasure Type: R each; C in lair
+XP: 10
+
 Goblins are small, reputedly wicked humanoids.  They are cunning and vicious, and very sneaky.  Adult goblins are 3 to 31/2 feet tall and weigh 40 to 45 pounds, with very little difference between males and females.  Their skin color ranges from gray to green, and their eyes are usually bright and crafty-looking, varying in color from red to yellow.
 All goblins have Darkvision with a 30' range.
 The statistics given above are for a standard Goblin in leather armor with a shield; they have a natural Movement rate of 30' and a natural Armor Class of 11.
 Some goblins ride dire wolves into combat, and large groups of goblins will often employ them to track and attack their foes.
 One out of every eight goblins will be a warrior of 3-3 Hit Dice (145 XP).  Goblins gain a +1 bonus to their morale if they are led by a warrior.  In a lair or other settlement, one out of every fifteen will be a chieftain of 5-5 Hit Dice (360 XP) in chainmail with an Armor Class of 15 (11) and movement of 10' that gains a +1 bonus to damage due to strength.  In lairs or settlements of 30 or more goblins, there will be a goblin king of 7-7 Hit Dice (670 XP), with an Armor Class of 16 (11), wearing chainmail and carrying a shield, with a movement of 10', and having a +1 bonus to damage.  Goblins have a +2 bonus to morale while their king is present (this is not cumulative with the bonus given by a warrior leader).    In addition, a lair has a chance equal to 1 on 1d6 of a shaman being present (or 1-2 on 1d6 if a goblin king is present).  A shaman is equivalent to a regular goblin statistically, but has Clerical abilities at level 1d4+1.
 
-Golem*
-Golems are a kind of construct, a creature created from non-living matter and animated by application of magic.  The powers required to animate a golem are prodigious, and involve summoning, capturing, and binding an elemental spirit to the constructed body.  This process also binds the golem to the will of its creator.
-They are mindless, and thus immune to magics affecting the mind such as sleep, charm, hold, and any form of mind reading or telepathy.  They must be given explicit, detailed instructions verbally, and the controller must be within 60 feet of the golem to do so.  If not actively being commanded, a golem will follow the last instructions given to it until the controller returns.  If such a golem is attacked, it will fight in its own defense but will usually not pursue the attackers if they flee.  The controller can order the golem to follow the commands of another, but can always resume control if desired (i.e. the controller's commands always take precedence).
-Employing a golem in combat is tricky, for once one attacks an opponent there is a cumulative 1% chance each round (so 1% the first round, 2% the second, 3% the third, and so on) that the golem will stop following commands and become berserk.  Once this happens the golem will attack any creature in range, choosing targets randomly when there are more than one.  If all targets are killed or driven away the golem will move on, looking for more creatures to kill and breaking down any barrier that stands in its way if it is at all possible.
-The berserk chance for a golem that is still under control is reset to 0% only when the golem is inactive, neither attacking nor being attacked, for one full round.
-The creator of the golem (but not any other person who might have been delegated control) may try to calm the golem, speaking firmly to it to convince it to stop.  The creator needs to succeed at a saving throw vs. Spells to do this, after spending a round talking to the golem.  If this roll fails the golem turns its attention to the creator and pursues them with single-minded hatred.
-If a berserk golem is unable to attack anyone for 5 rounds it resumes its inactive state, and the controller can again give it commands.  If it begins to pursue its creator, though, it will never stop no matter how long it takes, and must normally be trapped or destroyed to stop it.  It has no special way to find the creator, however, and will become inactive if it loses sight of the creator for a minimum of 1 day.  If the golem is successfully calmed, it can be given commands again on the very next round of combat.
-As their bodies are made of non-living matter, golems can only be hit by magical weapons.  Conversely, they are less resistant to various effects due to the fact that they are not living creatures; in general, golems save as if they were Fighters of 1/2 their hit dice in levels.  For example, a Bone Golem has 8 hit dice, but saves as a Fighter of 4th level.
+@@
+
 Golem, Amber*
-Armor Class:
-21 (m)
-Hit Dice:
-10* (+9)
-No. of Attacks:
-2 claws, 1 bite
-Damage:
-2d6 claw, 2d10 bite
-Movement:
-60'
-No. Appearing:
-1
-Save As:
-Fighter: 5
-Morale:
-12
-Treasure Type:
-None
-XP:
-1,390
+Armor Class: 21 (m)
+Hit Dice: 10* (+9)
+No. of Attacks: 2 claws, 1 bite
+Damage: 2d6 claw, 2d10 bite
+Movement: 60'
+No. Appearing: 1
+Save As: Fighter: 5
+Morale: 12
+Treasure Type: None
+XP: 1,390
+
 Amber golems are generally built to resemble lions or other great cats.  They are able to detect invisible creatures or objects within 60', and can track with 95% accuracy through any terrain type.
 A magical attack that deals electricity damage heals 1 point of damage for every 3 full points of damage the attack would otherwise deal.  For example, an amber golem hit by a lightning bolt for 20 points of damage is instead healed up to 6 points.  If the amount of healing would cause the golem to exceed its full normal hit points, the excess is ignored.
 
+@@
+
 Golem, Bone*
-Armor Class:
-19 (m)
-Hit Dice:
-8*
-No. of Attacks:
-4 weapons
-Damage:
-1d6 or by weapon (each)
-Movement:
-40' (10')
-No. Appearing:
-1
-Save As:
-Fighter: 4
-Morale:
-12
-Treasure Type:
-None
-XP:
-945
+Armor Class: 19 (m)
+Hit Dice: 8*
+No. of Attacks: 4 weapons
+Damage: 1d6 or by weapon (each)
+Movement: 40' (10')
+No. Appearing: 1
+Save As: Fighter: 4
+Morale: 12
+Treasure Type: None
+XP: 945
+
 Bone golems are huge four-armed monsters created from the skeletons of at least two dead humanoids.  Though made of bone, they are not undead and cannot be turned.
 Instead of four one-handed weapons, a bone golem can be armed with two two-handed weapons, giving 2 attacks per round and a damage figure of 1d10 or by weapon (each).
+
+@@
+
 Golem, Bronze*
-Armor Class:
-20 (m)
-Hit Dice:
-20** (+13)
-No. of Attacks:
-1 fist + heat, defensive spray
-Damage:
-3d10 fist + 1d10 heat, 2d6 spray
-Movement:
-80' (10')
-No. Appearing:
-1
-Save As:
-Fighter:10
-Morale:
-12
-Treasure Type:
-None
-XP:
-5,650
+Armor Class: 20 (m)
+Hit Dice: 20** (+13)
+No. of Attacks: 1 fist + heat, defensive spray
+Damage: 3d10 fist + 1d10 heat, 2d6 spray
+Movement: 80' (10')
+No. Appearing: 1
+Save As: Fighter:10
+Morale: 12
+Treasure Type: None
+XP: 5,650
+
 These golems resemble statues made of bronze; unlike natural bronze statues, they never turn green from verdigris.  A bronze golem is 10 feet tall and weighs about 4,500 pounds.  A bronze golem cannot speak or make any vocal noise, nor does it have any distinguishable odor.  It moves with a ponderous but smooth gait.  Each step causes the floor to tremble unless it is on a thick, solid foundation.
 The interior of a bronze golem is molten metal.  Creatures hit by one in combat suffer an additional 1d10 points of damage from the heat (unless resistant to heat or fire).  If one is hit in combat, molten metal spurts out, spraying the attacker for 2d6 damage.  A save vs. Death Ray is allowed to avoid the metal spray.
+
+@@
+
 Golem, Clay*
-Armor Class:
-22 (m)
-Hit Dice:
-11** (+9)
-No. of Attacks:
-1 fist
-Damage:
-3d10 fist
-Movement:
-20'
-No. Appearing:
-1
-Save As:
-Fighter: 6
-Morale:
-12
-Treasure Type:
-None
-XP:
-1,765
+Armor Class: 22 (m)
+Hit Dice: 11** (+9)
+No. of Attacks: 1 fist
+Damage: 3d10 fist
+Movement: 20'
+No. Appearing: 1
+Save As: Fighter: 6
+Morale: 12
+Treasure Type: None
+XP: 1,765
+
 Clay golems are made of clay, naturally, and thus may be any natural clay color; generally, one will be grayish in color, but common clay containing iron oxide may be used which results in a red, brown, or even orange clay golem.  They are usually unclad, but some golem-makers choose to put a leather belt, girdle, or apron on their creation.  A clay golem weighs about 600 pounds.
 Wounds inflicted by a clay golem do not heal normally; worse, magical healing cures only 1 point per die rolled (but add all bonuses normally).  Thus, a cure light wounds spell heals just 2 points.
+
+@@
+
 Golem, Flesh*
-Armor Class:
-20 (m)
-Hit Dice:
-9** (+8)
-No. of Attacks:
-2 fists
-Damage:
-2d8 fist
-Movement:
-30'
-No. Appearing:
-1
-Save As:
-Fighter: 5
-Morale:
-12
-Treasure Type:
-None
-XP:
-1,225
+Armor Class: 20 (m)
+Hit Dice: 9** (+8)
+No. of Attacks: 2 fists
+Damage: 2d8 fist
+Movement: 30'
+No. Appearing: 1
+Save As: Fighter: 5
+Morale: 12
+Treasure Type: None
+XP: 1,225
+
 Flesh golems are horrible creations made of body parts from deceased humanoids (including all character races as well as humanoid monsters), crudely stitched together and animated by magic.  A flesh golem is 8 feet tall and weighs about 450 pounds.
 A magical attack that deals cold or fire damage slows a flesh golem (as the reverse of the haste spell) for 2d6 rounds, with no saving throw.  Attacks using lightning or electricity heal 1 point of damage per every 3 points the attack would normally inflict, rounded down; further, such an attack breaks any ongoing slow effect on the golem.  As usual, healing will not increase the monster above its normal hit points.  For example, a flesh golem hit by a lightning bolt which should deal 14 points of damage instead receives up to 4 points of healing.
+
+@@
+
 Golem, Iron*
-Armor Class:
-25 (m)
-Hit Dice:
-17** (+12)
-No. of Attacks:
-1 strike + breath
-Damage:
-4d10 strike + poison gas breath
-Movement:
-20' (10')
-No. Appearing:
-1
-Save As:
-Fighter: 9
-Morale:
-12
-Treasure Type:
-None
-XP:
-3,890
+Armor Class: 25 (m)
+Hit Dice: 17** (+12)
+No. of Attacks: 1 strike + breath
+Damage: 4d10 strike + poison gas breath
+Movement: 20' (10')
+No. Appearing: 1
+Save As: Fighter: 9
+Morale: 12
+Treasure Type: None
+XP: 3,890
+
 Iron golems are huge, generally 11 to 12 feet in height with a weight of 4,500 to 5,500 pounds.  Such golems are usually fashioned like statues, and may appear to be wearing armor and armed with a shortsword or mace; the sculpting will often be simpler and cruder than that done by a real sculptor.  Though an iron golem has no voice, it is hardly silent when in motion, as its gentlest footstep on any hard surface shakes the floor and walls.  Note that, while an iron golem has little if any odor normally, when wet they have a strong metallic smell detectable up to 60 feet away.
 Iron golems can exhale a cloud of poisonous gas which fills a 10-foot cube and persists for 1 round.  Those within the area of effect must save vs. Dragon Breath or die.  This ability can be used up to 3 times per day.
 A magical attack that deals lightning or electrical damage slows an iron golem (as the reverse of the haste spell) for 1d6 rounds, with no saving throw.  Attacks using fire heal 1 point of damage per every 3 points the attack would normally inflict, rounded down; further, such an attack breaks any ongoing slow effect on the golem.  As usual, healing will not increase the monster above its normal hit points.  For example, an iron golem hit by a fireball which should deal 17 points of damage instead receives up to 5 points of healing.  An iron golem is affected by rust attacks such as that of a rust monster, suffering 2d6 points of damage for each hit (with no saving throw normally allowed).
+
+@@
+
 Golem, Stone*
-Armor Class:
-25 (m)
-Hit Dice:
-14** (+11)
-No. of Attacks:
-1 strike or slow
-Damage:
-3d8 strike or slow
-Movement:
-20' (10')
-No. Appearing:
-1
-Save As:
-Fighter: 7
-Morale:
-12
-Treasure Type:
-None
-XP:
-2,730
+Armor Class: 25 (m)
+Hit Dice: 14** (+11)
+No. of Attacks: 1 strike or slow
+Damage: 3d8 strike or slow
+Movement: 20' (10')
+No. Appearing: 1
+Save As: Fighter: 7
+Morale: 12
+Treasure Type: None
+XP: 2,730
+
 Stone golems are quite large, normally being about 8 to 10 feet in height with a weight of around 2,000 pounds.  These golems are usually fashioned like statues, and may appear to be wearing armor and armed with a shortsword or mace; the sculpting will often be simpler and cruder than that done by a real sculptor.
 Once every other round a stone golem has the ability to cast a slow effect, as the reverse of the haste spell; a save vs. Spells is allowed to resist.  This effect lasts for 2d6 rounds and has an effective range of just 10 feet.
 A stone to flesh spell may be used to weaken the monster.  The spell does not actually change the golem's structure, but for one full round after being affected, the golem is vulnerable to normal weapons.  The stone golem is allowed a save vs. Spells to resist this effect.
+
+@@
+
 Golem, Wood*
-Armor Class:
-13 (m)
-Hit Dice:
-2+2*
-No. of Attacks:
-1 fist
-Damage:
-1d8 fist
-Movement:
-40'
-No. Appearing:
-1
-Save As:
-Fighter: 1
-Morale:
-12
-Treasure Type:
-None
-XP:
-100
+Armor Class: 13 (m)
+Hit Dice: 2+2*
+No. of Attacks: 1 fist
+Damage: 1d8 fist
+Movement: 40'
+No. Appearing: 1
+Save As: Fighter: 1
+Morale: 12
+Treasure Type: None
+XP: 100
+
 Wood golems are small constructs, not more than 4' in height, and are crudely made.  Being made of wood makes them vulnerable to fire-based attacks; thus, wood golems suffer one extra point of damage per die from fire; any saving throws against such effects are at a penalty of -2.  They move stiffly, suffering a -1 penalty to Initiative.
+
+@@
+
 Gorgon
-Armor Class:
-19
-Hit Dice:
-8*
-No. of Attacks:
-1 gore or 1 breath
-Damage:
-2d6 gore, petrification breath
-Movement:
-40' (10')
-No. Appearing:
-Wild 1d4
-Save As:
-Fighter: 8
-Morale:
-8
-Treasure Type:
-None
-XP:
-945
+Armor Class: 19
+Hit Dice: 8*
+No. of Attacks: 1 gore or 1 breath
+Damage: 2d6 gore, petrification breath
+Movement: 40' (10')
+No. Appearing: Wild 1d4
+Save As: Fighter: 8
+Morale: 8
+Treasure Type: None
+XP: 945
+
 Gorgons are magical monsters resembling cattle made of iron.  Their breath can turn living creatures to stone; it covers an area 60' long by 10' wide, and can be used as many times per day as the monster has hit dice, but no more often than every other round.  A save vs. Petrify is allowed to resist.
 An adult male (bull) gorgon weighs up to 4,500 pounds and can be as much as 7 feet tall at the shoulder and up to 9 feet long.  Females (cows) will be a bit smaller, perhaps no more than 6 feet at the shoulder and 8 feet long with a weight of around 4,000 pounds.  However, their combat statistics are much the same as the males.  Any group of more than one gorgon will consist of one bull with the rest being cows.
-Gray Ooze
-See Jelly, Gray on page 96.
-Green Slime
-See Jelly, Green on page 97.
+
+@@
 
 Griffon
-Armor Class:
-18
-Hit Dice:
-7
-No. of Attacks:
-2 claws, 1 bite
-Damage:
-1d4 claw, 2d8 bite
-Movement:
-40' (10') Fly 120' (10')
-No. Appearing:
-Wild 2d8, Lair 2d8
-Save As:
-Fighter: 7
-Morale:
-8
-Treasure Type:
-E
-XP:
-670
+Armor Class: 18
+Hit Dice: 7
+No. of Attacks: 2 claws, 1 bite
+Damage: 1d4 claw, 2d8 bite
+Movement: 40' (10') Fly 120' (10')
+No. Appearing: Wild 2d8, Lair 2d8
+Save As: Fighter: 7
+Morale: 8
+Treasure Type: E
+XP: 670
+
 Griffons are large carnivorous creatures resembling lions with the head, foreclaws and wings of eagles.  Average adults (male or female) have a wingspan of around 22 feet and weigh around 500 pounds.
 Griffons nest on high mountaintops, soaring down to feed on horses, the beast's preferred prey.  Indeed, a griffon will attack a horse over anything else.  They hunt and travel in flocks, diving low when attacking to swipe with their claws.  They are not above retreating and then returning when they may be unexpected.
 Griffons can be trained as mounts if raised in captivity, but even in this case they may try to attack horses if any come within about 120'.  Roll a morale check in this case; if the check is failed, the griffon will try to attack immediately.  A light load for a griffon is up to 400 pounds; a heavy load, up to 900 pounds.
