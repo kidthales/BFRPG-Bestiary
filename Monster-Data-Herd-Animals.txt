@@ -1,0 +1,67 @@
+Deer
+Armor Class: 13
+Hit Dice: 1
+No. of Attacks: 1 butt
+Damage: 1d4
+Movement: 80' (10')
+No. Appearing: Wild 3d10
+Save As: Fighter: 1
+Morale: 5 (7)
+Treasure Type: None
+XP: 25
+
+Deer are skittish and will flee if provoked, but males are more aggressive in the presence of females (use the parenthesized morale in this case).
+The GM should feel free to vary from these figures as he or she sees fit; there are many types of herd animals in the world, and some are better armed than others.
+
+@@
+
+
+Antelope
+Armor Class: 13
+Hit Dice: 2
+No. of Attacks: 1 butt
+Damage: 1d6
+Movement: 80' (10')
+No. Appearing: Wild 3d10
+Save As: Fighter: 2
+Morale: 5 (7)
+Treasure Type: None
+XP: 
+
+Antelope are skittish and will flee if provoked, but males are more aggressive in the presence of females (use the parenthesized morale in this case).
+The GM should feel free to vary from these figures as he or she sees fit; there are many types of herd animals in the world, and some are better armed than others.
+
+@@
+
+Elk
+Armor Class: 13
+Hit Dice: 3
+No. of Attacks: 1 butt
+Damage: 1d6
+Movement: 80' (10')
+No. Appearing: Wild 3d10
+Save As: Fighter: 3
+Morale: 6 (7)
+Treasure Type: None
+XP: 
+
+Elk are less skittish than smaller herd animals, but will still generally flee if provoked. Males are more aggressive in the presence of females; use the parenthesized morale if males are present.
+The GM should feel free to vary from these figures as he or she sees fit; there are many types of herd animals in the world, and some are better armed than others.
+
+@@
+
+Moose
+Armor Class: 13
+Hit Dice: 4
+No. of Attacks: 1 butt
+Damage: 1d8
+Movement: 80' (10')
+No. Appearing: Wild 3d10
+Save As: Fighter: 4
+Morale: 6 (7)
+Treasure Type: None
+XP: 240
+
+Moose are less skittish than smaller herd animals, but will still generally flee if provoked. Males are more aggressive in the presence of females; use the parenthesized morale if males are present.
+The GM should feel free to vary from these figures as he or she sees fit; there are many types of herd animals in the world, and some are better armed than others.
+

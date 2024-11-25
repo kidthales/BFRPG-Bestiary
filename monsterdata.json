@@ -49,24 +49,6 @@
     "xp": "25"
 },
 {
-    "armorclass": "13",
-    "damage": "1d4 or 1d6 or 1d8 (see below)",
-    "description": [
-        "The statistics above represent the swifter sorts of wild herd animals, including deer (1 hit die, usually), antelope (2 hit dice), elk (3 hit dice), and moose (4 hit dice).  They are skittish and will flee if provoked, but males are more aggressive in the presence of females (use the parenthesized morale in this case).",
-        "Cattle, aurochs, and bison are not included in this category but rather can be found on page 15.",
-        "Generally, 1 hit die herd animals inflict 1d4 points of damage on a hit, 2 and 3 hit die animals inflict 1d6, and 4 hit die animals inflict 1d8.  The GM should feel free to vary from these figures as he or she sees fit; there are many types of herd animals in the world, and some are better armed than others."
-    ],
-    "hitdice": "1 to 4",
-    "morale": "5 (7)",
-    "movement": "80' (10')",
-    "name": "Antelope (Herd Animals)",
-    "noappearing": "Wild 3d10",
-    "noattacks": "1 butt",
-    "saveas": "Fighter: 1 to 4 (as Hit Dice)",
-    "treasure": "None",
-    "xp": "25 - 240"
-},
-{
     "armorclass": "14",
     "damage": "1d4 claw",
     "description": [
@@ -1907,6 +1889,70 @@
         "Griffons are large carnivorous creatures resembling lions with the head, foreclaws and wings of eagles.  Average adults (male or female) have a wingspan of around 22 feet and weigh around 500 pounds.",
         "Griffons nest on high mountaintops, soaring down to feed on horses, the beast's preferred prey.  Indeed, a griffon will attack a horse over anything else.  They hunt and travel in flocks, diving low when attacking to swipe with their claws.  They are not above retreating and then returning when they may be unexpected.",
         "Griffons can be trained as mounts if raised in captivity, but even in this case they may try to attack horses if any come within about 120'.  Roll a morale check in this case; if the check is failed, the griffon will try to attack immediately.  A light load for a griffon is up to 400 pounds; a heavy load, up to 900 pounds.",
+        "Deer",
+        "Armor Class: 13",
+        "Hit Dice: 1",
+        "No. of Attacks: 1 butt",
+        "Damage: 1d4",
+        "Movement: 80' (10')",
+        "No. Appearing: Wild 3d10",
+        "Save As: Fighter: 1",
+        "Morale: 5 (7)",
+        "Treasure Type: None",
+        "XP: 25",
+        "Deer are skittish and will flee if provoked, but males are more aggressive in the presence of females (use the parenthesized morale in this case).",
+        "The GM should feel free to vary from these figures as he or she sees fit; there are many types of herd animals in the world, and some are better armed than others."
+    ],
+    "hitdice": "7",
+    "morale": "8",
+    "movement": "40' (10') Fly 120' (10')",
+    "name": "Griffon",
+    "noappearing": "Wild 2d8, Lair 2d8",
+    "noattacks": "2 claws, 1 bite",
+    "saveas": "Fighter: 7",
+    "treasure": "E",
+    "xp": "670"
+},
+{
+    "armorclass": "13",
+    "damage": "1d6",
+    "description": [
+        "Antelope are skittish and will flee if provoked, but males are more aggressive in the presence of females (use the parenthesized morale in this case).",
+        "The GM should feel free to vary from these figures as he or she sees fit; there are many types of herd animals in the world, and some are better armed than others."
+    ],
+    "hitdice": "2",
+    "morale": "5 (7)",
+    "movement": "80' (10')",
+    "name": "Antelope",
+    "noappearing": "Wild 3d10",
+    "noattacks": "1 butt",
+    "saveas": "Fighter: 2",
+    "treasure": "None",
+    "xp": ""
+},
+{
+    "armorclass": "13",
+    "damage": "1d6",
+    "description": [
+        "Elk are less skittish than smaller herd animals, but will still generally flee if provoked. Males are more aggressive in the presence of females; use the parenthesized morale if males are present.",
+        "The GM should feel free to vary from these figures as he or she sees fit; there are many types of herd animals in the world, and some are better armed than others."
+    ],
+    "hitdice": "3",
+    "morale": "6 (7)",
+    "movement": "80' (10')",
+    "name": "Elk",
+    "noappearing": "Wild 3d10",
+    "noattacks": "1 butt",
+    "saveas": "Fighter: 3",
+    "treasure": "None",
+    "xp": ""
+},
+{
+    "armorclass": "13",
+    "damage": "1d8",
+    "description": [
+        "Moose are less skittish than smaller herd animals, but will still generally flee if provoked. Males are more aggressive in the presence of females; use the parenthesized morale if males are present.",
+        "The GM should feel free to vary from these figures as he or she sees fit; there are many types of herd animals in the world, and some are better armed than others.",
         "Hangman Tree",
         "Armor Class: 16",
         "Hit Dice: 5",
@@ -1921,15 +1967,15 @@
         "Hangman trees are horrible, semi-animate creatures that fertilize themselves with dead bodies.  A hangman tree has four animated limbs that can wrap around the necks of living creatures that pass beneath, strangling for 1d6 points of damage per round.  These limbs are arranged evenly around the tree in most cases, and generally no more than one limb can attack any single creature at a time.",
         "The roots of this tree are also animated; they do not attack, but they do pull dead bodies below the surface of the ground for \"digestion.\""
     ],
-    "hitdice": "7",
-    "morale": "8",
-    "movement": "40' (10') Fly 120' (10')",
-    "name": "Griffon",
-    "noappearing": "Wild 2d8, Lair 2d8",
-    "noattacks": "2 claws, 1 bite",
-    "saveas": "Fighter: 7",
-    "treasure": "E",
-    "xp": "670"
+    "hitdice": "4",
+    "morale": "6 (7)",
+    "movement": "80' (10')",
+    "name": "Moose",
+    "noappearing": "Wild 3d10",
+    "noattacks": "1 butt",
+    "saveas": "Fighter: 4",
+    "treasure": "None",
+    "xp": "240"
 },
 {
     "armorclass": "13",
@@ -2762,5 +2808,214 @@
     "saveas": "Fighter: 2",
     "treasure": "D",
     "xp": "75"
+},
+{
+    "armorclass": "18 (s)",
+    "damage": "2d4 claw, 2d8 bite, 2d8 hug",
+    "description": [
+        "Werebears are humans that can transform into large bears.  When in human form, they typically appear as well-muscled, imposing figures, with an abundance of thick hair.  Werebears typically dwell in deep forests, far from civilization.  They are distrustful of those that they do not know, but will ferociously defend those that they have befriended."
+    ],
+    "hitdice": "6*",
+    "morale": "10",
+    "movement": "40'",
+    "name": "Lycanthrope, Werebear*",
+    "noappearing": "1d4, Wild 1d4, Lair 1d4",
+    "noattacks": "2 claws, 1 bite + hug",
+    "saveas": "Fighter: 6",
+    "treasure": "C",
+    "xp": "555"
+},
+{
+    "armorclass": "16 (s)",
+    "damage": "2d6",
+    "description": [
+        "Wereboars gain full control of their transformations quickly, needing only about a year to achieve mastery.  They have just two forms, that of a human and that of a particularly large wild boar or sow.",
+        "In human form they tend to have \"piggish\" traits such as gluttony and cunning, as well as an often strong physical resemblance to swine.  Wereboars usually dislike both hard work and responsibility, but they are bullies who enjoy being in charge.  They are easily bored with mundane things but are excited by violence (whether witnessing it or participating in it)."
+    ],
+    "hitdice": "4*",
+    "morale": "9",
+    "movement": "50' Human Form 40'",
+    "name": "Lycanthrope, Wereboar*",
+    "noappearing": "1d4, Wild 2d4, Lair 2d4",
+    "noattacks": "1 bite",
+    "saveas": "Fighter: 4",
+    "treasure": "C",
+    "xp": "280"
+},
+{
+    "armorclass": "13 (s)",
+    "damage": "1d4 bite or 1d6 or by weapon",
+    "description": [
+        "In addition to assuming the form of a giant rat, wererats can assume a hybrid form.  This ratman form shares the animal form's immunity to normal weapons and can deliver an identical bite, but in this form the wererat may use a normal weapon instead of biting.  Note that the wererat in ratman form cannot bite and use a weapon in the same round.",
+        "In human form, wererats tend to be skinny, nervous-looking individuals with pointed noses and lank hair.  Their hair is almost always a rat-like brown color; those with different hair color who become wererats usually undergo a slow change to this color.",
+        "Unlike most lycanthropes, wererats prefer to inhabit civilized areas, particularly cities.  They frequently lair in sewers or other underground areas, coming out by night to steal from or kill city folk.  The common stereotype of wererats as thieves is not unfounded; in fact, in many cities wererats lead the guild of thieves, sometimes secretly, sometimes not so much."
+    ],
+    "hitdice": "3*",
+    "morale": "8",
+    "movement": "40'",
+    "name": "Lycanthrope, Wererat*",
+    "noappearing": "1d8, Wild 2d8, Lair 2d8",
+    "noattacks": "1 bite or 1 weapon",
+    "saveas": "Fighter: 3",
+    "treasure": "C",
+    "xp": "175"
+},
+{
+    "armorclass": "17 (s)",
+    "damage": "1d6 claw, 2d6 bite",
+    "description": [
+        "Weretigers are humans that can transform into tigers.  In human form, they are generally tall, trim, and very agile.  They tend to live and hunt close to human settlements, and are excellent trackers (5 in 6 chance to track prey in either form).  Weretigers will typically only attack if provoked.  They are capricious and arbitrary to deal with unless whatever offer is made to them is very attractive to them."
+    ],
+    "hitdice": "5*",
+    "morale": "9",
+    "movement": "50' Human Form 40'",
+    "name": "Lycanthrope, Weretiger*",
+    "noappearing": "1d4, Wild 1d4, Lair 1d4",
+    "noattacks": "2 claws, 1 bite",
+    "saveas": "Fighter: 5",
+    "treasure": "C",
+    "xp": "405"
+},
+{
+    "armorclass": "15 (s)",
+    "damage": "2d4 bite, 1d6 or by weapon",
+    "description": [
+        "Werewolves may be found anywhere humans are found.  They are ferocious predators, equally willing to eat animal or human flesh.  Unlike most lycanthropes, werewolves have no distinguishing features in human form, making them very hard indeed to identify.",
+        "Though they usually have only the usual human and animal forms, there are rumors of some who are also able to assume a wolfman form.  In this form they may choose to either bite or use a weapon, and may change back and forth each round.  As with the animal form, the wolfman form is hit only by silver or magical weapons.",
+        "Mammoth",
+        "Armor Class: 17",
+        "Hit Dice: 15 (+11)",
+        "No. of Attacks: 2 tusks, 1 trunk grab, 2 tramples",
+        "Damage: 3d6 tusk, 2d6 trunk, 2d8 trample",
+        "Movement: 40' (15')",
+        "No. Appearing: Wild 1d12",
+        "Save As: Fighter: 15",
+        "Morale: 8",
+        "Treasure Type: special",
+        "XP: 2,850",
+        "Mammoths are huge, shaggy prehistoric relatives of the elephant.  Though found in a variety of climates, they are most common in colder territories.",
+        "Like elephants, mammoths have five distinct attack modes (two tusks, a trunk grab, and two tramples with the front feet), but a single individual can apply no more than two of these attacks to any single opponent of small or medium size; large opponents may be targeted by three of these attacks in a round.  However, one can attack multiple opponents in its immediate area at the same time.",
+        "A light load for a mammoth is 8,500 pounds; a heavy load, up to 17,000 pounds.",
+        "A mammoth has no treasure as such, but its tusks are worth 2d6 x 100 gp."
+    ],
+    "hitdice": "4*",
+    "morale": "8",
+    "movement": "60' Human Form 40'",
+    "name": "Lycanthrope, Werewolf*",
+    "noappearing": "1d6, Wild 2d6, Lair 2d6",
+    "noattacks": "1 bite (or 1 weapon, as given below)",
+    "saveas": "Fighter: 4",
+    "treasure": "C",
+    "xp": "280"
+},
+{
+    "armorclass": "18",
+    "damage": "2d6 tusk, 2d4 trunk, 2d8 trample",
+    "description": [
+        "Mastodons are a species related to mammoths, but found in more temperate climates.  These prehistoric relatives of the elephant are intelligent and able to communicate with each other in a rudimentary way.  They are more aggressive than the common elephant and will attack any creature they see as a threat.",
+        "They have the same basic attack modes as mammoths, with the same limitations as given above.",
+        "A light load for a mastodon is 8,000 pounds; a heavy load, up to 16,000 pounds.",
+        "A mastodon has no treasure as such, but its tusks are worth 1d10 x 100 gp."
+    ],
+    "hitdice": "13 (+10)",
+    "morale": "8",
+    "movement": "50' (15')",
+    "name": "Mastodon",
+    "noappearing": "Wild 2d8",
+    "noattacks": "2 tusks, 1 trunk grab, 2 tramples",
+    "saveas": "Fighter: 13",
+    "treasure": "special",
+    "xp": "2,175"
+},
+{
+    "armorclass": "18",
+    "damage": "1d4 claw, 2d4 bite, 1d6 spike",
+    "description": [
+        "Manticores look like an overgrown lion with thick leathery wings and an ugly bearded humanoid face, often like that of a human or dwarf.  Their tail ends in an assortment of spikes, which the beast may fire as projectiles; a maximum of 24 are available, and the manticore will launch a random number (1d8, as shown above) each time it chooses to use this attack.  The creature will regrow just 1d6 spikes per day after expending them, so they will often delay using them against weaker opponents who they think they can easily dispatch.",
+        "An adult manticore is big, with an average weight of 1,000 pounds and a length (not including tail) of around 8 feet.",
+        "Manticores are vicious carnivores with a preference for human flesh.  They will use their ranged attacks to \"soften up\" larger or more dangerous-looking prey before closing to melee range."
+    ],
+    "hitdice": "6+1*",
+    "morale": "9",
+    "movement": "40' Fly 60' (10')",
+    "name": "Manticore",
+    "noappearing": "1d2, Wild 1d4, Lair 1d4",
+    "noattacks": "2 claws, 1 bite or 1d8 spikes (180' range)",
+    "saveas": "Fighter: 6",
+    "treasure": "D",
+    "xp": "555"
+},
+{
+    "armorclass": "12",
+    "damage": "1d6+poison bite, petrification gaze",
+    "description": [
+        "A medusa appears to be a human female with vipers growing from her head instead of hair.  The gaze of a medusa will petrify any creature who meets it unless a save vs. Petrify is made.  In general, any creature surprised by the medusa will meet its gaze.  Those who attempt to fight the monster while averting their eyes suffer penalties of -4 on attack rolls and -2 to AC.  It is safe to view a medusa's reflection in a mirror or other reflective surface; anyone using a mirror to fight a medusa suffers a penalty of -2 to attack and no penalty to AC.  If a medusa sees its own reflection, it must save vs. Petrify itself; a petrified medusa is no longer able to petrify others, but the face of a medusa continues to possess the power to petrify even after death otherwise.  Medusae instinctively avoid mirrors or other reflective surfaces, even drinking with their eyes closed, but if an attacker can manage to surprise the monster with a mirror she may see her reflection.",
+        "Further, the snakes growing from her head are poisonous (save vs. Poison or die in one turn).  They attack as a group, not individually, once per round for 1d6 points of damage (plus the poison).",
+        "These creatures are well aware that, from the neck down anyway, they are quite visually pleasing to most humanoid males; they will thus often seek to show off their bodies in clinging clothes while wearing veils, hoods, scarves, and so on to hide their true nature.  In this way they hope to get closer to potential victims and more easily surprise them.",
+        "Medusae are shy and reclusive, owing no doubt to the fact that, once the lair of one is found, any humans living nearby will not rest until she is slain.  They are hateful creatures, however, and will seek to destroy as many humans as they can without being discovered."
+    ],
+    "hitdice": "4**",
+    "morale": "8",
+    "movement": "30'",
+    "name": "Medusa",
+    "noappearing": "1d3, Wild 1d4, Lair 1d4",
+    "noattacks": "1 snakebite, gaze",
+    "saveas": "Fighter: 4",
+    "treasure": "F",
+    "xp": "320"
+},
+{
+    "armorclass": "12",
+    "damage": "1d6 or by weapon",
+    "description": [
+        "Mermaids have the upper bodies of women and the lower bodies of dolphins.  Also called \"sirens,\" mermaids often attempt to lure sailors or other men found near the sea.  They accomplish this by means of their enchanting songs.",
+        "A mermaid's song will attract any man within 100 yards, but generally has no effect on women.  Men within the area of effect must save vs. Spells to resist, or else they will move toward the mermaid with amorous intent as directly as possible.  If two mermaids are singing, apply a penalty of -4 to the save; more than two gives no extra benefit.  Affected men will submit to anything the mermaid desires.  When she tires of him, he might be freed or slain, depending on the mermaid's temperament.",
+        "Contrary to popular belief, mermaids are not fish (nor even half fish) and do not breathe water.  They can hold their breath for up to an hour of light activity, or two turns (20 minutes) of strenuous action.  However, being out of water more than two turns (20 minutes) causes the mermaid 1d4 points of damage per turn.",
+        "Mermaids can hear as well as dolphins, and can produce sounds ranging from the lowest frequency a normal human woman can produce up to the highest frequency of a dolphin.  This means that mermaids can learn to communicate with dolphins and whales; at least 35% of mermaids will know the language of one or the other, and 10% can communicate with any such creature.",
+        "Three-quarters of mermaid births are female.  Of the quarter which are male, most have legs rather than tails.  Such will either be slain or put ashore to be adopted by humans, depending on the temperament of the mother.  Mermen (those born with tails) are raised to be subservient to the females.  A small mermaid community (3d6 including the male) will often form around such a merman and his mother, who becomes their leader.  Such a group is called a pod.",
+        "A mermaid with a child will not generally be encountered, as they remain in the deeper parts of the ocean and avoid the attention of men.  Pods of mermaids do likewise, and in fact any pod includes 2d4-2 children or juveniles (over and above the number rolled for Number Appearing).  Adventurers generally meet mermaids only in groups of one or two.",
+        "Mermaids arm themselves with spears or daggers.  They hunt fish and harvest kelp for food.  Mermaids sometimes possess more than 1 hit die, and about 3% have some Clerical abilities."
+    ],
+    "hitdice": "1*",
+    "morale": "8",
+    "movement": "Swim 40'",
+    "name": "Mermaid",
+    "noappearing": "Wild 1d2 or 3d6 (see below)",
+    "noattacks": "1 weapon",
+    "saveas": "Fighter: 1",
+    "treasure": "A",
+    "xp": "37"
+},
+{
+    "armorclass": "14 (12)",
+    "damage": "1d6 gore, 1d6 bite, 1d6+2 or by weapon +2",
+    "description": [
+        "Minotaurs are huge bull-headed humanoid monsters, standing more than 7 feet tall and weighing nearly 500 pounds.  Most minotaurs are very aggressive, and fly into a murderous rage if provoked or hungry.  Although minotaurs are not especially intelligent, they possess innate cunning and logical ability.  They never become lost (even in mazes), and can track enemies with 85% accuracy.  They gain +2 to damage when using melee weapons due to their great Strength.  Minotaurs often wear toughened hides for armor."
+    ],
+    "hitdice": "6",
+    "morale": "11",
+    "movement": "30' Unarmored 40'",
+    "name": "Minotaur",
+    "noappearing": "1d6, Wild 1d8, Lair 1d8",
+    "noattacks": "1 gore, 1 bite or 1 weapon",
+    "saveas": "Fighter: 6",
+    "treasure": "C",
+    "xp": "500"
+},
+{
+    "armorclass": "14",
+    "damage": "1d4 claw, 1d6 bite",
+    "description": [
+        "These great cats are about 7 feet long (from nose to tail-tip) and weigh about 140 pounds.  They see well in darkness and may be found hunting day or night."
+    ],
+    "hitdice": "3+2",
+    "morale": "8",
+    "movement": "50'",
+    "name": "Mountain Lion",
+    "noappearing": "Wild 1d4, Lair 1d4",
+    "noattacks": "2 claws, 1 bite",
+    "saveas": "Fighter: 3",
+    "treasure": "None",
+    "xp": "145"
 },
 ]

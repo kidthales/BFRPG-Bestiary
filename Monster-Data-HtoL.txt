@@ -847,119 +847,84 @@ Subterranean lizard men secrete a smelly oil that keeps their scaly skin supple.
 
 @@
 
-@STOP@
-
 Lycanthrope, Werebear*
-Armor Class:
-18 (s)
-Hit Dice:
-6*
-No. of Attacks:
-2 claws, 1 bite + hug
-Damage:
-2d4 claw, 2d8 bite, 2d8 hug
-Movement:
-40'
-No. Appearing:
-1d4, Wild 1d4, Lair 1d4
-Save As:
-Fighter: 6
-Morale:
-10
-Treasure Type:
-C
-XP:
-555
+Armor Class: 18 (s)
+Hit Dice: 6*
+No. of Attacks: 2 claws, 1 bite + hug
+Damage: 2d4 claw, 2d8 bite, 2d8 hug
+Movement: 40'
+No. Appearing: 1d4, Wild 1d4, Lair 1d4
+Save As: Fighter: 6
+Morale: 10
+Treasure Type: C
+XP: 555
+
 Werebears are humans that can transform into large bears.  When in human form, they typically appear as well-muscled, imposing figures, with an abundance of thick hair.  Werebears typically dwell in deep forests, far from civilization.  They are distrustful of those that they do not know, but will ferociously defend those that they have befriended.
+
+@@
+
 Lycanthrope, Wereboar*
-Armor Class:
-16 (s)
-Hit Dice:
-4*
-No. of Attacks:
-1 bite
-Damage:
-2d6
-Movement:
-50' Human Form 40'
-No. Appearing:
-1d4, Wild 2d4, Lair 2d4
-Save As:
-Fighter: 4
-Morale:
-9
-Treasure Type:
-C
-XP:
-280
+Armor Class: 16 (s)
+Hit Dice: 4*
+No. of Attacks: 1 bite
+Damage: 2d6
+Movement: 50' Human Form 40'
+No. Appearing: 1d4, Wild 2d4, Lair 2d4
+Save As: Fighter: 4
+Morale: 9
+Treasure Type: C
+XP: 280
+
 Wereboars gain full control of their transformations quickly, needing only about a year to achieve mastery.  They have just two forms, that of a human and that of a particularly large wild boar or sow.
 In human form they tend to have "piggish" traits such as gluttony and cunning, as well as an often strong physical resemblance to swine.  Wereboars usually dislike both hard work and responsibility, but they are bullies who enjoy being in charge.  They are easily bored with mundane things but are excited by violence (whether witnessing it or participating in it).
+
+@@
+
 Lycanthrope, Wererat*
-Armor Class:
-13 (s)
-Hit Dice:
-3*
-No. of Attacks:
-1 bite or 1 weapon
-Damage:
-1d4 bite or 1d6 or by weapon
-Movement:
-40'
-No. Appearing:
-1d8, Wild 2d8, Lair 2d8
-Save As:
-Fighter: 3
-Morale:
-8
-Treasure Type:
-C
-XP:
-175
+Armor Class: 13 (s)
+Hit Dice: 3*
+No. of Attacks: 1 bite or 1 weapon
+Damage: 1d4 bite or 1d6 or by weapon
+Movement: 40'
+No. Appearing: 1d8, Wild 2d8, Lair 2d8
+Save As: Fighter: 3
+Morale: 8
+Treasure Type: C
+XP: 175
+
 In addition to assuming the form of a giant rat, wererats can assume a hybrid form.  This ratman form shares the animal form's immunity to normal weapons and can deliver an identical bite, but in this form the wererat may use a normal weapon instead of biting.  Note that the wererat in ratman form cannot bite and use a weapon in the same round.
 In human form, wererats tend to be skinny, nervous-looking individuals with pointed noses and lank hair.  Their hair is almost always a rat-like brown color; those with different hair color who become wererats usually undergo a slow change to this color.
 Unlike most lycanthropes, wererats prefer to inhabit civilized areas, particularly cities.  They frequently lair in sewers or other underground areas, coming out by night to steal from or kill city folk.  The common stereotype of wererats as thieves is not unfounded; in fact, in many cities wererats lead the guild of thieves, sometimes secretly, sometimes not so much.
+
+@@
+
 Lycanthrope, Weretiger*
-Armor Class:
-17 (s)
-Hit Dice:
-5*
-No. of Attacks:
-2 claws, 1 bite
-Damage:
-1d6 claw, 2d6 bite
-Movement:
-50' Human Form 40'
-No. Appearing:
-1d4, Wild 1d4, Lair 1d4
-Save As:
-Fighter: 5
-Morale:
-9
-Treasure Type:
-C
-XP:
-405
+Armor Class: 17 (s)
+Hit Dice: 5*
+No. of Attacks: 2 claws, 1 bite
+Damage: 1d6 claw, 2d6 bite
+Movement: 50' Human Form 40'
+No. Appearing: 1d4, Wild 1d4, Lair 1d4
+Save As: Fighter: 5
+Morale: 9
+Treasure Type: C
+XP: 405
+
 Weretigers are humans that can transform into tigers.  In human form, they are generally tall, trim, and very agile.  They tend to live and hunt close to human settlements, and are excellent trackers (5 in 6 chance to track prey in either form).  Weretigers will typically only attack if provoked.  They are capricious and arbitrary to deal with unless whatever offer is made to them is very attractive to them.
+
+@@
+
 Lycanthrope, Werewolf*
-Armor Class:
-15 (s)
-Hit Dice:
-4*
-No. of Attacks:
-1 bite (or 1 weapon, as given below)
-Damage:
-2d4 bite, 1d6 or by weapon
-Movement:
-60' Human Form 40'
-No. Appearing:
-1d6, Wild 2d6, Lair 2d6
-Save As:
-Fighter: 4
-Morale:
-8
-Treasure Type:
-C
-XP:
-280
+Armor Class: 15 (s)
+Hit Dice: 4*
+No. of Attacks: 1 bite (or 1 weapon, as given below)
+Damage: 2d4 bite, 1d6 or by weapon
+Movement: 60' Human Form 40'
+No. Appearing: 1d6, Wild 2d6, Lair 2d6
+Save As: Fighter: 4
+Morale: 8
+Treasure Type: C
+XP: 280
+
 Werewolves may be found anywhere humans are found.  They are ferocious predators, equally willing to eat animal or human flesh.  Unlike most lycanthropes, werewolves have no distinguishing features in human form, making them very hard indeed to identify.
 Though they usually have only the usual human and animal forms, there are rumors of some who are also able to assume a wolfman form.  In this form they may choose to either bite or use a weapon, and may change back and forth each round.  As with the animal form, the wolfman form is hit only by silver or magical weapons.

@@ -1,122 +1,90 @@
-@STOP@
-
-Mammoth (and Mastodon)
-
 Mammoth
-Mastodon
-Armor Class:
-17
-18
-Hit Dice:
-15 (+11)
-13 (+10)
-No. of Attacks:
-- 2 tusks, 1 trunk grab, 2 tramples
-Damage:
-3d6 tusk,
-2d6 trunk,
-2d8 trample
-2d6 tusk,
-2d4 trunk,
-2d8 trample
-Movement:
-40' (15')
-50' (15')
-No. Appearing:
-Wild 1d12
-Wild 2d8
-Save As:
-Fighter: 15
-Fighter: 13
-Morale:
-8
-8
-Treasure Type:
-special
-special
-XP:
-2,850
-2,175
+Armor Class: 17
+Hit Dice: 15 (+11)
+No. of Attacks: 2 tusks, 1 trunk grab, 2 tramples
+Damage: 3d6 tusk, 2d6 trunk, 2d8 trample
+Movement: 40' (15')
+No. Appearing: Wild 1d12
+Save As: Fighter: 15
+Morale: 8
+Treasure Type: special
+XP: 2,850
+
 Mammoths are huge, shaggy prehistoric relatives of the elephant.  Though found in a variety of climates, they are most common in colder territories.
 Like elephants, mammoths have five distinct attack modes (two tusks, a trunk grab, and two tramples with the front feet), but a single individual can apply no more than two of these attacks to any single opponent of small or medium size; large opponents may be targeted by three of these attacks in a round.  However, one can attack multiple opponents in its immediate area at the same time.
 A light load for a mammoth is 8,500 pounds; a heavy load, up to 17,000 pounds.
 A mammoth has no treasure as such, but its tusks are worth 2d6 x 100 gp.
-Mastodons are a related species found in more temperate climates.  These prehistoric relatives of the elephant are intelligent and able to communicate with each other in a rudimentary way.  They are more aggressive than the common elephant and will attack any creature they see as a threat.
+
+@@
+
+Mastodon
+Armor Class: 18
+Hit Dice: 13 (+10)
+No. of Attacks: 2 tusks, 1 trunk grab, 2 tramples
+Damage: 2d6 tusk, 2d4 trunk, 2d8 trample
+Movement: 50' (15')
+No. Appearing: Wild 2d8
+Save As: Fighter: 13
+Morale: 8
+Treasure Type: special
+XP: 2,175
+
+Mastodons are a species related to mammoths, but found in more temperate climates.  These prehistoric relatives of the elephant are intelligent and able to communicate with each other in a rudimentary way.  They are more aggressive than the common elephant and will attack any creature they see as a threat.
 They have the same basic attack modes as mammoths, with the same limitations as given above.
 A light load for a mastodon is 8,000 pounds; a heavy load, up to 16,000 pounds.
 A mastodon has no treasure as such, but its tusks are worth 1d10 x 100 gp.
 
+@@
+
 Manticore
-Armor Class:
-18
-Hit Dice:
-6+1*
-No. of Attacks:
-2 claws, 1 bite
-or 1d8 spikes (180' range)
-Damage:
-1d4 claw, 2d4 bite, 1d6 spike
-Movement:
-40' Fly 60' (10')
-No. Appearing:
-1d2, Wild 1d4, Lair 1d4
-Save As:
-Fighter: 6
-Morale:
-9
-Treasure Type:
-D
-XP:
-555
+Armor Class: 18
+Hit Dice: 6+1*
+No. of Attacks: 2 claws, 1 bite or 1d8 spikes (180' range)
+Damage: 1d4 claw, 2d4 bite, 1d6 spike
+Movement: 40' Fly 60' (10')
+No. Appearing: 1d2, Wild 1d4, Lair 1d4
+Save As: Fighter: 6
+Morale: 9
+Treasure Type: D
+XP: 555
+
 Manticores look like an overgrown lion with thick leathery wings and an ugly bearded humanoid face, often like that of a human or dwarf.  Their tail ends in an assortment of spikes, which the beast may fire as projectiles; a maximum of 24 are available, and the manticore will launch a random number (1d8, as shown above) each time it chooses to use this attack.  The creature will regrow just 1d6 spikes per day after expending them, so they will often delay using them against weaker opponents who they think they can easily dispatch.
 An adult manticore is big, with an average weight of 1,000 pounds and a length (not including tail) of around 8 feet.
 Manticores are vicious carnivores with a preference for human flesh.  They will use their ranged attacks to "soften up" larger or more dangerous-looking prey before closing to melee range.
+
+@@
+
 Medusa
-Armor Class:
-12
-Hit Dice:
-4**
-No. of Attacks:
-1 snakebite, gaze
-Damage:
-1d6+poison bite, petrification gaze
-Movement:
-30'
-No. Appearing:
-1d3, Wild 1d4, Lair 1d4
-Save As:
-Fighter: 4
-Morale:
-8
-Treasure Type:
-F
-XP:
-320
+Armor Class: 12
+Hit Dice: 4**
+No. of Attacks: 1 snakebite, gaze
+Damage: 1d6+poison bite, petrification gaze
+Movement: 30'
+No. Appearing: 1d3, Wild 1d4, Lair 1d4
+Save As: Fighter: 4
+Morale: 8
+Treasure Type: F
+XP: 320
+
 A medusa appears to be a human female with vipers growing from her head instead of hair.  The gaze of a medusa will petrify any creature who meets it unless a save vs. Petrify is made.  In general, any creature surprised by the medusa will meet its gaze.  Those who attempt to fight the monster while averting their eyes suffer penalties of -4 on attack rolls and -2 to AC.  It is safe to view a medusa's reflection in a mirror or other reflective surface; anyone using a mirror to fight a medusa suffers a penalty of -2 to attack and no penalty to AC.  If a medusa sees its own reflection, it must save vs. Petrify itself; a petrified medusa is no longer able to petrify others, but the face of a medusa continues to possess the power to petrify even after death otherwise.  Medusae instinctively avoid mirrors or other reflective surfaces, even drinking with their eyes closed, but if an attacker can manage to surprise the monster with a mirror she may see her reflection.
 Further, the snakes growing from her head are poisonous (save vs. Poison or die in one turn).  They attack as a group, not individually, once per round for 1d6 points of damage (plus the poison).
 These creatures are well aware that, from the neck down anyway, they are quite visually pleasing to most humanoid males; they will thus often seek to show off their bodies in clinging clothes while wearing veils, hoods, scarves, and so on to hide their true nature.  In this way they hope to get closer to potential victims and more easily surprise them.
 Medusae are shy and reclusive, owing no doubt to the fact that, once the lair of one is found, any humans living nearby will not rest until she is slain.  They are hateful creatures, however, and will seek to destroy as many humans as they can without being discovered.
+
+@@
+
 Mermaid
-Armor Class:
-12
-Hit Dice:
-1*
-No. of Attacks:
-1 weapon
-Damage:
-1d6 or by weapon
-Movement:
-Swim 40'
-No. Appearing:
-Wild 1d2 or 3d6 (see below)
-Save As:
-Fighter: 1
-Morale:
-8
-Treasure Type:
-A
-XP:
-37
+Armor Class: 12
+Hit Dice: 1*
+No. of Attacks: 1 weapon
+Damage: 1d6 or by weapon
+Movement: Swim 40'
+No. Appearing: Wild 1d2 or 3d6 (see below)
+Save As: Fighter: 1
+Morale: 8
+Treasure Type: A
+XP: 37
+
 Mermaids have the upper bodies of women and the lower bodies of dolphins.  Also called "sirens," mermaids often attempt to lure sailors or other men found near the sea.  They accomplish this by means of their enchanting songs.
 A mermaid's song will attract any man within 100 yards, but generally has no effect on women.  Men within the area of effect must save vs. Spells to resist, or else they will move toward the mermaid with amorous intent as directly as possible.  If two mermaids are singing, apply a penalty of -4 to the save; more than two gives no extra benefit.  Affected men will submit to anything the mermaid desires.  When she tires of him, he might be freed or slain, depending on the mermaid's temperament.
 Contrary to popular belief, mermaids are not fish (nor even half fish) and do not breathe water.  They can hold their breath for up to an hour of light activity, or two turns (20 minutes) of strenuous action.  However, being out of water more than two turns (20 minutes) causes the mermaid 1d4 points of damage per turn.
@@ -124,52 +92,42 @@ Mermaids can hear as well as dolphins, and can produce sounds ranging from the l
 Three-quarters of mermaid births are female.  Of the quarter which are male, most have legs rather than tails.  Such will either be slain or put ashore to be adopted by humans, depending on the temperament of the mother.  Mermen (those born with tails) are raised to be subservient to the females.  A small mermaid community (3d6 including the male) will often form around such a merman and his mother, who becomes their leader.  Such a group is called a pod.
 A mermaid with a child will not generally be encountered, as they remain in the deeper parts of the ocean and avoid the attention of men.  Pods of mermaids do likewise, and in fact any pod includes 2d4-2 children or juveniles (over and above the number rolled for Number Appearing).  Adventurers generally meet mermaids only in groups of one or two.
 Mermaids arm themselves with spears or daggers.  They hunt fish and harvest kelp for food.  Mermaids sometimes possess more than 1 hit die, and about 3% have some Clerical abilities.
+
+@@
+
 Minotaur
-Armor Class:
-14 (12)
-Hit Dice:
-6
-No. of Attacks:
-1 gore, 1 bite or 1 weapon
-Damage:
-1d6 gore, 1d6 bite, 1d6+2 or by weapon +2
-Movement:
-30' Unarmored 40'
-No. Appearing:
-1d6, Wild 1d8, Lair 1d8
-Save As:
-Fighter: 6
-Morale:
-11
-Treasure Type:
-C
-XP:
-500
+Armor Class: 14 (12)
+Hit Dice: 6
+No. of Attacks: 1 gore, 1 bite or 1 weapon
+Damage: 1d6 gore, 1d6 bite, 1d6+2 or by weapon +2
+Movement: 30' Unarmored 40'
+No. Appearing: 1d6, Wild 1d8, Lair 1d8
+Save As: Fighter: 6
+Morale: 11
+Treasure Type: C
+XP: 500
+
 Minotaurs are huge bull-headed humanoid monsters, standing more than 7 feet tall and weighing nearly 500 pounds.  Most minotaurs are very aggressive, and fly into a murderous rage if provoked or hungry.  Although minotaurs are not especially intelligent, they possess innate cunning and logical ability.  They never become lost (even in mazes), and can track enemies with 85% accuracy.  They gain +2 to damage when using melee weapons due to their great Strength.  Minotaurs often wear toughened hides for armor.
-Moose
-See Antelope on page 1.
+
+@@
+
 Mountain Lion
-Armor Class:
-14
-Hit Dice:
-3+2
-No. of Attacks:
-2 claws, 1 bite
-Damage:
-1d4 claw, 1d6 bite
-Movement:
-50'
-No. Appearing:
-Wild 1d4, Lair 1d4
-Save As:
-Fighter: 3
-Morale:
-8
-Treasure Type:
-None
-XP:
-145
+Armor Class: 14
+Hit Dice: 3+2
+No. of Attacks: 2 claws, 1 bite
+Damage: 1d4 claw, 1d6 bite
+Movement: 50'
+No. Appearing: Wild 1d4, Lair 1d4
+Save As: Fighter: 3
+Morale: 8
+Treasure Type: None
+XP: 145
+
 These great cats are about 7 feet long (from nose to tail-tip) and weigh about 140 pounds.  They see well in darkness and may be found hunting day or night.
+
+@@
+
+@STOP@
 
 Mummy*
 Armor Class:
