@@ -21,4 +21,11 @@ Each entry begins with the name (on one line) followed by the statblock
 information, with a single blank line signifying the end of the statblock (and
 thus the beginning of the descriptive text).
 
+## Editing Strategy
+
+Each specific statblock for any monster type should have its own entry;
+however, in the Core Rules they are often grouped together.  Separating them
+here will sometimes require splitting up or duplicating descriptive text.  As
+much as possible, the descriptive text used here should be the same text from
+the Core Rules, varying as little as needed for this digital representation.
 
