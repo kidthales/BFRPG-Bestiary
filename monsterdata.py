@@ -1906,7 +1906,20 @@ monsters = [
     "description": [
         "Griffons are large carnivorous creatures resembling lions with the head, foreclaws and wings of eagles.  Average adults (male or female) have a wingspan of around 22 feet and weigh around 500 pounds.",
         "Griffons nest on high mountaintops, soaring down to feed on horses, the beast's preferred prey.  Indeed, a griffon will attack a horse over anything else.  They hunt and travel in flocks, diving low when attacking to swipe with their claws.  They are not above retreating and then returning when they may be unexpected.",
-        "Griffons can be trained as mounts if raised in captivity, but even in this case they may try to attack horses if any come within about 120'.  Roll a morale check in this case; if the check is failed, the griffon will try to attack immediately.  A light load for a griffon is up to 400 pounds; a heavy load, up to 900 pounds."
+        "Griffons can be trained as mounts if raised in captivity, but even in this case they may try to attack horses if any come within about 120'.  Roll a morale check in this case; if the check is failed, the griffon will try to attack immediately.  A light load for a griffon is up to 400 pounds; a heavy load, up to 900 pounds.",
+        "Hangman Tree",
+        "Armor Class: 16",
+        "Hit Dice: 5",
+        "No. of Attacks: 4 limbs",
+        "Damage: 1d6 limb  +1d6/round strangle each",
+        "Movement: 0",
+        "No. Appearing: Wild 1",
+        "Save As: Fighter: 4",
+        "Morale: 12",
+        "Treasure Type: None",
+        "XP: 360",
+        "Hangman trees are horrible, semi-animate creatures that fertilize themselves with dead bodies.  A hangman tree has four animated limbs that can wrap around the necks of living creatures that pass beneath, strangling for 1d6 points of damage per round.  These limbs are arranged evenly around the tree in most cases, and generally no more than one limb can attack any single creature at a time.",
+        "The roots of this tree are also animated; they do not attack, but they do pull dead bodies below the surface of the ground for \"digestion.\""
     ],
     "hitdice": "7",
     "morale": "8",
@@ -1919,57 +1932,835 @@ monsters = [
     "xp": "670"
 },
 {
-    "armorclass": "18",
-    "damage": "1d4 claw, 2d8 bite",
+    "armorclass": "13",
+    "damage": "1d4 claw, 1d6 or by weapon or charm",
     "description": [
-        "Griffons are large carnivorous creatures resembling lions with the head, foreclaws and wings of eagles.  Average adults (male or female) have a wingspan of around 22 feet and weigh around 500 pounds.",
-        "Griffons nest on high mountaintops, soaring down to feed on horses, the beast's preferred prey.  Indeed, a griffon will attack a horse over anything else.  They hunt and travel in flocks, diving low when attacking to swipe with their claws.  They are not above retreating and then returning when they may be unexpected.",
-        "Griffons can be trained as mounts if raised in captivity, but even in this case they may try to attack horses if any come within about 120'.  Roll a morale check in this case; if the check is failed, the griffon will try to attack immediately.  A light load for a griffon is up to 400 pounds; a heavy load, up to 900 pounds."
+        "A harpy looks like a giant vulture bearing the torso and face of a human female.  They are able to attack with their claws as well as with a normal weapon, but they are most feared for the power of their song by which they are able to charm living creatures, and, having charmed them, tear them to pieces at their leisure.",
+        "All living creatures within a 300' range of one or more singing harpies must make a save vs. Spells or become charmed.  The same harpy's song cannot affect a creature that successfully saves again for 24 hours.  This charm is very powerful, such that a victim will approach the harpy or harpies without fear with a dazed expression on its face.  If the victim is led toward some danger, such as a ravine, fire, or the like, a second saving throw is allowed immediately; however, if this save fails the victim will proceed directly into danger.",
+        "Once in reach of a harpy, a charmed victim will surrender completely, even allowing the harpy to attack and kill it without putting up any sort of resistance.  The charm effect lasts one full round after all harpies have ceased singing."
     ],
-    "hitdice": "7",
+    "hitdice": "2*",
+    "morale": "7",
+    "movement": "20' Fly 50' (10')",
+    "name": "Harpy",
+    "noappearing": "1d6, Wild 2d4, Lair 2d4",
+    "noattacks": "2 claws, 1 weapon or charm",
+    "saveas": "Fighter: 2",
+    "treasure": "C",
+    "xp": "100"
+},
+{
+    "armorclass": "12",
+    "damage": "1d2 claw or bite",
+    "description": [
+        "Normal hawks (or falcons) are raptors, predatory birds that typically subsist on small snakes and other vermin.  Most have wingspans of less than 5 feet and a body length of no more than 2 feet."
+    ],
+    "hitdice": "1/2 (1d4 hit points)",
+    "morale": "7",
+    "movement": "Fly 160'",
+    "name": "Hawk",
+    "noappearing": "Wild 1d6, Lair 1d6",
+    "noattacks": "1 claw or bite",
+    "saveas": "Fighter: 1",
+    "treasure": "None",
+    "xp": "10"
+},
+{
+    "armorclass": "14",
+    "damage": "1d6 claw or bite",
+    "description": [
+        "Giant hawks are 4 to 6 feet long, with wingspans of 12 feet or more; they can carry off creatures of Halfling size or smaller.",
+        "All hawks will shy away from combat with any creature of equal or greater size, unless forced or cornered or their eggs or offspring are threatened."
+    ],
+    "hitdice": "4",
     "morale": "8",
-    "movement": "40' (10') Fly 120' (10')",
-    "name": "Griffon",
-    "noappearing": "Wild 2d8, Lair 2d8",
-    "noattacks": "2 claws, 1 bite",
-    "saveas": "Fighter: 7",
-    "treasure": "E",
-    "xp": "670"
+    "movement": "Fly 150' (10')",
+    "name": "Hawk, Giant",
+    "noappearing": "Wild 1d3, Lair 1d3",
+    "noattacks": "1 claw or bite",
+    "saveas": "Fighter: 4",
+    "treasure": "None",
+    "xp": "240"
+},
+{
+    "armorclass": "14",
+    "damage": "1d6 bite, 3d6 breath",
+    "description": [
+        "Hellhounds are large canine creatures sheathed in hellish flame; they range in size from 3 to 5 feet at the shoulder (3 feet for a 3 hit die monster, plus 1/2 foot for each additional hit die) with a weight ranging from 100 to 200 pounds (100 pounds at 3 hit dice plus 25 pounds per additional hit die).  These monsters are native to another plane where they hunt in packs; sometimes powerful wizards or evil priests summon them for use as watchdogs.  In addition to biting, each hellhound may breathe fire a number of times per day equal to its hit dice.  In combat, one-third of the time (1-2 on 1d6) a hellhound will choose to breathe fire; otherwise it will attempt to bite.  Roll each round to determine which attack form will be used.",
+        "A hellhound's breath weapon is a cone of flame 10' wide at the far end which is 10' long for those with 3 or 4 hit dice, 20' long for those with 5 or 6 hit dice, and 30' long for the largest hellhounds.  This breath weapon does 1d6 points of damage per each hit die of the hellhound to all within the area of effect; a successful saving throw vs. Dragon Breath reduces damage to half normal.",
+        "Note that hellhounds vary with regard to the number of hit dice each has.  If generating a group randomly, roll 1d6+1 for the hit dice of each, reading a total of 2 as 3.  A hellhound has an Armor Class equal to 11 plus its hit dice."
+    ],
+    "hitdice": "3**",
+    "morale": "9",
+    "movement": "40'",
+    "name": "Hellhound, 3 HD",
+    "noappearing": "2d4, Wild 2d4, Lair 2d4",
+    "noattacks": "1 bite or 1 breath",
+    "saveas": "Fighter: 3",
+    "treasure": "C",
+    "xp": "205"
+},
+{
+    "armorclass": "15",
+    "damage": "1d6 bite, 4d6 breath",
+    "description": [
+        "Hellhounds are large canine creatures sheathed in hellish flame; they range in size from 3 to 5 feet at the shoulder (3 feet for a 3 hit die monster, plus 1/2 foot for each additional hit die) with a weight ranging from 100 to 200 pounds (100 pounds at 3 hit dice plus 25 pounds per additional hit die).  These monsters are native to another plane where they hunt in packs; sometimes powerful wizards or evil priests summon them for use as watchdogs.  In addition to biting, each hellhound may breathe fire a number of times per day equal to its hit dice.  In combat, one-third of the time (1-2 on 1d6) a hellhound will choose to breathe fire; otherwise it will attempt to bite.  Roll each round to determine which attack form will be used.",
+        "A hellhound's breath weapon is a cone of flame 10' wide at the far end which is 10' long for those with 3 or 4 hit dice, 20' long for those with 5 or 6 hit dice, and 30' long for the largest hellhounds.  This breath weapon does 1d6 points of damage per each hit die of the hellhound to all within the area of effect; a successful saving throw vs. Dragon Breath reduces damage to half normal.",
+        "Note that hellhounds vary with regard to the number of hit dice each has.  If generating a group randomly, roll 1d6+1 for the hit dice of each, reading a total of 2 as 3.  A hellhound has an Armor Class equal to 11 plus its hit dice."
+    ],
+    "hitdice": "4**",
+    "morale": "9",
+    "movement": "40'",
+    "name": "Hellhound, 4 HD",
+    "noappearing": "2d4, Wild 2d4, Lair 2d4",
+    "noattacks": "1 bite or 1 breath",
+    "saveas": "Fighter: 4",
+    "treasure": "C",
+    "xp": "320"
+},
+{
+    "armorclass": "16",
+    "damage": "1d6 bite, 5d6 breath",
+    "description": [
+        "Hellhounds are large canine creatures sheathed in hellish flame; they range in size from 3 to 5 feet at the shoulder (3 feet for a 3 hit die monster, plus 1/2 foot for each additional hit die) with a weight ranging from 100 to 200 pounds (100 pounds at 3 hit dice plus 25 pounds per additional hit die).  These monsters are native to another plane where they hunt in packs; sometimes powerful wizards or evil priests summon them for use as watchdogs.  In addition to biting, each hellhound may breathe fire a number of times per day equal to its hit dice.  In combat, one-third of the time (1-2 on 1d6) a hellhound will choose to breathe fire; otherwise it will attempt to bite.  Roll each round to determine which attack form will be used.",
+        "A hellhound's breath weapon is a cone of flame 10' wide at the far end which is 10' long for those with 3 or 4 hit dice, 20' long for those with 5 or 6 hit dice, and 30' long for the largest hellhounds.  This breath weapon does 1d6 points of damage per each hit die of the hellhound to all within the area of effect; a successful saving throw vs. Dragon Breath reduces damage to half normal.",
+        "Note that hellhounds vary with regard to the number of hit dice each has.  If generating a group randomly, roll 1d6+1 for the hit dice of each, reading a total of 2 as 3.  A hellhound has an Armor Class equal to 11 plus its hit dice."
+    ],
+    "hitdice": "5**",
+    "morale": "9",
+    "movement": "40'",
+    "name": "Hellhound, 5 HD",
+    "noappearing": "2d4, Wild 2d4, Lair 2d4",
+    "noattacks": "1 bite or 1 breath",
+    "saveas": "Fighter: 5",
+    "treasure": "C",
+    "xp": "450"
+},
+{
+    "armorclass": "17",
+    "damage": "1d6 bite, 6d6 breath",
+    "description": [
+        "Hellhounds are large canine creatures sheathed in hellish flame; they range in size from 3 to 5 feet at the shoulder (3 feet for a 3 hit die monster, plus 1/2 foot for each additional hit die) with a weight ranging from 100 to 200 pounds (100 pounds at 3 hit dice plus 25 pounds per additional hit die).  These monsters are native to another plane where they hunt in packs; sometimes powerful wizards or evil priests summon them for use as watchdogs.  In addition to biting, each hellhound may breathe fire a number of times per day equal to its hit dice.  In combat, one-third of the time (1-2 on 1d6) a hellhound will choose to breathe fire; otherwise it will attempt to bite.  Roll each round to determine which attack form will be used.",
+        "A hellhound's breath weapon is a cone of flame 10' wide at the far end which is 10' long for those with 3 or 4 hit dice, 20' long for those with 5 or 6 hit dice, and 30' long for the largest hellhounds.  This breath weapon does 1d6 points of damage per each hit die of the hellhound to all within the area of effect; a successful saving throw vs. Dragon Breath reduces damage to half normal.",
+        "Note that hellhounds vary with regard to the number of hit dice each has.  If generating a group randomly, roll 1d6+1 for the hit dice of each, reading a total of 2 as 3.  A hellhound has an Armor Class equal to 11 plus its hit dice."
+    ],
+    "hitdice": "6**",
+    "morale": "9",
+    "movement": "40'",
+    "name": "Hellhound, 6 HD",
+    "noappearing": "2d4, Wild 2d4, Lair 2d4",
+    "noattacks": "1 bite or 1 breath",
+    "saveas": "Fighter: 6",
+    "treasure": "C",
+    "xp": "610"
 },
 {
     "armorclass": "18",
-    "damage": "1d4 claw, 2d8 bite",
+    "damage": "1d6 bite, 7d6 breath",
     "description": [
-        "Griffons are large carnivorous creatures resembling lions with the head, foreclaws and wings of eagles.  Average adults (male or female) have a wingspan of around 22 feet and weigh around 500 pounds.",
-        "Griffons nest on high mountaintops, soaring down to feed on horses, the beast's preferred prey.  Indeed, a griffon will attack a horse over anything else.  They hunt and travel in flocks, diving low when attacking to swipe with their claws.  They are not above retreating and then returning when they may be unexpected.",
-        "Griffons can be trained as mounts if raised in captivity, but even in this case they may try to attack horses if any come within about 120'.  Roll a morale check in this case; if the check is failed, the griffon will try to attack immediately.  A light load for a griffon is up to 400 pounds; a heavy load, up to 900 pounds."
+        "Hellhounds are large canine creatures sheathed in hellish flame; they range in size from 3 to 5 feet at the shoulder (3 feet for a 3 hit die monster, plus 1/2 foot for each additional hit die) with a weight ranging from 100 to 200 pounds (100 pounds at 3 hit dice plus 25 pounds per additional hit die).  These monsters are native to another plane where they hunt in packs; sometimes powerful wizards or evil priests summon them for use as watchdogs.  In addition to biting, each hellhound may breathe fire a number of times per day equal to its hit dice.  In combat, one-third of the time (1-2 on 1d6) a hellhound will choose to breathe fire; otherwise it will attempt to bite.  Roll each round to determine which attack form will be used.",
+        "A hellhound's breath weapon is a cone of flame 10' wide at the far end which is 10' long for those with 3 or 4 hit dice, 20' long for those with 5 or 6 hit dice, and 30' long for the largest hellhounds.  This breath weapon does 1d6 points of damage per each hit die of the hellhound to all within the area of effect; a successful saving throw vs. Dragon Breath reduces damage to half normal.",
+        "Note that hellhounds vary with regard to the number of hit dice each has.  If generating a group randomly, roll 1d6+1 for the hit dice of each, reading a total of 2 as 3.  A hellhound has an Armor Class equal to 11 plus its hit dice."
     ],
-    "hitdice": "7",
-    "morale": "8",
-    "movement": "40' (10') Fly 120' (10')",
-    "name": "Griffon",
-    "noappearing": "Wild 2d8, Lair 2d8",
-    "noattacks": "2 claws, 1 bite",
+    "hitdice": "7**",
+    "morale": "9",
+    "movement": "40'",
+    "name": "Hellhound, 7 HD",
+    "noappearing": "2d4, Wild 2d4, Lair 2d4",
+    "noattacks": "1 bite or 1 breath",
     "saveas": "Fighter: 7",
-    "treasure": "E",
-    "xp": "670"
+    "treasure": "C",
+    "xp": "800"
+},
+{
+    "armorclass": "15",
+    "damage": "1d6 claw, 1d10 bite",
+    "description": [
+        "Hippogriffs resemble large flying horses with the forefront of a bird of prey; they have wingspans of around 20 feet and an overall body length up to 9 feet, and weigh 900 to 1,200 pounds.  They are found in a variety of colors and patterns, including white, black, tan, brown, and reddish brown with markings such as blazes, stripes, stars, \"bald\" faces, and so on.",
+        "A hippogriff avoids the territories and civilizations of other creatures, dwelling in extreme altitudes.  Griffons sometimes prey upon them, and hippogriffs will generally attack griffons on sight if they have a numerical advantage.",
+        "Hippogriffs are omnivorous, entering combat only as defense, save for those times a griffon is met.  They are prized as flying mounts since, unlike griffons, they are relatively safe around horses; note that it is still necessary to raise one in captivity in order to use it as a mount.  A light load for a hippogriff is up to 400 pounds; a heavy load, up to 900 pounds."
+    ],
+    "hitdice": "3",
+    "morale": "8",
+    "movement": "60' (10') Fly 120' (10')",
+    "name": "Hippogriff",
+    "noappearing": "Wild 2d8",
+    "noattacks": "2 claws, 1 bite",
+    "saveas": "Fighter: 3",
+    "treasure": "None",
+    "xp": "145"
+},
+{
+    "armorclass": "14 (11)",
+    "damage": "1d8 or by weapon",
+    "description": [
+        "Hobgoblins are, basically, man-sized goblins.  They are better organized than their smaller kin, and are also better adapted to life in the sun.  Their skin tone ranges from a greenish tan to a grayish brown, and their hair and eyes are usually dark.  Most wear toughened hides and carry wooden shields for armor.  As with most goblinoids, they have Darkvision with a 30' range.",
+        "Tribes of hobgoblins prefer to live in walled villages, or preferably in castles, and are quite willing to overrun villages or castles built by other races rather than build their own.  Some tribes do choose to live underground.  Hobgoblins have a well-known hatred of elves, and will attack them whenever they think they can win.",
+        "One out of every six hobgoblins will be a warrior of 3 Hit Dice (145 XP).  Regular hobgoblins gain a +1 bonus to their morale if they are led by a warrior.  In hobgoblin lairs, one out of every twelve will be a chieftain of 5 Hit Dice (360 XP) in chainmail with an Armor Class of 15 (11) and a movement of 20', having a +1 bonus to damage due to strength.  In lairs of 30 or more there will be a hobgoblin king of 7 Hit Dice (670 XP), with a shield for an Armor Class of 16 (11) having a +2 bonus to damage.  In the lair, hobgoblins never fail a morale check as long as the king is alive.  In addition, a lair has a chance equal to 1-2 on 1d6 of a shaman being present (or 1-3 on 1d6 if a hobgoblin king is present), and 1 on 1d6 of a witch or warlock.  A shaman is equivalent to a hobgoblin warrior statistically, but has Clerical abilities at level 1d6+1.  A witch or warlock is equivalent to a regular hobgoblin, but has Magic-User abilities of level 1d6."
+    ],
+    "hitdice": "1",
+    "morale": "8",
+    "movement": "30' Unarmored 40'",
+    "name": "Hobgoblin",
+    "noappearing": "1d6, Wild 2d4, Lair 4d8",
+    "noattacks": "1 weapon",
+    "saveas": "Fighter: 1",
+    "treasure": "Q, R each; D, K in lair",
+    "xp": "25"
+},
+{
+    "armorclass": "16",
+    "damage": "1d10 per bite",
+    "description": [
+        "Hydras are reptilian creatures with multiple heads.  They are bad-tempered and territorial, but not particularly cunning.",
+        "The Armor Class and Hit Dice of a hydra are keyed to the number of heads; specifically, a hydra has a number of Hit Dice exactly equal to the number of heads, and an Armor Class equal to the number of heads plus 11.  Note that these statistics do not change if an individual loses heads, as described below.",
+        "A hydra may be slain by damage in the normal fashion; however, most who fight them choose to strike at their heads.  If a character using a melee weapon chooses to strike at a particular head (i.e. states such intent to the GM) and succeeds in doing 8 points of damage, that head is disabled (severed or severely damaged) and will not be able to attack anymore.  Such damage also applies to the monster's total hit points, of course.",
+        "Some hydras live in the ocean; use the given movement as a swimming rate rather than walking in this case.  A very few hydras can breathe fire; those that have this ability can emit a flame 10' wide and 20' long one time per head per day.  This attack will be used about one time in three (1-2 on 1d6) if it is available; roll for each head which is attacking.  Each such attack does 3d6 damage, with a save vs. Dragon Breath reducing the amount by half.  Note that the XP value of a fire-breathing hydra should be higher; treat them as if they have a single asterisk (i.e. add the special ability bonus to the base XP for the monster)."
+    ],
+    "hitdice": "5",
+    "morale": "9",
+    "movement": "40' (10')",
+    "name": "Hydra, 5 Heads",
+    "noappearing": "1, Wild 1, Lair 1",
+    "noattacks": "5 bites",
+    "saveas": "Fighter: 5",
+    "treasure": "B",
+    "xp": "360"
+},
+{
+    "armorclass": "17",
+    "damage": "1d10 per bite",
+    "description": [
+        "Hydras are reptilian creatures with multiple heads.  They are bad-tempered and territorial, but not particularly cunning.",
+        "The Armor Class and Hit Dice of a hydra are keyed to the number of heads; specifically, a hydra has a number of Hit Dice exactly equal to the number of heads, and an Armor Class equal to the number of heads plus 11.  Note that these statistics do not change if an individual loses heads, as described below.",
+        "A hydra may be slain by damage in the normal fashion; however, most who fight them choose to strike at their heads.  If a character using a melee weapon chooses to strike at a particular head (i.e. states such intent to the GM) and succeeds in doing 8 points of damage, that head is disabled (severed or severely damaged) and will not be able to attack anymore.  Such damage also applies to the monster's total hit points, of course.",
+        "Some hydras live in the ocean; use the given movement as a swimming rate rather than walking in this case.  A very few hydras can breathe fire; those that have this ability can emit a flame 10' wide and 20' long one time per head per day.  This attack will be used about one time in three (1-2 on 1d6) if it is available; roll for each head which is attacking.  Each such attack does 3d6 damage, with a save vs. Dragon Breath reducing the amount by half.  Note that the XP value of a fire-breathing hydra should be higher; treat them as if they have a single asterisk (i.e. add the special ability bonus to the base XP for the monster)."
+    ],
+    "hitdice": "6",
+    "morale": "9",
+    "movement": "40' (10')",
+    "name": "Hydra, 6 Heads",
+    "noappearing": "1, Wild 1, Lair 1",
+    "noattacks": "6 bites",
+    "saveas": "Fighter: 6",
+    "treasure": "B",
+    "xp": "500"
 },
 {
     "armorclass": "18",
-    "damage": "1d4 claw, 2d8 bite",
+    "damage": "1d10 per bite",
     "description": [
-        "Griffons are large carnivorous creatures resembling lions with the head, foreclaws and wings of eagles.  Average adults (male or female) have a wingspan of around 22 feet and weigh around 500 pounds.",
-        "Griffons nest on high mountaintops, soaring down to feed on horses, the beast's preferred prey.  Indeed, a griffon will attack a horse over anything else.  They hunt and travel in flocks, diving low when attacking to swipe with their claws.  They are not above retreating and then returning when they may be unexpected.",
-        "Griffons can be trained as mounts if raised in captivity, but even in this case they may try to attack horses if any come within about 120'.  Roll a morale check in this case; if the check is failed, the griffon will try to attack immediately.  A light load for a griffon is up to 400 pounds; a heavy load, up to 900 pounds."
+        "Hydras are reptilian creatures with multiple heads.  They are bad-tempered and territorial, but not particularly cunning.",
+        "The Armor Class and Hit Dice of a hydra are keyed to the number of heads; specifically, a hydra has a number of Hit Dice exactly equal to the number of heads, and an Armor Class equal to the number of heads plus 11.  Note that these statistics do not change if an individual loses heads, as described below.",
+        "A hydra may be slain by damage in the normal fashion; however, most who fight them choose to strike at their heads.  If a character using a melee weapon chooses to strike at a particular head (i.e. states such intent to the GM) and succeeds in doing 8 points of damage, that head is disabled (severed or severely damaged) and will not be able to attack anymore.  Such damage also applies to the monster's total hit points, of course.",
+        "Some hydras live in the ocean; use the given movement as a swimming rate rather than walking in this case.  A very few hydras can breathe fire; those that have this ability can emit a flame 10' wide and 20' long one time per head per day.  This attack will be used about one time in three (1-2 on 1d6) if it is available; roll for each head which is attacking.  Each such attack does 3d6 damage, with a save vs. Dragon Breath reducing the amount by half.  Note that the XP value of a fire-breathing hydra should be higher; treat them as if they have a single asterisk (i.e. add the special ability bonus to the base XP for the monster)."
     ],
     "hitdice": "7",
-    "morale": "8",
-    "movement": "40' (10') Fly 120' (10')",
-    "name": "Griffon",
-    "noappearing": "Wild 2d8, Lair 2d8",
-    "noattacks": "2 claws, 1 bite",
+    "morale": "9",
+    "movement": "40' (10')",
+    "name": "Hydra, 7 Heads",
+    "noappearing": "1, Wild 1, Lair 1",
+    "noattacks": "7 bites",
     "saveas": "Fighter: 7",
-    "treasure": "E",
-    "xp": "670"
+    "treasure": "B",
+    "xp": "670,       8 HD 875, 9 HD 1,075, 10 HD 1,300, 11 HD 1,575, 12 HD 1,875"
+},
+{
+    "armorclass": "19",
+    "damage": "1d10 per bite",
+    "description": [
+        "Hydras are reptilian creatures with multiple heads.  They are bad-tempered and territorial, but not particularly cunning.",
+        "The Armor Class and Hit Dice of a hydra are keyed to the number of heads; specifically, a hydra has a number of Hit Dice exactly equal to the number of heads, and an Armor Class equal to the number of heads plus 11.  Note that these statistics do not change if an individual loses heads, as described below.",
+        "A hydra may be slain by damage in the normal fashion; however, most who fight them choose to strike at their heads.  If a character using a melee weapon chooses to strike at a particular head (i.e. states such intent to the GM) and succeeds in doing 8 points of damage, that head is disabled (severed or severely damaged) and will not be able to attack anymore.  Such damage also applies to the monster's total hit points, of course.",
+        "Some hydras live in the ocean; use the given movement as a swimming rate rather than walking in this case.  A very few hydras can breathe fire; those that have this ability can emit a flame 10' wide and 20' long one time per head per day.  This attack will be used about one time in three (1-2 on 1d6) if it is available; roll for each head which is attacking.  Each such attack does 3d6 damage, with a save vs. Dragon Breath reducing the amount by half.  Note that the XP value of a fire-breathing hydra should be higher; treat them as if they have a single asterisk (i.e. add the special ability bonus to the base XP for the monster)."
+    ],
+    "hitdice": "8",
+    "morale": "9",
+    "movement": "40' (10')",
+    "name": "Hydra, 8 Heads",
+    "noappearing": "1, Wild 1, Lair 1",
+    "noattacks": "8 bites",
+    "saveas": "Fighter: 8",
+    "treasure": "B",
+    "xp": "8"
+},
+{
+    "armorclass": "20",
+    "damage": "1d10 per bite",
+    "description": [
+        "Hydras are reptilian creatures with multiple heads.  They are bad-tempered and territorial, but not particularly cunning.",
+        "The Armor Class and Hit Dice of a hydra are keyed to the number of heads; specifically, a hydra has a number of Hit Dice exactly equal to the number of heads, and an Armor Class equal to the number of heads plus 11.  Note that these statistics do not change if an individual loses heads, as described below.",
+        "A hydra may be slain by damage in the normal fashion; however, most who fight them choose to strike at their heads.  If a character using a melee weapon chooses to strike at a particular head (i.e. states such intent to the GM) and succeeds in doing 8 points of damage, that head is disabled (severed or severely damaged) and will not be able to attack anymore.  Such damage also applies to the monster's total hit points, of course.",
+        "Some hydras live in the ocean; use the given movement as a swimming rate rather than walking in this case.  A very few hydras can breathe fire; those that have this ability can emit a flame 10' wide and 20' long one time per head per day.  This attack will be used about one time in three (1-2 on 1d6) if it is available; roll for each head which is attacking.  Each such attack does 3d6 damage, with a save vs. Dragon Breath reducing the amount by half.  Note that the XP value of a fire-breathing hydra should be higher; treat them as if they have a single asterisk (i.e. add the special ability bonus to the base XP for the monster)."
+    ],
+    "hitdice": "9 (+8)",
+    "morale": "9",
+    "movement": "40' (10')",
+    "name": "Hydra, 9 Heads",
+    "noappearing": "1, Wild 1, Lair 1",
+    "noattacks": "9 bites",
+    "saveas": "Fighter: 9",
+    "treasure": "B",
+    "xp": "1,075"
+},
+{
+    "armorclass": "21",
+    "damage": "1d10 per bite",
+    "description": [
+        "Hydras are reptilian creatures with multiple heads.  They are bad-tempered and territorial, but not particularly cunning.",
+        "The Armor Class and Hit Dice of a hydra are keyed to the number of heads; specifically, a hydra has a number of Hit Dice exactly equal to the number of heads, and an Armor Class equal to the number of heads plus 11.  Note that these statistics do not change if an individual loses heads, as described below.",
+        "A hydra may be slain by damage in the normal fashion; however, most who fight them choose to strike at their heads.  If a character using a melee weapon chooses to strike at a particular head (i.e. states such intent to the GM) and succeeds in doing 8 points of damage, that head is disabled (severed or severely damaged) and will not be able to attack anymore.  Such damage also applies to the monster's total hit points, of course.",
+        "Some hydras live in the ocean; use the given movement as a swimming rate rather than walking in this case.  A very few hydras can breathe fire; those that have this ability can emit a flame 10' wide and 20' long one time per head per day.  This attack will be used about one time in three (1-2 on 1d6) if it is available; roll for each head which is attacking.  Each such attack does 3d6 damage, with a save vs. Dragon Breath reducing the amount by half.  Note that the XP value of a fire-breathing hydra should be higher; treat them as if they have a single asterisk (i.e. add the special ability bonus to the base XP for the monster)."
+    ],
+    "hitdice": "10 (+9)",
+    "morale": "9",
+    "movement": "40' (10')",
+    "name": "Hydra, 10 Heads",
+    "noappearing": "1, Wild 1, Lair 1",
+    "noattacks": "10 bites",
+    "saveas": "Fighter: 10",
+    "treasure": "B",
+    "xp": "1,300"
+},
+{
+    "armorclass": "22",
+    "damage": "1d10 per bite",
+    "description": [
+        "Hydras are reptilian creatures with multiple heads.  They are bad-tempered and territorial, but not particularly cunning.",
+        "The Armor Class and Hit Dice of a hydra are keyed to the number of heads; specifically, a hydra has a number of Hit Dice exactly equal to the number of heads, and an Armor Class equal to the number of heads plus 11.  Note that these statistics do not change if an individual loses heads, as described below.",
+        "A hydra may be slain by damage in the normal fashion; however, most who fight them choose to strike at their heads.  If a character using a melee weapon chooses to strike at a particular head (i.e. states such intent to the GM) and succeeds in doing 8 points of damage, that head is disabled (severed or severely damaged) and will not be able to attack anymore.  Such damage also applies to the monster's total hit points, of course.",
+        "Some hydras live in the ocean; use the given movement as a swimming rate rather than walking in this case.  A very few hydras can breathe fire; those that have this ability can emit a flame 10' wide and 20' long one time per head per day.  This attack will be used about one time in three (1-2 on 1d6) if it is available; roll for each head which is attacking.  Each such attack does 3d6 damage, with a save vs. Dragon Breath reducing the amount by half.  Note that the XP value of a fire-breathing hydra should be higher; treat them as if they have a single asterisk (i.e. add the special ability bonus to the base XP for the monster)."
+    ],
+    "hitdice": "11 (+9)",
+    "morale": "9",
+    "movement": "40' (10')",
+    "name": "Hydra, 11 Heads",
+    "noappearing": "1, Wild 1, Lair 1",
+    "noattacks": "11 bites",
+    "saveas": "Fighter: 11",
+    "treasure": "B",
+    "xp": "1,575"
+},
+{
+    "armorclass": "23",
+    "damage": "1d10 per bite",
+    "description": [
+        "Hydras are reptilian creatures with multiple heads.  They are bad-tempered and territorial, but not particularly cunning.",
+        "The Armor Class and Hit Dice of a hydra are keyed to the number of heads; specifically, a hydra has a number of Hit Dice exactly equal to the number of heads, and an Armor Class equal to the number of heads plus 11.  Note that these statistics do not change if an individual loses heads, as described below.",
+        "A hydra may be slain by damage in the normal fashion; however, most who fight them choose to strike at their heads.  If a character using a melee weapon chooses to strike at a particular head (i.e. states such intent to the GM) and succeeds in doing 8 points of damage, that head is disabled (severed or severely damaged) and will not be able to attack anymore.  Such damage also applies to the monster's total hit points, of course.",
+        "Some hydras live in the ocean; use the given movement as a swimming rate rather than walking in this case.  A very few hydras can breathe fire; those that have this ability can emit a flame 10' wide and 20' long one time per head per day.  This attack will be used about one time in three (1-2 on 1d6) if it is available; roll for each head which is attacking.  Each such attack does 3d6 damage, with a save vs. Dragon Breath reducing the amount by half.  Note that the XP value of a fire-breathing hydra should be higher; treat them as if they have a single asterisk (i.e. add the special ability bonus to the base XP for the monster)."
+    ],
+    "hitdice": "12 (+10)",
+    "morale": "9",
+    "movement": "40' (10')",
+    "name": "Hydra, 12 Heads",
+    "noappearing": "1, Wild 1, Lair 1",
+    "noattacks": "12 bites",
+    "saveas": "Fighter: 12",
+    "treasure": "B",
+    "xp": "1,875"
+},
+{
+    "armorclass": "13",
+    "damage": "1d6 bite",
+    "description": [
+        "Hyenas are doglike carnivores who exhibit some of the behaviors of canines but are not related.  They not only hunt but also scavenge and steal meals.  A hungry hyena will chew on anything that is even remotely tainted by blood, meat or other food traces.  They will mostly be found in the same savanna-like environments where lions and zebras may be found.  They can live in clans of up to a hundred individuals, though smaller groups are more common.  They are among the favorite pets of gnolls, who may take them into regions where they are not normally found."
+    ],
+    "hitdice": "2+1",
+    "morale": "8",
+    "movement": "60'",
+    "name": "Hyena",
+    "noappearing": "1d8",
+    "noattacks": "1 bite",
+    "saveas": "Fighter: 2",
+    "treasure": "None",
+    "xp": "75"
+},
+{
+    "armorclass": "13",
+    "damage": "1d8 bite",
+    "description": [
+        "Hyenodon refers to ancient four-legged predators whose name means \"hyena tooth.\"  While they are not technically hyenas, the statistics given may be used for the giant prehistoric hyena varieties as well; likewise, some varieties of hyenodon were smaller, and the statistics for standard hyenas may be used for them."
+    ],
+    "hitdice": "3+1",
+    "morale": "8",
+    "movement": "40'",
+    "name": "Hyenodon",
+    "noappearing": "1d6 Wild/Lair 1d8",
+    "noattacks": "1 bite",
+    "saveas": "Fighter: 3",
+    "treasure": "None",
+    "xp": "145"
+},
+{
+    "armorclass": "Immune to normal weapons, including most magical types",
+    "damage": "1d3 (double against no armor)",
+    "description": [
+        "An insect swarm is not a single creature; rather, it is a large group of ordinary flying or crawling insects moving as a unit.  In general, a swarm fills a volume equal to three 10' cubes, though it is possible for a swarm to become more compact in order to move through a small doorway or narrow corridor.  If the swarm consists of crawling insects, it covers three 10' squares and the flying movement above is ignored.",
+        "Any living creature within the volume or area of the swarm suffers 1d3 points of damage each round.  Damage rolls are doubled if the victim is unarmored (for creatures which do not wear armor, any creature having less than AC 15 is considered unarmored).",
+        "Damage is reduced to a single point per round for three rounds if the character manages to exit the swarm.  It is possible to \"ward off\" the insects by swinging a weapon, shield, or other similar-sized object around, and in this case damage is likewise reduced to 1 point per round.  If a lit torch is used in this way, the swarm takes 1d4 points of damage per round.  Weapons, even magic weapons, do not harm an insect swarm.  An entire swarm can be affected by a sleep spell.  Smoke can be used to drive a swarm away (if the swarm moves away from any victims due to smoke, the damage stops immediately).  Finally, a victim who dives into water will take damage for only one more round."
+    ],
+    "hitdice": "4*",
+    "morale": "11",
+    "movement": "10' Fly 20'",
+    "name": "Insect Swarm, Small",
+    "noappearing": "1 swarm, Wild 1d3 swarms",
+    "noattacks": "1 swarm",
+    "saveas": "N/A",
+    "treasure": "None",
+    "xp": "280"
+},
+{
+    "armorclass": "Immune to normal weapons, including most magical types",
+    "damage": "1d3 (double against no armor)",
+    "description": [
+        "An insect swarm is not a single creature; rather, it is a large group of ordinary flying or crawling insects moving as a unit.  In general, a swarm fills a volume equal to three 10' cubes, though it is possible for a swarm to become more compact in order to move through a small doorway or narrow corridor.  If the swarm consists of crawling insects, it covers three 10' squares and the flying movement above is ignored.",
+        "Any living creature within the volume or area of the swarm suffers 1d3 points of damage each round.  Damage rolls are doubled if the victim is unarmored (for creatures which do not wear armor, any creature having less than AC 15 is considered unarmored).",
+        "Damage is reduced to a single point per round for three rounds if the character manages to exit the swarm.  It is possible to \"ward off\" the insects by swinging a weapon, shield, or other similar-sized object around, and in this case damage is likewise reduced to 1 point per round.  If a lit torch is used in this way, the swarm takes 1d4 points of damage per round.  Weapons, even magic weapons, do not harm an insect swarm.  An entire swarm can be affected by a sleep spell.  Smoke can be used to drive a swarm away (if the swarm moves away from any victims due to smoke, the damage stops immediately).  Finally, a victim who dives into water will take damage for only one more round."
+    ],
+    "hitdice": "2*",
+    "morale": "11",
+    "movement": "10' Fly 20'",
+    "name": "Insect Swarm, Medium",
+    "noappearing": "1 swarm, Wild 1d3 swarms",
+    "noattacks": "1 swarm",
+    "saveas": "N/A",
+    "treasure": "None",
+    "xp": "100"
+},
+{
+    "armorclass": "Immune to normal weapons, including most magical types",
+    "damage": "1d3 (double against no armor)",
+    "description": [
+        "An insect swarm is not a single creature; rather, it is a large group of ordinary flying or crawling insects moving as a unit.  In general, a swarm fills a volume equal to three 10' cubes, though it is possible for a swarm to become more compact in order to move through a small doorway or narrow corridor.  If the swarm consists of crawling insects, it covers three 10' squares and the flying movement above is ignored.",
+        "Any living creature within the volume or area of the swarm suffers 1d3 points of damage each round.  Damage rolls are doubled if the victim is unarmored (for creatures which do not wear armor, any creature having less than AC 15 is considered unarmored).",
+        "Damage is reduced to a single point per round for three rounds if the character manages to exit the swarm.  It is possible to \"ward off\" the insects by swinging a weapon, shield, or other similar-sized object around, and in this case damage is likewise reduced to 1 point per round.  If a lit torch is used in this way, the swarm takes 1d4 points of damage per round.  Weapons, even magic weapons, do not harm an insect swarm.  An entire swarm can be affected by a sleep spell.  Smoke can be used to drive a swarm away (if the swarm moves away from any victims due to smoke, the damage stops immediately).  Finally, a victim who dives into water will take damage for only one more round."
+    ],
+    "hitdice": "3*",
+    "morale": "11",
+    "movement": "10' Fly 20'",
+    "name": "Insect Swarm, Large",
+    "noappearing": "1 swarm, Wild 1d3 swarms",
+    "noattacks": "1 swarm",
+    "saveas": "N/A",
+    "treasure": "None",
+    "xp": "175"
+},
+{
+    "armorclass": "19",
+    "damage": "4d4",
+    "description": [
+        "Invisible stalkers are monsters from another plane of existence who may be summoned to slay the enemies of a wizard or to perform some other simple task.  They are naturally invisible, and remain so even after attacking.",
+        "A summoned invisible stalker does whatever the summoner commands, even if the task takes days or weeks to perform.  The creature is compelled to complete the task regardless of time required.  Invisible stalkers don't like tasks that take too long or are too complicated, and if assigned an unwanted task will try to find a loophole or otherwise subvert the summoner's command.",
+        "An invisible stalker's form is amorphous, such that a detect invisible spell shows only an undulating blob-shaped outline.  Don't forget to apply the standard penalty of -4 on the attack die when an invisible stalker is attacked by a creature which is unable to see it."
+    ],
+    "hitdice": "8*",
+    "morale": "12",
+    "movement": "40'",
+    "name": "Invisible Stalker",
+    "noappearing": "1 (special)",
+    "noattacks": "1",
+    "saveas": "Fighter: 8",
+    "treasure": "None",
+    "xp": "945"
+},
+{
+    "armorclass": "15",
+    "damage": "Rust, see below",
+    "description": [
+        "An ironbane resembles a large armadillo in its overall body plan, but has an anteater-like snout with a long flicking tongue, and long, strangely hare-like back legs which allow it to hop from place to place.  When attacking or pursuing, the ironbane stands up on its hind legs, but when resting or moving slowly it folds them and walks on all four feet.",
+        "Like the more common rust monster (as found on page 134), the touch of any part of an ironbane's body transforms metal objects into rust (or verdigris, or other oxides as appropriate).  Non-magical metal attacked by an ironbane, or that touches the monster (such as a sword used to attack it), is instantly ruined.  A non-magical metal weapon used to attack the monster does half damage before being destroyed.  Magic weapons or armor lose one \"plus\" each time they make contact with the ironbane; this loss is permanent.",
+        "The metal oxides created by this monster are its food; thus, a substantial amount of metal dropped in its path may cause it to cease pursuit of metal-armored characters.  Use a morale check to determine this.",
+        "Metals that do not normally oxidize, such as gold, are of no interest to an ironbane and will be ignored.  Silver and copper on the other hand are candy for this creature and one will pursue the tastiest-smelling adventurer in any party."
+    ],
+    "hitdice": "3*",
+    "morale": "8",
+    "movement": "50'",
+    "name": "Ironbane*",
+    "noappearing": "1d4",
+    "noattacks": "1 touch",
+    "saveas": "Fighter: 4",
+    "treasure": "None",
+    "xp": "175"
+},
+{
+    "armorclass": "16",
+    "damage": "1d4 claw, 2d4 bite",
+    "description": [
+        "These great cats are about 8 to 9 feet long (from nose to tail-tip) and weigh about 165 pounds.  Unlike other great cats, they enjoy swimming and often hunt near rivers or lakes.  Jaguars kill with their powerful bite, preferring to deliver a fatal wound to the skull of their prey."
+    ],
+    "hitdice": "4",
+    "morale": "8",
+    "movement": "70' Swim 30'",
+    "name": "Jaguar",
+    "noappearing": "1d2, Wild 1d6",
+    "noattacks": "2 claws, 1 bite",
+    "saveas": "Fighter: 4",
+    "treasure": "None",
+    "xp": "240"
+},
+{
+    "armorclass": "14",
+    "damage": "3d8",
+    "description": [
+        "Black jellies are non-intelligent creatures made of ooze, which will attack any creatures they encounter, sensing them by their warmth and possibly scent.  The entire body of one exudes acid, which is the source of the damage their attacks cause, and they fight by extending pseudopods to strike at their prey.",
+        "If attacked with normal or magical weapons, or with lightning or electricity, a black jelly suffers no injury, but will be split into two jellies; the GM should divide the original creature's hit dice between the two however they see fit, with the limitation that neither jelly may have less than two hit dice.  A two hit die black jelly is simply unharmed by such attacks, but cannot be split further.",
+        "Cold or ice based attacks do not harm a black jelly, but such an attack will paralyze the jelly for one round per die of damage the attack would normally cause.  Other attack forms will affect a black jelly normally; the preferred method of killing one usually involves fire.",
+        "The typical black jelly measures 10 feet across and 2 feet thick, and weighs about 10,000 pounds.  Black jellies of smaller sizes may be encountered, possibly as a result of the splitting described above."
+    ],
+    "hitdice": "10* (+9)",
+    "morale": "12",
+    "movement": "20'",
+    "name": "Jelly, Black* (Black Pudding)",
+    "noappearing": "1",
+    "noattacks": "1 pseudopod",
+    "saveas": "Fighter: 10",
+    "treasure": "None",
+    "xp": "1,390"
+},
+{
+    "armorclass": "12",
+    "damage": "2d4 + paralysis",
+    "description": [
+        "The glass jelly's natural habitat is dungeon corridors and caves, where it functions almost as a janitor, consuming carrion and other waste.  Whatever the jelly finds indigestible will remain floating inside its body for a time before being ejected.  Glass jellies are huge, averaging 1,000 cubic feet and weighing as much as 20,000 pounds.  The body of a glass jelly is more viscous than that of other jellies, and it tends to take on the shape of its surroundings such that one in a dungeon with 10' wide corridors might have a shape similar to that of a cube, while one living in round sewer drains under a city would have a cylindrical or half-cylindrical shape.",
+        "If a glass jelly encounters a narrow place (a doorway, for example) it will need 2d4 rounds to push through the constriction and will have assumed a new shape after doing so; such a new shape will persist for twice as long as it took to pass the constriction before the monster begins to flow into a shape that fills the available space again.",
+        "Glass jellies move quietly, making a faint sucking or slurping sound if anyone thinks to listen.  Combined with their transparency, they are able to surprise prey on a roll of 1-3 on 1d6.  Worse, any living creature hit by a glass jelly must save vs. Paralysis or be paralyzed for 2d4 turns in addition to suffering damage from its acid secretions.",
+        "Any treasure indicated will be visible inside the creature, which must be slain if the treasure is to be recovered."
+    ],
+    "hitdice": "4*",
+    "morale": "12",
+    "movement": "20'",
+    "name": "Jelly, Glass (Gelatinous Cube)",
+    "noappearing": "1",
+    "noattacks": "1",
+    "saveas": "Fighter: 2",
+    "treasure": "V",
+    "xp": "280"
+},
+{
+    "armorclass": "12",
+    "damage": "2d8",
+    "description": [
+        "Gray jellies are amorphous creatures that live only to eat.  They inhabit underground areas, scouring caverns, ruins, and dungeons in search of organic matter, living or dead.  Average individuals will be up to 10 feet in diameter, about 6 inches thick (high), and weigh up to 2,500 pounds.",
+        "The acid secretions of the gray jelly can dissolve most organic matter and most metals; stone and glass are not affected, however.  After a successful hit, the jelly will stick to the creature attacked, dealing 2d8 damage per round automatically.  Normal (non-magical) armor or clothing dissolves and becomes useless immediately.  Any non-magical weapon made of metal or wood which hits a gray jelly will be similarly destroyed.  Magical weapons, armor, and clothing are allowed a saving throw (use the wearer's save vs. Death Ray, adding any magical \"plus\" value to the roll if applicable)."
+    ],
+    "hitdice": "3*",
+    "morale": "12",
+    "movement": "1'",
+    "name": "Jelly, Gray (Gray Ooze)",
+    "noappearing": "1",
+    "noattacks": "1 pseudopod",
+    "saveas": "Fighter: 3",
+    "treasure": "None",
+    "xp": "175"
+},
+{
+    "armorclass": "12 (only hit by fire or cold)",
+    "damage": "Transform to green jelly",
+    "description": [
+        "Green jelly devours flesh and organic materials on contact and is even capable of dissolving metal given enough time.  Bright green, wet, and sticky, it clings to walls, floors, and ceilings in patches, reproducing as it consumes organic matter.  It drops from walls and ceilings when it detects movement (and possible food) below.  Green jelly cannot grow in sunlight; even the indirect sunlight of a dense forest will stunt it and prevent it from spreading, and direct sunlight will kill it outright within a turn.",
+        "On the first round of contact, the jelly can be scraped off a creature (most likely destroying the scraping device), but after that it must be frozen, burned, or cut away (dealing the same damage to both the victim and the jelly).  A cure disease spell will destroy a patch of green jelly.  It does not harm stone or enchanted metal, but can dissolve normal metal or enchanted wood in a turn and normal wood in 2d4 rounds.",
+        "If not destroyed or scraped off within 6+1d4 rounds, the victim will be completely transformed into more green jelly; such a character or creature cannot be retrieved by any magic short of a wish."
+    ],
+    "hitdice": "2**",
+    "morale": "12",
+    "movement": "1'",
+    "name": "Jelly, Green* (Green Slime)",
+    "noappearing": "1",
+    "noattacks": "1 touch",
+    "saveas": "Fighter: 2",
+    "treasure": "None",
+    "xp": "125"
+},
+{
+    "armorclass": "12 (only hit by fire or cold)",
+    "damage": "2d6",
+    "description": [
+        "Ochre jellies are yellowish-brown amorphous monsters.  Average individuals will be up to 10 feet in diameter, about 6 inches thick (high), and weigh up to 2,500 pounds.",
+        "Ochre jellies can only be hit (damaged) by fire or cold.  Attacks with weapons or electricity/lightning cause the creature to divide into 1d4+1 smaller jellies of 2 hit dice apiece.  If divided, the resulting smaller jellies do 1d6 points of damage with each hit.  Other attack forms simply have no effect on the monster."
+    ],
+    "hitdice": "5*",
+    "morale": "12",
+    "movement": "10'",
+    "name": "Jelly, Ochre*",
+    "noappearing": "1",
+    "noattacks": "1 pseudopod",
+    "saveas": "Fighter: 5",
+    "treasure": "None",
+    "xp": "405"
+},
+{
+    "armorclass": "13 (11)",
+    "damage": "1d4 or by weapon",
+    "description": [
+        "Kobolds are diminutive, dog-faced humanoids with reptilian skin.  They stand between 21/2 and 31/2 feet tall and typically weigh around 40 pounds.  They are cowardly by nature, and in combat they prefer ambushing their foes and constructing traps both clever and deadly; to simply stand and fight is considered the worst possible strategy, and kobolds may fake withdrawing in fear in order to draw enemies into a trap.",
+        "Kobolds prefer to rely on ranged combat whenever possible.  They tend to favor daggers and short spears since both can be used in close quarters or thrown at foes at range.  Some may be armed with diminutive bows or crossbows which inflict 1d4 points of damage on a hit.",
+        "Kobolds normally dwell underground, while those who choose to dwell above ground may adopt a nocturnal lifestyle.  All possess Darkvision with a range of 60 feet, and generally avoid exposure to daylight.  When they are exposed to sunlight or the effect of continual light they suffer a penalty of -1 to all attack rolls.  Most kobolds wear leather armor in combat.",
+        "One out of every six kobolds in any group is a warrior with 1 hit die (25 XP).  Kobolds gain a +1 bonus to their morale if they are led by a warrior.  In kobold lairs, one out of every twelve is a chieftain of 2 hit dice (75 XP) with an armor class of 14 (11) and having a +1 bonus to damage due to strength.  In lairs of 30 or greater, there will be a kobold king of 3 hit dice (145 XP) who wears chain mail with an armor class of 15 (11) and has a movement rate of 10' and a +1 bonus to damage.  In the lair, kobolds never fail a morale check as long as the kobold king is alive.  In addition, a lair has a chance equal to 1 on 1d6 of a shaman being present (or 1-2 on 1d6 if a kobold king is present).  A shaman is equivalent to a 1 hit die warrior kobold statistically, but has Clerical abilities at level 1d4+1.  For XP purposes, treat the shaman as if it has a number of hit dice equal to its clerical level -1, and assign one special ability bonus asterisk.",
+        "Kobolds are sometimes confused with barklings, for whom they have a particular hatred; calling a kobold a barkling or suggesting that the two species are related is considered a terrible insult."
+    ],
+    "hitdice": "1/2 (1d4 hit points)",
+    "morale": "6",
+    "movement": "20' Unarmored 30'",
+    "name": "Kobold",
+    "noappearing": "4d4, Wild 6d10, Lair 6d10",
+    "noattacks": "1 weapon",
+    "saveas": "Normal Man",
+    "treasure": "P, Q each; C in lair",
+    "xp": "10"
+},
+{
+    "armorclass": "17",
+    "damage": "1d6 bite + 1d6/round hold",
+    "description": [
+        "Giant leeches are slimy, segmented wormlike creatures which live in water.  Salt or fresh, clean or stagnant, there are giant leech varieties for all wet environments.  However, only a true leech expert can tell the various types apart.  An average giant leech will be 4 to 6 feet long.",
+        "Once a giant leech hits in combat, it attaches to the victim and sucks blood, causing an additional 1d6 points of damage each round until the victim or the leech is dead.  There is no way to remove the leech other than to kill it."
+    ],
+    "hitdice": "6",
+    "morale": "10",
+    "movement": "30'",
+    "name": "Leech, Giant",
+    "noappearing": "Wild 1d4",
+    "noattacks": "1 bite + hold",
+    "saveas": "Fighter: 6",
+    "treasure": "None",
+    "xp": "500"
+},
+{
+    "armorclass": "16",
+    "damage": "1d4 claw, 2d4 bite",
+    "description": [
+        "Leopards are large cats that are 7 to 8 feet long including tail, and weigh about 175 lb.  These cats have four black spots that form a large circle (rosette).  The center of the circle and around the rosette spots range from yellow tan to white on the underside.  An all-black leopard is called a panther.  The tail has a white tip.  They don't like to swim as much as jaguars, preferring instead to climb trees.  A leopard will drag prey into a tree."
+    ],
+    "hitdice": "4",
+    "morale": "8",
+    "movement": "60' (10')",
+    "name": "Leopard (Panther)",
+    "noappearing": "1, Wild 1d4",
+    "noattacks": "2 claws, 1 bite",
+    "saveas": "Fighter: 4",
+    "treasure": "None",
+    "xp": "240"
+},
+{
+    "armorclass": "14",
+    "damage": "1d6 claw, 1d10 bite",
+    "description": [
+        "The lion is a large cat found in grasslands and savannas.  They have muscular, broad-chested bodies, short, rounded heads, round ears, and a hairy tuft at the end of its tail.  Adult male lions are larger than females, and in most varieties have a prominent mane. They live in social groups called prides consisting of a few adult males, several related females, and their cubs.",
+        "Groups of female lions usually hunt together, preying mostly on large ungulates; any hunting group of 1 or 2 is 80% likely to be females, and any group of 3 or more almost certainly are.  Sometimes male lions are rogues, living outside a pride, and in those cases they may hunt as individuals or in pairs.",
+        "Lions typically do not actively seek out and prey on humans.  Injured or obviously vulnerable humans may be too much of a temptation though."
+    ],
+    "hitdice": "5",
+    "morale": "9",
+    "movement": "50'",
+    "name": "Lion",
+    "noappearing": "Wild 1d8",
+    "noattacks": "2 claws, 1 bite",
+    "saveas": "Fighter: 5",
+    "treasure": "None",
+    "xp": "360"
+},
+{
+    "armorclass": "16",
+    "damage": "1d6 fist",
+    "description": [
+        "Crystal living statues have no particular special powers, unlike those made of iron or stone."
+    ],
+    "hitdice": "3",
+    "morale": "12",
+    "movement": "30'",
+    "name": "Living Statue, Crystal",
+    "noappearing": "1d6",
+    "noattacks": "2 fists",
+    "saveas": "Fighter: 3",
+    "treasure": "None",
+    "xp": "145"
+},
+{
+    "armorclass": "18",
+    "damage": "1d8 fist, defensive weapon trap",
+    "description": [
+        "If struck by a non-magical metal (even partially metal) weapon, the wielder must make a successful save vs. Spells or the weapon will become stuck in the monster.  If this happens, it cannot be removed until the statue is \"killed.\""
+    ],
+    "hitdice": "4*",
+    "morale": "12",
+    "movement": "10'",
+    "name": "Living Statue, Iron",
+    "noappearing": "1d4",
+    "noattacks": "2 fists",
+    "saveas": "Fighter: 4",
+    "treasure": "None",
+    "xp": "280"
+},
+{
+    "armorclass": "16",
+    "damage": "2d6 lava spray",
+    "description": [
+        "A stone living statue attacks by spraying molten rock from its fingertips.  The range of the spray is 5'."
+    ],
+    "hitdice": "5*",
+    "morale": "12",
+    "movement": "20'",
+    "name": "Living Statue, Stone",
+    "noappearing": "1d3",
+    "noattacks": "2 lava sprays",
+    "saveas": "Fighter: 5",
+    "treasure": "None",
+    "xp": "405"
+},
+{
+    "armorclass": "15",
+    "damage": "1d10",
+    "description": [
+        "Giant draco lizards are able to extend their ribs and connected skin to form a sort of wing, allowing them to glide for short distances (no more than three rounds, and ascending is impossible).  An average giant draco lizard is 8' long, including its nearly 3' long tail."
+    ],
+    "hitdice": "4+2",
+    "morale": "7",
+    "movement": "40' Fly 70' (20', and see below)",
+    "name": "Lizard, Giant Draco",
+    "noappearing": "1d4, Wild 1d8",
+    "noattacks": "1 bite",
+    "saveas": "Fighter: 3",
+    "treasure": "None",
+    "xp": "240"
+},
+{
+    "armorclass": "15",
+    "damage": "1d8",
+    "description": [
+        "Giant gecko lizards range from 4' to 6' in length, and are generally green in color, though grey or white versions can be found underground.  They can climb walls and even walk across ceilings at full movement rate due to their specialized toe pads.  They are carnivores, typically attacking weaker prey from above."
+    ],
+    "hitdice": "3+1",
+    "morale": "7",
+    "movement": "40' (special)",
+    "name": "Lizard, Giant Gecko",
+    "noappearing": "1d6, Wild 1d10",
+    "noattacks": "1 bite",
+    "saveas": "Fighter: 2",
+    "treasure": "None",
+    "xp": "145"
+},
+{
+    "armorclass": "18",
+    "damage": "tongue grab or 2d6 bite",
+    "description": [
+        "Giant horned chameleons average 8' to 10' in length.  They are typically green, but can change color to blend into their surroundings, allowing them to surprise prey on 1-4 on 1d6.  Giant horned chameleon have very long tongues, able to spring out up to 20' forward; the sticky muscular ball on the end grabs on to the chameleon's prey, and the chameleon then drags the prey to its mouth, doing bite damage automatically on the following round (and all subsequent rounds, until the chameleon is killed or fails a morale check, or until the prey is dead).",
+        "The horns of the giant horned chameleon are used only in mating rituals, not in combat."
+    ],
+    "hitdice": "5",
+    "morale": "7",
+    "movement": "40' (10')",
+    "name": "Lizard, Giant Horned Chameleon",
+    "noappearing": "1d3, Wild 1d6",
+    "noattacks": "1 tongue or 1 bite",
+    "saveas": "Fighter: 4",
+    "treasure": "None",
+    "xp": "360"
+},
+{
+    "armorclass": "16",
+    "damage": "1d4 claw, 2d6 bite",
+    "description": [
+        "Giant tuataras are large, being 10 to 12 feet long, and heavily built.  They are predators with a powerful shearing bite.  Giant tuataras are more resistant to cold than most lizards, and are thus sometimes found hunting deep underground.  They are also known to hibernate in cold weather.  Sages argue as to whether or not they are actually members of the lizard family, but the giant tuatara does not care about such things."
+    ],
+    "hitdice": "6",
+    "morale": "6",
+    "movement": "40' (10')",
+    "name": "Lizard, Giant Tuatara",
+    "noappearing": "1d2, Wild 1d4",
+    "noattacks": "2 claws, 1 bite",
+    "saveas": "Fighter: 5",
+    "treasure": "None",
+    "xp": "500"
+},
+{
+    "armorclass": "12",
+    "damage": "1d4 + poison",
+    "description": [
+        "Monitor lizards are generally dark in color, but often have bright, colorful, lace-like patterns covering their skin.  A monitor may rise up onto its hind legs to run at a rate of 60 feet per round; such movement must be in a straight line, ending with the creature on all fours again.  However, unlike a \"double move\" running movement, the monitor may still attack after moving.",
+        "Large monitor lizards range from 4 to 7 feet in length, and include such creatures as the so-called Komodo Dragon.  Their venom is slow; those who are bitten must save vs. Poison at +2, with failure resulting in the victim suffering 1d6 points of damage each turn for 2d4 turns.",
+        "All monitors are carnivores who hunt by running down their prey, and anything smaller than a monitor is considered prey."
+    ],
+    "hitdice": "3*",
+    "morale": "7",
+    "movement": "40' (special)",
+    "name": "Lizard, Monitor, Large",
+    "noappearing": "1d4, Wild 1d6",
+    "noattacks": "1 bite",
+    "saveas": "Fighter: 3",
+    "treasure": "None",
+    "xp": "175"
+},
+{
+    "armorclass": "14",
+    "damage": "1d6 + poison",
+    "description": [
+        "Monitor lizards are generally dark in color, but often have bright, colorful, lace-like patterns covering their skin.  A monitor may rise up onto its hind legs to run at a rate of 60 feet per round; such movement must be in a straight line, ending with the creature on all fours again.  However, unlike a \"double move\" running movement, the monitor may still attack after moving.",
+        "Huge monitors range from 8 to 11 feet in length.  Their venom works faster than that of their smaller brethren; those bitten must save vs. Poison at +2 or suffer 1d6 points of damage each round for 2d4 rounds.",
+        "All monitors are carnivores who hunt by running down their prey, and anything smaller than a monitor is considered prey."
+    ],
+    "hitdice": "5*",
+    "morale": "8",
+    "movement": "40' (special)",
+    "name": "Lizard, Monitor, Huge",
+    "noappearing": "1d4, Wild 1d6",
+    "noattacks": "1 bite",
+    "saveas": "Fighter: 5",
+    "treasure": "None",
+    "xp": "405"
+},
+{
+    "armorclass": "16",
+    "damage": "1d8 + poison",
+    "description": [
+        "Monitor lizards are generally dark in color, but often have bright, colorful, lace-like patterns covering their skin.  A monitor may rise up onto its hind legs to run at a rate of 60 feet per round; such movement must be in a straight line, ending with the creature on all fours again.  However, unlike a \"double move\" running movement, the monitor may still attack after moving.",
+        "Giant monitor lizards range from 12 to 15 feet in length. Those bitten by a giant monitor must save vs. Poison at +2 or die.",
+        "All monitors are carnivores who hunt by running down their prey, and anything smaller than a monitor is considered prey."
+    ],
+    "hitdice": "7*",
+    "morale": "9",
+    "movement": "40' (special)",
+    "name": "Lizard, Monitor, Giant",
+    "noappearing": "1d4, Wild 1d6",
+    "noattacks": "1 bite",
+    "saveas": "Fighter: 7",
+    "treasure": "None",
+    "xp": "735"
+},
+{
+    "armorclass": "15 (12)",
+    "damage": "1d6+1 or by weapon +1",
+    "description": [
+        "Common lizard men are tall, generally 6 to 7 feet tall at adulthood and weighing up to 250 pounds.  Males and females are basically the same size, and it is quite difficult for other races to tell them apart.  Due to their great Strength they always receive a +1 to damage done with melee weapons.  They wear leather armor and carry shields in battle.",
+        "Lizard men are excellent swimmers and can hold their breath for an extended period of time (up to a full turn).  They cannot swim while wearing armor; however, they often hide in the water even while armored, standing on the bottom with just nose and eyes exposed (similar to a crocodile).  When they are able to employ this maneuver, lizard men surprise on 1-4 on 1d6.",
+        "Lizard men are largely indifferent to other races, being primarily interested in their own survival.  If aroused, however, they are fearsome warriors, using simple but sound tactics."
+    ],
+    "hitdice": "2",
+    "morale": "11",
+    "movement": "20' Unarmored 30' Swim 40' (no armor)",
+    "name": "Lizard Man, Common",
+    "noappearing": "2d4, Wild 2d4, Lair 6d6",
+    "noattacks": "1 weapon",
+    "saveas": "Fighter: 2",
+    "treasure": "D",
+    "xp": "75"
+},
+{
+    "armorclass": "15",
+    "damage": "1d4 claw, 1d4 bite",
+    "description": [
+        "Subterranean lizard men, also called troglodytes, are superficially very similar to the common variety.  Their skin is paler, and their eyes are red and seem to glow in low light conditions.  Individuals are shorter than the common variety, standing just 5 to 6 feet tall, due in part to their somewhat \"hunched\" stance.  They weigh about as much as the common type.",
+        "These monsters can change color at will, allowing them to blend into underground environments so well that they gain surprise on a roll of 1-5 on 1d6.  Furthermore, they gain a +2 attack bonus during any surprise round due to their excellent ambush skills.",
+        "Subterranean lizard men secrete a smelly oil that keeps their scaly skin supple. All mammals (including, of course, all the standard character races) find the scent repulsive, and those within 10 feet of one must make a saving throw versus poison. Those failing the save suffer a -2 penalty to attack rolls while they remain within 10 feet of the creature.  Getting out of range negates the penalty, but renewed exposure reinstates the penalty without an additional saving throw. The results of the original save last a full 24 hours, after which a new save must be rolled."
+    ],
+    "hitdice": "2",
+    "morale": "9",
+    "movement": "30' Swim 40'",
+    "name": "Lizard Man, Subterranean (Troglodyte)",
+    "noappearing": "1d8, Lair 5d8",
+    "noattacks": "2 claws, 1 bite",
+    "saveas": "Fighter: 2",
+    "treasure": "D",
+    "xp": "75"
 },
 ]
