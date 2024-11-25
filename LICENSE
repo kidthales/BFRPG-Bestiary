@@ -1,5 +1,14 @@
+LICENSES
+
+This package contains a mix of materials having different licenses.  The
+converter.py file is distributed under a BSD 2 Clause license; all textual
+materials containing game rules materials are under Creative Commons
+Attribution-ShareAlike 4.0.
+
+
 BSD 2-Clause License
 
+converter.py
 Copyright (c) 2024, Chris Gonnerman
 
 Redistribution and use in source and binary forms, with or without
@@ -22,3 +31,14 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+CC BY-SA License
+
+The Basic Fantasy RPG Core Rules are distributed under the terms of the
+Creative Commons Attribution-ShareAlike 4.0 International License.  The full
+license text can be viewed at:
+
+https://creativecommons.org/licenses/by-sa/4.0/
+
+

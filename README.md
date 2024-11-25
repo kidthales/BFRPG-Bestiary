@@ -3,7 +3,10 @@
 Project to provide Basic Fantasy RPG monsters in a machine-consumable format.
 
 Please note that the repository at https://github.com/Solomoriah/BFRPG-Bestiary
-is the canonical, official version of this package.
+is the canonical, official version of this package.  Also note, this package
+contains a mix of materials having different licenses.  The converter.py file
+is distributed under a BSD 2 Clause license; all textual materials containing
+game rules materials are under Creative Commons Attribution-ShareAlike 4.0.
 
 At the moment, the original data is being organized in files named
 **Monster-Data-\*.txt**; the format of those files is based roughly on data
