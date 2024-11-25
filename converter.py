@@ -91,8 +91,15 @@ for fn in files:
         else:
             if line.strip():
                 data["description"].append(line.strip())
-    
+
     inp.close()
+    
+    # behave as if closing a file ends a monster, since it should
+    if "name" in data: # no easy way to be sure we have actual data, so this is a guess
+        outp.write("%s,\n" % json.dumps(data, sort_keys=True, indent=4))
+        outpy.write("%s,\n" % json.dumps(data, sort_keys=True, indent=4))
+    data = {}
+    state = 0
     
 outp.write("]\n")
 outpy.write("]\n")

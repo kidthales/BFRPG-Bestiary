@@ -1888,20 +1888,7 @@
     "description": [
         "Griffons are large carnivorous creatures resembling lions with the head, foreclaws and wings of eagles.  Average adults (male or female) have a wingspan of around 22 feet and weigh around 500 pounds.",
         "Griffons nest on high mountaintops, soaring down to feed on horses, the beast's preferred prey.  Indeed, a griffon will attack a horse over anything else.  They hunt and travel in flocks, diving low when attacking to swipe with their claws.  They are not above retreating and then returning when they may be unexpected.",
-        "Griffons can be trained as mounts if raised in captivity, but even in this case they may try to attack horses if any come within about 120'.  Roll a morale check in this case; if the check is failed, the griffon will try to attack immediately.  A light load for a griffon is up to 400 pounds; a heavy load, up to 900 pounds.",
-        "Deer",
-        "Armor Class: 13",
-        "Hit Dice: 1",
-        "No. of Attacks: 1 butt",
-        "Damage: 1d4",
-        "Movement: 80' (10')",
-        "No. Appearing: Wild 3d10",
-        "Save As: Fighter: 1",
-        "Morale: 5 (7)",
-        "Treasure Type: None",
-        "XP: 25",
-        "Deer are skittish and will flee if provoked, but males are more aggressive in the presence of females (use the parenthesized morale in this case).",
-        "The GM should feel free to vary from these figures as he or she sees fit; there are many types of herd animals in the world, and some are better armed than others."
+        "Griffons can be trained as mounts if raised in captivity, but even in this case they may try to attack horses if any come within about 120'.  Roll a morale check in this case; if the check is failed, the griffon will try to attack immediately.  A light load for a griffon is up to 400 pounds; a heavy load, up to 900 pounds."
     ],
     "hitdice": "7",
     "morale": "8",
@@ -1912,6 +1899,23 @@
     "saveas": "Fighter: 7",
     "treasure": "E",
     "xp": "670"
+},
+{
+    "armorclass": "13",
+    "damage": "1d4",
+    "description": [
+        "Deer are skittish and will flee if provoked, but males are more aggressive in the presence of females (use the parenthesized morale in this case).",
+        "The GM should feel free to vary from these figures as he or she sees fit; there are many types of herd animals in the world, and some are better armed than others."
+    ],
+    "hitdice": "1",
+    "morale": "5 (7)",
+    "movement": "80' (10')",
+    "name": "Deer",
+    "noappearing": "Wild 3d10",
+    "noattacks": "1 butt",
+    "saveas": "Fighter: 1",
+    "treasure": "None",
+    "xp": "25"
 },
 {
     "armorclass": "13",
@@ -1952,20 +1956,7 @@
     "damage": "1d8",
     "description": [
         "Moose are less skittish than smaller herd animals, but will still generally flee if provoked. Males are more aggressive in the presence of females; use the parenthesized morale if males are present.",
-        "The GM should feel free to vary from these figures as he or she sees fit; there are many types of herd animals in the world, and some are better armed than others.",
-        "Hangman Tree",
-        "Armor Class: 16",
-        "Hit Dice: 5",
-        "No. of Attacks: 4 limbs",
-        "Damage: 1d6 limb  +1d6/round strangle each",
-        "Movement: 0",
-        "No. Appearing: Wild 1",
-        "Save As: Fighter: 4",
-        "Morale: 12",
-        "Treasure Type: None",
-        "XP: 360",
-        "Hangman trees are horrible, semi-animate creatures that fertilize themselves with dead bodies.  A hangman tree has four animated limbs that can wrap around the necks of living creatures that pass beneath, strangling for 1d6 points of damage per round.  These limbs are arranged evenly around the tree in most cases, and generally no more than one limb can attack any single creature at a time.",
-        "The roots of this tree are also animated; they do not attack, but they do pull dead bodies below the surface of the ground for \"digestion.\""
+        "The GM should feel free to vary from these figures as he or she sees fit; there are many types of herd animals in the world, and some are better armed than others."
     ],
     "hitdice": "4",
     "morale": "6 (7)",
@@ -1976,6 +1967,23 @@
     "saveas": "Fighter: 4",
     "treasure": "None",
     "xp": "240"
+},
+{
+    "armorclass": "16",
+    "damage": "1d6 limb  +1d6/round strangle each",
+    "description": [
+        "Hangman trees are horrible, semi-animate creatures that fertilize themselves with dead bodies.  A hangman tree has four animated limbs that can wrap around the necks of living creatures that pass beneath, strangling for 1d6 points of damage per round.  These limbs are arranged evenly around the tree in most cases, and generally no more than one limb can attack any single creature at a time.",
+        "The roots of this tree are also animated; they do not attack, but they do pull dead bodies below the surface of the ground for \"digestion.\""
+    ],
+    "hitdice": "5",
+    "morale": "12",
+    "movement": "0",
+    "name": "Hangman Tree",
+    "noappearing": "Wild 1",
+    "noattacks": "4 limbs",
+    "saveas": "Fighter: 4",
+    "treasure": "None",
+    "xp": "360"
 },
 {
     "armorclass": "13",
@@ -2881,22 +2889,7 @@
     "damage": "2d4 bite, 1d6 or by weapon",
     "description": [
         "Werewolves may be found anywhere humans are found.  They are ferocious predators, equally willing to eat animal or human flesh.  Unlike most lycanthropes, werewolves have no distinguishing features in human form, making them very hard indeed to identify.",
-        "Though they usually have only the usual human and animal forms, there are rumors of some who are also able to assume a wolfman form.  In this form they may choose to either bite or use a weapon, and may change back and forth each round.  As with the animal form, the wolfman form is hit only by silver or magical weapons.",
-        "Mammoth",
-        "Armor Class: 17",
-        "Hit Dice: 15 (+11)",
-        "No. of Attacks: 2 tusks, 1 trunk grab, 2 tramples",
-        "Damage: 3d6 tusk, 2d6 trunk, 2d8 trample",
-        "Movement: 40' (15')",
-        "No. Appearing: Wild 1d12",
-        "Save As: Fighter: 15",
-        "Morale: 8",
-        "Treasure Type: special",
-        "XP: 2,850",
-        "Mammoths are huge, shaggy prehistoric relatives of the elephant.  Though found in a variety of climates, they are most common in colder territories.",
-        "Like elephants, mammoths have five distinct attack modes (two tusks, a trunk grab, and two tramples with the front feet), but a single individual can apply no more than two of these attacks to any single opponent of small or medium size; large opponents may be targeted by three of these attacks in a round.  However, one can attack multiple opponents in its immediate area at the same time.",
-        "A light load for a mammoth is 8,500 pounds; a heavy load, up to 17,000 pounds.",
-        "A mammoth has no treasure as such, but its tusks are worth 2d6 x 100 gp."
+        "Though they usually have only the usual human and animal forms, there are rumors of some who are also able to assume a wolfman form.  In this form they may choose to either bite or use a weapon, and may change back and forth each round.  As with the animal form, the wolfman form is hit only by silver or magical weapons."
     ],
     "hitdice": "4*",
     "morale": "8",
@@ -2907,6 +2900,25 @@
     "saveas": "Fighter: 4",
     "treasure": "C",
     "xp": "280"
+},
+{
+    "armorclass": "17",
+    "damage": "3d6 tusk, 2d6 trunk, 2d8 trample",
+    "description": [
+        "Mammoths are huge, shaggy prehistoric relatives of the elephant.  Though found in a variety of climates, they are most common in colder territories.",
+        "Like elephants, mammoths have five distinct attack modes (two tusks, a trunk grab, and two tramples with the front feet), but a single individual can apply no more than two of these attacks to any single opponent of small or medium size; large opponents may be targeted by three of these attacks in a round.  However, one can attack multiple opponents in its immediate area at the same time.",
+        "A light load for a mammoth is 8,500 pounds; a heavy load, up to 17,000 pounds.",
+        "A mammoth has no treasure as such, but its tusks are worth 2d6 x 100 gp."
+    ],
+    "hitdice": "15 (+11)",
+    "morale": "8",
+    "movement": "40' (15')",
+    "name": "Mammoth",
+    "noappearing": "Wild 1d12",
+    "noattacks": "2 tusks, 1 trunk grab, 2 tramples",
+    "saveas": "Fighter: 15",
+    "treasure": "special",
+    "xp": "2,850"
 },
 {
     "armorclass": "18",
@@ -3602,37 +3614,273 @@
     "xp": "405"
 },
 {
-    "armorclass": "18",
-    "damage": "Rust, see below",
+    "armorclass": "14",
+    "damage": "1d6 claw, 2d8 bite",
     "description": [
-        "A rust monster (sometimes known as a corroder or corrosion beast) is a strange monster built like a huge turtle, with an insectoid head sporting large feather-like antennae and a thick tail with a hammer-like protrusion at the tip which seems to serve no purpose whatsoever.",
-        "The touch of any part of a rust monster's body oxidizes metal objects instantly, turning them to rust, verdigris, or other oxides as appropriate.  One attacks with its antennae, brushing them over metal items.  Non-magical metal attacked by a rust monster, or that touches the monster (such as a sword used to attack it), is instantly ruined.  A hit with a non-magical metal weapon inflicts half damage before the weapon is destroyed.  Magic weapons or armor permanently lose one \"plus\" each time they make contact with the monster.",
-        "The metal oxides created by this monster are its food; a substantial amount of metal dropped in its path may cause it to cease pursuit of metal-armored characters.  Use a morale check to determine this.  Metals that do not normally oxidize, such as gold, are of no interest to a rust monster and will be ignored.  While rust monsters will consume oxides of silver or copper, they have a strong preference for ferrous metals (iron or steel), preferring them over any other metal.",
-        "Whether the rust monster is in any way related to the rarer ironbane is unknown, but both monsters seem to have the exact same power.",
-        "Tentacle Worm",
-        "Armor Class: 13",
-        "Hit Dice: 3*",
-        "No. of Attacks: 6 tentacles",
-        "Damage: paralysis",
-        "Movement: 40'",
-        "No. Appearing: 1d3, Lair 1d3",
-        "Save As: Fighter: 3",
-        "Morale: 9",
-        "Treasure Type: B",
-        "XP: 175",
+        "The sabre-tooth cat, or smilodon, is a prehistoric great cat with very large canine teeth.  They are more robustly built than other great cats, with particularly well-developed forelimbs and exceptionally long upper canine teeth.  Sabre-tooth cats are ambush predators, surprising on 1-4 on 1d6 in their natural environment (forests and tall-grass prairies), where they prey primarily upon large herbivores."
+    ],
+    "hitdice": "8",
+    "morale": "10",
+    "movement": "50'",
+    "name": "Sabre-Tooth Cat",
+    "noappearing": "Wild 1d4, Lair 1d4",
+    "noattacks": "2 claws, 1 bite",
+    "saveas": "Fighter: 8",
+    "treasure": "None",
+    "xp": "875"
+},
+{
+    "armorclass": "19 (m)",
+    "damage": "1d4 claw, 1d8 bite, 1d8/round heat",
+    "description": [
+        "Flame salamanders come from the Elemental Plane of Fire.  They look like giant snakes, more than 12' long, with dragon-like heads and lizard forelimbs.  Their scales are all the colors of flame, red and orange and yellow.  A flame salamander is flaming hot, and all non-fire-resistant creatures within 20' of the monster suffer 1d8 points of damage per round from the heat.  They are immune to damage from any fire or heat attack.  Flame salamanders are intelligent; they speak the language of the Plane of Fire, and many will also know Elvish, Common, and/or Dragon."
+    ],
+    "hitdice": "8*",
+    "morale": "8",
+    "movement": "40'",
+    "name": "Salamander, Flame*",
+    "noappearing": "1d4+1, Wild 2d4, Lair 2d4",
+    "noattacks": "2 claws, 1 bite + heat",
+    "saveas": "Fighter: 8",
+    "treasure": "F",
+    "xp": "945"
+},
+{
+    "armorclass": "21 (m)",
+    "damage": "1d6 claw, 2d6 bite, 1d8/round cold",
+    "description": [
+        "Frost salamanders come from the Elemental Plane of Water.  They look like giant lizards with six legs.  Their scales are the colors of ice, white, pale gray and pale blue.  Frost salamanders are very cold, and all non-cold-resistant creatures within 20' suffer 1d8 points of damage per round from the cold.  Frost salamanders are completely immune to all types of cold-based attacks.  They are quite intelligent; all speak the language of the Plane of Water, and many also speak Common, Elvish, and/or Dragon.",
+        "Flame and frost salamanders hate each other, and each type will attack the other on sight, in preference over any other foe.  If summoned by a Magic-User, a salamander is often assigned to protect a location, doorway, or treasure hoard; in such a case, the salamander will attack anyone attempting to gain unauthorized access to the protected area.  Those which arrive through natural rifts may have any goals or motivations the GM wishes, and thus may choose to parley, fight, or even ignore adventurers."
+    ],
+    "hitdice": "12* (+10)",
+    "morale": "9",
+    "movement": "40'",
+    "name": "Salamander, Frost*",
+    "noappearing": "1d3, Wild 1d3, Lair 1d3",
+    "noattacks": "4 claws, 1 bite + cold",
+    "saveas": "Fighter: 12",
+    "treasure": "E",
+    "xp": "1,975"
+},
+{
+    "armorclass": "20 (m)",
+    "damage": "2d4 bite, 1d8/round lightning",
+    "description": [
+        "Lightning Salamanders come from the Elemental Plane of Air.  A lightning salamander resembles a giant snake more than 12 feet long with two dragon-like heads (on short but flexible necks).  Its scales are all the colors of lightning: white, blue, purple, and yellow.  A lightning salamander constantly emits little bolts of lightning; all creatures within 20 feet of the salamander that are not lightning-resistant suffer 1d8 points of damage per round.  A lightning salamander is immune to damage from any type of electrical or lightning attack.  It is intelligent and can speak the language of the Plane of Air, and many will also know Elvish, Common, and/or Dragon.",
+        "Despite having two heads a lightning salamander has only one mind; either head may speak or both may, but it is very rare to meet a lightning salamander who can speak different words with each head at the same time (although those who can are known to sing duets with themselves, which may give away one's location to those listening)."
+    ],
+    "hitdice": "10* (+9)",
+    "morale": "8",
+    "movement": "40'",
+    "name": "Salamander, Lightning*",
+    "noappearing": "1d4, Wild 2d4, Lair 2d4",
+    "noattacks": "2 bites + lightning",
+    "saveas": "Fighter: 10",
+    "treasure": "E",
+    "xp": "1,390"
+},
+{
+    "armorclass": "18 (m)",
+    "damage": "1d6 bite, save or trapped in sand",
+    "description": [
+        "Sand salamanders come from the Elemental Plane of Earth.  A sand salamander resembles a giant sea turtle with six flippers and a serpentine neck and head, with scales of varying shades of gray or brown.",
+        "The sand salamander's most feared attack is its bite, for any living creature bitten by one must save vs. Petrify or be turned to stone.  In addition to attacking, a sand salamander can temporarily transform any stone within a 20 foot radius into sand.  Characters in the affected area must save vs. Paralysis each round in order to move through the sand, and if the save is successful, the character is still reduced to half their normal movement.  Whenever the sand salamander moves out of range, the sand \"congeals\" back into stone, and any character in the affected area must save vs. Paralysis or become trapped.  Extraction of a trapped person may take quite a long time, chipping and hammering at the stone to break it apart.",
+        "A sand salamander is immune to piercing attacks (such as spears or arrows) and suffers half damage from cutting attacks.  It is intelligent and can speak the language of the Plane of Earth; many may also know Elvish, Common, or Dragon."
+    ],
+    "hitdice": "7* (+4)",
+    "morale": "8",
+    "movement": "20'",
+    "name": "Salamander, Sand*",
+    "noappearing": "1d3, Wild 2d4, Lair 1d6",
+    "noattacks": "1 bite, 1 transform stone to sand",
+    "saveas": "Fighter: 7",
+    "treasure": "L",
+    "xp": "735"
+},
+{
+    "armorclass": "15",
+    "damage": "1d10 claw, 1d6 + poison sting",
+    "description": [
+        "Giant scorpions are quite large, sometimes as large as a donkey.  They are aggressive predators and generally attack on sight.  If a claw attack hits, the giant scorpion receives a +2 attack bonus with its stinger (but two claw hits do not give a double bonus).  Those hit by the stinger must save vs. Poison or die.  Giant scorpions are most commonly found in desert areas or caverns."
+    ],
+    "hitdice": "4*",
+    "morale": "11",
+    "movement": "50' (10')",
+    "name": "Scorpion, Giant",
+    "noappearing": "1d6, Wild 1d6",
+    "noattacks": "2 claws, 1 stinger",
+    "saveas": "Fighter: 2",
+    "treasure": "None",
+    "xp": "280"
+},
+{
+    "armorclass": "17",
+    "damage": "2d6",
+    "description": [
+        "Sea serpents are, obviously, serpentine monsters which live in the sea.  They range from 20' to 40' long.  A sea serpent can choose to wrap around a ship and constrict; in this case, roll 2d10 for damage to the vehicle, and reduce any effective Hardness by half.."
+    ],
+    "hitdice": "6",
+    "morale": "8",
+    "movement": "Swim 50' (10')",
+    "name": "Sea Serpent",
+    "noappearing": "Wild 2d6",
+    "noattacks": "1 bite",
+    "saveas": "Fighter: 6",
+    "treasure": "None",
+    "xp": "500"
+},
+{
+    "armorclass": "13 (m)",
+    "damage": "1d4 + 1 point Strength loss",
+    "description": [
+        "A shadow is an incorporeal monster, literally a kind of living shadow.  Only magical weapons will harm one.  They have a generally humanoid shape and are around 5 to 6 feet in height, so that at a glance one might appear to be an actual shadow.  Indeed, it's hard to see one after nightfall, or in poorly-lit or unlit spaces indoors or underground; on the other hand, they are plainly visible in daylight or in well-lit places.",
+        "Despite their appearance they are not undead monsters and thus do not share those creatures' weaknesses or powers; however, they are immune to charm and sleep magics.",
+        "A shadow's attack does 1d4 points of cold damage and drains 1 point of Strength from the victim.  Victims reduced to 2 or fewer points of Strength collapse and become unable to move; those reduced to 0 Strength die and rise as shadows a day later (at nightfall).  Otherwise, Strength points lost to shadows are recovered at a rate of 1 point per turn."
+    ],
+    "hitdice": "2*",
+    "morale": "12",
+    "movement": "30'",
+    "name": "Shadow*",
+    "noappearing": "1d10, Wild 1d10, Lair 1d10",
+    "noattacks": "1 touch",
+    "saveas": "Fighter: 2",
+    "treasure": "F",
+    "xp": "100"
+},
+{
+    "armorclass": "13",
+    "damage": "2d4",
+    "description": [
+        "Bull sharks are so named because of their stocky, broad build.  Male bull sharks can grow up to 7' long and weigh around 200 pounds, while females have been known to be up to 12' long, weighing up to 500 pounds.  Bull sharks are able to tolerate fresh water, and often travel up rivers in search of prey."
+    ],
+    "hitdice": "2",
+    "morale": "7",
+    "movement": "Swim 60' (10')",
+    "name": "Shark, Bull",
+    "noappearing": "Wild 3d6",
+    "noattacks": "1 bite",
+    "saveas": "Fighter: 2",
+    "treasure": "None",
+    "xp": "75"
+},
+{
+    "armorclass": "19",
+    "damage": "2d10",
+    "description": [
+        "Great white sharks range from 12' to 15' in length on the average, though specimens ranging up to 30' in length have been reported.  They are apex predators.  Great white sharks have the ability to sense the electromagnetic fields of living creatures, allowing them to find prey even when light or water clarity are poor, and are able to smell blood at great distances."
+    ],
+    "hitdice": "8",
+    "morale": "8",
+    "movement": "Swim 60' (10')",
+    "name": "Shark, Great White",
+    "noappearing": "Wild 1d4",
+    "noattacks": "1 bite",
+    "saveas": "Fighter: 8",
+    "treasure": "None",
+    "xp": "875"
+},
+{
+    "armorclass": "15",
+    "damage": "2d6",
+    "description": [
+        "Mako sharks are fast-moving predators found in temperate and tropical seas.  They average 9' to 13' in length and weigh up to 1,750 pounds.  Mako sharks are known for their ability to leap out of the water; they are able to leap up to 20' in the air."
+    ],
+    "hitdice": "4",
+    "morale": "7",
+    "movement": "Swim 80'",
+    "name": "Shark, Mako",
+    "noappearing": "Wild 2d6",
+    "noattacks": "1 bite",
+    "saveas": "Fighter: 4",
+    "treasure": "None",
+    "xp": "240"
+},
+{
+    "armorclass": "16",
+    "damage": "1d6 bite",
+    "description": [
+        "Giant shrews resemble giant rats, but are larger, being up to 6' long, and darker in color.  They have a very fast metabolic rate and must eat almost constantly.  Giant shrews are omnivorous, and aggressively defend their nests and the immediate territory around them.",
+        "Giant shrews move so swiftly that they are able to bite twice per round, and they may attack two different adjacent opponents in this way."
+    ],
+    "hitdice": "1",
+    "morale": "10",
+    "movement": "60'",
+    "name": "Shrew, Giant",
+    "noappearing": "1d4, Wild 1d8, Lair 1d8",
+    "noattacks": "2 bites",
+    "saveas": "Fighter: 2",
+    "treasure": "None",
+    "xp": "25"
+},
+{
+    "armorclass": "16",
+    "damage": "1d6 bite + poison",
+    "description": [
+        "Giant shrews resemble giant rats, but are larger, being up to 6' long, and darker in color.  They have a very fast metabolic rate and must eat almost constantly.  Giant shrews are omnivorous, and aggressively defend their nests and the immediate territory around them.",
+        "Giant shrews move so swiftly that they are able to bite twice per round, and they may attack two different adjacent opponents in this way.",
+        "A few giant shrew species (generally no more than 5% of those encountered) are venomous.  The bite of such a giant shrew will kill the victim unless a save vs. Poison is made.  A victim bitten twice in a round need only save once for that round, but of course will have to save again in subsequent rounds if bitten again."
+    ],
+    "hitdice": "1*",
+    "morale": "10",
+    "movement": "60'",
+    "name": "Shrew, Giant Venomous",
+    "noappearing": "1d4, Wild 1d8, Lair 1d8",
+    "noattacks": "2 bites",
+    "saveas": "Fighter: 2",
+    "treasure": "None",
+    "xp": "37"
+},
+{
+    "armorclass": "13",
+    "damage": "None",
+    "description": [
+        "A shrieker, sometimes called a wailing morel, is a large (3' to 5' tall and about the same size across), semi-mobile fungus that wails loudly as a defense mechanism when approached or threatened.  Shriekers are found in underground areas such as caverns and dungeons.  They are found in a variety of pale colors, most commonly white, gray, lavender, or red.",
+        "This monster does not attack directly; rather, its shrieking tends to attract the attention of other monsters in the nearby area.  Movement or light within 10 feet, or causing any damage to one, will cause one to wail for 1d4 rounds.",
+        "In game terms, the GM should generally roll a wandering monster check each round that this monster wails."
+    ],
+    "hitdice": "3",
+    "morale": "12",
+    "movement": "5'",
+    "name": "Shrieker (Wailing Morel)",
+    "noappearing": "1d8",
+    "noattacks": "None, but summons encounters",
+    "saveas": "Fighter: 1",
+    "treasure": "None",
+    "xp": "145"
+},
+{
+    "armorclass": "13 (special, see below)",
+    "damage": "1d6 or by weapon",
+    "description": [
+        "Skeletons are mindless undead created by an evil Magic-User or Cleric, generally to guard a tomb or treasure hoard, or to act as guards for their creator.  They take only 1/2 damage from edged weapons, and only a single point from arrows, bolts or sling stones (plus any magical bonus).  As with all undead, they can be Turned by a Cleric, and are immune to sleep, charm or hold magic. As they are mindless, no form of mind reading is of any use against them.  Skeletons never fail morale, and thus always fight until destroyed."
+    ],
+    "hitdice": "1",
+    "morale": "12",
+    "movement": "40'",
+    "name": "Skeleton",
+    "noappearing": "3d6, Wild 3d10",
+    "noattacks": "1 weapon",
+    "saveas": "Fighter: 1",
+    "treasure": "None",
+    "xp": "25"
+},
+{
+    "armorclass": "13",
+    "damage": "paralysis",
+    "description": [
         "Tentacle worms appear to be giant worms of some sort, averaging 6 to 8 feet long.  Their heads are pasty white or grey, but their bodies vary from livid pink or purple to deep green in color.  Their tentacles splay out from around the creature's \"neck.\"  Some sages believe they are the larval form of some other monster, but this has never been proven.",
         "A tentacle worm can attack as many as three adjacent opponents.  Those hit must save vs. Paralysis or be paralyzed 2d4 turns.  No matter how many of a tentacle worm's attacks hit an opponent in a given round, only one saving throw is required in each such round.",
         "If all opponents of a tentacle worm are paralyzed, it will begin to feed upon the victims, doing 1 point of damage every 1d8 rounds until the victim is dead; if other paralyzed victims are still alive, the worm is 50% likely to move on immediately to another still-living victim.  Otherwise, it continues to eat the corpse of the slain victim for 1d4 turns."
     ],
-    "hitdice": "5*",
-    "morale": "7",
+    "hitdice": "3*",
+    "morale": "9",
     "movement": "40'",
-    "name": "Rust Monster*",
-    "noappearing": "1d4",
-    "noattacks": "1 touch",
-    "saveas": "Fighter: 5",
-    "treasure": "None",
-    "xp": "405"
+    "name": "Tentacle Worm",
+    "noappearing": "1d3, Lair 1d3",
+    "noattacks": "6 tentacles",
+    "saveas": "Fighter: 3",
+    "treasure": "B",
+    "xp": "175"
 },
 {
     "armorclass": "14",
