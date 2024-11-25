@@ -333,266 +333,377 @@ Pixies are whimsical, enjoying nothing so much as a good joke or prank, especial
 
 @@
 
-@STOP@
-
 Purple Worm
-Armor Class:
-16
-17
-Hit Dice:
-11* (+9) to
-15* (+11)
-16* (+12) to
-20* (+13)
-No. of Attacks:
--  1 bite, 1 sting 
-Damage:
-2d8 bite, 1d8+poison sting
-3d8 bite, 1d10+poison sting
-Movement:
--  20' (15') Burrow 20' (15') 
-No. Appearing:
--  1d2, Wild 1d4 
-Save As:
--  Fighter: 6 to 10 (1/2 of Hit Dice) 
-Morale:
-10
-10
-Treasure Type:
-None
-None
-XP:
-11 HD 1,670,
-12 HD 1,975,
-13 HD 2,285,
-14 HD 2,615,
-15 HD 2,975
-16 HD 3,385,
-17 HD 3,745,
-18 HD 4,160,
-19 HD 4,675,
-20 HD 5,450
+Armor Class: 17
+Hit Dice: 16* (+12)
+No. of Attacks: 1 bite, 1 sting 
+Damage: 3d8 bite, 1d10+poison sting
+Movement: 20' (15') Burrow 20' (15') 
+No. Appearing: 1d2, Wild 1d4 
+Save As: Fighter: 8
+Morale: 10
+Treasure Type: None
+XP: 3,385
+
 Purple worms are gigantic subterranean monsters; they are rarely found above ground.  Adult purple worms range from 5-9 feet in diameter and 50-100 feet long, with an average weight of about 40,000 pounds.
 The creature's tail ends in a narrow point tipped with a poisonous stinger; those injured by it must save vs. Poison or die.  Note that the purple worm's movement is less than the monster's length, so that, if attacking from out of a tunnel, it might not be able to use the stinger for several rounds.
 Any time a purple worm successfully bites a man-sized or smaller opponent with a natural roll of 19 or 20, the opponent has been swallowed and will suffer 3d6 damage per round afterward due to being digested.  A character who has been swallowed can only effectively attack with small cutting or stabbing weapons such as dagger or shortsword.
-Rat (and Rat, Giant)
 
-Normal
-Giant
-Armor Class:
-11
-13
-Hit Dice:
-1 Hit Point
-1/2 (1d4 hit points)
-No. of Attacks:
-1 bite per pack
-1 bite
-Damage:
-1d6 + disease
-1d4 + disease
-Movement:
-20' Swim 10'
-40' Swim 20'
-No. Appearing:
-5d10,
-Wild 5d10,
-Lair 5d10
-3d6,
-Wild 3d10,
-Lair 3d10
-Save As:
-Normal Man
-Fighter: 1
-Morale:
-5
-8
-Treasure Type:
-None
-C
-XP:
-360*
-10
+@@
+
+Purple Worm
+Armor Class: 17
+Hit Dice: 17* (+12)
+No. of Attacks: 1 bite, 1 sting 
+Damage: 3d8 bite, 1d10+poison sting
+Movement: 20' (15') Burrow 20' (15') 
+No. Appearing: 1d2, Wild 1d4 
+Save As: Fighter: 9
+Morale: 10
+Treasure Type: None
+XP: 3,745
+
+Purple worms are gigantic subterranean monsters; they are rarely found above ground.  Adult purple worms range from 5-9 feet in diameter and 50-100 feet long, with an average weight of about 40,000 pounds.
+The creature's tail ends in a narrow point tipped with a poisonous stinger; those injured by it must save vs. Poison or die.  Note that the purple worm's movement is less than the monster's length, so that, if attacking from out of a tunnel, it might not be able to use the stinger for several rounds.
+Any time a purple worm successfully bites a man-sized or smaller opponent with a natural roll of 19 or 20, the opponent has been swallowed and will suffer 3d6 damage per round afterward due to being digested.  A character who has been swallowed can only effectively attack with small cutting or stabbing weapons such as dagger or shortsword.
+
+@@
+
+Purple Worm
+Armor Class: 17
+Hit Dice: 18* (+12)
+No. of Attacks: 1 bite, 1 sting 
+Damage: 3d8 bite, 1d10+poison sting
+Movement: 20' (15') Burrow 20' (15') 
+No. Appearing: 1d2, Wild 1d4 
+Save As: Fighter: 9
+Morale: 10
+Treasure Type: None
+XP: 4,160
+
+Purple worms are gigantic subterranean monsters; they are rarely found above ground.  Adult purple worms range from 5-9 feet in diameter and 50-100 feet long, with an average weight of about 40,000 pounds.
+The creature's tail ends in a narrow point tipped with a poisonous stinger; those injured by it must save vs. Poison or die.  Note that the purple worm's movement is less than the monster's length, so that, if attacking from out of a tunnel, it might not be able to use the stinger for several rounds.
+Any time a purple worm successfully bites a man-sized or smaller opponent with a natural roll of 19 or 20, the opponent has been swallowed and will suffer 3d6 damage per round afterward due to being digested.  A character who has been swallowed can only effectively attack with small cutting or stabbing weapons such as dagger or shortsword.
+
+@@
+
+Purple Worm
+Armor Class: 17
+Hit Dice: 19* (+12)
+No. of Attacks: 1 bite, 1 sting 
+Damage: 3d8 bite, 1d10+poison sting
+Movement: 20' (15') Burrow 20' (15') 
+No. Appearing: 1d2, Wild 1d4 
+Save As: Fighter: 10
+Morale: 10
+Treasure Type: None
+XP: 4,675
+
+Purple worms are gigantic subterranean monsters; they are rarely found above ground.  Adult purple worms range from 5-9 feet in diameter and 50-100 feet long, with an average weight of about 40,000 pounds.
+The creature's tail ends in a narrow point tipped with a poisonous stinger; those injured by it must save vs. Poison or die.  Note that the purple worm's movement is less than the monster's length, so that, if attacking from out of a tunnel, it might not be able to use the stinger for several rounds.
+Any time a purple worm successfully bites a man-sized or smaller opponent with a natural roll of 19 or 20, the opponent has been swallowed and will suffer 3d6 damage per round afterward due to being digested.  A character who has been swallowed can only effectively attack with small cutting or stabbing weapons such as dagger or shortsword.
+
+@@
+
+Purple Worm
+Armor Class: 17
+Hit Dice: 20* (+13)
+No. of Attacks: 1 bite, 1 sting 
+Damage: 3d8 bite, 1d10+poison sting
+Movement: 20' (15') Burrow 20' (15') 
+No. Appearing: 1d2, Wild 1d4 
+Save As: Fighter: 10
+Morale: 10
+Treasure Type: None
+XP: 20 HD 5,450
+
+Purple worms are gigantic subterranean monsters; they are rarely found above ground.  Adult purple worms range from 5-9 feet in diameter and 50-100 feet long, with an average weight of about 40,000 pounds.
+The creature's tail ends in a narrow point tipped with a poisonous stinger; those injured by it must save vs. Poison or die.  Note that the purple worm's movement is less than the monster's length, so that, if attacking from out of a tunnel, it might not be able to use the stinger for several rounds.
+Any time a purple worm successfully bites a man-sized or smaller opponent with a natural roll of 19 or 20, the opponent has been swallowed and will suffer 3d6 damage per round afterward due to being digested.  A character who has been swallowed can only effectively attack with small cutting or stabbing weapons such as dagger or shortsword.
+
+@@
+
+Purple Worm
+Armor Class: 16
+Hit Dice: 11* (+9)
+No. of Attacks: 1 bite, 1 sting 
+Damage: 2d8 bite, 1d8+poison sting
+Movement: 20' (15') Burrow 20' (15') 
+No. Appearing: 1d2, Wild 1d4 
+Save As: Fighter: 6
+Morale: 10
+Treasure Type: None
+XP: 1,670
+
+Purple worms are gigantic subterranean monsters; they are rarely found above ground.  Adult purple worms range from 5-9 feet in diameter and 50-100 feet long, with an average weight of about 40,000 pounds.
+The creature's tail ends in a narrow point tipped with a poisonous stinger; those injured by it must save vs. Poison or die.  Note that the purple worm's movement is less than the monster's length, so that, if attacking from out of a tunnel, it might not be able to use the stinger for several rounds.
+Any time a purple worm successfully bites a man-sized or smaller opponent with a natural roll of 19 or 20, the opponent has been swallowed and will suffer 3d6 damage per round afterward due to being digested.  A character who has been swallowed can only effectively attack with small cutting or stabbing weapons such as dagger or shortsword.
+
+@@
+
+Purple Worm
+Armor Class: 16
+Hit Dice: 12* (+10)
+No. of Attacks: 1 bite, 1 sting 
+Damage: 2d8 bite, 1d8+poison sting
+Movement: 20' (15') Burrow 20' (15') 
+No. Appearing: 1d2, Wild 1d4 
+Save As: Fighter: 6
+Morale: 10
+Treasure Type: None
+XP: 1,975
+
+Purple worms are gigantic subterranean monsters; they are rarely found above ground.  Adult purple worms range from 5-9 feet in diameter and 50-100 feet long, with an average weight of about 40,000 pounds.
+The creature's tail ends in a narrow point tipped with a poisonous stinger; those injured by it must save vs. Poison or die.  Note that the purple worm's movement is less than the monster's length, so that, if attacking from out of a tunnel, it might not be able to use the stinger for several rounds.
+Any time a purple worm successfully bites a man-sized or smaller opponent with a natural roll of 19 or 20, the opponent has been swallowed and will suffer 3d6 damage per round afterward due to being digested.  A character who has been swallowed can only effectively attack with small cutting or stabbing weapons such as dagger or shortsword.
+
+@@
+
+Purple Worm
+Armor Class: 16
+Hit Dice: 13* (+10)
+No. of Attacks: 1 bite, 1 sting 
+Damage: 2d8 bite, 1d8+poison sting
+Movement: 20' (15') Burrow 20' (15') 
+No. Appearing: 1d2, Wild 1d4 
+Save As: Fighter: 7
+Morale: 10
+Treasure Type: None
+XP: 2,285
+
+Purple worms are gigantic subterranean monsters; they are rarely found above ground.  Adult purple worms range from 5-9 feet in diameter and 50-100 feet long, with an average weight of about 40,000 pounds.
+The creature's tail ends in a narrow point tipped with a poisonous stinger; those injured by it must save vs. Poison or die.  Note that the purple worm's movement is less than the monster's length, so that, if attacking from out of a tunnel, it might not be able to use the stinger for several rounds.
+Any time a purple worm successfully bites a man-sized or smaller opponent with a natural roll of 19 or 20, the opponent has been swallowed and will suffer 3d6 damage per round afterward due to being digested.  A character who has been swallowed can only effectively attack with small cutting or stabbing weapons such as dagger or shortsword.
+
+@@
+
+Purple Worm
+Armor Class: 16
+Hit Dice: 14* (+11)
+No. of Attacks: 1 bite, 1 sting 
+Damage: 2d8 bite, 1d8+poison sting
+Movement: 20' (15') Burrow 20' (15') 
+No. Appearing: 1d2, Wild 1d4 
+Save As: Fighter: 7
+Morale: 10
+Treasure Type: None
+XP: 2,615
+
+Purple worms are gigantic subterranean monsters; they are rarely found above ground.  Adult purple worms range from 5-9 feet in diameter and 50-100 feet long, with an average weight of about 40,000 pounds.
+The creature's tail ends in a narrow point tipped with a poisonous stinger; those injured by it must save vs. Poison or die.  Note that the purple worm's movement is less than the monster's length, so that, if attacking from out of a tunnel, it might not be able to use the stinger for several rounds.
+Any time a purple worm successfully bites a man-sized or smaller opponent with a natural roll of 19 or 20, the opponent has been swallowed and will suffer 3d6 damage per round afterward due to being digested.  A character who has been swallowed can only effectively attack with small cutting or stabbing weapons such as dagger or shortsword.
+
+@@
+
+Purple Worm
+Armor Class: 16
+Hit Dice: 15* (+11)
+No. of Attacks: 1 bite, 1 sting 
+Damage: 2d8 bite, 1d8+poison sting
+Movement: 20' (15') Burrow 20' (15') 
+No. Appearing: 1d2, Wild 1d4 
+Save As: Fighter: 8
+Morale: 10
+Treasure Type: None
+XP: 15 HD 2,975
+
+Purple worms are gigantic subterranean monsters; they are rarely found above ground.  Adult purple worms range from 5-9 feet in diameter and 50-100 feet long, with an average weight of about 40,000 pounds.
+The creature's tail ends in a narrow point tipped with a poisonous stinger; those injured by it must save vs. Poison or die.  Note that the purple worm's movement is less than the monster's length, so that, if attacking from out of a tunnel, it might not be able to use the stinger for several rounds.
+Any time a purple worm successfully bites a man-sized or smaller opponent with a natural roll of 19 or 20, the opponent has been swallowed and will suffer 3d6 damage per round afterward due to being digested.  A character who has been swallowed can only effectively attack with small cutting or stabbing weapons such as dagger or shortsword.
+
+@@
+
+Rat
+Armor Class: 11
+Hit Dice: 1 Hit Point
+No. of Attacks: 1 bite per pack
+Damage: 1d6 + disease
+Movement: 20' Swim 10'
+No. Appearing: 5d10, Wild 5d10, Lair 5d10
+Save As: Normal Man
+Morale: 5
+Treasure Type: None
+XP: 360*
+
 Rats are omnivorous pests found in all climates where humans live.
 Normal rats attack as a swarm; each point of damage done to the swarm reduces their numbers by one animal.
-Giant rats are scavengers, but will attack to defend their nests and territories.  A giant rat can grow to be up to 4 feet long and weigh over 50 pounds.  A single giant rat, or a small group of up to four, will generally be shy, but larger packs attack fearlessly, biting and chewing with their sharp incisors.
 Any rat bite has a 5% chance of causing a disease.  A character who suffers one or more rat bites where the die roll indicates disease will sicken in 3d6 hours. The infected character will lose one point of Constitution per hour; after losing each point, the character is allowed a save vs. Death Ray (adjusted by the current Constitution bonus or penalty) to break the fever and end the disease. Any character reduced to zero Constitution is dead. See Constitution Point Losses in the Encounter section for details on regaining lost Constitution.
 * Note: The XP award for normal rats is for driving away or killing an entire pack of normal size.  If the adventurers are forced to flee, the GM should award 3 XP per rat slain.
+
+@@
+
+Rat, Giant
+Armor Class: 13
+Hit Dice: 1/2 (1d4 hit points)
+No. of Attacks: 1 bite
+Damage: 1d4 + disease
+Movement: 40' Swim 20'
+No. Appearing: 3d6, Wild 3d10, Lair 3d10
+Save As: Fighter: 1
+Morale: 8
+Treasure Type: C
+XP: 10
+
+Rats are omnivorous pests found in all climates where humans live.
+Giant rats are scavengers, but will attack to defend their nests and territories.  A giant rat can grow to be up to 4 feet long and weigh over 50 pounds.  A single giant rat, or a small group of up to four, will generally be shy, but larger packs attack fearlessly, biting and chewing with their sharp incisors.
+Any rat bite has a 5% chance of causing a disease.  A character who suffers one or more rat bites where the die roll indicates disease will sicken in 3d6 hours. The infected character will lose one point of Constitution per hour; after losing each point, the character is allowed a save vs. Death Ray (adjusted by the current Constitution bonus or penalty) to break the fever and end the disease. Any character reduced to zero Constitution is dead. See Constitution Point Losses in the Encounter section for details on regaining lost Constitution.
+
+@@
+
 Rhagodessa, Giant
-Armor Class:
-16
-Hit Dice:
-4
-No. of Attacks:
-2 legs, 1 bite
-Damage:
-leg grab, 2d8 bite
-Movement:
-50'
-No. Appearing:
-1d4, Wild 1d6, Lair 1d6
-Save As:
-Fighter: 4
-Morale:
-9
-Treasure Type:
-U
-XP:
-240
+Armor Class: 16
+Hit Dice: 4
+No. of Attacks: 2 legs, 1 bite
+Damage: leg grab, 2d8 bite
+Movement: 50'
+No. Appearing: 1d4, Wild 1d6, Lair 1d6
+Save As: Fighter: 4
+Morale: 9
+Treasure Type: U
+XP: 240
+
 The rhagodessa is related to both spiders and scorpions, though it is not properly either.  Rhagodessas have "pedipalps," an elongated pair of forelegs with sticky pads on them for capturing prey.
 Giant rhagodessas are the size of a pony.  Those found in desert terrain are generally marked in yellow, red, and brown, while those found underground may be black or white in color (those found in the deepest caverns are always white).  Like spiders, they can climb walls, but they are unable to cross ceilings or otherwise climb entirely upside down.
 A hit by a leg does no damage, but the victim is stuck fast and will be drawn to the rhagodessa's mouth on the next round and automatically hit for 2d8 points of damage; this repeats each round, so long as the victim is held.  Escaping from the sticky hold requires a successful roll to open doors.  If both legs hit, this roll frees the victim from just one of them; a second roll is needed to fully escape, and of course the rhagodessa can simply attack again with the free leg on the next round.  Alternately, victims may attack with small or medium melee weapons, and in fact gain a bonus of +2 to the attack roll if a small weapon is used.  If the giant rhagodessa is slain, any held victim can be freed with the open doors roll mentioned above (and in this case another character can help, making the roll for the victim).
 The rhagodessa seems unable to use its bite attack against a foe it has not captured in this way, and neither will it attack more than one foe with its legs.  If threatened, a rhagodessa which has captured a victim will attempt to withdraw to consume its prey in peace.
-Rhinoceros
 
-Black
-Woolly
-Armor Class:
-17
-19
-Hit Dice:
-8
-12 (+10)
-No. of Attacks:
-1 butt or 1 trample
-Damage:
-2d6 butt,
-2d8 trample
-2d8 butt,
-2d12 trample
-Movement:
-40' (15')
-40' (15')
-No. Appearing:
-Wild 1d12
-Wild 1d8
-Save As:
-Fighter: 6
-Fighter: 8
-Morale:
-6
-6
-Treasure Type:
-None
-None
-XP:
-875
-1,875
+@@
+
+Rhinoceros, Black
+Armor Class: 17
+Hit Dice: 8
+No. of Attacks: 1 butt or 1 trample
+Damage: 2d6 butt, 2d8 trample
+Movement: 40' (15')
+No. Appearing: Wild 1d12
+Save As: Fighter: 6
+Morale: 6
+Treasure Type: None
+XP: 875
+
 A rhinoceros (or "rhino") is a member of any of several species (including numerous supposedly extinct species) of odd-toed hooved mammals.  They are found primarily in tropical and temperate grasslands.
-The woolly rhinoceros is a prehistoric beast with long fur, found in primitive "lost world" areas in colder territories.  They behave much as the black rhino does.
-Roc
 
-Normal
-Large
-Giant
-Armor Class:
-18
-18
-18
-Hit Dice:
-6
-12 (+10)
-32 (+16)
-No. of Attacks:
-2 claws, 1 bite
-Damage:
-1d6 claw, 2d6 bite
-1d8 claw, 2d10 bite
-3d6 claw, 6d6 bite
-Movement:
-20' Fly 160' (10')
-No. Appearing:
-Wild 1d12
-Wild 1d8
-Wild 1
-Save As:
-Fighter: 6
-Fighter: 12
-Fighter: 20
-at +5
-Morale:
-8
-9
-10
-Treasure Type:
-I
-I
-I
-XP:
-500
-1,875
-14,250
+@@
+
+Rhinoceros, Woolly
+Armor Class: 19
+Hit Dice: 12 (+10)
+No. of Attacks: 1 butt or 1 trample
+Damage: 2d8 butt, 2d12 trample
+Movement: 40' (15')
+No. Appearing: Wild 1d8
+Save As: Fighter: 8
+Morale: 6
+Treasure Type: None
+XP: 1,875
+
+The woolly rhinoceros is a prehistoric beast with long fur, found in primitive "lost world" areas in colder territories.  They behave much as the black rhino does.
+
+@@
+
+Roc
+Armor Class: 18
+Hit Dice: 6
+No. of Attacks: 2 claws, 1 bite
+Damage: 1d6 claw, 2d6 bite
+Movement: 20' Fly 160' (10')
+No. Appearing: Wild 1d12
+Save As: Fighter: 6
+Morale: 8
+Treasure Type: I
+XP: 500
+
 Rocs are birds similar to eagles, but even a "normal" roc is huge, being about 9 feet long and having a wingspan of 24 feet.  Large rocs are about 18 feet long and have wingspans of around 48 feet; giant rocs average 30 feet long and have massive wingspans of around 80 feet.  A roc's plumage is either dark brown or golden from head to tail.  Like most birds, the males have the brighter plumage, with females being duller in color and thus more easily hidden (if anything so large can even be hidden, that is).
 A light load for a normal roc is 150 pounds, while a heavy load is 300 pounds.  Obviously only the smallest characters can hope to ride upon a normal roc.  For a large roc, a light load is up to 600 pounds and a heavy load up to 1,200.  Giant rocs can easily lift up to 3,000 pounds, and are heavily loaded when carrying up to 6,000 pounds.  Tales of giant rocs carrying off full-grown elephants are somewhat exaggerated, but note that a young elephant would be reasonable prey for these monstrous birds.
 A roc attacks from the air, swooping earthward to snatch prey in its powerful talons and carry it off for itself and its young to devour.  Any successful hit with both claw (talon) attacks against a single creature results in that creature being carried off, unless of course the creature is too large for the roc to carry.  While being carried, the victim will not be further attacked, so as to be as "fresh" as possible when given to the hatchlings (or consumed by the roc itself if it is solitary).
 When rocs are encountered they are almost certainly hunting, and will generally attack creatures of horse size or less.  If facing a large group the rocs may make passes close overhead to scatter them first before each chooses a single target to prey upon.  Mated pairs found in their nests will fight to the death to protect their eggs or offspring (morale of 12 in this case).
+
+@@
+
+Roc, Large
+Armor Class: 18
+Hit Dice: 12 (+10)
+No. of Attacks: 2 claws, 1 bite
+Damage: 1d8 claw, 2d10 bite
+Movement: 20' Fly 160' (10')
+No. Appearing: Wild 1d8
+Save As: Fighter: 12
+Morale: 9
+Treasure Type: I
+XP: 1,875
+
+Rocs are birds similar to eagles, but even a "normal" roc is huge, being about 9 feet long and having a wingspan of 24 feet.  Large rocs are about 18 feet long and have wingspans of around 48 feet; giant rocs average 30 feet long and have massive wingspans of around 80 feet.  A roc's plumage is either dark brown or golden from head to tail.  Like most birds, the males have the brighter plumage, with females being duller in color and thus more easily hidden (if anything so large can even be hidden, that is).
+A light load for a normal roc is 150 pounds, while a heavy load is 300 pounds.  Obviously only the smallest characters can hope to ride upon a normal roc.  For a large roc, a light load is up to 600 pounds and a heavy load up to 1,200.  Giant rocs can easily lift up to 3,000 pounds, and are heavily loaded when carrying up to 6,000 pounds.  Tales of giant rocs carrying off full-grown elephants are somewhat exaggerated, but note that a young elephant would be reasonable prey for these monstrous birds.
+A roc attacks from the air, swooping earthward to snatch prey in its powerful talons and carry it off for itself and its young to devour.  Any successful hit with both claw (talon) attacks against a single creature results in that creature being carried off, unless of course the creature is too large for the roc to carry.  While being carried, the victim will not be further attacked, so as to be as "fresh" as possible when given to the hatchlings (or consumed by the roc itself if it is solitary).
+When rocs are encountered they are almost certainly hunting, and will generally attack creatures of horse size or less.  If facing a large group the rocs may make passes close overhead to scatter them first before each chooses a single target to prey upon.  Mated pairs found in their nests will fight to the death to protect their eggs or offspring (morale of 12 in this case).
+
+@@
+
+Roc, Giant
+Armor Class: 18
+Hit Dice: 32 (+16)
+No. of Attacks: 2 claws, 1 bite
+Damage: 3d6 claw, 6d6 bite
+Movement: 20' Fly 160' (10')
+No. Appearing: Wild 1
+Save As: Fighter: 20 at +5
+Morale: 10
+Treasure Type: I
+XP: 14,250
+
+Rocs are birds similar to eagles, but even a "normal" roc is huge, being about 9 feet long and having a wingspan of 24 feet.  Large rocs are about 18 feet long and have wingspans of around 48 feet; giant rocs average 30 feet long and have massive wingspans of around 80 feet.  A roc's plumage is either dark brown or golden from head to tail.  Like most birds, the males have the brighter plumage, with females being duller in color and thus more easily hidden (if anything so large can even be hidden, that is).
+A light load for a normal roc is 150 pounds, while a heavy load is 300 pounds.  Obviously only the smallest characters can hope to ride upon a normal roc.  For a large roc, a light load is up to 600 pounds and a heavy load up to 1,200.  Giant rocs can easily lift up to 3,000 pounds, and are heavily loaded when carrying up to 6,000 pounds.  Tales of giant rocs carrying off full-grown elephants are somewhat exaggerated, but note that a young elephant would be reasonable prey for these monstrous birds.
+A roc attacks from the air, swooping earthward to snatch prey in its powerful talons and carry it off for itself and its young to devour.  Any successful hit with both claw (talon) attacks against a single creature results in that creature being carried off, unless of course the creature is too large for the roc to carry.  While being carried, the victim will not be further attacked, so as to be as "fresh" as possible when given to the hatchlings (or consumed by the roc itself if it is solitary).
+When rocs are encountered they are almost certainly hunting, and will generally attack creatures of horse size or less.  If facing a large group the rocs may make passes close overhead to scatter them first before each chooses a single target to prey upon.  Mated pairs found in their nests will fight to the death to protect their eggs or offspring (morale of 12 in this case).
+
+@@
+
 Rock Baboon
-Armor Class:
-14
-Hit Dice:
-2
-No. of Attacks:
-1 club or 1 fist, 1 bite
-Damage:
-1d6 club or 1d4 fist, 1d4 bite
-Movement:
-40'
-No. Appearing:
-2d6, Wild 2d6, Lair 5d6
-Save As:
-Fighter: 2
-Morale:
-8
-Treasure Type:
-None
-XP:
-75
+Armor Class: 14
+Hit Dice: 2
+No. of Attacks: 1 club or 1 fist, 1 bite
+Damage: 1d6 club or 1d4 fist, 1d4 bite
+Movement: 40'
+No. Appearing: 2d6, Wild 2d6, Lair 5d6
+Save As: Fighter: 2
+Morale: 8
+Treasure Type: None
+XP: 75
+
 Rock baboons are a large, particularly intelligent variety of baboon.  An adult male rock baboon is 4' to 5' tall and weighs 200 to 250 pounds, with females being a bit smaller and lighter.
 Rock baboons are omnivorous, but prefer meat.  They are aggressive, naturally cruel creatures.  They will prepare ambushes in rocky or forested terrain and attack any party they outnumber.
+
+@@
+
 Rot Grub
-Armor Class:
-10
-Hit Dice:
-1 hp
-No. of Attacks:
-1 bite
-Damage:
-Special, see below
-Movement:
-5'
-No. Appearing:
-5d4
-Save As:
-Fighter: 1
-Morale:
-12
-Treasure Type:
-None
-XP:
-10
+Armor Class: 10
+Hit Dice: 1 hp
+No. of Attacks: 1 bite
+Damage: Special, see below
+Movement: 5'
+No. Appearing: 5d4
+Save As: Fighter: 1
+Morale: 12
+Treasure Type: None
+XP: 10
+
 Rot grubs are 1-inch long vermin found in carrion, dung, and other such garbage and organic material.  Their skin color is white or brown.  When a living creature contacts an area (dung heap, offal, etc) infested with rot grubs, the grubs will attack if they can come in contact with the victim's skin.  A rot grub secretes an anesthetic when it bites and will burrow into the flesh.  A burrowing grub can be noticed if the victim makes a successful save vs. Death Ray with Wisdom bonus applied in order to notice a strange rippling beneath their skin.  Otherwise, the victim does not notice the grubs.  During the first two rounds, a burrowing rot grub can be killed by applying fire to the infested skin or by cutting open the infested skin with any slashing weapon.  Either method deals 1d8 points of damage to the victim, but kills the grubs.  After the second round, only cure disease can kill the grubs before they burrow to the victim's heart and devour it in 1d3 turns.
+
+@@
+
 Rust Monster*
-Armor Class:
-18
-Hit Dice:
-5*
-No. of Attacks:
-1 touch
-Damage:
-Rust, see below
-Movement:
-40'
-No. Appearing:
-1d4
-Save As:
-Fighter: 5
-Morale:
-7
-Treasure Type:
-None
-XP:
-405
+Armor Class: 18
+Hit Dice: 5*
+No. of Attacks: 1 touch
+Damage: Rust, see below
+Movement: 40'
+No. Appearing: 1d4
+Save As: Fighter: 5
+Morale: 7
+Treasure Type: None
+XP: 405
+
 A rust monster (sometimes known as a corroder or corrosion beast) is a strange monster built like a huge turtle, with an insectoid head sporting large feather-like antennae and a thick tail with a hammer-like protrusion at the tip which seems to serve no purpose whatsoever.
 The touch of any part of a rust monster's body oxidizes metal objects instantly, turning them to rust, verdigris, or other oxides as appropriate.  One attacks with its antennae, brushing them over metal items.  Non-magical metal attacked by a rust monster, or that touches the monster (such as a sword used to attack it), is instantly ruined.  A hit with a non-magical metal weapon inflicts half damage before the weapon is destroyed.  Magic weapons or armor permanently lose one "plus" each time they make contact with the monster.
 The metal oxides created by this monster are its food; a substantial amount of metal dropped in its path may cause it to cease pursuit of metal-armored characters.  Use a morale check to determine this.  Metals that do not normally oxidize, such as gold, are of no interest to a rust monster and will be ignored.  While rust monsters will consume oxides of silver or copper, they have a strong preference for ferrous metals (iron or steel), preferring them over any other metal.
-Whether the rust monster is in any way related to the rarer ironbane (as found on page 93) is unknown, but both monsters seem to have the exact same power.
+Whether the rust monster is in any way related to the rarer ironbane is unknown, but both monsters seem to have the exact same power.

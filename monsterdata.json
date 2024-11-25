@@ -3224,4 +3224,467 @@
     "treasure": "R, S",
     "xp": "37"
 },
+{
+    "armorclass": "17",
+    "damage": "3d8 bite, 1d10+poison sting",
+    "description": [
+        "Purple worms are gigantic subterranean monsters; they are rarely found above ground.  Adult purple worms range from 5-9 feet in diameter and 50-100 feet long, with an average weight of about 40,000 pounds.",
+        "The creature's tail ends in a narrow point tipped with a poisonous stinger; those injured by it must save vs. Poison or die.  Note that the purple worm's movement is less than the monster's length, so that, if attacking from out of a tunnel, it might not be able to use the stinger for several rounds.",
+        "Any time a purple worm successfully bites a man-sized or smaller opponent with a natural roll of 19 or 20, the opponent has been swallowed and will suffer 3d6 damage per round afterward due to being digested.  A character who has been swallowed can only effectively attack with small cutting or stabbing weapons such as dagger or shortsword."
+    ],
+    "hitdice": "16* (+12)",
+    "morale": "10",
+    "movement": "20' (15') Burrow 20' (15')",
+    "name": "Purple Worm",
+    "noappearing": "1d2, Wild 1d4",
+    "noattacks": "1 bite, 1 sting",
+    "saveas": "Fighter: 8",
+    "treasure": "None",
+    "xp": "3,385"
+},
+{
+    "armorclass": "17",
+    "damage": "3d8 bite, 1d10+poison sting",
+    "description": [
+        "Purple worms are gigantic subterranean monsters; they are rarely found above ground.  Adult purple worms range from 5-9 feet in diameter and 50-100 feet long, with an average weight of about 40,000 pounds.",
+        "The creature's tail ends in a narrow point tipped with a poisonous stinger; those injured by it must save vs. Poison or die.  Note that the purple worm's movement is less than the monster's length, so that, if attacking from out of a tunnel, it might not be able to use the stinger for several rounds.",
+        "Any time a purple worm successfully bites a man-sized or smaller opponent with a natural roll of 19 or 20, the opponent has been swallowed and will suffer 3d6 damage per round afterward due to being digested.  A character who has been swallowed can only effectively attack with small cutting or stabbing weapons such as dagger or shortsword."
+    ],
+    "hitdice": "17* (+12)",
+    "morale": "10",
+    "movement": "20' (15') Burrow 20' (15')",
+    "name": "Purple Worm",
+    "noappearing": "1d2, Wild 1d4",
+    "noattacks": "1 bite, 1 sting",
+    "saveas": "Fighter: 9",
+    "treasure": "None",
+    "xp": "3,745"
+},
+{
+    "armorclass": "17",
+    "damage": "3d8 bite, 1d10+poison sting",
+    "description": [
+        "Purple worms are gigantic subterranean monsters; they are rarely found above ground.  Adult purple worms range from 5-9 feet in diameter and 50-100 feet long, with an average weight of about 40,000 pounds.",
+        "The creature's tail ends in a narrow point tipped with a poisonous stinger; those injured by it must save vs. Poison or die.  Note that the purple worm's movement is less than the monster's length, so that, if attacking from out of a tunnel, it might not be able to use the stinger for several rounds.",
+        "Any time a purple worm successfully bites a man-sized or smaller opponent with a natural roll of 19 or 20, the opponent has been swallowed and will suffer 3d6 damage per round afterward due to being digested.  A character who has been swallowed can only effectively attack with small cutting or stabbing weapons such as dagger or shortsword."
+    ],
+    "hitdice": "18* (+12)",
+    "morale": "10",
+    "movement": "20' (15') Burrow 20' (15')",
+    "name": "Purple Worm",
+    "noappearing": "1d2, Wild 1d4",
+    "noattacks": "1 bite, 1 sting",
+    "saveas": "Fighter: 9",
+    "treasure": "None",
+    "xp": "4,160"
+},
+{
+    "armorclass": "17",
+    "damage": "3d8 bite, 1d10+poison sting",
+    "description": [
+        "Purple worms are gigantic subterranean monsters; they are rarely found above ground.  Adult purple worms range from 5-9 feet in diameter and 50-100 feet long, with an average weight of about 40,000 pounds.",
+        "The creature's tail ends in a narrow point tipped with a poisonous stinger; those injured by it must save vs. Poison or die.  Note that the purple worm's movement is less than the monster's length, so that, if attacking from out of a tunnel, it might not be able to use the stinger for several rounds.",
+        "Any time a purple worm successfully bites a man-sized or smaller opponent with a natural roll of 19 or 20, the opponent has been swallowed and will suffer 3d6 damage per round afterward due to being digested.  A character who has been swallowed can only effectively attack with small cutting or stabbing weapons such as dagger or shortsword."
+    ],
+    "hitdice": "19* (+12)",
+    "morale": "10",
+    "movement": "20' (15') Burrow 20' (15')",
+    "name": "Purple Worm",
+    "noappearing": "1d2, Wild 1d4",
+    "noattacks": "1 bite, 1 sting",
+    "saveas": "Fighter: 10",
+    "treasure": "None",
+    "xp": "4,675"
+},
+{
+    "armorclass": "17",
+    "damage": "3d8 bite, 1d10+poison sting",
+    "description": [
+        "Purple worms are gigantic subterranean monsters; they are rarely found above ground.  Adult purple worms range from 5-9 feet in diameter and 50-100 feet long, with an average weight of about 40,000 pounds.",
+        "The creature's tail ends in a narrow point tipped with a poisonous stinger; those injured by it must save vs. Poison or die.  Note that the purple worm's movement is less than the monster's length, so that, if attacking from out of a tunnel, it might not be able to use the stinger for several rounds.",
+        "Any time a purple worm successfully bites a man-sized or smaller opponent with a natural roll of 19 or 20, the opponent has been swallowed and will suffer 3d6 damage per round afterward due to being digested.  A character who has been swallowed can only effectively attack with small cutting or stabbing weapons such as dagger or shortsword."
+    ],
+    "hitdice": "20* (+13)",
+    "morale": "10",
+    "movement": "20' (15') Burrow 20' (15')",
+    "name": "Purple Worm",
+    "noappearing": "1d2, Wild 1d4",
+    "noattacks": "1 bite, 1 sting",
+    "saveas": "Fighter: 10",
+    "treasure": "None",
+    "xp": "20 HD 5,450"
+},
+{
+    "armorclass": "16",
+    "damage": "2d8 bite, 1d8+poison sting",
+    "description": [
+        "Purple worms are gigantic subterranean monsters; they are rarely found above ground.  Adult purple worms range from 5-9 feet in diameter and 50-100 feet long, with an average weight of about 40,000 pounds.",
+        "The creature's tail ends in a narrow point tipped with a poisonous stinger; those injured by it must save vs. Poison or die.  Note that the purple worm's movement is less than the monster's length, so that, if attacking from out of a tunnel, it might not be able to use the stinger for several rounds.",
+        "Any time a purple worm successfully bites a man-sized or smaller opponent with a natural roll of 19 or 20, the opponent has been swallowed and will suffer 3d6 damage per round afterward due to being digested.  A character who has been swallowed can only effectively attack with small cutting or stabbing weapons such as dagger or shortsword."
+    ],
+    "hitdice": "11* (+9)",
+    "morale": "10",
+    "movement": "20' (15') Burrow 20' (15')",
+    "name": "Purple Worm",
+    "noappearing": "1d2, Wild 1d4",
+    "noattacks": "1 bite, 1 sting",
+    "saveas": "Fighter: 6",
+    "treasure": "None",
+    "xp": "1,670"
+},
+{
+    "armorclass": "16",
+    "damage": "2d8 bite, 1d8+poison sting",
+    "description": [
+        "Purple worms are gigantic subterranean monsters; they are rarely found above ground.  Adult purple worms range from 5-9 feet in diameter and 50-100 feet long, with an average weight of about 40,000 pounds.",
+        "The creature's tail ends in a narrow point tipped with a poisonous stinger; those injured by it must save vs. Poison or die.  Note that the purple worm's movement is less than the monster's length, so that, if attacking from out of a tunnel, it might not be able to use the stinger for several rounds.",
+        "Any time a purple worm successfully bites a man-sized or smaller opponent with a natural roll of 19 or 20, the opponent has been swallowed and will suffer 3d6 damage per round afterward due to being digested.  A character who has been swallowed can only effectively attack with small cutting or stabbing weapons such as dagger or shortsword."
+    ],
+    "hitdice": "12* (+10)",
+    "morale": "10",
+    "movement": "20' (15') Burrow 20' (15')",
+    "name": "Purple Worm",
+    "noappearing": "1d2, Wild 1d4",
+    "noattacks": "1 bite, 1 sting",
+    "saveas": "Fighter: 6",
+    "treasure": "None",
+    "xp": "1,975"
+},
+{
+    "armorclass": "16",
+    "damage": "2d8 bite, 1d8+poison sting",
+    "description": [
+        "Purple worms are gigantic subterranean monsters; they are rarely found above ground.  Adult purple worms range from 5-9 feet in diameter and 50-100 feet long, with an average weight of about 40,000 pounds.",
+        "The creature's tail ends in a narrow point tipped with a poisonous stinger; those injured by it must save vs. Poison or die.  Note that the purple worm's movement is less than the monster's length, so that, if attacking from out of a tunnel, it might not be able to use the stinger for several rounds.",
+        "Any time a purple worm successfully bites a man-sized or smaller opponent with a natural roll of 19 or 20, the opponent has been swallowed and will suffer 3d6 damage per round afterward due to being digested.  A character who has been swallowed can only effectively attack with small cutting or stabbing weapons such as dagger or shortsword."
+    ],
+    "hitdice": "13* (+10)",
+    "morale": "10",
+    "movement": "20' (15') Burrow 20' (15')",
+    "name": "Purple Worm",
+    "noappearing": "1d2, Wild 1d4",
+    "noattacks": "1 bite, 1 sting",
+    "saveas": "Fighter: 7",
+    "treasure": "None",
+    "xp": "2,285"
+},
+{
+    "armorclass": "16",
+    "damage": "2d8 bite, 1d8+poison sting",
+    "description": [
+        "Purple worms are gigantic subterranean monsters; they are rarely found above ground.  Adult purple worms range from 5-9 feet in diameter and 50-100 feet long, with an average weight of about 40,000 pounds.",
+        "The creature's tail ends in a narrow point tipped with a poisonous stinger; those injured by it must save vs. Poison or die.  Note that the purple worm's movement is less than the monster's length, so that, if attacking from out of a tunnel, it might not be able to use the stinger for several rounds.",
+        "Any time a purple worm successfully bites a man-sized or smaller opponent with a natural roll of 19 or 20, the opponent has been swallowed and will suffer 3d6 damage per round afterward due to being digested.  A character who has been swallowed can only effectively attack with small cutting or stabbing weapons such as dagger or shortsword."
+    ],
+    "hitdice": "14* (+11)",
+    "morale": "10",
+    "movement": "20' (15') Burrow 20' (15')",
+    "name": "Purple Worm",
+    "noappearing": "1d2, Wild 1d4",
+    "noattacks": "1 bite, 1 sting",
+    "saveas": "Fighter: 7",
+    "treasure": "None",
+    "xp": "2,615"
+},
+{
+    "armorclass": "16",
+    "damage": "2d8 bite, 1d8+poison sting",
+    "description": [
+        "Purple worms are gigantic subterranean monsters; they are rarely found above ground.  Adult purple worms range from 5-9 feet in diameter and 50-100 feet long, with an average weight of about 40,000 pounds.",
+        "The creature's tail ends in a narrow point tipped with a poisonous stinger; those injured by it must save vs. Poison or die.  Note that the purple worm's movement is less than the monster's length, so that, if attacking from out of a tunnel, it might not be able to use the stinger for several rounds.",
+        "Any time a purple worm successfully bites a man-sized or smaller opponent with a natural roll of 19 or 20, the opponent has been swallowed and will suffer 3d6 damage per round afterward due to being digested.  A character who has been swallowed can only effectively attack with small cutting or stabbing weapons such as dagger or shortsword."
+    ],
+    "hitdice": "15* (+11)",
+    "morale": "10",
+    "movement": "20' (15') Burrow 20' (15')",
+    "name": "Purple Worm",
+    "noappearing": "1d2, Wild 1d4",
+    "noattacks": "1 bite, 1 sting",
+    "saveas": "Fighter: 8",
+    "treasure": "None",
+    "xp": "15 HD 2,975"
+},
+{
+    "armorclass": "11",
+    "damage": "1d6 + disease",
+    "description": [
+        "Rats are omnivorous pests found in all climates where humans live.",
+        "Normal rats attack as a swarm; each point of damage done to the swarm reduces their numbers by one animal.",
+        "Any rat bite has a 5% chance of causing a disease.  A character who suffers one or more rat bites where the die roll indicates disease will sicken in 3d6 hours. The infected character will lose one point of Constitution per hour; after losing each point, the character is allowed a save vs. Death Ray (adjusted by the current Constitution bonus or penalty) to break the fever and end the disease. Any character reduced to zero Constitution is dead. See Constitution Point Losses in the Encounter section for details on regaining lost Constitution.",
+        "* Note: The XP award for normal rats is for driving away or killing an entire pack of normal size.  If the adventurers are forced to flee, the GM should award 3 XP per rat slain."
+    ],
+    "hitdice": "1 Hit Point",
+    "morale": "5",
+    "movement": "20' Swim 10'",
+    "name": "Rat",
+    "noappearing": "5d10, Wild 5d10, Lair 5d10",
+    "noattacks": "1 bite per pack",
+    "saveas": "Normal Man",
+    "treasure": "None",
+    "xp": "360*"
+},
+{
+    "armorclass": "13",
+    "damage": "1d4 + disease",
+    "description": [
+        "Rats are omnivorous pests found in all climates where humans live.",
+        "Giant rats are scavengers, but will attack to defend their nests and territories.  A giant rat can grow to be up to 4 feet long and weigh over 50 pounds.  A single giant rat, or a small group of up to four, will generally be shy, but larger packs attack fearlessly, biting and chewing with their sharp incisors.",
+        "Any rat bite has a 5% chance of causing a disease.  A character who suffers one or more rat bites where the die roll indicates disease will sicken in 3d6 hours. The infected character will lose one point of Constitution per hour; after losing each point, the character is allowed a save vs. Death Ray (adjusted by the current Constitution bonus or penalty) to break the fever and end the disease. Any character reduced to zero Constitution is dead. See Constitution Point Losses in the Encounter section for details on regaining lost Constitution."
+    ],
+    "hitdice": "1/2 (1d4 hit points)",
+    "morale": "8",
+    "movement": "40' Swim 20'",
+    "name": "Rat, Giant",
+    "noappearing": "3d6, Wild 3d10, Lair 3d10",
+    "noattacks": "1 bite",
+    "saveas": "Fighter: 1",
+    "treasure": "C",
+    "xp": "10"
+},
+{
+    "armorclass": "16",
+    "damage": "leg grab, 2d8 bite",
+    "description": [
+        "The rhagodessa is related to both spiders and scorpions, though it is not properly either.  Rhagodessas have \"pedipalps,\" an elongated pair of forelegs with sticky pads on them for capturing prey.",
+        "Giant rhagodessas are the size of a pony.  Those found in desert terrain are generally marked in yellow, red, and brown, while those found underground may be black or white in color (those found in the deepest caverns are always white).  Like spiders, they can climb walls, but they are unable to cross ceilings or otherwise climb entirely upside down.",
+        "A hit by a leg does no damage, but the victim is stuck fast and will be drawn to the rhagodessa's mouth on the next round and automatically hit for 2d8 points of damage; this repeats each round, so long as the victim is held.  Escaping from the sticky hold requires a successful roll to open doors.  If both legs hit, this roll frees the victim from just one of them; a second roll is needed to fully escape, and of course the rhagodessa can simply attack again with the free leg on the next round.  Alternately, victims may attack with small or medium melee weapons, and in fact gain a bonus of +2 to the attack roll if a small weapon is used.  If the giant rhagodessa is slain, any held victim can be freed with the open doors roll mentioned above (and in this case another character can help, making the roll for the victim).",
+        "The rhagodessa seems unable to use its bite attack against a foe it has not captured in this way, and neither will it attack more than one foe with its legs.  If threatened, a rhagodessa which has captured a victim will attempt to withdraw to consume its prey in peace."
+    ],
+    "hitdice": "4",
+    "morale": "9",
+    "movement": "50'",
+    "name": "Rhagodessa, Giant",
+    "noappearing": "1d4, Wild 1d6, Lair 1d6",
+    "noattacks": "2 legs, 1 bite",
+    "saveas": "Fighter: 4",
+    "treasure": "U",
+    "xp": "240"
+},
+{
+    "armorclass": "17",
+    "damage": "2d6 butt, 2d8 trample",
+    "description": [
+        "A rhinoceros (or \"rhino\") is a member of any of several species (including numerous supposedly extinct species) of odd-toed hooved mammals.  They are found primarily in tropical and temperate grasslands."
+    ],
+    "hitdice": "8",
+    "morale": "6",
+    "movement": "40' (15')",
+    "name": "Rhinoceros, Black",
+    "noappearing": "Wild 1d12",
+    "noattacks": "1 butt or 1 trample",
+    "saveas": "Fighter: 6",
+    "treasure": "None",
+    "xp": "875"
+},
+{
+    "armorclass": "19",
+    "damage": "2d8 butt, 2d12 trample",
+    "description": [
+        "The woolly rhinoceros is a prehistoric beast with long fur, found in primitive \"lost world\" areas in colder territories.  They behave much as the black rhino does."
+    ],
+    "hitdice": "12 (+10)",
+    "morale": "6",
+    "movement": "40' (15')",
+    "name": "Rhinoceros, Woolly",
+    "noappearing": "Wild 1d8",
+    "noattacks": "1 butt or 1 trample",
+    "saveas": "Fighter: 8",
+    "treasure": "None",
+    "xp": "1,875"
+},
+{
+    "armorclass": "18",
+    "damage": "1d6 claw, 2d6 bite",
+    "description": [
+        "Rocs are birds similar to eagles, but even a \"normal\" roc is huge, being about 9 feet long and having a wingspan of 24 feet.  Large rocs are about 18 feet long and have wingspans of around 48 feet; giant rocs average 30 feet long and have massive wingspans of around 80 feet.  A roc's plumage is either dark brown or golden from head to tail.  Like most birds, the males have the brighter plumage, with females being duller in color and thus more easily hidden (if anything so large can even be hidden, that is).",
+        "A light load for a normal roc is 150 pounds, while a heavy load is 300 pounds.  Obviously only the smallest characters can hope to ride upon a normal roc.  For a large roc, a light load is up to 600 pounds and a heavy load up to 1,200.  Giant rocs can easily lift up to 3,000 pounds, and are heavily loaded when carrying up to 6,000 pounds.  Tales of giant rocs carrying off full-grown elephants are somewhat exaggerated, but note that a young elephant would be reasonable prey for these monstrous birds.",
+        "A roc attacks from the air, swooping earthward to snatch prey in its powerful talons and carry it off for itself and its young to devour.  Any successful hit with both claw (talon) attacks against a single creature results in that creature being carried off, unless of course the creature is too large for the roc to carry.  While being carried, the victim will not be further attacked, so as to be as \"fresh\" as possible when given to the hatchlings (or consumed by the roc itself if it is solitary).",
+        "When rocs are encountered they are almost certainly hunting, and will generally attack creatures of horse size or less.  If facing a large group the rocs may make passes close overhead to scatter them first before each chooses a single target to prey upon.  Mated pairs found in their nests will fight to the death to protect their eggs or offspring (morale of 12 in this case)."
+    ],
+    "hitdice": "6",
+    "morale": "8",
+    "movement": "20' Fly 160' (10')",
+    "name": "Roc",
+    "noappearing": "Wild 1d12",
+    "noattacks": "2 claws, 1 bite",
+    "saveas": "Fighter: 6",
+    "treasure": "I",
+    "xp": "500"
+},
+{
+    "armorclass": "18",
+    "damage": "1d8 claw, 2d10 bite",
+    "description": [
+        "Rocs are birds similar to eagles, but even a \"normal\" roc is huge, being about 9 feet long and having a wingspan of 24 feet.  Large rocs are about 18 feet long and have wingspans of around 48 feet; giant rocs average 30 feet long and have massive wingspans of around 80 feet.  A roc's plumage is either dark brown or golden from head to tail.  Like most birds, the males have the brighter plumage, with females being duller in color and thus more easily hidden (if anything so large can even be hidden, that is).",
+        "A light load for a normal roc is 150 pounds, while a heavy load is 300 pounds.  Obviously only the smallest characters can hope to ride upon a normal roc.  For a large roc, a light load is up to 600 pounds and a heavy load up to 1,200.  Giant rocs can easily lift up to 3,000 pounds, and are heavily loaded when carrying up to 6,000 pounds.  Tales of giant rocs carrying off full-grown elephants are somewhat exaggerated, but note that a young elephant would be reasonable prey for these monstrous birds.",
+        "A roc attacks from the air, swooping earthward to snatch prey in its powerful talons and carry it off for itself and its young to devour.  Any successful hit with both claw (talon) attacks against a single creature results in that creature being carried off, unless of course the creature is too large for the roc to carry.  While being carried, the victim will not be further attacked, so as to be as \"fresh\" as possible when given to the hatchlings (or consumed by the roc itself if it is solitary).",
+        "When rocs are encountered they are almost certainly hunting, and will generally attack creatures of horse size or less.  If facing a large group the rocs may make passes close overhead to scatter them first before each chooses a single target to prey upon.  Mated pairs found in their nests will fight to the death to protect their eggs or offspring (morale of 12 in this case)."
+    ],
+    "hitdice": "12 (+10)",
+    "morale": "9",
+    "movement": "20' Fly 160' (10')",
+    "name": "Roc, Large",
+    "noappearing": "Wild 1d8",
+    "noattacks": "2 claws, 1 bite",
+    "saveas": "Fighter: 12",
+    "treasure": "I",
+    "xp": "1,875"
+},
+{
+    "armorclass": "18",
+    "damage": "3d6 claw, 6d6 bite",
+    "description": [
+        "Rocs are birds similar to eagles, but even a \"normal\" roc is huge, being about 9 feet long and having a wingspan of 24 feet.  Large rocs are about 18 feet long and have wingspans of around 48 feet; giant rocs average 30 feet long and have massive wingspans of around 80 feet.  A roc's plumage is either dark brown or golden from head to tail.  Like most birds, the males have the brighter plumage, with females being duller in color and thus more easily hidden (if anything so large can even be hidden, that is).",
+        "A light load for a normal roc is 150 pounds, while a heavy load is 300 pounds.  Obviously only the smallest characters can hope to ride upon a normal roc.  For a large roc, a light load is up to 600 pounds and a heavy load up to 1,200.  Giant rocs can easily lift up to 3,000 pounds, and are heavily loaded when carrying up to 6,000 pounds.  Tales of giant rocs carrying off full-grown elephants are somewhat exaggerated, but note that a young elephant would be reasonable prey for these monstrous birds.",
+        "A roc attacks from the air, swooping earthward to snatch prey in its powerful talons and carry it off for itself and its young to devour.  Any successful hit with both claw (talon) attacks against a single creature results in that creature being carried off, unless of course the creature is too large for the roc to carry.  While being carried, the victim will not be further attacked, so as to be as \"fresh\" as possible when given to the hatchlings (or consumed by the roc itself if it is solitary).",
+        "When rocs are encountered they are almost certainly hunting, and will generally attack creatures of horse size or less.  If facing a large group the rocs may make passes close overhead to scatter them first before each chooses a single target to prey upon.  Mated pairs found in their nests will fight to the death to protect their eggs or offspring (morale of 12 in this case)."
+    ],
+    "hitdice": "32 (+16)",
+    "morale": "10",
+    "movement": "20' Fly 160' (10')",
+    "name": "Roc, Giant",
+    "noappearing": "Wild 1",
+    "noattacks": "2 claws, 1 bite",
+    "saveas": "Fighter: 20 at +5",
+    "treasure": "I",
+    "xp": "14,250"
+},
+{
+    "armorclass": "14",
+    "damage": "1d6 club or 1d4 fist, 1d4 bite",
+    "description": [
+        "Rock baboons are a large, particularly intelligent variety of baboon.  An adult male rock baboon is 4' to 5' tall and weighs 200 to 250 pounds, with females being a bit smaller and lighter.",
+        "Rock baboons are omnivorous, but prefer meat.  They are aggressive, naturally cruel creatures.  They will prepare ambushes in rocky or forested terrain and attack any party they outnumber."
+    ],
+    "hitdice": "2",
+    "morale": "8",
+    "movement": "40'",
+    "name": "Rock Baboon",
+    "noappearing": "2d6, Wild 2d6, Lair 5d6",
+    "noattacks": "1 club or 1 fist, 1 bite",
+    "saveas": "Fighter: 2",
+    "treasure": "None",
+    "xp": "75"
+},
+{
+    "armorclass": "10",
+    "damage": "Special, see below",
+    "description": [
+        "Rot grubs are 1-inch long vermin found in carrion, dung, and other such garbage and organic material.  Their skin color is white or brown.  When a living creature contacts an area (dung heap, offal, etc) infested with rot grubs, the grubs will attack if they can come in contact with the victim's skin.  A rot grub secretes an anesthetic when it bites and will burrow into the flesh.  A burrowing grub can be noticed if the victim makes a successful save vs. Death Ray with Wisdom bonus applied in order to notice a strange rippling beneath their skin.  Otherwise, the victim does not notice the grubs.  During the first two rounds, a burrowing rot grub can be killed by applying fire to the infested skin or by cutting open the infested skin with any slashing weapon.  Either method deals 1d8 points of damage to the victim, but kills the grubs.  After the second round, only cure disease can kill the grubs before they burrow to the victim's heart and devour it in 1d3 turns."
+    ],
+    "hitdice": "1 hp",
+    "morale": "12",
+    "movement": "5'",
+    "name": "Rot Grub",
+    "noappearing": "5d4",
+    "noattacks": "1 bite",
+    "saveas": "Fighter: 1",
+    "treasure": "None",
+    "xp": "10"
+},
+{
+    "armorclass": "18",
+    "damage": "Rust, see below",
+    "description": [
+        "A rust monster (sometimes known as a corroder or corrosion beast) is a strange monster built like a huge turtle, with an insectoid head sporting large feather-like antennae and a thick tail with a hammer-like protrusion at the tip which seems to serve no purpose whatsoever.",
+        "The touch of any part of a rust monster's body oxidizes metal objects instantly, turning them to rust, verdigris, or other oxides as appropriate.  One attacks with its antennae, brushing them over metal items.  Non-magical metal attacked by a rust monster, or that touches the monster (such as a sword used to attack it), is instantly ruined.  A hit with a non-magical metal weapon inflicts half damage before the weapon is destroyed.  Magic weapons or armor permanently lose one \"plus\" each time they make contact with the monster.",
+        "The metal oxides created by this monster are its food; a substantial amount of metal dropped in its path may cause it to cease pursuit of metal-armored characters.  Use a morale check to determine this.  Metals that do not normally oxidize, such as gold, are of no interest to a rust monster and will be ignored.  While rust monsters will consume oxides of silver or copper, they have a strong preference for ferrous metals (iron or steel), preferring them over any other metal.",
+        "Whether the rust monster is in any way related to the rarer ironbane is unknown, but both monsters seem to have the exact same power."
+    ],
+    "hitdice": "5*",
+    "morale": "7",
+    "movement": "40'",
+    "name": "Rust Monster*",
+    "noappearing": "1d4",
+    "noattacks": "1 touch",
+    "saveas": "Fighter: 5",
+    "treasure": "None",
+    "xp": "405"
+},
+{
+    "armorclass": "18",
+    "damage": "Rust, see below",
+    "description": [
+        "A rust monster (sometimes known as a corroder or corrosion beast) is a strange monster built like a huge turtle, with an insectoid head sporting large feather-like antennae and a thick tail with a hammer-like protrusion at the tip which seems to serve no purpose whatsoever.",
+        "The touch of any part of a rust monster's body oxidizes metal objects instantly, turning them to rust, verdigris, or other oxides as appropriate.  One attacks with its antennae, brushing them over metal items.  Non-magical metal attacked by a rust monster, or that touches the monster (such as a sword used to attack it), is instantly ruined.  A hit with a non-magical metal weapon inflicts half damage before the weapon is destroyed.  Magic weapons or armor permanently lose one \"plus\" each time they make contact with the monster.",
+        "The metal oxides created by this monster are its food; a substantial amount of metal dropped in its path may cause it to cease pursuit of metal-armored characters.  Use a morale check to determine this.  Metals that do not normally oxidize, such as gold, are of no interest to a rust monster and will be ignored.  While rust monsters will consume oxides of silver or copper, they have a strong preference for ferrous metals (iron or steel), preferring them over any other metal.",
+        "Whether the rust monster is in any way related to the rarer ironbane is unknown, but both monsters seem to have the exact same power.",
+        "Tentacle Worm",
+        "Armor Class: 13",
+        "Hit Dice: 3*",
+        "No. of Attacks: 6 tentacles",
+        "Damage: paralysis",
+        "Movement: 40'",
+        "No. Appearing: 1d3, Lair 1d3",
+        "Save As: Fighter: 3",
+        "Morale: 9",
+        "Treasure Type: B",
+        "XP: 175",
+        "Tentacle worms appear to be giant worms of some sort, averaging 6 to 8 feet long.  Their heads are pasty white or grey, but their bodies vary from livid pink or purple to deep green in color.  Their tentacles splay out from around the creature's \"neck.\"  Some sages believe they are the larval form of some other monster, but this has never been proven.",
+        "A tentacle worm can attack as many as three adjacent opponents.  Those hit must save vs. Paralysis or be paralyzed 2d4 turns.  No matter how many of a tentacle worm's attacks hit an opponent in a given round, only one saving throw is required in each such round.",
+        "If all opponents of a tentacle worm are paralyzed, it will begin to feed upon the victims, doing 1 point of damage every 1d8 rounds until the victim is dead; if other paralyzed victims are still alive, the worm is 50% likely to move on immediately to another still-living victim.  Otherwise, it continues to eat the corpse of the slain victim for 1d4 turns."
+    ],
+    "hitdice": "5*",
+    "morale": "7",
+    "movement": "40'",
+    "name": "Rust Monster*",
+    "noappearing": "1d4",
+    "noattacks": "1 touch",
+    "saveas": "Fighter: 5",
+    "treasure": "None",
+    "xp": "405"
+},
+{
+    "armorclass": "14",
+    "damage": "1d6 claw, 2d6 bite",
+    "description": [
+        "The tiger is among the largest great cat species, with male specimens averaging 10 feet in length (including about 21/2 feet of tail) and weighing over 400 pounds.  Females are smaller, averaging about 8 feet long and an average of about 275 pounds.  Tigers are most recognizable for their dark vertical stripes on orange fur with a white underside.",
+        "Tigers are apex predators and prefer prey such as deer and wild boar.  They are territorial and generally solitary but social predators, requiring large contiguous areas of habitat to support their requirements for prey."
+    ],
+    "hitdice": "6",
+    "morale": "9",
+    "movement": "50'",
+    "name": "Tiger",
+    "noappearing": "Wild 1d3, Lair 1d3",
+    "noattacks": "2 claws, 1 bite",
+    "saveas": "Fighter: 6",
+    "treasure": "None",
+    "xp": "500"
+},
+{
+    "armorclass": "15",
+    "damage": "2d6 butt, 3d8 trample",
+    "description": [
+        "A titanothere is a huge prehistoric animal that resembles the rhinoceros; adults average 10' tall and 13' long.  They have large, forked horns rather than the pointed horns of rhinos.  Like rhinos, they are herd animals, and males aggressively defend the herd; females only enter combat if all males are defeated or the attackers are very numerous.  If a single titanothere is encountered, it will be a rogue male; they are bad tempered and prone to attacking smaller creatures that enter their territory."
+    ],
+    "hitdice": "12 (+10)",
+    "morale": "7",
+    "movement": "40' (10')",
+    "name": "Titanothere",
+    "noappearing": "Wild 1d6",
+    "noattacks": "1 butt or 1 trample",
+    "saveas": "Fighter: 8",
+    "treasure": "None",
+    "xp": "1,875"
+},
+{
+    "armorclass": "19",
+    "damage": "2d6 fist",
+    "description": [
+        "Treants are a race of large, roughly humanoid tree-people.  When one stands still with its legs together it cannot be easily distinguished from a normal oak tree.  Their leaves are nearly identical to oak leaves, and are green in spring and summer, turning orange, red, or yellow in the fall and winter.  A treant's leaves do not normally fall out in the winter, but as some oaks also retain their leaves into cold weather this may not help in identifying one.",
+        "Being actual trees, treants are big, averaging 25 to 35 feet in height and weighing 4,000 to 5,000 pounds.  Their language is difficult for most other races to learn, though Elves are known to have an advantage in mastering it.  Many treants know Elvish, and some who live near humans learn Common as well.",
+        "Treants are slow to act when potential enemies are nearby, preferring watch them carefully before taking any action.  Because of their excellent camouflage treants gain surprise on 1-4 on 1d6.",
+        "All treants have the power to animate other normal trees in their area; up to two trees can be animated at once, but the treant can release one and animate another if needed.  Trees to be animated must be within 180 feet of the treant, and must remain within that range or they will return to their normal state.  An animated tree requires a full round to uproot itself before it can move around, and then can move at a rate of just 10' per round.  Of course, if enemies are within reach the animated tree need not be uprooted.  If the treant controlling an animated tree is slain or incapacitated, the tree returns to its normal state.",
+        "Note that animated trees will automatically root themselves when returning to their normal, dormant state; if such a tree finds itself on stone or some other surface it cannot penetrate, it will move around randomly for 1d6 rounds until it accidentally finds a suitable area, or failing that, until it topples and falls.  Any character or creature nearby when this happens must save vs. Death Ray to scamper away; those who fail will suffer 2d6 points of damage and will be trapped under the fallen tree.  The GM should consider battlefield conditions when deciding on the exact results of such an event."
+    ],
+    "hitdice": "8*",
+    "morale": "9",
+    "movement": "20'",
+    "name": "Treant",
+    "noappearing": "Wild 1d8, Lair 1d8",
+    "noattacks": "2 fists",
+    "saveas": "Fighter: 8",
+    "treasure": "C",
+    "xp": "945"
+},
 ]
