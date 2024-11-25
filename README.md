@@ -12,7 +12,7 @@ script reads those files and converts the data into JSON format in the file
 **monsterdata.json** and into Python format in the file **monsterdata.py**.
 Pro tip: some JSON data can be directly processed by Python as it has analogous
 data types with compatible literal notations; converter.py simply adds
-**monster = ** to the beginning of the JSON data to make the Python version.
+**monster =** to the beginning of the JSON data to make the Python version.
 
 The converter.py script expects the token @@ on a line by itself as a separator
 between monster entries; @STOP@ on a line by itself signifies that the data
