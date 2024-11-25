@@ -3865,6 +3865,93 @@
     "xp": "25"
 },
 {
+    "armorclass": "14",
+    "damage": "1d4 + poison",
+    "description": [
+        "Pit vipers are highly venomous snakes.  There are many varieties ranging in size from 2' to 12' at adulthood; the statistics above are for an \"average\" variety which reaches about 9' in length.",
+        "Those bitten by a pit viper must save vs. Poison or die.",
+        "Pit vipers are named for the thermally sensitive \"pits\" between their eyes and nostrils.  These are used to detect birds, mammals, and lizards, the natural prey of these snakes.  Even though lizards are cold-blooded, pit vipers can still sense them because their temperature is often slightly higher or lower than their surroundings.",
+        "Rattlesnakes are a variety of pit viper; in addition to the details given above, a rattlesnake has a rattle (from which it gets its name) at the end of its tail.  The rattle is used to warn away larger creatures."
+    ],
+    "hitdice": "1*",
+    "morale": "7",
+    "movement": "30'",
+    "name": "Snake, Pit Viper (and Rattlesnake)",
+    "noappearing": "1d4, Wild 1d4, Lair 1d4",
+    "noattacks": "1 bite",
+    "saveas": "Fighter: 1",
+    "treasure": "None",
+    "xp": "37"
+},
+{
+    "armorclass": "15",
+    "damage": "1d8 + poison",
+    "description": [
+        "Pit vipers are highly venomous snakes.  Giant-sized pit vipers range from 14' to 20' in length at adulthood.",
+        "Those bitten by a pit viper must save vs. Poison or die.",
+        "Pit vipers are named for the thermally sensitive \"pits\" between their eyes and nostrils.  These are used to detect birds, mammals, and lizards, the natural prey of these snakes.  Even though lizards are cold-blooded, pit vipers can still sense them because their temperature is often slightly higher or lower than their surroundings.",
+        "Rattlesnakes are a variety of pit viper; in addition to the details given above, a rattlesnake has a rattle (from which it gets its name) at the end of its tail.  The rattle is used to warn away larger creatures."
+    ],
+    "hitdice": "2*",
+    "morale": "8",
+    "movement": "40'",
+    "name": "Snake, Giant Pit Viper (and Rattlesnake)",
+    "noappearing": "1d2, Wild 1d2, Lair 1d2",
+    "noattacks": "1 bite",
+    "saveas": "Fighter: 2",
+    "treasure": "None",
+    "xp": "100"
+},
+{
+    "armorclass": "14",
+    "damage": "1d4 bite, 2d4 constrict",
+    "description": [
+        "After a successful bite attack, a python will wrap itself around the victim (in the same round), constricting for 2d4 points of damage plus an additional 2d4 per round thereafter.  The hold may be broken on a roll of 1 on 1d6 (add the victim's Strength bonus to the range, so a Strength of 16 would result in a range of 1-3 on 1d6); breaking the hold takes a full round."
+    ],
+    "hitdice": "5*",
+    "morale": "8",
+    "movement": "30'",
+    "name": "Snake, Python",
+    "noappearing": "1d3, Wild 1d3, Lair 1d3",
+    "noattacks": "1 bite, 1 constrict (see below)",
+    "saveas": "Fighter: 5",
+    "treasure": "None",
+    "xp": "405"
+},
+{
+    "armorclass": "14",
+    "damage": "1 + poison",
+    "description": [
+        "Sea snakes are relatively small; the largest varieties rarely exceed 6' in length.  They have relatively small heads, and are very stealthy in the water.  Their bite does so little damage that the creature bitten has only a 50% chance to notice the attack, but their poison is terribly strong, such that any creature bitten must save vs. Poison at a penalty of -4 or die.",
+        "Fortunately, sea snakes rarely attack; only if molested (grabbed, stepped on, etc.) will they do so.  They are very clumsy when out of the water."
+    ],
+    "hitdice": "3*",
+    "morale": "7",
+    "movement": "10' Swim 30'",
+    "name": "Snake, Sea",
+    "noappearing": "Wild 1d8",
+    "noattacks": "1 bite",
+    "saveas": "Fighter: 3",
+    "treasure": "None",
+    "xp": "175"
+},
+{
+    "armorclass": "13",
+    "damage": "1d4 + poison bite, blindness spit",
+    "description": [
+        "Spitting cobras average about 7' in length at adulthood.  They use their spreading hood to warn other creatures not to bother them, and generally refrain from attacking if possible to allow larger creatures time to retreat.  Failure to retreat from the spitting cobra will likely result in the cobra spitting venom; the cobra can project its venom up to 5', and any living creature hit must roll a save vs. Poison or be blinded permanently (though the cure blindness spell can heal this injury).  If the cobra cannot deter a creature by spitting, it will attack using its bite.  In this case, those hit must save vs. Poison or die."
+    ],
+    "hitdice": "1*",
+    "morale": "7",
+    "movement": "30'",
+    "name": "Snake, Spitting Cobra",
+    "noappearing": "1d6, Wild 1d6, Lair 1d6",
+    "noattacks": "1 bite or 1 spit",
+    "saveas": "Fighter: 1",
+    "treasure": "None",
+    "xp": "37"
+},
+{
     "armorclass": "13",
     "damage": "paralysis",
     "description": [
