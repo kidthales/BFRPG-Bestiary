@@ -13,9 +13,11 @@ keymap = {
 
 files = sorted(glob.glob("Monster-Data*.txt"))
 
-outp = open("monster-data.json", "w")
+outp = open("monsterdata.json", "w")
+outpy = open("monsterdata.py", "w")
 
 outp.write("[\n")
+outpy.write("monsters = [\n")
 
 # initialize the state machine
 # states: 0 - name
@@ -36,6 +38,7 @@ for fn in files:
         if line.strip() == "@@" or line.strip() == "@STOP@":
             if "name" in data: # no easy way to be sure we have actual data, so this is a guess
                 outp.write("%s,\n" % json.dumps(data, sort_keys=True, indent=4))
+                outpy.write("%s,\n" % json.dumps(data, sort_keys=True, indent=4))
             if line.strip() == "@STOP@":
                 break
             data = {}
@@ -66,6 +69,7 @@ for fn in files:
     inp.close()
     
 outp.write("]\n")
+outpy.write("]\n")
 outp.close()
     
     
