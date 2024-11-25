@@ -3018,4 +3018,210 @@ monsters = [
     "treasure": "None",
     "xp": "145"
 },
+{
+    "armorclass": "17 (m) (see below)",
+    "damage": "1d12 + disease",
+    "description": [
+        "Mummies are undead monsters, magically animated corpses wrapped in burial cloths.  They are normally man-sized, but due to their desiccation one will normally not weigh more than about 100 pounds.",
+        "As they are undead, mummies are immune to sleep, charm, and hold magic.  They can only be injured by spells, fire, or magical weapons; furthermore, magic weapons do only half damage, while any sort of fire-based attack does double damage.  Those injured by mummy attacks will contract mummy rot, a disease that prevents normal or magical healing; a cure disease spell must be applied to the victim before they may again regain hit points."
+    ],
+    "hitdice": "5**",
+    "morale": "12",
+    "movement": "20'",
+    "name": "Mummy*",
+    "noappearing": "1d4, Lair 1d12",
+    "noattacks": "1 touch",
+    "saveas": "Fighter: 5",
+    "treasure": "D",
+    "xp": "450"
+},
+{
+    "armorclass": "16",
+    "damage": "1d4",
+    "description": [
+        "Nixies are small water fairies, just 4 feet tall and about 40 pounds at most.  As far as anyone knows, all nixies are female.  Most nixies are slim and comely, with lightly scaled, pale green skin and dark green hair.  They often twine shells and pearl strings in their hair and dress in wraps woven from colorful seaweed.",
+        "Ten or more nixies can work together to cast a powerful charm (similar to charm person).  The charm lasts one year (unless dispelled).  A save vs. Spells is allowed to resist.  Each nixie can cast water breathing once per day, with a duration of one day.  Finally, a group of nixies will often have a school of giant bass living nearby who can be called to their aid (see Fish, Giant Bass for details).",
+        "Nixies are fey creatures, and thus unpredictable.  However, they are rarely malicious, attacking only when they feel threatened.  They do not like leaving their safe, comfortable river or lake and will do so only in the most dire need."
+    ],
+    "hitdice": "1*",
+    "morale": "6",
+    "movement": "40' Swim 40'",
+    "name": "Nixie",
+    "noappearing": "Wild 2d20, Lair 2d20",
+    "noattacks": "1 dagger",
+    "saveas": "Fighter: 2",
+    "treasure": "B",
+    "xp": "37"
+},
+{
+    "armorclass": "19",
+    "damage": "1d4 tentacle, 1d6 bite",
+    "description": [
+        "The giant octopus is, obviously, an enormous version of the normal creature.  They are physically powerful as well as being clever, which makes them a serious threat to seagoing vessels.",
+        "In order to bite a creature, the giant octopus must hit with at least two tentacles first.  Further, any time a giant octopus hits with at least one tentacle per each 100 pounds of weight of its prey, it has grabbed it; unless the victim can find a way to resist (using whatever method the player might think of and whatever rolls the GM may choose), they will be pulled into the water and thus be in danger of drowning.  Don't forget to account for the weight of armor worn!",
+        "If a giant octopus fails a morale check, it will squirt out a cloud of black \"ink\" 40' in diameter and then jet away at twice normal speed for 2d6 rounds.  Any characters being held will normally be released at this point."
+    ],
+    "hitdice": "8",
+    "morale": "7",
+    "movement": "Swim 30'",
+    "name": "Octopus, Giant",
+    "noappearing": "Wild 1d2",
+    "noattacks": "8 tentacles, 1 bite (see below)",
+    "saveas": "Fighter: 8",
+    "treasure": "None",
+    "xp": "875"
+},
+{
+    "armorclass": "15 (12)",
+    "damage": "2d6 huge weapon",
+    "description": [
+        "Ogres appear as large, very ugly humans.  They are brutish and aggressive, but inherently lazy. They employ direct attacks in combat, typically using large clubs, axes, or pole arms, generally causing 2d6 points of damage.  If normal weapons are employed, an ogre has a +3 bonus to damage due to strength.  If an ogre fights bare-handed, it does 1d8 points of subduing damage per hit.",
+        "One out of every six ogres will be a pack leader of 6+1 Hit Dice (500 XP).  Ogres gain a +1 bonus to their morale if they are led by a pack leader.  In ogre lairs of 10 or greater, there will also be an ogre bully of 8+2 Hit Dice (875 XP), with an Armor Class of 17 (13) (movement 20') and having a +4 bonus to damage due to strength.  Ogre bullies generally wire together pieces of chainmail to wear over their hides.  Ogres gain +2 to morale so long as the ogre bully leads them."
+    ],
+    "hitdice": "4+1",
+    "morale": "10",
+    "movement": "30' Unarmored 40'",
+    "name": "Ogre",
+    "noappearing": "1d6, Wild 2d6, Lair 2d6",
+    "noattacks": "1 huge weapon",
+    "saveas": "Fighter: 4",
+    "treasure": "C + 1d20x100 gp",
+    "xp": "240"
+},
+{
+    "armorclass": "14 (11)",
+    "damage": "1d8 or by weapon",
+    "description": [
+        "Orcs are short humanoids (around 5' tall) with solidly-built bodies.  Their upturned noses, wide pointed ears, and beady eyes give their faces a piglike appearance.  An adult weighs about 200 pounds, and this weight does not differ much between males and females. Orcs utilize all manner of weapons and armor scavenged from battlefields.",
+        "Orcs have Darkvision to a range of 60'.  They suffer an attack penalty of -1 in bright sunlight or within the radius of a spell causing magical light.  They speak their own rough and simple language, but many also speak some Common or Goblin.",
+        "One out of every eight orcs will be a warrior of 2 Hit Dice (75 XP).  Orcs gain a +1 bonus to their morale if they are led by a warrior.  In orc lairs, one out of every twelve will be a chieftain of 4 Hit Dice (240 XP) in chainmail with an Armor Class of 15 (11), a movement 20', and having a +1 bonus to damage due to strength.  In lairs of 30 or more, there will be an orc king of 6 Hit Dice (500 XP), with an Armor Class of 16 (11), in chainmail with a shield, movement 20', and having a +2 bonus to damage.  In the lair, orcs never fail a morale check as long as the orc king is alive.  In addition, a lair has a chance equal to 1-2 on 1d6 of a shaman being present.  A shaman is equivalent to a warrior orc statistically, but has Clerical abilities at level 1d4+1."
+    ],
+    "hitdice": "1",
+    "morale": "8",
+    "movement": "30' Unarmored 40'",
+    "name": "Orc",
+    "noappearing": "2d4, Wild 3d6, Lair 10d6",
+    "noattacks": "1 weapon",
+    "saveas": "Fighter: 1",
+    "treasure": "Q, R each; D in lair",
+    "xp": "25"
+},
+{
+    "armorclass": "14",
+    "damage": "1d6",
+    "description": [
+        "These birds are sometimes raised (or hunted) as food.  In addition, the large, decorative quills of ostriches are in demand in some social circles."
+    ],
+    "hitdice": "3",
+    "morale": "8",
+    "movement": "60'",
+    "name": "Ostrich",
+    "noappearing": "Wild 1d6",
+    "noattacks": "1 kick",
+    "saveas": "Fighter: 3",
+    "treasure": "None",
+    "xp": "145"
+},
+{
+    "armorclass": "14",
+    "damage": "1d4",
+    "description": [
+        "These birds are sometimes raised (or hunted) as food.  Emus will not be found",
+        "in most campaigns.  Unlike ostriches, they have no particular value to humans",
+        "except as meat."
+    ],
+    "hitdice": "2",
+    "morale": "8",
+    "movement": "50'",
+    "name": "Emu",
+    "noappearing": "Wild 1d6",
+    "noattacks": "1 kick",
+    "saveas": "Fighter: 2",
+    "treasure": "None",
+    "xp": "75"
+},
+{
+    "armorclass": "15",
+    "damage": "1d4 talon, 1d4 beak",
+    "description": [
+        "Owls are birds of prey with large eyes and the ability to fly without making a sound.  They are nocturnal, and have superior Darkvision of 120' range.  An owl will stand about 6 to 18 inches tall with a wingspan of 20 inches.  An owl's vision is very sharp and comparable to that of a falcon.  It can also hear very well, even to the point that a rodent creeping through grass will draw attention.  The owl will fly over a field and listen and watch for movement and then dive for a kill with its talons."
+    ],
+    "hitdice": "1",
+    "morale": "8",
+    "movement": "10' Fly 160' (10')",
+    "name": "Owl",
+    "noappearing": "1, Wild 1d4",
+    "noattacks": "2 talons, 1 beak",
+    "saveas": "Fighter: 1",
+    "treasure": "None",
+    "xp": "25"
+},
+{
+    "armorclass": "15",
+    "damage": "1d8 claw, 1d8 bite, 2d8 hug",
+    "description": [
+        "Owlbear are among the most feared of the nocturnal forest dwelling monsters, and for good reason for they are always hungry and always aggressive.  They appear to be bears with owlish faces, including a large, sharp beak.  They fight much as do bears, and as with normal bears an owlbear must hit with both claws in order to do the listed \"hug\" damage.",
+        "These monsters are known to hunt by day when particularly hungry, but they prefer to live nocturnally.  They have superior Darkvision with a range of 120 feet, without the usual penalties for being in full sunlight.  They are also very quiet, surprising on 1-4 on 1d6 in their native territory."
+    ],
+    "hitdice": "5",
+    "morale": "9",
+    "movement": "40'",
+    "name": "Owlbear",
+    "noappearing": "1d4, Wild 1d4, Lair 1d4",
+    "noattacks": "2 claws, 1 bite + 1 hug",
+    "saveas": "Fighter: 5",
+    "treasure": "C",
+    "xp": "360"
+},
+{
+    "armorclass": "11",
+    "damage": "1d4 talon or 1d4 beak",
+    "description": [
+        "These are decorative birds about the size of a falcon, known for their ability to learn to mimic speech and other sounds.  Parrots usually have green or blue feathers with multi-colored tail feathers.  Cockatoos are white with crested heads.  While these birds can learn to imitate human speech when raised in captivity, most cannot actually carry on a conversation."
+    ],
+    "hitdice": "1/2 (1d4 hit points)",
+    "morale": "6",
+    "movement": "10' Fly 100' (10')",
+    "name": "Parrot (or Cockatoo)",
+    "noappearing": "Wild 1d4",
+    "noattacks": "1 talon or 1 beak",
+    "saveas": "Normal Man",
+    "treasure": "None",
+    "xp": "10"
+},
+{
+    "armorclass": "15",
+    "damage": "1d6 hoof",
+    "description": [
+        "The pegasus is the winged horse of legend.  They are prized as aerial steeds as they are the swiftest of fliers, but they are shy creatures who live in the highest mountains, making them rare indeed in captivity.",
+        "An average female pegasus stands 5 feet high at the shoulder, weighs 1,200 pounds, and has a wingspan of 20 feet; males are somewhat larger, averaging 6 feet in height and weighing 1,400 pounds, with a wingspan of 22 feet.  A light load for a pegasus is up to 400 pounds; a heavy load, up to 900 pounds."
+    ],
+    "hitdice": "4",
+    "morale": "8",
+    "movement": "80' (10') Fly 160' (10')",
+    "name": "Pegasus",
+    "noappearing": "Wild 1d12",
+    "noattacks": "2 hooves",
+    "saveas": "Fighter: 2",
+    "treasure": "None",
+    "xp": "240"
+},
+{
+    "armorclass": "17",
+    "damage": "1d4",
+    "description": [
+        "Pixies are winged fairies often found in forested areas.  Like sprites, pixies love beauty.  They dress in bright colors and favor clothing with flourishes like feathered caps, curly-tipped shoes, scarves, and so on.  They are quite small, just 21/2 feet in height and weighing no more than 30 pounds.  Pixies can only fly for 3 turns maximum before requiring rest of at least one turn, during which time the pixie may walk at normal speed but may not fly.",
+        "A pixie can become invisible at will, as many times per day as it wishes, and can attack while remaining invisible.  Anyone attacking an invisible pixie does so with an attack penalty of -4 unless the attacker can somehow detect invisible creatures.  Pixies may ambush their foes while invisible; if they do so, they surprise on 1-5 on 1d6.",
+        "Pixies are whimsical, enjoying nothing so much as a good joke or prank, especially at the expense of a \"big person.\""
+    ],
+    "hitdice": "1*",
+    "morale": "7",
+    "movement": "30' Fly 60'",
+    "name": "Pixie",
+    "noappearing": "2d4, Wild 10d4, Lair 10d4",
+    "noattacks": "1 dagger",
+    "saveas": "Fighter: 1 (with Elf bonuses)",
+    "treasure": "R, S",
+    "xp": "37"
+},
 ]

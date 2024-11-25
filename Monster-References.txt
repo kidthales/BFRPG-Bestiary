@@ -65,3 +65,5 @@ This affliction is in fact a kind of magical disease, though it is not susceptib
 When first infected, most lycanthropes cannot control their changes and will transform when stressed or under some other type-specific circumstances.  After around two to three years, they gain the ability to change at will, and may attempt to resist involuntary transformation by means of a saving throw vs. Paralysis.
 In animal or hybrid form lycanthropes may be hit only by silver or magical weapons.
 
+Ochre Jelly
+See Jelly, Ochre on page 98.
