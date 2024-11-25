@@ -3687,4 +3687,242 @@ monsters = [
     "treasure": "C",
     "xp": "945"
 },
+{
+    "armorclass": "16",
+    "damage": "1d8 claw, 2d6 bite",
+    "description": [
+        "Trolls are huge, rangy humanoids with lumpy skin that is a dull grayish green in color.  They stand up to 9 feet tall despite having a rather hunched posture, and may weigh as much as 600 pounds.  Their skin is rubbery and slightly damp to the touch, and they have long sharp black claws and long sharp white teeth.  Trolls have a disconcerting tendency to smile toothily most of the time, as if their brutal lives are the most entertaining thing imaginable.",
+        "Trolls have the power of regeneration; they heal 1 hit point of damage each round after being injured.  A troll reduced to 0 hit points is not dead, but only disabled for 2d6 rounds, at which point it will regain 1 hit point.  Note that the troll may \"play dead\" until it has regenerated further.  Damage from fire and acid cannot be regenerated, and must heal at the normal rate; a troll can only be killed by this sort of damage.  The lower morale rating (in parentheses) is used when the troll faces attackers armed with fire or acid.",
+        "The regenerative power of trolls is so great that limbs or other body parts (even a head!) can be reattached if severed simply by pressing the severed ends back together for a moment.  Trolls in a group will generally help dismembered fellows to reassemble themselves, but only if it's convenient.  If the severed part is not restored, a new one will grow in its place in 1d4 turns.  Note that a troll with a new head will not remember its former life, nor will it yet know how to speak; it will behave as would any confused and hostile animal.",
+        "Trolls speak a primitive language, and are often fluent in Goblin, Hobgoblin, Orc, Ogre, or Giant depending on which of these species live nearest them.  A few (20% or so) speak Common.",
+        "Trolls are hateful creatures, reveling in combat and bloodshed.  Though trolls could easily use a variety of weapons, they much prefer the sensation of flesh being rent by their teeth and claws."
+    ],
+    "hitdice": "6*",
+    "morale": "10 (8), see below",
+    "movement": "40'",
+    "name": "Troll",
+    "noappearing": "1 (special, see below)",
+    "noattacks": "2 claws, 1 bite",
+    "saveas": "Fighter: 7",
+    "treasure": "D",
+    "xp": "735"
+},
+{
+    "armorclass": "17",
+    "damage": "1d6 claw, 1d10 bite",
+    "description": [
+        "A trollwife is a female troll; despite the name, there is no requirement that she be married (nor, in fact, do trolls normally engage in formal marriages).  A typical adult trollwife stands 11 feet tall and weighs 700 pounds.  They have no outward appearance of femininity, at least according to the standards of humans, elves, or even orcs; rather, a trollwife simply looks like an extraordinarily large troll.  Like a normal male troll, a trollwife has lumpy skin that is a dull grayish green in color.",
+        "Trollwives have all the abilities and weaknesses of the males of the species; in particular, they regenerate exactly as do the males.",
+        "When encountered, a trollwife may be alone, cohabitating with a male (her \"husband\"), or raising a brood of trollkin.  Roll 1d10; on a result of 1, she is living alone; on a roll of 2-3, she is raising her young; on 4 or higher, she is living with a male.  If one has a mate or offspring, there is a 1-3 on 1d10 chance she is encountered alone, 4-7 that her mate or young are encountered in her absence, or 8-10 that all are present.",
+        "Add 1 to the trollwife's morale score if she is with her mate, or 2 if she has young present.  This means that, unless threatened with fire or acid, a trollwife will fight without checking morale while her offspring are present.  If a trollwife's mate or offspring are slain in her absence, she will track the killers unerringly, and upon finding them will attack with the same morale bonus.",
+        "Trollwives are solitary with respect to other adult trollwives, for they hate each other with a fierce passion.  If forced together they will put aside their enmity until all non-troll enemies are dead (at which point they may well fight over who will eat the choicest of the remains)."
+    ],
+    "hitdice": "7*",
+    "morale": "10 (8)",
+    "movement": "40'",
+    "name": "Trollwife",
+    "noappearing": "1d8, Wild 1d8, Lair 1d8",
+    "saveas": "Fighter: 6",
+    "treasure": "D",
+    "xp": "555"
+},
+{
+    "armorclass": "14",
+    "damage": "1d4 claw, 1d4 bite",
+    "description": [
+        "Trollkin are young trolls.  They have all the powers and weaknesses of trolls, and look exactly like smaller than normal adult trolls.  Even an infant has the same ability to regenerate as an adult troll.",
+        "When you encounter trollkin, you can rest assured that there is a trollwife nearby (unless, of course, you've already slain her).  They are as bloodthirsty as their parents; as such, determining the number appearing is done in a particularly unusual fashion:",
+        "Roll 1d6 for the number of individuals, and 2d6 for the number of hit dice.  Divide the number of hit dice by the number of individuals to arrive at the hit dice of each individual.  Note that a trollkin won't be encountered having more than 6 hit dice, so if only one individual is indicated by the 1d6 roll but the 2d6 roll totals more than 6, you must increase the number of individuals.  The referee should feel free to round the number of hit dice up or down as they see fit, or to allocate them in an approximately equal fashion if desired.  Trollkin broods are rolled in this way owing to the fact that bigger or tougher individuals are likely to kill and eat the weaker ones, generally when their mother is out hunting.",
+        "Refer to the entry for trolls for details regarding regeneration, morale checks, and so on; except as noted above, trollkins share all these features with the adults."
+    ],
+    "hitdice": "1*",
+    "morale": "9 (7)",
+    "movement": "30'",
+    "name": "Trollkin, Infant, 1 HD",
+    "noappearing": "special, see below",
+    "noattacks": "2 claws, 1 bite",
+    "saveas": "Fighter:1",
+    "treasure": "None",
+    "xp": "37"
+},
+{
+    "armorclass": "14",
+    "damage": "1d4 claw, 1d4 bite",
+    "description": [
+        "Trollkin are young trolls.  They have all the powers and weaknesses of trolls, and look exactly like smaller than normal adult trolls.  Even an infant has the same ability to regenerate as an adult troll.",
+        "When you encounter trollkin, you can rest assured that there is a trollwife nearby (unless, of course, you've already slain her).  They are as bloodthirsty as their parents; as such, determining the number appearing is done in a particularly unusual fashion:",
+        "Roll 1d6 for the number of individuals, and 2d6 for the number of hit dice.  Divide the number of hit dice by the number of individuals to arrive at the hit dice of each individual.  Note that a trollkin won't be encountered having more than 6 hit dice, so if only one individual is indicated by the 1d6 roll but the 2d6 roll totals more than 6, you must increase the number of individuals.  The referee should feel free to round the number of hit dice up or down as they see fit, or to allocate them in an approximately equal fashion if desired.  Trollkin broods are rolled in this way owing to the fact that bigger or tougher individuals are likely to kill and eat the weaker ones, generally when their mother is out hunting.",
+        "Refer to the entry for trolls for details regarding regeneration, morale checks, and so on; except as noted above, trollkins share all these features with the adults."
+    ],
+    "hitdice": "2*",
+    "morale": "9 (7)",
+    "movement": "30'",
+    "name": "Trollkin, Infant, 2 HD",
+    "noappearing": "special, see below",
+    "noattacks": "2 claws, 1 bite",
+    "saveas": "Fighter:2",
+    "treasure": "None",
+    "xp": "100"
+},
+{
+    "armorclass": "15",
+    "damage": "1d4 claw, 1d6 bite",
+    "description": [
+        "Trollkin are young trolls.  They have all the powers and weaknesses of trolls, and look exactly like smaller than normal adult trolls.  Even an infant has the same ability to regenerate as an adult troll.",
+        "When you encounter trollkin, you can rest assured that there is a trollwife nearby (unless, of course, you've already slain her).  They are as bloodthirsty as their parents; as such, determining the number appearing is done in a particularly unusual fashion:",
+        "Roll 1d6 for the number of individuals, and 2d6 for the number of hit dice.  Divide the number of hit dice by the number of individuals to arrive at the hit dice of each individual.  Note that a trollkin won't be encountered having more than 6 hit dice, so if only one individual is indicated by the 1d6 roll but the 2d6 roll totals more than 6, you must increase the number of individuals.  The referee should feel free to round the number of hit dice up or down as they see fit, or to allocate them in an approximately equal fashion if desired.  Trollkin broods are rolled in this way owing to the fact that bigger or tougher individuals are likely to kill and eat the weaker ones, generally when their mother is out hunting.",
+        "Refer to the entry for trolls for details regarding regeneration, morale checks, and so on; except as noted above, trollkins share all these features with the adults."
+    ],
+    "hitdice": "3*",
+    "morale": "9 (7)",
+    "movement": "50'",
+    "name": "Trollkin, Juvenile, 3 HD",
+    "noappearing": "special, see below",
+    "noattacks": "2 claws, 1 bite",
+    "saveas": "Fighter: 3",
+    "treasure": "None",
+    "xp": "175"
+},
+{
+    "armorclass": "15",
+    "damage": "1d4 claw, 1d6 bite",
+    "description": [
+        "Trollkin are young trolls.  They have all the powers and weaknesses of trolls, and look exactly like smaller than normal adult trolls.  Even an infant has the same ability to regenerate as an adult troll.",
+        "When you encounter trollkin, you can rest assured that there is a trollwife nearby (unless, of course, you've already slain her).  They are as bloodthirsty as their parents; as such, determining the number appearing is done in a particularly unusual fashion:",
+        "Roll 1d6 for the number of individuals, and 2d6 for the number of hit dice.  Divide the number of hit dice by the number of individuals to arrive at the hit dice of each individual.  Note that a trollkin won't be encountered having more than 6 hit dice, so if only one individual is indicated by the 1d6 roll but the 2d6 roll totals more than 6, you must increase the number of individuals.  The referee should feel free to round the number of hit dice up or down as they see fit, or to allocate them in an approximately equal fashion if desired.  Trollkin broods are rolled in this way owing to the fact that bigger or tougher individuals are likely to kill and eat the weaker ones, generally when their mother is out hunting.",
+        "Refer to the entry for trolls for details regarding regeneration, morale checks, and so on; except as noted above, trollkins share all these features with the adults."
+    ],
+    "hitdice": "4*",
+    "morale": "9 (7)",
+    "movement": "50'",
+    "name": "Trollkin, Juvenile, 4 HD",
+    "noappearing": "special, see below",
+    "noattacks": "2 claws, 1 bite",
+    "saveas": "Fighter: 4",
+    "treasure": "None",
+    "xp": "280"
+},
+{
+    "armorclass": "16",
+    "damage": "1d6 claw, 1d6 bite",
+    "description": [
+        "Trollkin are young trolls.  They have all the powers and weaknesses of trolls, and look exactly like smaller than normal adult trolls.  Even an infant has the same ability to regenerate as an adult troll.",
+        "When you encounter trollkin, you can rest assured that there is a trollwife nearby (unless, of course, you've already slain her).  They are as bloodthirsty as their parents; as such, determining the number appearing is done in a particularly unusual fashion:",
+        "Roll 1d6 for the number of individuals, and 2d6 for the number of hit dice.  Divide the number of hit dice by the number of individuals to arrive at the hit dice of each individual.  Note that a trollkin won't be encountered having more than 6 hit dice, so if only one individual is indicated by the 1d6 roll but the 2d6 roll totals more than 6, you must increase the number of individuals.  The referee should feel free to round the number of hit dice up or down as they see fit, or to allocate them in an approximately equal fashion if desired.  Trollkin broods are rolled in this way owing to the fact that bigger or tougher individuals are likely to kill and eat the weaker ones, generally when their mother is out hunting.",
+        "Refer to the entry for trolls for details regarding regeneration, morale checks, and so on; except as noted above, trollkins share all these features with the adults."
+    ],
+    "hitdice": "5*",
+    "morale": "9 (7)",
+    "movement": "40'",
+    "name": "Trollkin, Adolescent, 5 HD",
+    "noappearing": "special, see below",
+    "noattacks": "2 claws, 1 bite",
+    "saveas": "Fighter: 5",
+    "treasure": "None",
+    "xp": "405"
+},
+{
+    "armorclass": "16",
+    "damage": "1d6 claw, 1d6 bite",
+    "description": [
+        "Trollkin are young trolls.  They have all the powers and weaknesses of trolls, and look exactly like smaller than normal adult trolls.  Even an infant has the same ability to regenerate as an adult troll.",
+        "When you encounter trollkin, you can rest assured that there is a trollwife nearby (unless, of course, you've already slain her).  They are as bloodthirsty as their parents; as such, determining the number appearing is done in a particularly unusual fashion:",
+        "Roll 1d6 for the number of individuals, and 2d6 for the number of hit dice.  Divide the number of hit dice by the number of individuals to arrive at the hit dice of each individual.  Note that a trollkin won't be encountered having more than 6 hit dice, so if only one individual is indicated by the 1d6 roll but the 2d6 roll totals more than 6, you must increase the number of individuals.  The referee should feel free to round the number of hit dice up or down as they see fit, or to allocate them in an approximately equal fashion if desired.  Trollkin broods are rolled in this way owing to the fact that bigger or tougher individuals are likely to kill and eat the weaker ones, generally when their mother is out hunting.",
+        "Refer to the entry for trolls for details regarding regeneration, morale checks, and so on; except as noted above, trollkins share all these features with the adults."
+    ],
+    "hitdice": "6*",
+    "morale": "9 (7)",
+    "movement": "40'",
+    "name": "Trollkin, Adolescent, 6 HD",
+    "noappearing": "special, see below",
+    "noattacks": "2 claws, 1 bite",
+    "saveas": "Fighter: 6",
+    "treasure": "None",
+    "xp": "555"
+},
+{
+    "armorclass": "15",
+    "damage": "1d2",
+    "description": [
+        "Turtles and tortoises are reptiles with a hard shell into which the animal can pull its head and legs if threatened.  Turtles will be found in marshes and near rivers or ponds, while tortoises are terrestrial and typically found in arid regions.  (The specific names given to these animals are often misleading, as a tortoise might be called a turtle and vice versa.)  The statistics given above are representative, and can be used for other species as needed.  These animals are well-camouflaged, gaining surprise on a roll of 1-3 on 1d6 in their natural habitat."
+    ],
+    "hitdice": "1/2 (1d4 hit points)",
+    "morale": "5",
+    "movement": "5' Swim 20'",
+    "name": "Turtle, Box",
+    "noappearing": "Wild 1d4",
+    "noattacks": "1 bite",
+    "saveas": "Normal Man",
+    "treasure": "None",
+    "xp": "10"
+},
+{
+    "armorclass": "16",
+    "damage": "1d6",
+    "description": [
+        "Turtles and tortoises are reptiles with a hard shell into which the animal can pull its head and legs if threatened.  Turtles will be found in marshes and near rivers or ponds, while tortoises are terrestrial and typically found in arid regions.  (The specific names given to these animals are often misleading, as a tortoise might be called a turtle and vice versa.)  The statistics given above are representative, and can be used for other species as needed.  These animals are well-camouflaged, gaining surprise on a roll of 1-3 on 1d6 in their natural habitat."
+    ],
+    "hitdice": "1",
+    "morale": "6",
+    "movement": "5' Swim 20'",
+    "name": "Turtle, Snapping",
+    "noappearing": "Wild 1d4",
+    "noattacks": "1 bite",
+    "saveas": "Fighter: 1",
+    "treasure": "None",
+    "xp": "25"
+},
+{
+    "armorclass": "19",
+    "damage": "1d8 hoof, 1d6+3 horn",
+    "description": [
+        "Unicorns are horse-like creatures having a single spirally-twisted horn in the middle of the forehead.  This horn is in fact a magic weapon with an added attack and damage bonus of +3; if removed from the unicorn or the unicorn dies the horn loses this effect.  A unicorn may perform a charging attack with its horn, but it cannot also attack with its hooves in the same round.",
+        "Most unicorns are white, sometimes with the faintest tinge of lavender, pink, or gold visible in sunlight.  Adult male unicorns have beards similar to those of goats.  The eyes of a unicorn are almost always a bright, often unlikely color such as gold, sea-blue, deep green, violet, or even a luminous-looking magenta.  Adult male unicorns stand an average of 5 feet at the shoulder and weigh 1,100 to 1,300 pounds.  Females are slightly smaller, generally 4\u00be feet at the shoulder with a weight from 950 to 1,200 pounds.",
+        "Three times per day a unicorn can cast cure light wounds by a touch of its horn.  Once per day a unicorn can transport itself 360' (as the spell dimension door), and can carry a full load (possibly including a rider) while doing so.  A light load for a unicorn is up to 300 pounds; a heavy load, up to 550 pounds."
+    ],
+    "hitdice": "4*",
+    "morale": "7",
+    "movement": "80'",
+    "name": "Unicorn",
+    "noappearing": "Wild 1d6",
+    "noattacks": "2 hooves, 1 horn (+3 attack bonus)",
+    "saveas": "Fighter: 8",
+    "treasure": "None",
+    "xp": "280"
+},
+{
+    "armorclass": "19",
+    "damage": "2d4 hoof, 2d6 horn",
+    "description": [
+        "An alicorn resembles a unicorn in all details, save that they always have yellow, orange or red eyes, and (if one gets close enough to see) pronounced, sharp canine teeth.  Alicorns are as evil as unicorns are good, using their razor-sharp horns and clawlike hooves as weapons.  They attack weaker creatures for the sheer pleasure of killing, but will try to avoid stronger parties.  They may make charging attacks just as unicorns do.",
+        "Alicorns cannot heal or transport themselves by magic as unicorns do.  However, alicorns may become invisible at will, exactly as if wearing a Ring of Invisibility.",
+        "A light load for a unicorn is up to 300 pounds; a heavy load, up to 550 pounds."
+    ],
+    "hitdice": "4*",
+    "morale": "9",
+    "movement": "70'",
+    "name": "Alicorn",
+    "noappearing": "Wild 1d8",
+    "noattacks": "2 hooves, 1 horn",
+    "saveas": "Fighter: 6",
+    "treasure": "None",
+    "xp": "280"
+},
+{
+    "armorclass": "14 (11)",
+    "damage": "1d8 or by weapon",
+    "description": [
+        "These creatures appear to be normal hobgoblins, but urgoblins are actually a mutant subspecies.  Urgoblins are able to regenerate much as do trolls (with the same limitations).  All urgoblins are male; if an urgoblin mates with a female hobgoblin, any offspring will also be male, but only one in four such offspring will share their father's gifts. Like hobgoblins, urgoblins wear toughened hides and carry wooden shields into battle, blending in perfectly.",
+        "Some hobgoblin tribes consider urgoblins an abomination, and kill them whenever they can be identified.  Other hobgoblin tribes employ them as bodyguards for the chieftain, and accord them great honor.  There are even rumors of a tribe entirely made up of urgoblins, with kidnapped hobgoblin females as their mates; reportedly they slit the throats of all infants born to their mates, so that only those who have the power of regeneration survive."
+    ],
+    "hitdice": "2*",
+    "morale": "9",
+    "movement": "30' Unarmored 40'",
+    "name": "Urgoblin",
+    "noappearing": "Special",
+    "noattacks": "1 weapon",
+    "saveas": "Fighter: 2",
+    "treasure": "Q, R, S each; special in lair",
+    "xp": "100"
+},
 ]
