@@ -26,7 +26,16 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 """
 
-import json, sys, glob
+import json, sys, glob, re
+
+xpnum = re.compile("^[0-9,][0-9,]*$")
+
+
+def xpconvert(s):
+    if not xpnum.search(s):
+        return s
+    return "".join(s.split(","))
+
 
 keymap = {
     "armor class": "armorclass",
@@ -35,6 +44,10 @@ keymap = {
     "no. of attacks": "noattacks",
     "save as": "saveas",
     "treasure type": "treasure",
+}
+
+converters = {
+    "xp": xpconvert,
 }
 
 files = sorted(glob.glob("Monster-Data*.txt"))
@@ -86,7 +99,10 @@ for fn in files:
                 print("Error on line", num, "expecting data field for", data.get("name", "(name not found)"))
                 sys.exit(1)
             key = keymap.get(lst[0].lower(), lst[0].lower())
-            data[key] = lst[1]
+            dta = lst[1]
+            if key in converters:
+                dta = converters[key](dta)
+            data[key] = dta
     
         else:
             if line.strip():
