@@ -62,6 +62,7 @@ outpy.write("monsters = [\n")
 # states: 0 - name
 #         1 - data fields
 #         2 - description
+#         3 - dragon table
 
 state = 0
 data = {}
@@ -104,9 +105,34 @@ for fn in files:
                 dta = converters[key](dta)
             data[key] = dta
     
-        else:
+        elif state == 2:
+            if line.strip().startswith("@DRAGON@"):
+                state = 3
+                data["dragontable"] = [ " ".join(line.strip().split()[1:]) ]
+                dragoncol = 0
+                continue
             if line.strip():
                 data["description"].append(line.strip())
+
+        elif state == 3:
+            line = line.strip()
+            if not line:
+                continue
+            if dragoncol == 0:
+                data["dragontable"].append([ line ])
+                row = data["dragontable"][-1]
+                if line == "Breath Weapon":
+                    dragoncol = 7
+                elif line == "Spells by Level":
+                    dragoncol = 0
+                else:
+                    dragoncol = 1
+            else:
+                row = data["dragontable"][-1]
+                row.append(line)
+                dragoncol += 1
+                if dragoncol > 7:
+                    dragoncol = 0
 
     inp.close()
     

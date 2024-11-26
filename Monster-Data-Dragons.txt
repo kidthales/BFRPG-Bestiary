@@ -1,6 +1,4 @@
 
-@STOP@
-
 Dragon, Cloud
 Armor Class: 22
 Hit Dice: 11** (+9)
@@ -17,7 +15,8 @@ Cloud dragons have the most varied appearance of all the true dragons.  In an in
 Cloud dragons are not cruel and do not seek to kill for pleasure.  Many tales are told of cloud dragons offering assistance to adventurers, though they are every bit as avaricious as any dragon; adventurers in need of gold need not bother asking for a loan.
 Another way in which cloud dragons differ from other types is that they do not have fixed breath weapons.  Upon reaching the second age category, a cloud dragon acquires the breath weapon of a randomly-chosen (or GM assigned) dragon type; upon reaching the fourth age category, they acquire a second breath weapon type.  Cloud dragons possess the same immunities as the dragons whose breath weapons they reproduce.
 All cloud dragons have the power to assume the form of any type of humanoid (as described in the spell charm person) at will in a manner otherwise equivalent to the spell polymorph self.
-Cloud Dragon Age Table
+
+@DRAGON@ Cloud Dragon Age Table
 Age Category
 1
 2
@@ -69,14 +68,7 @@ Chance/Talking
 95%
 95%
 Spells by Level
-
-
-
-
-
-
-
-     Level 1
+Level 1
 -
 1
 2
@@ -84,7 +76,7 @@ Spells by Level
 4
 5
 6
-     Level 2
+Level 2
 -
 -
 1
@@ -92,7 +84,7 @@ Spells by Level
 3
 4
 5
-     Level 3
+Level 3
 -
 -
 -
@@ -100,7 +92,7 @@ Spells by Level
 2
 3
 4
-     Level 4
+Level 4
 -
 -
 -
@@ -108,7 +100,7 @@ Spells by Level
 1
 2
 3
-     Level 5
+Level 5
 -
 -
 -
@@ -116,7 +108,7 @@ Spells by Level
 -
 1
 2
-     Level 6
+Level 6
 -
 -
 -
@@ -148,6 +140,11 @@ Tail
 2d6
 2d6
 2d8
+
+@@
+
+@STOP@
+
 Dragon, Desert (Blue Dragon)
 Armor Class:
 20
