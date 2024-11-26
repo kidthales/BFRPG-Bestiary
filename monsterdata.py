@@ -1000,6 +1000,1202 @@ monsters = [
     "xp": "1765"
 },
 {
+    "armorclass": "20",
+    "damage": "1d8 claw, 3d8 bite or breath, 1d8 tail",
+    "description": [
+        "Desert dragons have rough, gritty-feeling hide which is a dark steel blue color with a smoother, streaky brown underbelly.  Their bodies are wiry and serpentine.",
+        "They hunt by day in the heat of the sun, sometimes flying high overhead looking for prey, or sometimes choosing to bury themselves in the sand and lie in wait with only eyes and nostrils exposed.  One will wait in this fashion until victims come within 100 feet, then spring out and attack (surprising on a roll of 1-4 on 1d6 in this case).",
+        "A desert dragon will usually choose to lair in an underground cavern, or perhaps in a ruined castle or desert outpost.  They are evil monsters, though not so fierce as mountain dragons.  They particularly enjoy tricking intelligent prey into entering their lairs or passing by their hiding places to be ambushed and killed; usually one member of a party attacked by a desert dragon will be left alive for a while, and the dragon will play with that person as a cat plays with a mouse.",
+        "Desert dragons are immune to normal lightning, and suffer only half damage from magical lightning."
+    ],
+    "dragontable": [
+        "Desert Dragon Age Table",
+        [
+            "Age Category",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        [
+            "Hit Dice",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        [
+            "Attack Bonus",
+            "+6",
+            "+7",
+            "+8",
+            "+8",
+            "+9",
+            "+9",
+            "+10"
+        ],
+        [
+            "Breath Weapon",
+            "Lightning (Line)"
+        ],
+        [
+            "Length",
+            "-",
+            "80'",
+            "90'",
+            "100'",
+            "100'",
+            "110'",
+            "120'"
+        ],
+        [
+            "Width",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "55'",
+            "60'"
+        ],
+        [
+            "Chance/Talking",
+            "0%",
+            "15%",
+            "20%",
+            "40%",
+            "50%",
+            "60%",
+            "70%"
+        ],
+        [
+            "Spells by Level"
+        ],
+        [
+            "Level 1",
+            "-",
+            "1",
+            "2",
+            "4",
+            "4",
+            "4",
+            "5"
+        ],
+        [
+            "Level 2",
+            "-",
+            "-",
+            "1",
+            "2",
+            "3",
+            "4",
+            "4"
+        ],
+        [
+            "Level 3",
+            "-",
+            "-",
+            "-",
+            "-",
+            "1",
+            "2",
+            "2"
+        ],
+        [
+            "Level 4",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "1"
+        ],
+        [
+            "Claw",
+            "1d4",
+            "1d4",
+            "1d6",
+            "1d8",
+            "1d8",
+            "1d8",
+            "1d10"
+        ],
+        [
+            "Bite",
+            "2d6",
+            "3d6",
+            "3d8",
+            "3d8",
+            "3d8",
+            "3d8",
+            "3d10"
+        ],
+        [
+            "Tail",
+            "1d4",
+            "1d6",
+            "1d6",
+            "1d8",
+            "1d8",
+            "1d8",
+            "1d8"
+        ]
+    ],
+    "hitdice": "9** (+8)",
+    "morale": "9",
+    "movement": "30' Fly 80' (15')",
+    "name": "Dragon, Desert (Blue Dragon)",
+    "noappearing": "1, Wild 1, Lair 1d4",
+    "noattacks": "2 claws, 1 bite or breath, 1 tail",
+    "saveas": "Fighter: 9 (as Hit Dice)",
+    "treasure": "H",
+    "xp": "1225"
+},
+{
+    "armorclass": "19",
+    "damage": "1d6 claw, 3d8 bite or breath, 1d6 tail",
+    "description": [
+        "Forest dragons are bright leaf green in color, with a tan underbelly.  They have long sinuous bodies and move with catlike grace.  They are cruel monsters, but they are renowned for their curiosity.  They especially like to question adventurers to learn more about their society and abilities, what is going on in the countryside, and if there is treasure nearby.  Adventurers may be allowed to live so long as they remain interesting\u2026 but woe to them when the dragon becomes bored.",
+        "Forest dragons are immune to all poisons.  Note that, despite their breath weapon being described as \"poison gas,\" damage done by it is exactly the same as with other dragons.  More specifically, those in the area of effect do not have to \"save or die\" as with ordinary poison, but rather save vs. Dragon Breath for half damage."
+    ],
+    "dragontable": [
+        "Forest Dragon Age Table",
+        [
+            "Age Category",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        [
+            "Hit Dice",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        [
+            "Attack Bonus",
+            "+5",
+            "+6",
+            "+7",
+            "+8",
+            "+8",
+            "+9",
+            "+9"
+        ],
+        [
+            "Breath Weapon",
+            "Poison Gas (Cloud)"
+        ],
+        [
+            "Length",
+            "-",
+            "70'",
+            "80'",
+            "90'",
+            "95'",
+            "100'",
+            "100'"
+        ],
+        [
+            "Width",
+            "-",
+            "25'",
+            "30'",
+            "40'",
+            "45'",
+            "50'",
+            "55'"
+        ],
+        [
+            "Chance/Talking",
+            "0%",
+            "15%",
+            "20%",
+            "30%",
+            "45%",
+            "55%",
+            "65%"
+        ],
+        [
+            "Spells by Level"
+        ],
+        [
+            "Level 1",
+            "-",
+            "1",
+            "2",
+            "3",
+            "3",
+            "4",
+            "4"
+        ],
+        [
+            "Level 2",
+            "-",
+            "-",
+            "1",
+            "2",
+            "3",
+            "3",
+            "4"
+        ],
+        [
+            "Level 3",
+            "-",
+            "-",
+            "-",
+            "-",
+            "1",
+            "2",
+            "3"
+        ],
+        [
+            "Level 4",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "1"
+        ],
+        [
+            "Claw",
+            "1d4",
+            "1d6",
+            "1d6",
+            "1d6",
+            "1d6",
+            "1d8",
+            "1d10"
+        ],
+        [
+            "Bite",
+            "2d4",
+            "3d4",
+            "3d6",
+            "3d8",
+            "3d8",
+            "3d8",
+            "3d10"
+        ],
+        [
+            "Tail",
+            "1d4",
+            "1d4",
+            "1d6",
+            "1d6",
+            "1d6",
+            "1d8",
+            "1d8"
+        ]
+    ],
+    "hitdice": "8**",
+    "morale": "8",
+    "movement": "30' Fly 80' (15')",
+    "name": "Dragon, Forest (Green Dragon)",
+    "noappearing": "1, Wild 1, Lair 1d4",
+    "noattacks": "2 claws, 1 bite or breath, 1 tail",
+    "saveas": "Fighter: 8 (as Hit Dice)",
+    "treasure": "H",
+    "xp": "1015"
+},
+{
+    "armorclass": "17",
+    "damage": "1d4 claw, 2d8 bite or breath, 1d4 tail",
+    "description": [
+        "Ice dragons have pale blue-white skin, ranging from sky blue for a hatchling to the stark pure white of an ancient individual.  They are the same color all over, having no contrasting underbelly color.",
+        "They prefer to live in cold regions, whether in the highest mountains or in the cold northern lands.  They are the least intelligent of dragons, though this does not mean that they are stupid by any stretch of the imagination.  They are motivated completely by a drive to live, to reproduce, and (of course) to accumulate treasure; they kill to live, not for pleasure.",
+        "In a fashion similar to swamp and desert dragons, an ice dragon will sometimes choose to bury itself in snow and wait, with only its eyes and nostrils exposed, in a place where prey is likely to pass by.  The ice dragon will then burst out when likely prey approaches within 100', surprising on a roll of 1-4 on 1d6.",
+        "Ice dragons are immune to normal cold, and take only half damage from magical cold or ice."
+    ],
+    "dragontable": [
+        "Ice Dragon Age Table",
+        [
+            "Age Category",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        [
+            "Hit Dice",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        [
+            "Attack Bonus",
+            "+3",
+            "+4",
+            "+5",
+            "+6",
+            "+7",
+            "+8",
+            "+8"
+        ],
+        [
+            "Breath Weapon",
+            "Cold (Cone)"
+        ],
+        [
+            "Length",
+            "-",
+            "60'",
+            "70'",
+            "80'",
+            "85'",
+            "90'",
+            "95'"
+        ],
+        [
+            "Width",
+            "-",
+            "25'",
+            "30'",
+            "30'",
+            "35'",
+            "40'",
+            "45'"
+        ],
+        [
+            "Chance/Talking",
+            "0%",
+            "10%",
+            "15%",
+            "20%",
+            "30%",
+            "40%",
+            "50%"
+        ],
+        [
+            "Spells by Level"
+        ],
+        [
+            "Level 1",
+            "-",
+            "1",
+            "2",
+            "3",
+            "3",
+            "3",
+            "3"
+        ],
+        [
+            "Level 2",
+            "-",
+            "-",
+            "-",
+            "-",
+            "1",
+            "2",
+            "3"
+        ],
+        [
+            "Level 3",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "1"
+        ],
+        [
+            "Claw",
+            "1d4",
+            "1d4",
+            "1d4",
+            "1d4",
+            "1d4",
+            "1d6",
+            "1d8"
+        ],
+        [
+            "Bite",
+            "2d4",
+            "2d6",
+            "2d6",
+            "2d8",
+            "2d8",
+            "2d10",
+            "2d10"
+        ],
+        [
+            "Tail",
+            "1d4",
+            "1d4",
+            "1d4",
+            "1d4",
+            "1d4",
+            "1d6",
+            "1d6"
+        ]
+    ],
+    "hitdice": "6**",
+    "morale": "8",
+    "movement": "30' Fly 80' (10')",
+    "name": "Dragon, Ice (White Dragon)",
+    "noappearing": "1, Wild 1, Lair 1d4",
+    "noattacks": "2 claws, 1 bite or breath, 1 tail",
+    "saveas": "Fighter: 6 (as Hit Dice)",
+    "treasure": "H",
+    "xp": "610"
+},
+{
+    "armorclass": "21",
+    "damage": "1d8 claw, 4d8 bite or breath, 1d8 tail",
+    "description": [
+        "Mountain dragons are red in color, ranging from the brilliant blood red of a hatchling to the dull terracotta color of an ancient individual.  These dragons are powerfully built, with heavy-jawed heads and thick muscular bodies, yet their necks are still long enough to give them the legendary flexibility of a true dragon.",
+        "They are cruel monsters, actively seeking to hunt, torment, kill and consume intelligent creatures.  They are often said to prefer women and elves, but in truth a mountain dragon will attack almost any creature less powerful than itself.",
+        "They are intelligent and self-assured, but also impatient and overconfident.  One will often plan strategies in advance and then choose one at random when facing unknown opponents, without regard to whether or not the strategy is likely to work.  The sheer power of a mountain dragon is often the only reason one is still alive.",
+        "Mountain dragons are immune to normal fire, and suffer only half damage from magical fire."
+    ],
+    "dragontable": [
+        "Mountain Dragon Age Table",
+        [
+            "Age Category",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        [
+            "Hit Dice",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        [
+            "Attack Bonus",
+            "+7",
+            "+8",
+            "+8",
+            "+9",
+            "+9",
+            "+10",
+            "+11"
+        ],
+        [
+            "Breath Weapon",
+            "Fire (Cone)"
+        ],
+        [
+            "Length",
+            "-",
+            "70'",
+            "80'",
+            "90'",
+            "95'",
+            "100'",
+            "110'"
+        ],
+        [
+            "Width",
+            "-",
+            "30'",
+            "35'",
+            "45'",
+            "50'",
+            "55'",
+            "60'"
+        ],
+        [
+            "Chance/Talking",
+            "0%",
+            "15%",
+            "30%",
+            "50%",
+            "60%",
+            "70%",
+            "85%"
+        ],
+        [
+            "Spells by Level"
+        ],
+        [
+            "Level 1",
+            "-",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "5"
+        ],
+        [
+            "Level 2",
+            "-",
+            "-",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        [
+            "Level 3",
+            "-",
+            "-",
+            "-",
+            "1",
+            "2",
+            "2",
+            "3"
+        ],
+        [
+            "Level 4",
+            "-",
+            "-",
+            "-",
+            "-",
+            "1",
+            "2",
+            "2"
+        ],
+        [
+            "Level 5",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "1",
+            "2"
+        ],
+        [
+            "Claw",
+            "1d4",
+            "1d6",
+            "1d8",
+            "1d8",
+            "1d8",
+            "1d10",
+            "1d10"
+        ],
+        [
+            "Bite",
+            "2d6",
+            "3d6",
+            "4d6",
+            "4d8",
+            "5d8",
+            "5d8",
+            "6d8"
+        ],
+        [
+            "Tail",
+            "1d4",
+            "1d6",
+            "1d6",
+            "1d8",
+            "1d8",
+            "1d8",
+            "1d10"
+        ]
+    ],
+    "hitdice": "10** (+9)",
+    "morale": "8",
+    "movement": "30' Fly 80' (20')",
+    "name": "Dragon, Mountain (Red Dragon)",
+    "noappearing": "1, Wild 1, Lair 1d4",
+    "noattacks": "2 claws, 1 bite or breath, 1 tail",
+    "saveas": "Fighter: 10 (as Hit Dice)",
+    "treasure": "H",
+    "xp": "1480"
+},
+{
+    "armorclass": "16",
+    "damage": "1d6 claw, 2d10 or breath, 1d8 tail",
+    "description": [
+        "Plains dragons are the smallest of the true dragons.  They have yellow skin dappled with light green patches, spots, or sometimes thin stripes.  The color dulls and darkens with age until it reaches an almost uniform tan color at the oldest age category.  They have long sinuous bodies and unusually long legs, giving them the fastest land movement rate of any dragon, but they are also accomplished fliers, as fast and maneuverable as any dragon.",
+        "Plains dragons may hunt on the wing, attacking suddenly from above and surprising on 1-3 on 1d6; or, they may lie in wait in tall grass or a copse of trees, using their coloration as camouflage.  As one ages and its colors dull, this ability improves; when lying in wait, they gain surprise on 1-3 on 1d6 at age categories 2 and 3, on 1-4 in age categories 4 through 6, and on 1-5 at age category 7.",
+        "The breath weapon of the plains dragon is a scorching, shimmering cone of heat, barely visible to the naked eye; at night, however, a glow like steel being forged can be seen streaming from the dragon's open mouth."
+    ],
+    "dragontable": [
+        "Plains Dragon Age Table",
+        [
+            "Age Category",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        [
+            "Hit Dice",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        [
+            "Attack Bonus",
+            "+2",
+            "+3",
+            "+4",
+            "+5",
+            "+6",
+            "+7",
+            "+8"
+        ],
+        [
+            "Breath Weapon",
+            "Heat (Cone)"
+        ],
+        [
+            "Length",
+            "-",
+            "50'",
+            "60'",
+            "70'",
+            "80'",
+            "85'",
+            "90'"
+        ],
+        [
+            "Width",
+            "-",
+            "25'",
+            "30'",
+            "30'",
+            "35'",
+            "40'",
+            "45'"
+        ],
+        [
+            "Chance/Talking",
+            "0%",
+            "10%",
+            "15%",
+            "20%",
+            "30%",
+            "40%",
+            "50%"
+        ],
+        [
+            "Spells by Level"
+        ],
+        [
+            "Level 1",
+            "-",
+            "1",
+            "2",
+            "3",
+            "3",
+            "3",
+            "3"
+        ],
+        [
+            "Level 2",
+            "-",
+            "-",
+            "-",
+            "-",
+            "1",
+            "2",
+            "3"
+        ],
+        [
+            "Level 3",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "1"
+        ],
+        [
+            "Claw",
+            "1d4",
+            "1d4",
+            "1d6",
+            "1d6",
+            "1d6",
+            "1d8",
+            "1d8"
+        ],
+        [
+            "Bite",
+            "2d4",
+            "2d6",
+            "2d8",
+            "2d10",
+            "2d10",
+            "2d10",
+            "2d12"
+        ],
+        [
+            "Tail",
+            "1d4",
+            "1d6",
+            "1d6",
+            "1d8",
+            "1d8",
+            "1d8",
+            "1d10"
+        ]
+    ],
+    "hitdice": "5**",
+    "morale": "8",
+    "movement": "50' Fly 80' (10')",
+    "name": "Dragon, Plains (Yellow Dragon)",
+    "noappearing": "1, Wild 1, Lair 1d6",
+    "noattacks": "2 claws, 1 bite or breath, 1 tail",
+    "saveas": "Fighter: 5 (as Hit Dice)",
+    "treasure": "H",
+    "xp": "450"
+},
+{
+    "armorclass": "19",
+    "damage": "1d6 claw, 3d8 bite or breath",
+    "description": [
+        "Young sea dragons are light bluish-gray in color (similar to dolphins), darkening to a deep slate color in older individuals.  Their skin is smooth and sleek, and their bodies are more compact than most dragons, though their long neck gives them the same flexibility.",
+        "Though they live in the water and are somewhat adapted to it, sea dragons still must breathe air, similar to dolphins or whales.  A sea dragon may hold its breath up to three turns while swimming or performing other moderate activity.",
+        "These dragons have much the same physical structure as other dragons, but their feet are webbed and their tails are short, flat and broad; these adaptations help the sea dragon swim efficiently, but severely limit their ability to walk on dry land.  Unlike other dragons, sea dragons do not have a tail attack.  The breath weapon of a sea dragon is a cloud of steam; they are immune to damage from non-magical steam (including the breath weapon of another sea dragon), and suffer only half damage from magical steam attacks.",
+        "Sea dragons are neutral in outlook, in much the same way as ice dragons.  They often maintain lairs in air-filled undersea caverns."
+    ],
+    "dragontable": [
+        "Sea Dragon Age Table",
+        [
+            "Age Category",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        [
+            "Hit Dice",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10",
+            "11"
+        ],
+        [
+            "Attack Bonus",
+            "+5",
+            "+6",
+            "+7",
+            "+8",
+            "+8",
+            "+9",
+            "+9"
+        ],
+        [
+            "Breath Weapon",
+            "Steam (Cloud)"
+        ],
+        [
+            "Length",
+            "-",
+            "70'",
+            "80'",
+            "90'",
+            "95'",
+            "100'",
+            "100'"
+        ],
+        [
+            "Width",
+            "-",
+            "25'",
+            "30'",
+            "40'",
+            "45'",
+            "50'",
+            "55'"
+        ],
+        [
+            "Chance/Talking",
+            "0%",
+            "15%",
+            "20%",
+            "30%",
+            "45%",
+            "55%",
+            "65%"
+        ],
+        [
+            "Spells by Level"
+        ],
+        [
+            "Level 1",
+            "-",
+            "1",
+            "2",
+            "3",
+            "3",
+            "4",
+            "4"
+        ],
+        [
+            "Level 2",
+            "-",
+            "-",
+            "1",
+            "2",
+            "3",
+            "3",
+            "4"
+        ],
+        [
+            "Level 3",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "1",
+            "2"
+        ],
+        [
+            "Claw",
+            "1d4",
+            "1d6",
+            "1d6",
+            "1d6",
+            "1d6",
+            "1d8",
+            "1d10"
+        ],
+        [
+            "Bite",
+            "2d4",
+            "3d4",
+            "3d6",
+            "3d8",
+            "3d8",
+            "3d8",
+            "3d10"
+        ]
+    ],
+    "hitdice": "8**",
+    "morale": "8",
+    "movement": "10' Fly 60' (20') Swim 60' (15')",
+    "name": "Dragon, Sea (Gray Dragon)",
+    "noappearing": "1, Wild 1, Lair 1d4",
+    "noattacks": "2 claws, 1 bite or breath",
+    "saveas": "Fighter: 8 (as Hit Dice)",
+    "treasure": "H",
+    "xp": "1015"
+},
+{
+    "armorclass": "18",
+    "damage": "1d6 claw, 2d10 bite or breath, 1d6 tail",
+    "description": [
+        "Swamp dragons have green skin so dark as to appear to be black, especially in uncertain light or while wet.  They often choose to hide underwater, leaving only part of the head above the waterline, and leap up suddenly when prey comes within 100' (surprising on a roll of 1-4 on 1d6 in this case).",
+        "Though swamp dragons are more cruel than ice dragons, they are still motivated mostly by the urge to live, breed and collect valuable items.",
+        "Swamp dragons are immune to all forms of acid.  A swamp dragon may hold its breath up to three turns while lying in wait underwater."
+    ],
+    "dragontable": [
+        "Swamp Dragon Age Table",
+        [
+            "Age Category",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        [
+            "Hit Dice",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        [
+            "Attack Bonus",
+            "+4",
+            "+5",
+            "+6",
+            "+7",
+            "+8",
+            "+8",
+            "+9"
+        ],
+        [
+            "Breath Weapon",
+            "Acid (Line)"
+        ],
+        [
+            "Length",
+            "-",
+            "70'",
+            "80'",
+            "90'",
+            "95'",
+            "100'",
+            "100'"
+        ],
+        [
+            "Width",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "40'",
+            "45'"
+        ],
+        [
+            "Chance/Talking",
+            "0%",
+            "15%",
+            "20%",
+            "25%",
+            "35%",
+            "50%",
+            "60%"
+        ],
+        [
+            "Spells by Level"
+        ],
+        [
+            "Level 1",
+            "-",
+            "1",
+            "2",
+            "4",
+            "4",
+            "4",
+            "4"
+        ],
+        [
+            "Level 2",
+            "-",
+            "-",
+            "-",
+            "-",
+            "1",
+            "2",
+            "3"
+        ],
+        [
+            "Level 3",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "1",
+            "2"
+        ],
+        [
+            "Claw",
+            "1d4",
+            "1d4",
+            "1d6",
+            "1d6",
+            "1d6",
+            "1d8",
+            "1d8"
+        ],
+        [
+            "Bite",
+            "2d4",
+            "2d6",
+            "2d8",
+            "2d10",
+            "2d10",
+            "2d10",
+            "2d12"
+        ],
+        [
+            "Tail",
+            "1d4",
+            "1d4",
+            "1d4",
+            "1d6",
+            "1d6",
+            "1d8",
+            "1d8"
+        ]
+    ],
+    "hitdice": "7**",
+    "morale": "8",
+    "movement": "30' Fly 80' (15')",
+    "name": "Dragon, Swamp (Black Dragon)",
+    "noappearing": "1, Wild 1, Lair 1d4",
+    "noattacks": "2 claws, 1 bite or breath, 1 tail",
+    "saveas": "Fighter: 7 (as Hit Dice)",
+    "treasure": "H",
+    "xp": "800"
+},
+{
+    "armorclass": "22",
+    "damage": "2d8 claw, 10d6 bite or 30d8 breath",
+    "description": [
+        "Dragon turtles are so large, up to 200 feet long, that they are occasionally mistaken for rocky outcroppings or even small islands.  Though they are not true dragons, they do advance through the same sort of age categories as the true dragons do; however, each age category changes the dragon turtle's Hit Dice by 5.",
+        "Due to their massive size, dragon turtles are immune to virtually all poisons."
+    ],
+    "dragontable": [
+        "Dragon Turtle Age Table",
+        [
+            "Age Category",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        [
+            "Hit Dice",
+            "15",
+            "20",
+            "25",
+            "30",
+            "35",
+            "40",
+            "45"
+        ],
+        [
+            "Attack Bonus",
+            "+11",
+            "+13",
+            "+14",
+            "+15",
+            "+16",
+            "+16",
+            "+16"
+        ],
+        [
+            "Breath Weapon",
+            "Steam (Cloud)"
+        ],
+        [
+            "Length",
+            "-",
+            "50'",
+            "75'",
+            "100'",
+            "125'",
+            "150'",
+            "175'"
+        ],
+        [
+            "Width",
+            "-",
+            "25'",
+            "50'",
+            "75'",
+            "100'",
+            "125'",
+            "150'"
+        ],
+        [
+            "Chance/Talking",
+            "0%",
+            "15%",
+            "20%",
+            "30%",
+            "45%",
+            "55%",
+            "65%"
+        ],
+        [
+            "Spells by Level"
+        ],
+        [
+            "Level 1",
+            "-",
+            "-",
+            "1",
+            "2",
+            "2",
+            "3",
+            "3"
+        ],
+        [
+            "Level 2",
+            "-",
+            "-",
+            "-",
+            "1",
+            "2",
+            "2",
+            "3"
+        ],
+        [
+            "Claw",
+            "1d6",
+            "2d4",
+            "2d6",
+            "2d8",
+            "2d10",
+            "2d12",
+            "3d10"
+        ],
+        [
+            "Bite",
+            "4d6",
+            "6d6",
+            "8d6",
+            "10d6",
+            "12d6",
+            "14d6",
+            "16d6"
+        ]
+    ],
+    "hitdice": "30** (AB +15)",
+    "morale": "10",
+    "movement": "10' (10') Swim 30' (15')",
+    "name": "Dragon Turtle",
+    "noappearing": "Wild 1",
+    "noattacks": "2 claws, 1 bite or breath",
+    "saveas": "Fighter: 20 at +5",
+    "treasure": "H (calculated at one-quarter hit dice)",
+    "xp": "13650"
+},
+{
     "armorclass": "15",
     "damage": "1d4 dagger or 1d4 fist",
     "description": [
