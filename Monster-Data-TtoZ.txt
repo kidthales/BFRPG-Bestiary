@@ -395,335 +395,313 @@ The most dramatic method of defeating a vampire is actually the least reliable: 
 
 @@
 
-@STOP@
-
 Water Termite, Giant
-Armor Class:
-13
-Hit Dice:
-1 to 4
-No. of Attacks:
-1 spray
-Damage:
-Stun
-Movement:
-Swim 30'
-No. Appearing:
-Wild 1d4
-Save As:
-Fighter: 1 to 4 (as Hit Dice)
-Morale:
-10
-Treasure Type:
-None
-XP:
-1 HD 25, 2 HD 75
-3 HD 145, 4 HD 240
+Armor Class: 13
+Hit Dice: 1
+No. of Attacks: 1 spray
+Damage: Stun
+Movement: Swim 30'
+No. Appearing: Wild 1d4
+Save As: Fighter: 1
+Morale: 10
+Treasure Type: None
+XP: 25
+
 Giant water termites vary from 1' to 5' in length.  They attack using a noxious spray with a range of 5' which stuns the target for a full turn on a hit; a save vs. Poison is allowed to avoid the effect.  A stunned character can neither move nor take action for the remainder of the current round and all of the next one.
 However, the primary concern regarding these monsters is the damage they can do to boats and ships.  Each creature can do 2d4 points of damage to a ship's hull per round (no roll required) for a number of rounds equal to 1d4 plus the creature's hit dice total; after this time, the monster is full.  They eat noisily.
 These creatures are found in fresh and salt water as well as in swamps.  The freshwater variety tend to be smaller, 1-2 hit dice, the saltwater variety 3-4 hit dice, and those found in swamps range from 2-3 hit dice.
-Weasel, Normal and Giant (or Ferret)
 
-Normal
-Giant
-Armor Class:
-14
-17
-Hit Dice:
-1d2 hit points
-5
-No. of Attacks:
-1 bite + hold
-1 bite + hold
-Damage:
-1d4 + 1d4/round
-2d4 + 2d4/round
-Movement:
-40'
-50'
-No. Appearing:
-1d6, Wild 1d8, Lair 1d8
-1d4, Wild 1d6, Lair 1d6
-Save As:
-Fighter: 1
-Fighter: 5
-Morale:
-7
-8
-Treasure Type:
-None
-V
-XP:
-10
-360
+@@
+
+Water Termite, Giant
+Armor Class: 13
+Hit Dice: 2
+No. of Attacks: 1 spray
+Damage: Stun
+Movement: Swim 30'
+No. Appearing: Wild 1d4
+Save As: Fighter: 2
+Morale: 10
+Treasure Type: None
+XP: 75
+
+Giant water termites vary from 1' to 5' in length.  They attack using a noxious spray with a range of 5' which stuns the target for a full turn on a hit; a save vs. Poison is allowed to avoid the effect.  A stunned character can neither move nor take action for the remainder of the current round and all of the next one.
+However, the primary concern regarding these monsters is the damage they can do to boats and ships.  Each creature can do 2d4 points of damage to a ship's hull per round (no roll required) for a number of rounds equal to 1d4 plus the creature's hit dice total; after this time, the monster is full.  They eat noisily.
+These creatures are found in fresh and salt water as well as in swamps.  The freshwater variety tend to be smaller, 1-2 hit dice, the saltwater variety 3-4 hit dice, and those found in swamps range from 2-3 hit dice.
+
+@@
+
+Water Termite, Giant
+Armor Class: 13
+Hit Dice: 3
+No. of Attacks: 1 spray
+Damage: Stun
+Movement: Swim 30'
+No. Appearing: Wild 1d4
+Save As: Fighter: 3
+Morale: 10
+Treasure Type: None
+XP: 145
+
+Giant water termites vary from 1' to 5' in length.  They attack using a noxious spray with a range of 5' which stuns the target for a full turn on a hit; a save vs. Poison is allowed to avoid the effect.  A stunned character can neither move nor take action for the remainder of the current round and all of the next one.
+However, the primary concern regarding these monsters is the damage they can do to boats and ships.  Each creature can do 2d4 points of damage to a ship's hull per round (no roll required) for a number of rounds equal to 1d4 plus the creature's hit dice total; after this time, the monster is full.  They eat noisily.
+These creatures are found in fresh and salt water as well as in swamps.  The freshwater variety tend to be smaller, 1-2 hit dice, the saltwater variety 3-4 hit dice, and those found in swamps range from 2-3 hit dice.
+
+@@
+
+Water Termite, Giant
+Armor Class: 13
+Hit Dice: 4
+No. of Attacks: 1 spray
+Damage: Stun
+Movement: Swim 30'
+No. Appearing: Wild 1d4
+Save As: Fighter: 4
+Morale: 10
+Treasure Type: None
+XP: 240
+
+Giant water termites vary from 1' to 5' in length.  They attack using a noxious spray with a range of 5' which stuns the target for a full turn on a hit; a save vs. Poison is allowed to avoid the effect.  A stunned character can neither move nor take action for the remainder of the current round and all of the next one.
+However, the primary concern regarding these monsters is the damage they can do to boats and ships.  Each creature can do 2d4 points of damage to a ship's hull per round (no roll required) for a number of rounds equal to 1d4 plus the creature's hit dice total; after this time, the monster is full.  They eat noisily.
+These creatures are found in fresh and salt water as well as in swamps.  The freshwater variety tend to be smaller, 1-2 hit dice, the saltwater variety 3-4 hit dice, and those found in swamps range from 2-3 hit dice.
+
+@@
+
+Weasel
+Armor Class: 14
+Hit Dice: 1d2 hit points
+No. of Attacks: 1 bite + hold
+Damage: 1d4 + 1d4/round
+Movement: 40'
+No. Appearing: 1d6, Wild 1d8, Lair 1d8
+Save As: Fighter: 1
+Morale: 7
+Treasure Type: None
+XP: 10
+
 Normal weasels (or ferrets, see below) are small mammals with long bodies, short legs, and pointed, toothy snouts.  They are predatory animals, hunting those creatures smaller than themselves.  They are cunning, crafty hunters, and gain surprise on 1-3 on 1d6.  Once one bites prey (i.e. a living creature smaller than itself), it hangs on, rending with its teeth each round until the victim or the weasel is dead.  Should one fail a morale check it will release its victim and flee.
+There are many varieties of normal-sized weasel, including several which are called ferrets.  The only distinction is that those which are tamed are always called ferrets, though not all giant ferrets are tame.  Various humanoid races as well as some fairy creatures are known to tame giant ferrets for use as guards or war-animals.
+
+@@
+
+Weasel, Giant
+Armor Class: 17
+Hit Dice: 5
+No. of Attacks: 1 bite + hold
+Damage: 2d4 + 2d4/round
+Movement: 50'
+No. Appearing: 1d4, Wild 1d6, Lair 1d6
+Save As: Fighter: 5
+Morale: 8
+Treasure Type: V
+XP: 360
+
+Giant weasels (or ferrets, see below) are mammals with long bodies, short legs, and pointed, toothy snouts.  They are predatory animals, hunting those creatures smaller than themselves.  They are cunning, crafty hunters, and gain surprise on 1-3 on 1d6.  Once one bites prey (i.e. a living creature smaller than itself), it hangs on, rending with its teeth each round until the victim or the weasel is dead.  Should one fail a morale check it will release its victim and flee.
 There are many varieties of normal-sized weasel, including several which are called ferrets; in some territories, the giant weasel is thus called a giant ferret.  The only distinction is that those which are tamed are always called ferrets, though not all giant ferrets are tame.  Various humanoid races as well as some fairy creatures are known to tame giant ferrets for use as guards or war-animals.
 Giant weasels resemble their more normally sized cousins, and other than their greater size they behave in exactly the same fashion.
+
+@@
+
 Whale, Killer
-Armor Class:
-17
-Hit Dice:
-6
-No. of Attacks:
-1 bite
-Damage:
-2d10
-Movement:
-Swim 80' (10')
-No. Appearing:
-Wild 1d6
-Save As:
-Fighter: 6
-Morale:
-10
-Treasure Type:
-None
-XP:
-500
+Armor Class: 17
+Hit Dice: 6
+No. of Attacks: 1 bite
+Damage: 2d10
+Movement: Swim 80' (10')
+No. Appearing: Wild 1d6
+Save As: Fighter: 6
+Morale: 10
+Treasure Type: None
+XP: 500
+
 Killer whales, also called "orca" (both singular and plural), are large predatory cetaceans related to both dolphins and true whales.  Adult males range from 20 to 26 feet long, while females are smaller at 16 to 23 feet in length.  All are strikingly marked in black and white, with prominent white patches that resemble eyes.  Their real eyes are much smaller and located away from the fake eye-spots.
 Killer whales are apex predators, meaning that they themselves have no natural predators. They hunt in groups like wolf packs, subsisting primarily on fish, cephalopods, mammals, seabirds, and sea turtles.  However, they are not above consuming a meal of humanoid nature if such becomes available.
+
+@@
+
 Whale, Narwhal
-Armor Class:
-19
-Hit Dice:
-12 (+10)
-No. of Attacks:
-1 horn
-Damage:
-2d6
-Movement:
-Swim 60'
-No. Appearing:
-Wild 1d4
-Save As:
-Fighter: 6
-Morale:
-8
-Treasure Type:
-Special
-XP:
-1,875
+Armor Class: 19
+Hit Dice: 12 (+10)
+No. of Attacks: 1 horn
+Damage: 2d6
+Movement: Swim 60'
+No. Appearing: Wild 1d4
+Save As: Fighter: 6
+Morale: 8
+Treasure Type: Special
+XP: 1,875
+
 Narwhals are aquatic mammals resembling large dolphins with a single (or rarely, double) tusk protruding straight forward from the mouth.  The tusk is helical in shape, and they are sometimes cut short and sold as "unicorn horns."  However, they have no particular magical value.  Narwhals are found in cold northern seas.  They are not particularly aggressive.
+
+@@
+
 Whale, Sperm
-Armor Class:
-22
-Hit Dice:
-36* (+16)
-No. of Attacks:
-1 bite or 1 sound blast
-Damage:
-3d20 bite, stun sound blast
-Movement:
-Swim 60' (20')
-No. Appearing:
-Wild 1d3
-Save As:
-Fighter: 8
-Morale:
-7
-Treasure Type:
-None
-XP:
-17,850
+Armor Class: 22
+Hit Dice: 36* (+16)
+No. of Attacks: 1 bite or 1 sound blast
+Damage: 3d20 bite, stun sound blast
+Movement: Swim 60' (20')
+No. Appearing: Wild 1d3
+Save As: Fighter: 8
+Morale: 7
+Treasure Type: None
+XP: 17,850
+
 Sperm whales are huge creatures, with males averaging 52 feet long at adulthood while females typically reach a length of around 36 feet.  They are predators, hunting primarily giant squid.  Sperm whales can emit an invisible focused beam of sound 5' wide up to a 50' range underwater.  This blast of sound disorients target creatures, leaving them effectively stunned for 1d4 rounds.  A stunned character can neither move nor take action for the indicated duration.  No attack roll is required, but a save vs. Death Ray is allowed to resist.  A sperm whale can emit as many such blasts of sound as it desires, once per round, instead of biting.
+
+@@
+
 Wight*
-Armor Class:
-15 (s)
-Hit Dice:
-3*
-No. of Attacks:
-1 touch
-Damage:
-Energy drain (1 level)
-Movement:
-30'
-No. Appearing:
-1d6, Wild 1d8, Lair 1d8
-Save As:
-Fighter: 3
-Morale:
-12
-Treasure Type:
-B
-XP:
-175
+Armor Class: 15 (s)
+Hit Dice: 3*
+No. of Attacks: 1 touch
+Damage: Energy drain (1 level)
+Movement: 30'
+No. Appearing: 1d6, Wild 1d8, Lair 1d8
+Save As: Fighter: 3
+Morale: 12
+Treasure Type: B
+XP: 175
+
 Wights are undead monsters who have been twisted and deformed by their transformation.  Their eyes are entirely black, and their bodies radiate a coldness that living creatures can feel from several feet away.
 If a wight touches or is touched by a living creature, that creature suffers one level of energy drain (as described in the Encounter section).  No saving throw is allowed.  Striking a wight with a weapon does not count as "touching" it, but punching or kicking one does.
 Any humanoid slain by a wight becomes a wight by the next sunset (but not less than 12 hours later).  They are slaves to the wight who created them until and unless that wight is destroyed.  Wights remember almost nothing from their previous life, though a few very close friends or loved ones might be recalled (and hated, and possibly hunted by the monster).
 Like all undead, wights may be Turned by Clerics and are immune to sleep, charm, and hold magics.  Wights are harmed only by silver or magical weapons, and take only half damage from burning oil.
-Wolf (and Wolf, Dire)
 
-Normal
-Dire
-Armor Class:
-13
-14
-Hit Dice:
-2
-4
-No. of Attacks:
-1 bite
-1 bite
-Damage:
-1d6
-2d4
-Movement:
-60'
-50'
-No. Appearing:
-2d6,
-Wild 3d6,
-Lair 3d6
-1d4,
-Wild 2d4,
-Lair 2d4
-Save As:
-Fighter: 2
-Fighter: 4
-Morale:
-8
-9
-Treasure Type:
-None
-None
-XP:
-75
-240
+@@
+
+Wolf
+Armor Class: 13
+Hit Dice: 2
+No. of Attacks: 1 bite
+Damage: 1d6
+Movement: 60'
+No. Appearing: 2d6, Wild 3d6, Lair 3d6
+Save As: Fighter: 2
+Morale: 8
+Treasure Type: None
+XP: 75
+
 The wolf is a large canine found in a broad range of habitats.  They travel in packs consisting of a mated pair accompanied by their offspring.  Wolves are also territorial, and fights over territory are among the principal causes of wolf mortality. The wolf is mainly a carnivore and feeds on large wild hoofed mammals as well as smaller animals, livestock, and carrion.
+
+@@
+
+Wolf, Dire
+Armor Class: 14
+Hit Dice: 4
+No. of Attacks: 1 bite
+Damage: 2d4
+Movement: 50'
+No. Appearing: 1d4, Wild 2d4, Lair 2d4
+Save As: Fighter: 4
+Morale: 9
+Treasure Type: None
+XP: 240
+
 Dire wolves are huge relatives of the ordinary wolves, being as large as horses.  They live and hunt in packs, and are sometimes tamed by smaller humanoids as battle steeds or by larger ones as pets.
+
+@@
+
 Wraith*
-Armor Class:
-15 (m)
-Hit Dice:
-4**
-No. of Attacks:
-1 touch
-Damage:
-1d6 + energy drain (1 level)
-Movement:
-Fly 80'
-No. Appearing:
-1d4, Lair 1d6
-Save As:
-Fighter: 4
-Morale:
-12
-Treasure Type:
-E
-XP:
-320
+Armor Class: 15 (m)
+Hit Dice: 4**
+No. of Attacks: 1 touch
+Damage: 1d6 + energy drain (1 level)
+Movement: Fly 80'
+No. Appearing: 1d4, Lair 1d6
+Save As: Fighter: 4
+Morale: 12
+Treasure Type: E
+XP: 320
+
 Wraiths are fearsome incorporeal monsters who drain the very life energy from their victims.  Being incorporeal, they are immune to non-magical weapons and are effectively flying at all times.  They are semitransparent and exude the same kind of coldness as wights.  Wraiths usually appear as they were in life, including such things as clothing or armor, though such things do not affect the monsters actual armor class or other statistics.
 Like all undead, they may be Turned by Clerics and are immune to sleep, charm, and hold magics.  Due to their incorporeal nature, they cannot be harmed by non-magical weapons.
+
+@@
+
 Wyvern
-Armor Class:
-18
-Hit Dice:
-7*
-No. of Attacks:
-1 bite, 1 stinger or 2 talons, 1 stinger
-Damage:
-2d8 bite, 1d6 + poison sting,
-1d10 talon
-Movement:
-30' (10') Fly 80' (15')
-No. Appearing:
-Wild 1d6, Lair 1d6
-Save As:
-Fighter: 7
-Morale:
-9
-Treasure Type:
-E
-XP:
-735
+Armor Class: 18
+Hit Dice: 7*
+No. of Attacks: 1 bite, 1 stinger or 2 talons, 1 stinger
+Damage: 2d8 bite, 1d6 + poison sting, 1d10 talon
+Movement: 30' (10') Fly 80' (15')
+No. Appearing: Wild 1d6, Lair 1d6
+Save As: Fighter: 7
+Morale: 9
+Treasure Type: E
+XP: 735
+
 Wyverns are large dragon-like monsters, though they are built more like bats than lizards, having two legs and two wings; contrast this with true dragons, which have four legs and two wings.  They are of animal intelligence, but are excellent predators with good hunting abilities.
 Wyverns are aggressive and always hungry, and will attack almost anything smaller than themselves.  Any living creature hit by the wyvern's stinger must save vs. Poison or die.  Wyverns can only use their talons to attack when landing or flying past an enemy; while on the ground they may only bite and sting.  Further, a wyvern may not bite when flying past an opponent.  The only situation in which all attacks can be made is when the monster is landing.
 If a wyvern hits with both its talons, it may attempt to carry off its victim; victims weighing 300 pounds or less can be carried off, and the wyvern can only carry a victim for at most 6 rounds.  While flying with a victim, the wyvern cannot make any further attacks against it, but of course if the victim makes a nuisance of itself (such as by injuring the wyvern), it may be dropped.
+
+@@
+
 Yellow Mold
-Armor Class:
-Can always be hit
-Hit Dice:
-2*
-No. of Attacks:
-Spore cloud (1/day)
-Damage:
-Choking, see below
-Movement:
-0
-No. Appearing:
-1d8
-Save As:
-Normal Man
-Morale:
-N/A
-Treasure Type:
-None
-XP:
-100
+Armor Class: Can always be hit
+Hit Dice: 2*
+No. of Attacks: Spore cloud (1/day)
+Damage: Choking, see below
+Movement: 0
+No. Appearing: 1d8
+Save As: Normal Man
+Morale: N/A
+Treasure Type: None
+XP: 100
+
 If disturbed, a patch of this mold will discharge a cloud of toxic spores.  Each patch covers from 10 to 25 square feet; several patches may grow adjacent to each other, and will appear to be a single patch in this case.  Each patch can emit a cloud of spores once per day.  All within 10 feet of the mold will be affected by the spores and must save vs. Death Ray or take 1d8 points of damage per round for 6 rounds.  Brief exposure to sunlight makes a patch of yellow mold dormant, while longer exposures kills it.
+
+@@
+
 Zombie
-Armor Class:
-12 (see below)
-Hit Dice:
-2
-No. of Attacks:
-1 bludgeon or 1 weapon
-Damage:
-1d8 or by weapon
-Movement:
-20'
-No. Appearing:
-2d4, Wild 4d6
-Save As:
-Fighter: 2
-Morale:
-12
-Treasure Type:
-None
-XP:
-75
+Armor Class: 12 (see below)
+Hit Dice: 2
+No. of Attacks: 1 bludgeon or 1 weapon
+Damage: 1d8 or by weapon
+Movement: 20'
+No. Appearing: 2d4, Wild 4d6
+Save As: Fighter: 2
+Morale: 12
+Treasure Type: None
+XP: 75
+
 Zombies are the undead corpses of humanoid creatures.  They are deathly slow, but they move silently, are very strong and must be literally hacked to pieces to "kill" them.  They take only half damage from blunt weapons, and only a single point from arrows, bolts or sling stones (plus any magical bonus).  A zombie never has Initiative and always acts last in any given round.
 As zombies are strong and do not feel pain, they can bludgeon enemies with both fists for 1d8 points of damage.  However, their creators often arm them, either for greater damage (as with a greatsword or polearm) or simply for effect.
 Like all undead, they may be Turned by Clerics and are immune to sleep, charm, and hold magics.  As they are mindless, no form of mind reading is of any use against them.  Zombies never fail morale checks, and thus always fight until destroyed.
-Zombraire (and Skeletaire)
+
+@@
 
 Zombraire
-Skeletaire
-Armor Class:
-12 (see below)
-13 (see below)
-Hit Dice:
-2* (variable)
-1* (variable)
-No. of Attacks:
-1 dagger or 1 spell
-1 dagger or 1 spell
-Damage:
-1d4 or per spell
-1d4 or per spell
-Movement:
-20'
-40'
-No. Appearing:
-1
-1
-Save As:
-Magic-User: by HD
-Magic-User: by HD
-Morale:
-9 to 12 (see below)
-12
-Treasure Type:
-None
-None
-XP:
-100 (variable)
-37 (variable)
+Armor Class: 12 (see below)
+Hit Dice: 2* (variable)
+No. of Attacks: 1 dagger or 1 spell
+Damage: 1d4 or per spell
+Movement: 20'
+No. Appearing: 1
+Save As: Magic-User: by HD
+Morale: 9 to 12 (see below)
+Treasure Type: None
+XP: 100 (variable)
+
 A Zombraire is a free-willed undead Magic-User.  Like the zombie it resembles, a zombraire moves silently, is very strong, and must be literally hacked to pieces to be destroyed.  However, it does not suffer the initiative penalty common to ordinary zombies.  It takes only half damage from blunt weapons, and only a single point from arrows, bolts, and sling stones (plus any magical bonus).  It may be Turned by a Cleric (as a wight), and is immune to sleep, charm, and hold spells.
 A zombraire slowly rots away, and as it does it loses its sanity; this is represented by the variable morale listed.  An insane zombraire fights to the death in hopes of being slain, thus ending its tortured existence.
 The given statistics are for a zombraire formed from a 2nd-level Magic-user; the HD and saving throws of a zombraire are based on the level it had in life.  A zombraire can cast spells as it did when living, but cannot learn new spells.
-A Skeletaire is the final form of a zombraire which has rotted away completely.  It takes only half damage from edged weapons, and only a single point from arrows, bolts, and sling stones (plus any magical bonus).  It can be Turned by a Cleric (as a zombie), and is immune to sleep, charm, and hold spells.  A skeletaire never fails morale, and thus always fights until destroyed.
-The statistics above are for a skeletaire formed from a 2nd-level Magic-user.  A skeletaire will have HD equal to the character's level minus 1, and will save as a Magic-user of the level equal to its HD.  The skeletaire cannot speak, but still retains the ability to prepare and cast spells as it did in life (but like a zombraire, it cannot learn new spells).
 The process of creating or becoming a zombraire are variable, and often involve cursed magic items (especially cursed scrolls).
 
+@@
+
+Skeletaire
+Armor Class: 13 (see below)
+Hit Dice: 1* (variable)
+No. of Attacks: 1 dagger or 1 spell
+Damage: 1d4 or per spell
+Movement: 40'
+No. Appearing: 1
+Save As: Magic-User: by HD
+Morale: 12
+Treasure Type: None
+XP: 37 (variable)
+
+A Skeletaire is the final form of a zombraire which has rotted away completely.  It takes only half damage from edged weapons, and only a single point from arrows, bolts, and sling stones (plus any magical bonus).  It can be Turned by a Cleric (as a zombie), and is immune to sleep, charm, and hold spells.  A skeletaire never fails morale, and thus always fights until destroyed.
+The statistics above are for a skeletaire formed from a 2nd-level Magic-user.  A skeletaire will have HD equal to the character's level minus 1, and will save as a Magic-user of the level equal to its HD.  The skeletaire cannot speak, but still retains the ability to prepare and cast spells as it did in life (but like a zombraire, it cannot learn new spells).
 

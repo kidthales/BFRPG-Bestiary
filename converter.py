@@ -65,10 +65,10 @@ outpy.write("monsters = [\n")
 
 state = 0
 data = {}
-num = 0
 
 for fn in files:
     inp = open(fn, encoding = "utf-8-sig")
+    num = 0
 
     for line in inp:
     
@@ -96,7 +96,7 @@ for fn in files:
                 continue
             lst = tuple(map(lambda s: s.strip(), line.split(":", 1)))
             if len(lst) != 2:
-                print("Error on line", num, "expecting data field for", data.get("name", "(name not found)"))
+                print("Error in", fn, "on line", num, "expecting data field for", data.get("name", "(name not found)"))
                 sys.exit(1)
             key = keymap.get(lst[0].lower(), lst[0].lower())
             dta = lst[1]
