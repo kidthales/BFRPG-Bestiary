@@ -29,12 +29,69 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 import json, sys, glob, re
 
 xpnum = re.compile("^[0-9,][0-9,]*$")
+plusminus = re.compile("([+-])")
+dieroll = re.compile("([0-9][0-9]*)d([0-9][0-9]*)")
 
 
 def xpconvert(s):
     if not xpnum.search(s):
         return s
     return "".join(s.split(","))
+
+
+def parsehitdice(data):
+
+    hd = data["hitdice"]
+
+    # parse hit dice
+
+    # first, count the special ability bonuses
+    lst = hd.split("*")
+    data["specialbonus"] = len(lst) - 1
+    hd = "".join(lst).strip().lower()
+
+    # the first number in the string is the "base" hit dice
+
+    # die roll is a special case, and we'll need the match object
+    drmatch = dieroll.match(hd)
+    if drmatch:
+        data["hitdiceroll"] = [ int(drmatch.group(1)), int(drmatch.group(2)), 0 ]
+        data["attackbonus"] = data["hitdiceroll"][0]
+    elif hd.endswith(" hp") or hd.endswith(" hit point") or hd.endswith(" hit points"):
+        lst = hd.split()
+        data["hitdiceroll"] = [ 0, 0, int(lst[0]) ]
+        data["attackbonus"] = 0
+    elif hd.startswith("1/2"):
+        # 1/2 is a special case
+        data["hitdiceroll"] = [ 1, 4, 0 ]
+        data["attackbonus"] = 0
+    else:
+        if hd.endswith(" (variable)"):
+            hd = hd[:-11]
+        lst = hd.split()
+        if len(lst) > 1 and lst[1].startswith("(+"):
+            # this is probably an attack bonus
+            data["attackbonus"] = int(lst[1][2:-1])
+            hd = lst[0]
+        lst = plusminus.split(hd)
+        bonus = 0
+        if len(lst) == 3:
+            hd = lst[0]
+            bonus = int(lst[2])
+            if lst[1] == "-":
+                bonus = bonus * -1
+        data["hitdiceroll"] = [ int(hd), 8, bonus ]
+        if "attackbonus" not in data:
+            data["attackbonus"] = int(hd)
+
+
+def export(data, outs):
+    if "name" not in data: # no easy way to be sure we have actual data, so this is a guess
+        return
+    if "hitdice" in data:
+        parsehitdice(data)
+    for out in outs:
+        out.write("%s,\n" % json.dumps(data, sort_keys=True, indent=4))
 
 
 keymap = {
@@ -76,13 +133,11 @@ for fn in files:
         num += 1
     
         if line.strip() == "@@" or line.strip() == "@STOP@":
-            if "name" in data: # no easy way to be sure we have actual data, so this is a guess
-                outp.write("%s,\n" % json.dumps(data, sort_keys=True, indent=4))
-                outpy.write("%s,\n" % json.dumps(data, sort_keys=True, indent=4))
-            if line.strip() == "@STOP@":
-                break
+            export(data, (outp, outpy))
             data = {}
             state = 0
+            if line.strip() == "@STOP@":
+                break
     
         elif state == 0:
             if not line.strip():
@@ -137,12 +192,10 @@ for fn in files:
     inp.close()
     
     # behave as if closing a file ends a monster, since it should
-    if "name" in data: # no easy way to be sure we have actual data, so this is a guess
-        outp.write("%s,\n" % json.dumps(data, sort_keys=True, indent=4))
-        outpy.write("%s,\n" % json.dumps(data, sort_keys=True, indent=4))
+    export(data, (outp, outpy))
     data = {}
     state = 0
-    
+ 
 outp.write("]\n")
 outpy.write("]\n")
 outp.close()

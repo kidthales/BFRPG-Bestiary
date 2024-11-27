@@ -1047,7 +1047,7 @@ Tail
 
 Dragon Turtle
 Armor Class: 22
-Hit Dice: 30** (AB +15)
+Hit Dice: 30** (+15)
 No. of Attacks: 2 claws, 1 bite or breath
 Damage: 2d8 claw, 10d6 bite or 30d8 breath
 Movement: 10' (10') Swim 30' (15')
