@@ -17,6 +17,16 @@ monsters = [
     "movement": "60' (10')",
     "name": "Ant, Giant",
     "noappearing": "2d6, Lair 4d6",
+    "noapproll": [
+        2,
+        6,
+        0
+    ],
+    "noapprolllair": [
+        4,
+        6,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 4",
     "specialbonus": 0,
@@ -40,6 +50,16 @@ monsters = [
     "movement": "50'",
     "name": "Ant, Huge",
     "noappearing": "3d6, Lair 4d8",
+    "noapproll": [
+        3,
+        6,
+        0
+    ],
+    "noapprolllair": [
+        4,
+        8,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 2",
     "specialbonus": 0,
@@ -63,6 +83,16 @@ monsters = [
     "movement": "40'",
     "name": "Ant, Large",
     "noappearing": "4d6, Lair 4d10",
+    "noapproll": [
+        4,
+        6,
+        0
+    ],
+    "noapprolllair": [
+        4,
+        10,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 1",
     "specialbonus": 0,
@@ -86,6 +116,21 @@ monsters = [
     "movement": "40'",
     "name": "Ape, Carnivorous",
     "noappearing": "1d6, Wild 2d4, Lair 2d4",
+    "noapproll": [
+        1,
+        6,
+        0
+    ],
+    "noapprolllair": [
+        2,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        2,
+        4,
+        0
+    ],
     "noattacks": "2 claws",
     "saveas": "Fighter: 4",
     "specialbonus": 0,
@@ -115,6 +160,21 @@ monsters = [
     "movement": "20' Unarmored 40'",
     "name": "Barkling",
     "noappearing": "3d4, Wild 4d6, Lair 5d10",
+    "noapproll": [
+        3,
+        4,
+        0
+    ],
+    "noapprolllair": [
+        5,
+        10,
+        0
+    ],
+    "noapprollwild": [
+        4,
+        6,
+        0
+    ],
     "noattacks": "1 bite or 1 weapon",
     "saveas": "Normal Man",
     "specialbonus": 0,
@@ -139,6 +199,21 @@ monsters = [
     "movement": "20' (10')",
     "name": "Basilisk, Common",
     "noappearing": "1d6, Wild 1d6, Lair 1d6",
+    "noapproll": [
+        1,
+        6,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        6,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        6,
+        0
+    ],
     "noattacks": "1 bite, 1 gaze",
     "saveas": "Fighter: 6",
     "specialbonus": 2,
@@ -162,6 +237,11 @@ monsters = [
     "movement": "20' (10')",
     "name": "Basilisk, Greater*",
     "noappearing": "1",
+    "noapproll": [
+        0,
+        0,
+        1
+    ],
     "noattacks": "1 bite, 1 gaze",
     "saveas": "Fighter: 8",
     "specialbonus": 3,
@@ -186,6 +266,21 @@ monsters = [
     "movement": "30' Fly 40'",
     "name": "Bat",
     "noappearing": "1d100, Wild 1d100, Lair 1d100",
+    "noapproll": [
+        1,
+        100,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        100,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        100,
+        0
+    ],
     "noattacks": "1 special",
     "saveas": "Normal Man",
     "specialbonus": 0,
@@ -210,6 +305,21 @@ monsters = [
     "movement": "10' Fly 60' (10')",
     "name": "Giant Bat",
     "noappearing": "1d10, Wild 1d10, Lair 1d10",
+    "noapproll": [
+        1,
+        10,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        10,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        10,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 2",
     "specialbonus": 0,
@@ -234,6 +344,21 @@ monsters = [
     "movement": "40'",
     "name": "Bear, Black",
     "noappearing": "1d4, Wild 1d4, Lair 1d4",
+    "noapproll": [
+        1,
+        4,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "2 claws, 1 bite + hug",
     "saveas": "Fighter: 4",
     "specialbonus": 0,
@@ -258,6 +383,21 @@ monsters = [
     "movement": "40'",
     "name": "Bear, Cave",
     "noappearing": "1d2, Wild 1d2, Lair 1d2",
+    "noapproll": [
+        1,
+        2,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        2,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        2,
+        0
+    ],
     "noattacks": "2 claws, 1 bite + hug",
     "saveas": "Fighter: 7",
     "specialbonus": 0,
@@ -282,6 +422,16 @@ monsters = [
     "movement": "40'",
     "name": "Bear, Grizzly (or Brown)",
     "noappearing": "1, Wild 1d4, Lair 1d4",
+    "noapprolllair": [
+        1,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "2 claws, 1 bite + hug",
     "saveas": "Fighter: 5",
     "specialbonus": 0,
@@ -306,6 +456,16 @@ monsters = [
     "movement": "40'",
     "name": "Bear, Polar",
     "noappearing": "1, Wild 1d2, Lair 1d2",
+    "noapprolllair": [
+        1,
+        2,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        2,
+        0
+    ],
     "noattacks": "2 claws, 1 bite + hug",
     "saveas": "Fighter: 6",
     "specialbonus": 0,
@@ -331,6 +491,21 @@ monsters = [
     "movement": "10' Fly 50'",
     "name": "Bee, Giant",
     "noappearing": "1d6, Wild 1d6, Lair 5d6",
+    "noapproll": [
+        1,
+        6,
+        0
+    ],
+    "noapprolllair": [
+        5,
+        6,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        6,
+        0
+    ],
     "noattacks": "1 sting",
     "saveas": "Fighter: 1",
     "specialbonus": 1,
@@ -355,6 +530,21 @@ monsters = [
     "movement": "40'",
     "name": "Beetle, Giant Bombardier",
     "noappearing": "1d8, Wild 2d6, Lair 2d6",
+    "noapproll": [
+        1,
+        8,
+        0
+    ],
+    "noapprolllair": [
+        2,
+        6,
+        0
+    ],
+    "noapprollwild": [
+        2,
+        6,
+        0
+    ],
     "noattacks": "1 bite, 1 spray (special, see below)",
     "saveas": "Fighter: 2",
     "specialbonus": 1,
@@ -379,6 +569,21 @@ monsters = [
     "movement": "40'",
     "name": "Beetle, Giant Fire",
     "noappearing": "1d8, Wild 2d6, Lair 2d6",
+    "noapproll": [
+        1,
+        8,
+        0
+    ],
+    "noapprolllair": [
+        2,
+        6,
+        0
+    ],
+    "noapprollwild": [
+        2,
+        6,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 1",
     "specialbonus": 0,
@@ -403,6 +608,21 @@ monsters = [
     "movement": "40'",
     "name": "Beetle, Giant Oil",
     "noappearing": "1d8, Wild 2d6, Lair 2d6",
+    "noapproll": [
+        1,
+        8,
+        0
+    ],
+    "noapprolllair": [
+        2,
+        6,
+        0
+    ],
+    "noapprollwild": [
+        2,
+        6,
+        0
+    ],
     "noattacks": "1 bite + spray (see below)",
     "saveas": "Fighter: 2",
     "specialbonus": 1,
@@ -427,6 +647,21 @@ monsters = [
     "movement": "60' (10')",
     "name": "Beetle, Giant Tiger",
     "noappearing": "1d6, Wild 2d4, Lair 2d4",
+    "noapproll": [
+        1,
+        6,
+        0
+    ],
+    "noapprolllair": [
+        2,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        2,
+        4,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 3",
     "specialbonus": 0,
@@ -452,6 +687,21 @@ monsters = [
     "movement": "40'",
     "name": "Blink Dog (Flicker Beast)",
     "noappearing": "1d6, Wild 1d6, Lair 1d6",
+    "noapproll": [
+        1,
+        6,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        6,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        6,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 4",
     "specialbonus": 1,
@@ -477,6 +727,11 @@ monsters = [
     "movement": "1'",
     "name": "Blood Rose",
     "noappearing": "Wild 1d8",
+    "noapprollwild": [
+        1,
+        8,
+        0
+    ],
     "noattacks": "1 to 3 canes, each + blood drain",
     "saveas": "Fighter: 2",
     "specialbonus": 1,
@@ -502,6 +757,11 @@ monsters = [
     "movement": "1'",
     "name": "Blood Rose",
     "noappearing": "Wild 1d8",
+    "noapprollwild": [
+        1,
+        8,
+        0
+    ],
     "noattacks": "1 to 3 canes, each + blood drain",
     "saveas": "Fighter: 2",
     "specialbonus": 1,
@@ -527,6 +787,11 @@ monsters = [
     "movement": "1'",
     "name": "Blood Rose",
     "noappearing": "Wild 1d8",
+    "noapprollwild": [
+        1,
+        8,
+        0
+    ],
     "noattacks": "1 to 3 canes, each + blood drain",
     "saveas": "Fighter: 2",
     "specialbonus": 1,
@@ -551,6 +816,11 @@ monsters = [
     "movement": "50' (10')",
     "name": "Boar",
     "noappearing": "Wild 1d6",
+    "noapprollwild": [
+        1,
+        6,
+        0
+    ],
     "noattacks": "1 tusk",
     "saveas": "Fighter: 3",
     "specialbonus": 0,
@@ -576,6 +846,21 @@ monsters = [
     "movement": "30' Unarmored 40'",
     "name": "Bugbear",
     "noappearing": "2d4, Wild 5d4, Lair 5d4",
+    "noapproll": [
+        2,
+        4,
+        0
+    ],
+    "noapprolllair": [
+        5,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        5,
+        4,
+        0
+    ],
     "noattacks": "1 weapon",
     "saveas": "Fighter: 3",
     "specialbonus": 0,
@@ -601,6 +886,16 @@ monsters = [
     "movement": "20' (10')",
     "name": "Caecilia, Giant",
     "noappearing": "1d3, Lair 1d3",
+    "noapproll": [
+        1,
+        3,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        3,
+        0
+    ],
     "noattacks": "1 bite + swallow on natural 19 or 20",
     "saveas": "Fighter: 3",
     "specialbonus": 1,
@@ -650,6 +945,11 @@ monsters = [
     "movement": "50' (10')",
     "name": "Aurochs",
     "noappearing": "Wild 10d12",
+    "noapprollwild": [
+        10,
+        12,
+        0
+    ],
     "noattacks": "1 horn/head butt or 1 trample",
     "saveas": "Fighter: 3",
     "specialbonus": 0,
@@ -674,6 +974,11 @@ monsters = [
     "movement": "50' (10')",
     "name": "Bison",
     "noappearing": "Wild 10d12",
+    "noapprollwild": [
+        10,
+        12,
+        0
+    ],
     "noattacks": "1 horn/head butt or 1 trample",
     "saveas": "Fighter: 4",
     "specialbonus": 0,
@@ -702,6 +1007,16 @@ monsters = [
     "movement": "20' Fly 60' (15')",
     "name": "Cave Locust, Giant",
     "noappearing": "2d10, Wild 1d10",
+    "noapproll": [
+        2,
+        10,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        10,
+        0
+    ],
     "noattacks": "1 bite or 1 bump or 1 spit",
     "saveas": "Fighter: 2",
     "specialbonus": 2,
@@ -726,6 +1041,11 @@ monsters = [
     "movement": "50' Unarmored 60' (10')",
     "name": "Centaur",
     "noappearing": "Wild 2d10",
+    "noapprollwild": [
+        2,
+        10,
+        0
+    ],
     "noattacks": "2 hooves, 1 weapon",
     "saveas": "Fighter: 4",
     "specialbonus": 0,
@@ -750,6 +1070,21 @@ monsters = [
     "movement": "40'",
     "name": "Centipede, Giant",
     "noappearing": "2d4, Wild 2d4, Lair 2d4",
+    "noapproll": [
+        2,
+        4,
+        0
+    ],
+    "noapprolllair": [
+        2,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        2,
+        4,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Normal Man",
     "specialbonus": 1,
@@ -773,6 +1108,16 @@ monsters = [
     "movement": "100'",
     "name": "Cheetah",
     "noappearing": "Wild 1d3, Lair 1d3",
+    "noapprolllair": [
+        1,
+        3,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        3,
+        0
+    ],
     "noattacks": "2 claws, 1 bite",
     "saveas": "Fighter: 2",
     "specialbonus": 0,
@@ -797,6 +1142,21 @@ monsters = [
     "movement": "40' (10') Fly 60' (15')",
     "name": "Chimera",
     "noappearing": "1d2, Wild 1d4, Lair 1d4",
+    "noapproll": [
+        1,
+        2,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "2 claws, 1 lion bite, 1 goat horns, 1 dragon bite or breath",
     "saveas": "Fighter: 9",
     "specialbonus": 2,
@@ -821,6 +1181,21 @@ monsters = [
     "movement": "30' Fly 60' (10')",
     "name": "Cockatrice",
     "noappearing": "1d4, Wild 1d8, Lair 1d8",
+    "noapproll": [
+        1,
+        4,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        8,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        8,
+        0
+    ],
     "noattacks": "1 beak",
     "saveas": "Fighter: 5",
     "specialbonus": 2,
@@ -845,6 +1220,21 @@ monsters = [
     "movement": "20' Swim 20'",
     "name": "Crab, Giant",
     "noappearing": "1d2, Wild 1d6, Lair 1d6",
+    "noapproll": [
+        1,
+        2,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        6,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        6,
+        0
+    ],
     "noattacks": "2 pincers",
     "saveas": "Fighter: 3",
     "specialbonus": 0,
@@ -868,6 +1258,11 @@ monsters = [
     "movement": "30' (10') Swim 30' (10')",
     "name": "Crocodile",
     "noappearing": "Wild 1d8",
+    "noapprollwild": [
+        1,
+        8,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 2",
     "specialbonus": 0,
@@ -891,6 +1286,11 @@ monsters = [
     "movement": "30' (10') Swim 30' (10')",
     "name": "Crocodile, Large",
     "noappearing": "Wild 1d4",
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 6",
     "specialbonus": 0,
@@ -914,6 +1314,11 @@ monsters = [
     "movement": "30' (10') Swim 30' (10')",
     "name": "Crocodile, Giant",
     "noappearing": "Wild 1d3",
+    "noapprollwild": [
+        1,
+        3,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 15",
     "specialbonus": 0,
@@ -937,6 +1342,16 @@ monsters = [
     "movement": "50'",
     "name": "Deceiver (Panther-Hydra)",
     "noappearing": "1d4, Wild 1d4",
+    "noapproll": [
+        1,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "3 bites (see below)",
     "saveas": "Fighter: 6",
     "specialbonus": 1,
@@ -961,6 +1376,16 @@ monsters = [
     "movement": "40'",
     "name": "Greater Deceiver",
     "noappearing": "1d4, Wild 1d4",
+    "noapproll": [
+        1,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "3 bites (see below)",
     "saveas": "Fighter: 7",
     "specialbonus": 2,
@@ -984,6 +1409,21 @@ monsters = [
     "movement": "50'",
     "name": "Dinosaur, Deinonychus",
     "noappearing": "1d3, Wild 2d3, Lair 2d6",
+    "noapproll": [
+        1,
+        3,
+        0
+    ],
+    "noapprolllair": [
+        2,
+        6,
+        0
+    ],
+    "noapprollwild": [
+        2,
+        3,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 3",
     "specialbonus": 0,
@@ -1007,6 +1447,11 @@ monsters = [
     "movement": "Fly 60' (10')",
     "name": "Dinosaur, Pterodactyl",
     "noappearing": "Wild 2d4",
+    "noapprollwild": [
+        2,
+        4,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 1",
     "specialbonus": 0,
@@ -1030,6 +1475,11 @@ monsters = [
     "movement": "Fly 60' (15')",
     "name": "Dinosaur, Pteranodon",
     "noappearing": "Wild 1d4",
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 5",
     "specialbonus": 0,
@@ -1053,6 +1503,11 @@ monsters = [
     "movement": "20' (15')",
     "name": "Dinosaur, Stegosaurus",
     "noappearing": "Wild 1d4",
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "1 bite, 1 tail or 1 trample (see below)",
     "saveas": "Fighter: 6",
     "specialbonus": 0,
@@ -1077,6 +1532,11 @@ monsters = [
     "movement": "30' (15')",
     "name": "Dinosaur, Triceratops",
     "noappearing": "Wild 1d4",
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "1 gore or 1 trample",
     "saveas": "Fighter: 7",
     "specialbonus": 0,
@@ -1102,6 +1562,11 @@ monsters = [
     "movement": "40' (10')",
     "name": "Dinosaur, Tyrannosaurus Rex",
     "noappearing": "Wild 1d4",
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 18",
     "specialbonus": 0,
@@ -1129,6 +1594,11 @@ monsters = [
     "movement": "30' Fly 80'",
     "name": "Djinni*",
     "noappearing": "1",
+    "noapproll": [
+        0,
+        0,
+        1
+    ],
     "noattacks": "1 fist or 1 whirlwind",
     "saveas": "Fighter: 12",
     "specialbonus": 2,
@@ -1152,6 +1622,11 @@ monsters = [
     "movement": "50'",
     "name": "Dog",
     "noappearing": "Wild 3d4",
+    "noapprollwild": [
+        3,
+        4,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 1",
     "specialbonus": 0,
@@ -1200,6 +1675,21 @@ monsters = [
     "movement": "30'",
     "name": "Doppleganger",
     "noappearing": "1d6, Wild 1d6, Lair 1d6",
+    "noapproll": [
+        1,
+        6,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        6,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        6,
+        0
+    ],
     "noattacks": "1 fist or by weapon",
     "saveas": "Fighter: 4",
     "specialbonus": 1,
@@ -1386,6 +1876,11 @@ monsters = [
     "movement": "30' Fly 80' (20')",
     "name": "Dragon, Cloud",
     "noappearing": "1, Wild 1, Lair 1d4",
+    "noapprolllair": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "2 claws, 1 bite or breath, 1 tail",
     "saveas": "Fighter: 11 (as Hit Dice)",
     "specialbonus": 2,
@@ -1552,6 +2047,11 @@ monsters = [
     "movement": "30' Fly 80' (15')",
     "name": "Dragon, Desert (Blue Dragon)",
     "noappearing": "1, Wild 1, Lair 1d4",
+    "noapprolllair": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "2 claws, 1 bite or breath, 1 tail",
     "saveas": "Fighter: 9 (as Hit Dice)",
     "specialbonus": 2,
@@ -1716,6 +2216,11 @@ monsters = [
     "movement": "30' Fly 80' (15')",
     "name": "Dragon, Forest (Green Dragon)",
     "noappearing": "1, Wild 1, Lair 1d4",
+    "noapprolllair": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "2 claws, 1 bite or breath, 1 tail",
     "saveas": "Fighter: 8 (as Hit Dice)",
     "specialbonus": 2,
@@ -1872,6 +2377,11 @@ monsters = [
     "movement": "30' Fly 80' (10')",
     "name": "Dragon, Ice (White Dragon)",
     "noappearing": "1, Wild 1, Lair 1d4",
+    "noapprolllair": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "2 claws, 1 bite or breath, 1 tail",
     "saveas": "Fighter: 6 (as Hit Dice)",
     "specialbonus": 2,
@@ -2048,6 +2558,11 @@ monsters = [
     "movement": "30' Fly 80' (20')",
     "name": "Dragon, Mountain (Red Dragon)",
     "noappearing": "1, Wild 1, Lair 1d4",
+    "noapprolllair": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "2 claws, 1 bite or breath, 1 tail",
     "saveas": "Fighter: 10 (as Hit Dice)",
     "specialbonus": 2,
@@ -2203,6 +2718,11 @@ monsters = [
     "movement": "50' Fly 80' (10')",
     "name": "Dragon, Plains (Yellow Dragon)",
     "noappearing": "1, Wild 1, Lair 1d6",
+    "noapprolllair": [
+        1,
+        6,
+        0
+    ],
     "noattacks": "2 claws, 1 bite or breath, 1 tail",
     "saveas": "Fighter: 5 (as Hit Dice)",
     "specialbonus": 2,
@@ -2349,6 +2869,11 @@ monsters = [
     "movement": "10' Fly 60' (20') Swim 60' (15')",
     "name": "Dragon, Sea (Gray Dragon)",
     "noappearing": "1, Wild 1, Lair 1d4",
+    "noapprolllair": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "2 claws, 1 bite or breath",
     "saveas": "Fighter: 8 (as Hit Dice)",
     "specialbonus": 2,
@@ -2504,6 +3029,11 @@ monsters = [
     "movement": "30' Fly 80' (15')",
     "name": "Dragon, Swamp (Black Dragon)",
     "noappearing": "1, Wild 1, Lair 1d4",
+    "noapprolllair": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "2 claws, 1 bite or breath, 1 tail",
     "saveas": "Fighter: 7 (as Hit Dice)",
     "specialbonus": 2,
@@ -2638,6 +3168,11 @@ monsters = [
     "movement": "10' (10') Swim 30' (15')",
     "name": "Dragon Turtle",
     "noappearing": "Wild 1",
+    "noapprollwild": [
+        0,
+        0,
+        1
+    ],
     "noattacks": "2 claws, 1 bite or breath",
     "saveas": "Fighter: 20 at +5",
     "specialbonus": 2,
@@ -2663,6 +3198,11 @@ monsters = [
     "movement": "40'",
     "name": "Dryad",
     "noappearing": "Lair 1d6",
+    "noapprolllair": [
+        1,
+        6,
+        0
+    ],
     "noattacks": "1 dagger or 1 fist",
     "saveas": "Magic-User: 4",
     "specialbonus": 1,
@@ -2686,6 +3226,11 @@ monsters = [
     "movement": "10' Fly 160' (10')",
     "name": "Eagle",
     "noappearing": "1, Wild 1d4",
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "2 talons, 1 beak",
     "saveas": "Fighter: 2",
     "specialbonus": 0,
@@ -2711,6 +3256,11 @@ monsters = [
     "movement": "10' fly 90'",
     "name": "Eagle, Giant",
     "noappearing": "2d6",
+    "noapproll": [
+        2,
+        6,
+        0
+    ],
     "noattacks": "2 claws, 1 bite",
     "saveas": "Fighter: 4",
     "specialbonus": 0,
@@ -2738,6 +3288,11 @@ monsters = [
     "movement": "30' Fly 80' (10')",
     "name": "Efreeti*",
     "noappearing": "1",
+    "noapproll": [
+        0,
+        0,
+        1
+    ],
     "noattacks": "1 huge weapon or magic",
     "saveas": "Fighter: 15",
     "specialbonus": 1,
@@ -3318,6 +3873,11 @@ monsters = [
     "movement": "40' (10')",
     "name": "Elephant, Asiatic",
     "noappearing": "Wild 1d20",
+    "noapprollwild": [
+        1,
+        20,
+        0
+    ],
     "noattacks": "2 tusks, 1 trunk grab, 2 tramples",
     "saveas": "Fighter: 9",
     "specialbonus": 0,
@@ -3343,6 +3903,11 @@ monsters = [
     "movement": "50' (15')",
     "name": "Elephant, African",
     "noappearing": "Wild 1d12",
+    "noapprollwild": [
+        1,
+        12,
+        0
+    ],
     "noattacks": "2 tusks, 1 trunk grab, 2 tramples",
     "saveas": "Fighter: 10",
     "specialbonus": 0,
@@ -3366,6 +3931,11 @@ monsters = [
     "movement": "10' Fly 160'(10')",
     "name": "Falcon",
     "noappearing": "1, Wild 1d4",
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "2 talons, 1 beak",
     "saveas": "Fighter: 1",
     "specialbonus": 0,
@@ -3390,6 +3960,11 @@ monsters = [
     "movement": "Swim 60'",
     "name": "Fish, Giant Barracuda",
     "noappearing": "Wild 2d4",
+    "noapprollwild": [
+        2,
+        4,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 5",
     "specialbonus": 0,
@@ -3414,6 +3989,11 @@ monsters = [
     "movement": "Swim 60' (10')",
     "name": "Fish, Huge Barracuda",
     "noappearing": "Wild 1",
+    "noapprollwild": [
+        0,
+        0,
+        1
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 9",
     "specialbonus": 0,
@@ -3438,6 +4018,11 @@ monsters = [
     "movement": "Swim 40' (10')",
     "name": "Fish, Giant Bass",
     "noappearing": "Wild 1d6",
+    "noapprollwild": [
+        1,
+        6,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 2",
     "specialbonus": 0,
@@ -3462,6 +4047,11 @@ monsters = [
     "movement": "Swim 30' (10')",
     "name": "Fish, Giant Catfish",
     "noappearing": "Wild 1d2",
+    "noapprollwild": [
+        1,
+        2,
+        0
+    ],
     "noattacks": "1 bite, 2 fins",
     "saveas": "Fighter: 8",
     "specialbonus": 0,
@@ -3485,6 +4075,11 @@ monsters = [
     "movement": "Swim 50'",
     "name": "Fish, Giant Piranha",
     "noappearing": "Wild 2d4",
+    "noapprollwild": [
+        2,
+        4,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 4",
     "specialbonus": 0,
@@ -3508,6 +4103,16 @@ monsters = [
     "movement": "30' Fly 60'",
     "name": "Fly, Giant",
     "noappearing": "1d6, Wild 2d6",
+    "noapproll": [
+        1,
+        6,
+        0
+    ],
+    "noapprollwild": [
+        2,
+        6,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 2",
     "specialbonus": 0,
@@ -3532,6 +4137,16 @@ monsters = [
     "movement": "30' Swim 30'",
     "name": "Frog, Giant (and Toad, Giant)",
     "noappearing": "1d4, Wild 1d4",
+    "noapproll": [
+        1,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "1 tongue or 1 bite",
     "saveas": "Fighter: 2",
     "specialbonus": 0,
@@ -3556,6 +4171,21 @@ monsters = [
     "movement": "30' Fly 50' (15')",
     "name": "Gargoyle*",
     "noappearing": "1d6, Wild 2d4, Lair 2d4",
+    "noapproll": [
+        1,
+        6,
+        0
+    ],
+    "noapprolllair": [
+        2,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        2,
+        4,
+        0
+    ],
     "noattacks": "2 claws, 1 bite, 1 horn",
     "saveas": "Fighter: 6",
     "specialbonus": 2,
@@ -3585,6 +4215,11 @@ monsters = [
     "movement": "30'",
     "name": "Ghost*",
     "noappearing": "1",
+    "noapproll": [
+        0,
+        0,
+        1
+    ],
     "noattacks": "1 touch or possession + fear",
     "saveas": "Fighter: 10",
     "specialbonus": 1,
@@ -3611,6 +4246,21 @@ monsters = [
     "movement": "30'",
     "name": "Ghoul",
     "noappearing": "1d6, Wild 2d8, Lair 2d8",
+    "noapproll": [
+        1,
+        6,
+        0
+    ],
+    "noapprolllair": [
+        2,
+        8,
+        0
+    ],
+    "noapprollwild": [
+        2,
+        8,
+        0
+    ],
     "noattacks": "2 claws, 1 bite",
     "saveas": "Fighter: 2",
     "specialbonus": 1,
@@ -3638,6 +4288,21 @@ monsters = [
     "movement": "30'",
     "name": "Ghast",
     "noappearing": "1d4, Wild 1d8, Lair 1d8",
+    "noapproll": [
+        1,
+        4,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        8,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        8,
+        0
+    ],
     "noattacks": "2 claws, 1 bite",
     "saveas": "Fighter: 2",
     "specialbonus": 2,
@@ -3663,6 +4328,21 @@ monsters = [
     "movement": "20' Unarmored 40' (10')",
     "name": "Giant, Cloud",
     "noappearing": "1d2, Wild 1d3, Lair 1d3",
+    "noapproll": [
+        1,
+        2,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        3,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        3,
+        0
+    ],
     "noattacks": "1 giant weapon or 1 thrown rock",
     "saveas": "Fighter: 12",
     "specialbonus": 1,
@@ -3687,6 +4367,16 @@ monsters = [
     "movement": "20' Unarmored 30'",
     "name": "Giant, Cyclops",
     "noappearing": "1, Wild 1d4, Lair 1d4",
+    "noapprolllair": [
+        1,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "1 giant club or 1 rock (thrown)",
     "saveas": "Fighter: 13",
     "specialbonus": 1,
@@ -3712,6 +4402,21 @@ monsters = [
     "movement": "20' Unarmored 40' (10')",
     "name": "Giant, Fire",
     "noappearing": "1d2, Wild 1d3, Lair 1d3",
+    "noapproll": [
+        1,
+        2,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        3,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        3,
+        0
+    ],
     "noattacks": "1 giant weapon or 1 thrown rock",
     "saveas": "Fighter: 11",
     "specialbonus": 1,
@@ -3737,6 +4442,21 @@ monsters = [
     "movement": "20' Unarmored 40' (10')",
     "name": "Giant, Frost",
     "noappearing": "1d2, Wild 1d4, Lair 1d4",
+    "noapproll": [
+        1,
+        2,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "1 giant weapon or 1 thrown rock",
     "saveas": "Fighter: 10",
     "specialbonus": 1,
@@ -3761,6 +4481,21 @@ monsters = [
     "movement": "30' Unarmored 40'",
     "name": "Giant, Hill",
     "noappearing": "1d4, Wild 2d4, Lair 2d4",
+    "noapproll": [
+        1,
+        4,
+        0
+    ],
+    "noapprolllair": [
+        2,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        2,
+        4,
+        0
+    ],
     "noattacks": "1 giant weapon (club)",
     "saveas": "Fighter: 8",
     "specialbonus": 0,
@@ -3787,6 +4522,21 @@ monsters = [
     "movement": "40' Unarmored 50' (10')",
     "name": "Giant, Mountain",
     "noappearing": "1d4, Wild 1d4, Lair 1d4+1",
+    "noapproll": [
+        1,
+        4,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        4,
+        1
+    ],
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "1 giant weapon or 1 thrown rock",
     "saveas": "Fighter: 16",
     "specialbonus": 0,
@@ -3811,6 +4561,21 @@ monsters = [
     "movement": "30' Unarmored 40'",
     "name": "Giant, Stone",
     "noappearing": "1d2, Wild 1d6, Lair 1d6",
+    "noapproll": [
+        1,
+        2,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        6,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        6,
+        0
+    ],
     "noattacks": "1 stone club or 1 thrown rock",
     "saveas": "Fighter: 9",
     "specialbonus": 0,
@@ -3838,6 +4603,16 @@ monsters = [
     "movement": "30' Unarmored 50' (10')",
     "name": "Giant, Storm",
     "noappearing": "1, Wild 1d3, Lair 1d3",
+    "noapprolllair": [
+        1,
+        3,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        3,
+        0
+    ],
     "noattacks": "1 giant weapon or 1 lightning bolt",
     "saveas": "Fighter: 15",
     "specialbonus": 2,
@@ -3863,6 +4638,21 @@ monsters = [
     "movement": "30' Unarmored 40'",
     "name": "Gnoll",
     "noappearing": "1d6, Wild 3d6, Lair 3d6",
+    "noapproll": [
+        1,
+        6,
+        0
+    ],
+    "noapprolllair": [
+        3,
+        6,
+        0
+    ],
+    "noapprollwild": [
+        3,
+        6,
+        0
+    ],
     "noattacks": "1 weapon",
     "saveas": "Fighter: 2",
     "specialbonus": 0,
@@ -3890,6 +4680,21 @@ monsters = [
     "movement": "20' Unarmored 40'",
     "name": "Gnome",
     "noappearing": "1d8, Wild 5d8, Lair 5d8",
+    "noapproll": [
+        1,
+        8,
+        0
+    ],
+    "noapprolllair": [
+        5,
+        8,
+        0
+    ],
+    "noapprollwild": [
+        5,
+        8,
+        0
+    ],
     "noattacks": "1 weapon",
     "saveas": "Fighter: 1 (with Dwarf bonuses)",
     "specialbonus": 0,
@@ -3917,6 +4722,16 @@ monsters = [
     "movement": "20' Unarmored 30'",
     "name": "Goblin",
     "noappearing": "2d4,Wild 6d10, Lair 6d10",
+    "noapproll": [
+        2,
+        4,
+        0
+    ],
+    "noapprolllair": [
+        6,
+        10,
+        0
+    ],
     "noattacks": "1 weapon",
     "saveas": "Fighter: 1",
     "specialbonus": 0,
@@ -3941,6 +4756,11 @@ monsters = [
     "movement": "60'",
     "name": "Golem, Amber*",
     "noappearing": "1",
+    "noapproll": [
+        0,
+        0,
+        1
+    ],
     "noattacks": "2 claws, 1 bite",
     "saveas": "Fighter: 5",
     "specialbonus": 1,
@@ -3965,6 +4785,11 @@ monsters = [
     "movement": "40' (10')",
     "name": "Golem, Bone*",
     "noappearing": "1",
+    "noapproll": [
+        0,
+        0,
+        1
+    ],
     "noattacks": "4 weapons",
     "saveas": "Fighter: 4",
     "specialbonus": 1,
@@ -3989,6 +4814,11 @@ monsters = [
     "movement": "80' (10')",
     "name": "Golem, Bronze*",
     "noappearing": "1",
+    "noapproll": [
+        0,
+        0,
+        1
+    ],
     "noattacks": "1 fist + heat, defensive spray",
     "saveas": "Fighter:10",
     "specialbonus": 2,
@@ -4013,6 +4843,11 @@ monsters = [
     "movement": "20'",
     "name": "Golem, Clay*",
     "noappearing": "1",
+    "noapproll": [
+        0,
+        0,
+        1
+    ],
     "noattacks": "1 fist",
     "saveas": "Fighter: 6",
     "specialbonus": 2,
@@ -4037,6 +4872,11 @@ monsters = [
     "movement": "30'",
     "name": "Golem, Flesh*",
     "noappearing": "1",
+    "noapproll": [
+        0,
+        0,
+        1
+    ],
     "noattacks": "2 fists",
     "saveas": "Fighter: 5",
     "specialbonus": 2,
@@ -4062,6 +4902,11 @@ monsters = [
     "movement": "20' (10')",
     "name": "Golem, Iron*",
     "noappearing": "1",
+    "noapproll": [
+        0,
+        0,
+        1
+    ],
     "noattacks": "1 strike + breath",
     "saveas": "Fighter: 9",
     "specialbonus": 2,
@@ -4087,6 +4932,11 @@ monsters = [
     "movement": "20' (10')",
     "name": "Golem, Stone*",
     "noappearing": "1",
+    "noapproll": [
+        0,
+        0,
+        1
+    ],
     "noattacks": "1 strike or slow",
     "saveas": "Fighter: 7",
     "specialbonus": 2,
@@ -4110,6 +4960,11 @@ monsters = [
     "movement": "40'",
     "name": "Golem, Wood*",
     "noappearing": "1",
+    "noapproll": [
+        0,
+        0,
+        1
+    ],
     "noattacks": "1 fist",
     "saveas": "Fighter: 1",
     "specialbonus": 1,
@@ -4134,6 +4989,11 @@ monsters = [
     "movement": "40' (10')",
     "name": "Gorgon",
     "noappearing": "Wild 1d4",
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "1 gore or 1 breath",
     "saveas": "Fighter: 8",
     "specialbonus": 1,
@@ -4159,6 +5019,16 @@ monsters = [
     "movement": "40' (10') Fly 120' (10')",
     "name": "Griffon",
     "noappearing": "Wild 2d8, Lair 2d8",
+    "noapprolllair": [
+        2,
+        8,
+        0
+    ],
+    "noapprollwild": [
+        2,
+        8,
+        0
+    ],
     "noattacks": "2 claws, 1 bite",
     "saveas": "Fighter: 7",
     "specialbonus": 0,
@@ -4183,6 +5053,11 @@ monsters = [
     "movement": "80' (10')",
     "name": "Deer",
     "noappearing": "Wild 3d10",
+    "noapprollwild": [
+        3,
+        10,
+        0
+    ],
     "noattacks": "1 butt",
     "saveas": "Fighter: 1",
     "specialbonus": 0,
@@ -4207,6 +5082,11 @@ monsters = [
     "movement": "80' (10')",
     "name": "Antelope",
     "noappearing": "Wild 3d10",
+    "noapprollwild": [
+        3,
+        10,
+        0
+    ],
     "noattacks": "1 butt",
     "saveas": "Fighter: 2",
     "specialbonus": 0,
@@ -4231,6 +5111,11 @@ monsters = [
     "movement": "80' (10')",
     "name": "Elk",
     "noappearing": "Wild 3d10",
+    "noapprollwild": [
+        3,
+        10,
+        0
+    ],
     "noattacks": "1 butt",
     "saveas": "Fighter: 3",
     "specialbonus": 0,
@@ -4255,6 +5140,11 @@ monsters = [
     "movement": "80' (10')",
     "name": "Moose",
     "noappearing": "Wild 3d10",
+    "noapprollwild": [
+        3,
+        10,
+        0
+    ],
     "noattacks": "1 butt",
     "saveas": "Fighter: 4",
     "specialbonus": 0,
@@ -4279,6 +5169,11 @@ monsters = [
     "movement": "0",
     "name": "Hangman Tree",
     "noappearing": "Wild 1",
+    "noapprollwild": [
+        0,
+        0,
+        1
+    ],
     "noattacks": "4 limbs",
     "saveas": "Fighter: 4",
     "specialbonus": 0,
@@ -4304,6 +5199,21 @@ monsters = [
     "movement": "20' Fly 50' (10')",
     "name": "Harpy",
     "noappearing": "1d6, Wild 2d4, Lair 2d4",
+    "noapproll": [
+        1,
+        6,
+        0
+    ],
+    "noapprolllair": [
+        2,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        2,
+        4,
+        0
+    ],
     "noattacks": "2 claws, 1 weapon or charm",
     "saveas": "Fighter: 2",
     "specialbonus": 1,
@@ -4327,6 +5237,16 @@ monsters = [
     "movement": "Fly 160'",
     "name": "Hawk",
     "noappearing": "Wild 1d6, Lair 1d6",
+    "noapprolllair": [
+        1,
+        6,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        6,
+        0
+    ],
     "noattacks": "1 claw or bite",
     "saveas": "Fighter: 1",
     "specialbonus": 0,
@@ -4351,6 +5271,16 @@ monsters = [
     "movement": "Fly 150' (10')",
     "name": "Hawk, Giant",
     "noappearing": "Wild 1d3, Lair 1d3",
+    "noapprolllair": [
+        1,
+        3,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        3,
+        0
+    ],
     "noattacks": "1 claw or bite",
     "saveas": "Fighter: 4",
     "specialbonus": 0,
@@ -4376,6 +5306,21 @@ monsters = [
     "movement": "40'",
     "name": "Hellhound, 3 HD",
     "noappearing": "2d4, Wild 2d4, Lair 2d4",
+    "noapproll": [
+        2,
+        4,
+        0
+    ],
+    "noapprolllair": [
+        2,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        2,
+        4,
+        0
+    ],
     "noattacks": "1 bite or 1 breath",
     "saveas": "Fighter: 3",
     "specialbonus": 2,
@@ -4401,6 +5346,21 @@ monsters = [
     "movement": "40'",
     "name": "Hellhound, 4 HD",
     "noappearing": "2d4, Wild 2d4, Lair 2d4",
+    "noapproll": [
+        2,
+        4,
+        0
+    ],
+    "noapprolllair": [
+        2,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        2,
+        4,
+        0
+    ],
     "noattacks": "1 bite or 1 breath",
     "saveas": "Fighter: 4",
     "specialbonus": 2,
@@ -4426,6 +5386,21 @@ monsters = [
     "movement": "40'",
     "name": "Hellhound, 5 HD",
     "noappearing": "2d4, Wild 2d4, Lair 2d4",
+    "noapproll": [
+        2,
+        4,
+        0
+    ],
+    "noapprolllair": [
+        2,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        2,
+        4,
+        0
+    ],
     "noattacks": "1 bite or 1 breath",
     "saveas": "Fighter: 5",
     "specialbonus": 2,
@@ -4451,6 +5426,21 @@ monsters = [
     "movement": "40'",
     "name": "Hellhound, 6 HD",
     "noappearing": "2d4, Wild 2d4, Lair 2d4",
+    "noapproll": [
+        2,
+        4,
+        0
+    ],
+    "noapprolllair": [
+        2,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        2,
+        4,
+        0
+    ],
     "noattacks": "1 bite or 1 breath",
     "saveas": "Fighter: 6",
     "specialbonus": 2,
@@ -4476,6 +5466,21 @@ monsters = [
     "movement": "40'",
     "name": "Hellhound, 7 HD",
     "noappearing": "2d4, Wild 2d4, Lair 2d4",
+    "noapproll": [
+        2,
+        4,
+        0
+    ],
+    "noapprolllair": [
+        2,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        2,
+        4,
+        0
+    ],
     "noattacks": "1 bite or 1 breath",
     "saveas": "Fighter: 7",
     "specialbonus": 2,
@@ -4501,6 +5506,11 @@ monsters = [
     "movement": "60' (10') Fly 120' (10')",
     "name": "Hippogriff",
     "noappearing": "Wild 2d8",
+    "noapprollwild": [
+        2,
+        8,
+        0
+    ],
     "noattacks": "2 claws, 1 bite",
     "saveas": "Fighter: 3",
     "specialbonus": 0,
@@ -4526,6 +5536,21 @@ monsters = [
     "movement": "30' Unarmored 40'",
     "name": "Hobgoblin",
     "noappearing": "1d6, Wild 2d4, Lair 4d8",
+    "noapproll": [
+        1,
+        6,
+        0
+    ],
+    "noapprolllair": [
+        4,
+        8,
+        0
+    ],
+    "noapprollwild": [
+        2,
+        4,
+        0
+    ],
     "noattacks": "1 weapon",
     "saveas": "Fighter: 1",
     "specialbonus": 0,
@@ -4552,6 +5577,11 @@ monsters = [
     "movement": "40' (10')",
     "name": "Hydra, 5 Heads",
     "noappearing": "1, Wild 1, Lair 1",
+    "noapprolllair": [
+        0,
+        0,
+        1
+    ],
     "noattacks": "5 bites",
     "saveas": "Fighter: 5",
     "specialbonus": 0,
@@ -4578,6 +5608,11 @@ monsters = [
     "movement": "40' (10')",
     "name": "Hydra, 6 Heads",
     "noappearing": "1, Wild 1, Lair 1",
+    "noapprolllair": [
+        0,
+        0,
+        1
+    ],
     "noattacks": "6 bites",
     "saveas": "Fighter: 6",
     "specialbonus": 0,
@@ -4604,6 +5639,11 @@ monsters = [
     "movement": "40' (10')",
     "name": "Hydra, 7 Heads",
     "noappearing": "1, Wild 1, Lair 1",
+    "noapprolllair": [
+        0,
+        0,
+        1
+    ],
     "noattacks": "7 bites",
     "saveas": "Fighter: 7",
     "specialbonus": 0,
@@ -4630,6 +5670,11 @@ monsters = [
     "movement": "40' (10')",
     "name": "Hydra, 8 Heads",
     "noappearing": "1, Wild 1, Lair 1",
+    "noapprolllair": [
+        0,
+        0,
+        1
+    ],
     "noattacks": "8 bites",
     "saveas": "Fighter: 8",
     "specialbonus": 0,
@@ -4656,6 +5701,11 @@ monsters = [
     "movement": "40' (10')",
     "name": "Hydra, 9 Heads",
     "noappearing": "1, Wild 1, Lair 1",
+    "noapprolllair": [
+        0,
+        0,
+        1
+    ],
     "noattacks": "9 bites",
     "saveas": "Fighter: 9",
     "specialbonus": 0,
@@ -4682,6 +5732,11 @@ monsters = [
     "movement": "40' (10')",
     "name": "Hydra, 10 Heads",
     "noappearing": "1, Wild 1, Lair 1",
+    "noapprolllair": [
+        0,
+        0,
+        1
+    ],
     "noattacks": "10 bites",
     "saveas": "Fighter: 10",
     "specialbonus": 0,
@@ -4708,6 +5763,11 @@ monsters = [
     "movement": "40' (10')",
     "name": "Hydra, 11 Heads",
     "noappearing": "1, Wild 1, Lair 1",
+    "noapprolllair": [
+        0,
+        0,
+        1
+    ],
     "noattacks": "11 bites",
     "saveas": "Fighter: 11",
     "specialbonus": 0,
@@ -4734,6 +5794,11 @@ monsters = [
     "movement": "40' (10')",
     "name": "Hydra, 12 Heads",
     "noappearing": "1, Wild 1, Lair 1",
+    "noapprolllair": [
+        0,
+        0,
+        1
+    ],
     "noattacks": "12 bites",
     "saveas": "Fighter: 12",
     "specialbonus": 0,
@@ -4757,6 +5822,11 @@ monsters = [
     "movement": "60'",
     "name": "Hyena",
     "noappearing": "1d8",
+    "noapproll": [
+        1,
+        8,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 2",
     "specialbonus": 0,
@@ -4780,6 +5850,11 @@ monsters = [
     "movement": "40'",
     "name": "Hyenodon",
     "noappearing": "1d6 Wild/Lair 1d8",
+    "noapproll": [
+        1,
+        6,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 3",
     "specialbonus": 0,
@@ -4805,6 +5880,16 @@ monsters = [
     "movement": "10' Fly 20'",
     "name": "Insect Swarm, Small",
     "noappearing": "1 swarm, Wild 1d3 swarms",
+    "noapproll": [
+        0,
+        0,
+        1
+    ],
+    "noapprollwild": [
+        1,
+        3,
+        0
+    ],
     "noattacks": "1 swarm",
     "saveas": "N/A",
     "specialbonus": 1,
@@ -4830,6 +5915,16 @@ monsters = [
     "movement": "10' Fly 20'",
     "name": "Insect Swarm, Medium",
     "noappearing": "1 swarm, Wild 1d3 swarms",
+    "noapproll": [
+        0,
+        0,
+        1
+    ],
+    "noapprollwild": [
+        1,
+        3,
+        0
+    ],
     "noattacks": "1 swarm",
     "saveas": "N/A",
     "specialbonus": 1,
@@ -4855,6 +5950,16 @@ monsters = [
     "movement": "10' Fly 20'",
     "name": "Insect Swarm, Large",
     "noappearing": "1 swarm, Wild 1d3 swarms",
+    "noapproll": [
+        0,
+        0,
+        1
+    ],
+    "noapprollwild": [
+        1,
+        3,
+        0
+    ],
     "noattacks": "1 swarm",
     "saveas": "N/A",
     "specialbonus": 1,
@@ -4880,6 +5985,11 @@ monsters = [
     "movement": "40'",
     "name": "Invisible Stalker",
     "noappearing": "1 (special)",
+    "noapproll": [
+        0,
+        0,
+        1
+    ],
     "noattacks": "1",
     "saveas": "Fighter: 8",
     "specialbonus": 1,
@@ -4906,6 +6016,11 @@ monsters = [
     "movement": "50'",
     "name": "Ironbane*",
     "noappearing": "1d4",
+    "noapproll": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "1 touch",
     "saveas": "Fighter: 4",
     "specialbonus": 1,
@@ -4929,6 +6044,16 @@ monsters = [
     "movement": "70' Swim 30'",
     "name": "Jaguar",
     "noappearing": "1d2, Wild 1d6",
+    "noapproll": [
+        1,
+        2,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        6,
+        0
+    ],
     "noattacks": "2 claws, 1 bite",
     "saveas": "Fighter: 4",
     "specialbonus": 0,
@@ -4955,6 +6080,11 @@ monsters = [
     "movement": "20'",
     "name": "Jelly, Black* (Black Pudding)",
     "noappearing": "1",
+    "noapproll": [
+        0,
+        0,
+        1
+    ],
     "noattacks": "1 pseudopod",
     "saveas": "Fighter: 10",
     "specialbonus": 1,
@@ -4981,6 +6111,11 @@ monsters = [
     "movement": "20'",
     "name": "Jelly, Glass (Gelatinous Cube)",
     "noappearing": "1",
+    "noapproll": [
+        0,
+        0,
+        1
+    ],
     "noattacks": "1",
     "saveas": "Fighter: 2",
     "specialbonus": 1,
@@ -5005,6 +6140,11 @@ monsters = [
     "movement": "1'",
     "name": "Jelly, Gray (Gray Ooze)",
     "noappearing": "1",
+    "noapproll": [
+        0,
+        0,
+        1
+    ],
     "noattacks": "1 pseudopod",
     "saveas": "Fighter: 3",
     "specialbonus": 1,
@@ -5030,6 +6170,11 @@ monsters = [
     "movement": "1'",
     "name": "Jelly, Green* (Green Slime)",
     "noappearing": "1",
+    "noapproll": [
+        0,
+        0,
+        1
+    ],
     "noattacks": "1 touch",
     "saveas": "Fighter: 2",
     "specialbonus": 2,
@@ -5054,6 +6199,11 @@ monsters = [
     "movement": "10'",
     "name": "Jelly, Ochre*",
     "noappearing": "1",
+    "noapproll": [
+        0,
+        0,
+        1
+    ],
     "noattacks": "1 pseudopod",
     "saveas": "Fighter: 5",
     "specialbonus": 1,
@@ -5081,6 +6231,21 @@ monsters = [
     "movement": "20' Unarmored 30'",
     "name": "Kobold",
     "noappearing": "4d4, Wild 6d10, Lair 6d10",
+    "noapproll": [
+        4,
+        4,
+        0
+    ],
+    "noapprolllair": [
+        6,
+        10,
+        0
+    ],
+    "noapprollwild": [
+        6,
+        10,
+        0
+    ],
     "noattacks": "1 weapon",
     "saveas": "Normal Man",
     "specialbonus": 0,
@@ -5105,6 +6270,11 @@ monsters = [
     "movement": "30'",
     "name": "Leech, Giant",
     "noappearing": "Wild 1d4",
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "1 bite + hold",
     "saveas": "Fighter: 6",
     "specialbonus": 0,
@@ -5128,6 +6298,11 @@ monsters = [
     "movement": "60' (10')",
     "name": "Leopard (Panther)",
     "noappearing": "1, Wild 1d4",
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "2 claws, 1 bite",
     "saveas": "Fighter: 4",
     "specialbonus": 0,
@@ -5153,6 +6328,11 @@ monsters = [
     "movement": "50'",
     "name": "Lion",
     "noappearing": "Wild 1d8",
+    "noapprollwild": [
+        1,
+        8,
+        0
+    ],
     "noattacks": "2 claws, 1 bite",
     "saveas": "Fighter: 5",
     "specialbonus": 0,
@@ -5176,6 +6356,11 @@ monsters = [
     "movement": "30'",
     "name": "Living Statue, Crystal",
     "noappearing": "1d6",
+    "noapproll": [
+        1,
+        6,
+        0
+    ],
     "noattacks": "2 fists",
     "saveas": "Fighter: 3",
     "specialbonus": 0,
@@ -5199,6 +6384,11 @@ monsters = [
     "movement": "10'",
     "name": "Living Statue, Iron",
     "noappearing": "1d4",
+    "noapproll": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "2 fists",
     "saveas": "Fighter: 4",
     "specialbonus": 1,
@@ -5222,6 +6412,11 @@ monsters = [
     "movement": "20'",
     "name": "Living Statue, Stone",
     "noappearing": "1d3",
+    "noapproll": [
+        1,
+        3,
+        0
+    ],
     "noattacks": "2 lava sprays",
     "saveas": "Fighter: 5",
     "specialbonus": 1,
@@ -5245,6 +6440,16 @@ monsters = [
     "movement": "40' Fly 70' (20', and see below)",
     "name": "Lizard, Giant Draco",
     "noappearing": "1d4, Wild 1d8",
+    "noapproll": [
+        1,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        8,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 3",
     "specialbonus": 0,
@@ -5268,6 +6473,16 @@ monsters = [
     "movement": "40' (special)",
     "name": "Lizard, Giant Gecko",
     "noappearing": "1d6, Wild 1d10",
+    "noapproll": [
+        1,
+        6,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        10,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 2",
     "specialbonus": 0,
@@ -5292,6 +6507,16 @@ monsters = [
     "movement": "40' (10')",
     "name": "Lizard, Giant Horned Chameleon",
     "noappearing": "1d3, Wild 1d6",
+    "noapproll": [
+        1,
+        3,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        6,
+        0
+    ],
     "noattacks": "1 tongue or 1 bite",
     "saveas": "Fighter: 4",
     "specialbonus": 0,
@@ -5315,6 +6540,16 @@ monsters = [
     "movement": "40' (10')",
     "name": "Lizard, Giant Tuatara",
     "noappearing": "1d2, Wild 1d4",
+    "noapproll": [
+        1,
+        2,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "2 claws, 1 bite",
     "saveas": "Fighter: 5",
     "specialbonus": 0,
@@ -5340,6 +6575,16 @@ monsters = [
     "movement": "40' (special)",
     "name": "Lizard, Monitor, Large",
     "noappearing": "1d4, Wild 1d6",
+    "noapproll": [
+        1,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        6,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 3",
     "specialbonus": 1,
@@ -5365,6 +6610,16 @@ monsters = [
     "movement": "40' (special)",
     "name": "Lizard, Monitor, Huge",
     "noappearing": "1d4, Wild 1d6",
+    "noapproll": [
+        1,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        6,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 5",
     "specialbonus": 1,
@@ -5390,6 +6645,16 @@ monsters = [
     "movement": "40' (special)",
     "name": "Lizard, Monitor, Giant",
     "noappearing": "1d4, Wild 1d6",
+    "noapproll": [
+        1,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        6,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 7",
     "specialbonus": 1,
@@ -5415,6 +6680,21 @@ monsters = [
     "movement": "20' Unarmored 30' Swim 40' (no armor)",
     "name": "Lizard Man, Common",
     "noappearing": "2d4, Wild 2d4, Lair 6d6",
+    "noapproll": [
+        2,
+        4,
+        0
+    ],
+    "noapprolllair": [
+        6,
+        6,
+        0
+    ],
+    "noapprollwild": [
+        2,
+        4,
+        0
+    ],
     "noattacks": "1 weapon",
     "saveas": "Fighter: 2",
     "specialbonus": 0,
@@ -5440,6 +6720,16 @@ monsters = [
     "movement": "30' Swim 40'",
     "name": "Lizard Man, Subterranean (Troglodyte)",
     "noappearing": "1d8, Lair 5d8",
+    "noapproll": [
+        1,
+        8,
+        0
+    ],
+    "noapprolllair": [
+        5,
+        8,
+        0
+    ],
     "noattacks": "2 claws, 1 bite",
     "saveas": "Fighter: 2",
     "specialbonus": 0,
@@ -5463,6 +6753,21 @@ monsters = [
     "movement": "40'",
     "name": "Lycanthrope, Werebear*",
     "noappearing": "1d4, Wild 1d4, Lair 1d4",
+    "noapproll": [
+        1,
+        4,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "2 claws, 1 bite + hug",
     "saveas": "Fighter: 6",
     "specialbonus": 1,
@@ -5487,6 +6792,21 @@ monsters = [
     "movement": "50' Human Form 40'",
     "name": "Lycanthrope, Wereboar*",
     "noappearing": "1d4, Wild 2d4, Lair 2d4",
+    "noapproll": [
+        1,
+        4,
+        0
+    ],
+    "noapprolllair": [
+        2,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        2,
+        4,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 4",
     "specialbonus": 1,
@@ -5512,6 +6832,21 @@ monsters = [
     "movement": "40'",
     "name": "Lycanthrope, Wererat*",
     "noappearing": "1d8, Wild 2d8, Lair 2d8",
+    "noapproll": [
+        1,
+        8,
+        0
+    ],
+    "noapprolllair": [
+        2,
+        8,
+        0
+    ],
+    "noapprollwild": [
+        2,
+        8,
+        0
+    ],
     "noattacks": "1 bite or 1 weapon",
     "saveas": "Fighter: 3",
     "specialbonus": 1,
@@ -5535,6 +6870,21 @@ monsters = [
     "movement": "50' Human Form 40'",
     "name": "Lycanthrope, Weretiger*",
     "noappearing": "1d4, Wild 1d4, Lair 1d4",
+    "noapproll": [
+        1,
+        4,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "2 claws, 1 bite",
     "saveas": "Fighter: 5",
     "specialbonus": 1,
@@ -5559,6 +6909,21 @@ monsters = [
     "movement": "60' Human Form 40'",
     "name": "Lycanthrope, Werewolf*",
     "noappearing": "1d6, Wild 2d6, Lair 2d6",
+    "noapproll": [
+        1,
+        6,
+        0
+    ],
+    "noapprolllair": [
+        2,
+        6,
+        0
+    ],
+    "noapprollwild": [
+        2,
+        6,
+        0
+    ],
     "noattacks": "1 bite (or 1 weapon, as given below)",
     "saveas": "Fighter: 4",
     "specialbonus": 1,
@@ -5585,6 +6950,11 @@ monsters = [
     "movement": "40' (15')",
     "name": "Mammoth",
     "noappearing": "Wild 1d12",
+    "noapprollwild": [
+        1,
+        12,
+        0
+    ],
     "noattacks": "2 tusks, 1 trunk grab, 2 tramples",
     "saveas": "Fighter: 15",
     "specialbonus": 0,
@@ -5611,6 +6981,11 @@ monsters = [
     "movement": "50' (15')",
     "name": "Mastodon",
     "noappearing": "Wild 2d8",
+    "noapprollwild": [
+        2,
+        8,
+        0
+    ],
     "noattacks": "2 tusks, 1 trunk grab, 2 tramples",
     "saveas": "Fighter: 13",
     "specialbonus": 0,
@@ -5636,6 +7011,21 @@ monsters = [
     "movement": "40' Fly 60' (10')",
     "name": "Manticore",
     "noappearing": "1d2, Wild 1d4, Lair 1d4",
+    "noapproll": [
+        1,
+        2,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "2 claws, 1 bite or 1d8 spikes (180' range)",
     "saveas": "Fighter: 6",
     "specialbonus": 1,
@@ -5662,6 +7052,21 @@ monsters = [
     "movement": "30'",
     "name": "Medusa",
     "noappearing": "1d3, Wild 1d4, Lair 1d4",
+    "noapproll": [
+        1,
+        3,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "1 snakebite, gaze",
     "saveas": "Fighter: 4",
     "specialbonus": 2,
@@ -5691,6 +7096,11 @@ monsters = [
     "movement": "Swim 40'",
     "name": "Mermaid",
     "noappearing": "Wild 1d2 or 3d6 (see below)",
+    "noapprollwild": [
+        1,
+        2,
+        0
+    ],
     "noattacks": "1 weapon",
     "saveas": "Fighter: 1",
     "specialbonus": 1,
@@ -5714,6 +7124,21 @@ monsters = [
     "movement": "30' Unarmored 40'",
     "name": "Minotaur",
     "noappearing": "1d6, Wild 1d8, Lair 1d8",
+    "noapproll": [
+        1,
+        6,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        8,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        8,
+        0
+    ],
     "noattacks": "1 gore, 1 bite or 1 weapon",
     "saveas": "Fighter: 6",
     "specialbonus": 0,
@@ -5737,6 +7162,16 @@ monsters = [
     "movement": "50'",
     "name": "Mountain Lion",
     "noappearing": "Wild 1d4, Lair 1d4",
+    "noapprolllair": [
+        1,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "2 claws, 1 bite",
     "saveas": "Fighter: 3",
     "specialbonus": 0,
@@ -5761,6 +7196,16 @@ monsters = [
     "movement": "20'",
     "name": "Mummy*",
     "noappearing": "1d4, Lair 1d12",
+    "noapproll": [
+        1,
+        4,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        12,
+        0
+    ],
     "noattacks": "1 touch",
     "saveas": "Fighter: 5",
     "specialbonus": 2,
@@ -5786,6 +7231,16 @@ monsters = [
     "movement": "40' Swim 40'",
     "name": "Nixie",
     "noappearing": "Wild 2d20, Lair 2d20",
+    "noapprolllair": [
+        2,
+        20,
+        0
+    ],
+    "noapprollwild": [
+        2,
+        20,
+        0
+    ],
     "noattacks": "1 dagger",
     "saveas": "Fighter: 2",
     "specialbonus": 1,
@@ -5811,6 +7266,11 @@ monsters = [
     "movement": "Swim 30'",
     "name": "Octopus, Giant",
     "noappearing": "Wild 1d2",
+    "noapprollwild": [
+        1,
+        2,
+        0
+    ],
     "noattacks": "8 tentacles, 1 bite (see below)",
     "saveas": "Fighter: 8",
     "specialbonus": 0,
@@ -5835,6 +7295,21 @@ monsters = [
     "movement": "30' Unarmored 40'",
     "name": "Ogre",
     "noappearing": "1d6, Wild 2d6, Lair 2d6",
+    "noapproll": [
+        1,
+        6,
+        0
+    ],
+    "noapprolllair": [
+        2,
+        6,
+        0
+    ],
+    "noapprollwild": [
+        2,
+        6,
+        0
+    ],
     "noattacks": "1 huge weapon",
     "saveas": "Fighter: 4",
     "specialbonus": 0,
@@ -5860,6 +7335,21 @@ monsters = [
     "movement": "30' Unarmored 40'",
     "name": "Orc",
     "noappearing": "2d4, Wild 3d6, Lair 10d6",
+    "noapproll": [
+        2,
+        4,
+        0
+    ],
+    "noapprolllair": [
+        10,
+        6,
+        0
+    ],
+    "noapprollwild": [
+        3,
+        6,
+        0
+    ],
     "noattacks": "1 weapon",
     "saveas": "Fighter: 1",
     "specialbonus": 0,
@@ -5883,6 +7373,11 @@ monsters = [
     "movement": "60'",
     "name": "Ostrich",
     "noappearing": "Wild 1d6",
+    "noapprollwild": [
+        1,
+        6,
+        0
+    ],
     "noattacks": "1 kick",
     "saveas": "Fighter: 3",
     "specialbonus": 0,
@@ -5908,6 +7403,11 @@ monsters = [
     "movement": "50'",
     "name": "Emu",
     "noappearing": "Wild 1d6",
+    "noapprollwild": [
+        1,
+        6,
+        0
+    ],
     "noattacks": "1 kick",
     "saveas": "Fighter: 2",
     "specialbonus": 0,
@@ -5931,6 +7431,11 @@ monsters = [
     "movement": "10' Fly 160' (10')",
     "name": "Owl",
     "noappearing": "1, Wild 1d4",
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "2 talons, 1 beak",
     "saveas": "Fighter: 1",
     "specialbonus": 0,
@@ -5955,6 +7460,21 @@ monsters = [
     "movement": "40'",
     "name": "Owlbear",
     "noappearing": "1d4, Wild 1d4, Lair 1d4",
+    "noapproll": [
+        1,
+        4,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "2 claws, 1 bite + 1 hug",
     "saveas": "Fighter: 5",
     "specialbonus": 0,
@@ -5978,6 +7498,11 @@ monsters = [
     "movement": "10' Fly 100' (10')",
     "name": "Parrot (or Cockatoo)",
     "noappearing": "Wild 1d4",
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "1 talon or 1 beak",
     "saveas": "Normal Man",
     "specialbonus": 0,
@@ -6002,6 +7527,11 @@ monsters = [
     "movement": "80' (10') Fly 160' (10')",
     "name": "Pegasus",
     "noappearing": "Wild 1d12",
+    "noapprollwild": [
+        1,
+        12,
+        0
+    ],
     "noattacks": "2 hooves",
     "saveas": "Fighter: 2",
     "specialbonus": 0,
@@ -6027,6 +7557,21 @@ monsters = [
     "movement": "30' Fly 60'",
     "name": "Pixie",
     "noappearing": "2d4, Wild 10d4, Lair 10d4",
+    "noapproll": [
+        2,
+        4,
+        0
+    ],
+    "noapprolllair": [
+        10,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        10,
+        4,
+        0
+    ],
     "noattacks": "1 dagger",
     "saveas": "Fighter: 1 (with Elf bonuses)",
     "specialbonus": 1,
@@ -6052,6 +7597,16 @@ monsters = [
     "movement": "20' (15') Burrow 20' (15')",
     "name": "Purple Worm",
     "noappearing": "1d2, Wild 1d4",
+    "noapproll": [
+        1,
+        2,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "1 bite, 1 sting",
     "saveas": "Fighter: 8",
     "specialbonus": 1,
@@ -6077,6 +7632,16 @@ monsters = [
     "movement": "20' (15') Burrow 20' (15')",
     "name": "Purple Worm",
     "noappearing": "1d2, Wild 1d4",
+    "noapproll": [
+        1,
+        2,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "1 bite, 1 sting",
     "saveas": "Fighter: 9",
     "specialbonus": 1,
@@ -6102,6 +7667,16 @@ monsters = [
     "movement": "20' (15') Burrow 20' (15')",
     "name": "Purple Worm",
     "noappearing": "1d2, Wild 1d4",
+    "noapproll": [
+        1,
+        2,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "1 bite, 1 sting",
     "saveas": "Fighter: 9",
     "specialbonus": 1,
@@ -6127,6 +7702,16 @@ monsters = [
     "movement": "20' (15') Burrow 20' (15')",
     "name": "Purple Worm",
     "noappearing": "1d2, Wild 1d4",
+    "noapproll": [
+        1,
+        2,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "1 bite, 1 sting",
     "saveas": "Fighter: 10",
     "specialbonus": 1,
@@ -6152,6 +7737,16 @@ monsters = [
     "movement": "20' (15') Burrow 20' (15')",
     "name": "Purple Worm",
     "noappearing": "1d2, Wild 1d4",
+    "noapproll": [
+        1,
+        2,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "1 bite, 1 sting",
     "saveas": "Fighter: 10",
     "specialbonus": 1,
@@ -6177,6 +7772,16 @@ monsters = [
     "movement": "20' (15') Burrow 20' (15')",
     "name": "Purple Worm",
     "noappearing": "1d2, Wild 1d4",
+    "noapproll": [
+        1,
+        2,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "1 bite, 1 sting",
     "saveas": "Fighter: 6",
     "specialbonus": 1,
@@ -6202,6 +7807,16 @@ monsters = [
     "movement": "20' (15') Burrow 20' (15')",
     "name": "Purple Worm",
     "noappearing": "1d2, Wild 1d4",
+    "noapproll": [
+        1,
+        2,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "1 bite, 1 sting",
     "saveas": "Fighter: 6",
     "specialbonus": 1,
@@ -6227,6 +7842,16 @@ monsters = [
     "movement": "20' (15') Burrow 20' (15')",
     "name": "Purple Worm",
     "noappearing": "1d2, Wild 1d4",
+    "noapproll": [
+        1,
+        2,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "1 bite, 1 sting",
     "saveas": "Fighter: 7",
     "specialbonus": 1,
@@ -6252,6 +7877,16 @@ monsters = [
     "movement": "20' (15') Burrow 20' (15')",
     "name": "Purple Worm",
     "noappearing": "1d2, Wild 1d4",
+    "noapproll": [
+        1,
+        2,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "1 bite, 1 sting",
     "saveas": "Fighter: 7",
     "specialbonus": 1,
@@ -6277,6 +7912,16 @@ monsters = [
     "movement": "20' (15') Burrow 20' (15')",
     "name": "Purple Worm",
     "noappearing": "1d2, Wild 1d4",
+    "noapproll": [
+        1,
+        2,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "1 bite, 1 sting",
     "saveas": "Fighter: 8",
     "specialbonus": 1,
@@ -6303,6 +7948,21 @@ monsters = [
     "movement": "20' Swim 10'",
     "name": "Rat",
     "noappearing": "5d10, Wild 5d10, Lair 5d10",
+    "noapproll": [
+        5,
+        10,
+        0
+    ],
+    "noapprolllair": [
+        5,
+        10,
+        0
+    ],
+    "noapprollwild": [
+        5,
+        10,
+        0
+    ],
     "noattacks": "1 bite per pack",
     "saveas": "Normal Man",
     "specialbonus": 0,
@@ -6328,6 +7988,21 @@ monsters = [
     "movement": "40' Swim 20'",
     "name": "Rat, Giant",
     "noappearing": "3d6, Wild 3d10, Lair 3d10",
+    "noapproll": [
+        3,
+        6,
+        0
+    ],
+    "noapprolllair": [
+        3,
+        10,
+        0
+    ],
+    "noapprollwild": [
+        3,
+        10,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 1",
     "specialbonus": 0,
@@ -6354,6 +8029,21 @@ monsters = [
     "movement": "50'",
     "name": "Rhagodessa, Giant",
     "noappearing": "1d4, Wild 1d6, Lair 1d6",
+    "noapproll": [
+        1,
+        4,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        6,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        6,
+        0
+    ],
     "noattacks": "2 legs, 1 bite",
     "saveas": "Fighter: 4",
     "specialbonus": 0,
@@ -6377,6 +8067,11 @@ monsters = [
     "movement": "40' (15')",
     "name": "Rhinoceros, Black",
     "noappearing": "Wild 1d12",
+    "noapprollwild": [
+        1,
+        12,
+        0
+    ],
     "noattacks": "1 butt or 1 trample",
     "saveas": "Fighter: 6",
     "specialbonus": 0,
@@ -6400,6 +8095,11 @@ monsters = [
     "movement": "40' (15')",
     "name": "Rhinoceros, Woolly",
     "noappearing": "Wild 1d8",
+    "noapprollwild": [
+        1,
+        8,
+        0
+    ],
     "noattacks": "1 butt or 1 trample",
     "saveas": "Fighter: 8",
     "specialbonus": 0,
@@ -6426,6 +8126,11 @@ monsters = [
     "movement": "20' Fly 160' (10')",
     "name": "Roc",
     "noappearing": "Wild 1d12",
+    "noapprollwild": [
+        1,
+        12,
+        0
+    ],
     "noattacks": "2 claws, 1 bite",
     "saveas": "Fighter: 6",
     "specialbonus": 0,
@@ -6452,6 +8157,11 @@ monsters = [
     "movement": "20' Fly 160' (10')",
     "name": "Roc, Large",
     "noappearing": "Wild 1d8",
+    "noapprollwild": [
+        1,
+        8,
+        0
+    ],
     "noattacks": "2 claws, 1 bite",
     "saveas": "Fighter: 12",
     "specialbonus": 0,
@@ -6478,6 +8188,11 @@ monsters = [
     "movement": "20' Fly 160' (10')",
     "name": "Roc, Giant",
     "noappearing": "Wild 1",
+    "noapprollwild": [
+        0,
+        0,
+        1
+    ],
     "noattacks": "2 claws, 1 bite",
     "saveas": "Fighter: 20 at +5",
     "specialbonus": 0,
@@ -6502,6 +8217,21 @@ monsters = [
     "movement": "40'",
     "name": "Rock Baboon",
     "noappearing": "2d6, Wild 2d6, Lair 5d6",
+    "noapproll": [
+        2,
+        6,
+        0
+    ],
+    "noapprolllair": [
+        5,
+        6,
+        0
+    ],
+    "noapprollwild": [
+        2,
+        6,
+        0
+    ],
     "noattacks": "1 club or 1 fist, 1 bite",
     "saveas": "Fighter: 2",
     "specialbonus": 0,
@@ -6525,6 +8255,11 @@ monsters = [
     "movement": "5'",
     "name": "Rot Grub",
     "noappearing": "5d4",
+    "noapproll": [
+        5,
+        4,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 1",
     "specialbonus": 0,
@@ -6551,6 +8286,11 @@ monsters = [
     "movement": "40'",
     "name": "Rust Monster*",
     "noappearing": "1d4",
+    "noapproll": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "1 touch",
     "saveas": "Fighter: 5",
     "specialbonus": 1,
@@ -6574,6 +8314,16 @@ monsters = [
     "movement": "50'",
     "name": "Sabre-Tooth Cat",
     "noappearing": "Wild 1d4, Lair 1d4",
+    "noapprolllair": [
+        1,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "2 claws, 1 bite",
     "saveas": "Fighter: 8",
     "specialbonus": 0,
@@ -6597,6 +8347,21 @@ monsters = [
     "movement": "40'",
     "name": "Salamander, Flame*",
     "noappearing": "1d4+1, Wild 2d4, Lair 2d4",
+    "noapproll": [
+        1,
+        4,
+        1
+    ],
+    "noapprolllair": [
+        2,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        2,
+        4,
+        0
+    ],
     "noattacks": "2 claws, 1 bite + heat",
     "saveas": "Fighter: 8",
     "specialbonus": 1,
@@ -6621,6 +8386,21 @@ monsters = [
     "movement": "40'",
     "name": "Salamander, Frost*",
     "noappearing": "1d3, Wild 1d3, Lair 1d3",
+    "noapproll": [
+        1,
+        3,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        3,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        3,
+        0
+    ],
     "noattacks": "4 claws, 1 bite + cold",
     "saveas": "Fighter: 12",
     "specialbonus": 1,
@@ -6645,6 +8425,21 @@ monsters = [
     "movement": "40'",
     "name": "Salamander, Lightning*",
     "noappearing": "1d4, Wild 2d4, Lair 2d4",
+    "noapproll": [
+        1,
+        4,
+        0
+    ],
+    "noapprolllair": [
+        2,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        2,
+        4,
+        0
+    ],
     "noattacks": "2 bites + lightning",
     "saveas": "Fighter: 10",
     "specialbonus": 1,
@@ -6670,6 +8465,21 @@ monsters = [
     "movement": "20'",
     "name": "Salamander, Sand*",
     "noappearing": "1d3, Wild 2d4, Lair 1d6",
+    "noapproll": [
+        1,
+        3,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        6,
+        0
+    ],
+    "noapprollwild": [
+        2,
+        4,
+        0
+    ],
     "noattacks": "1 bite, 1 transform stone to sand",
     "saveas": "Fighter: 7",
     "specialbonus": 1,
@@ -6693,6 +8503,16 @@ monsters = [
     "movement": "50' (10')",
     "name": "Scorpion, Giant",
     "noappearing": "1d6, Wild 1d6",
+    "noapproll": [
+        1,
+        6,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        6,
+        0
+    ],
     "noattacks": "2 claws, 1 stinger",
     "saveas": "Fighter: 2",
     "specialbonus": 1,
@@ -6716,6 +8536,11 @@ monsters = [
     "movement": "Swim 50' (10')",
     "name": "Sea Serpent",
     "noappearing": "Wild 2d6",
+    "noapprollwild": [
+        2,
+        6,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 6",
     "specialbonus": 0,
@@ -6741,6 +8566,21 @@ monsters = [
     "movement": "30'",
     "name": "Shadow*",
     "noappearing": "1d10, Wild 1d10, Lair 1d10",
+    "noapproll": [
+        1,
+        10,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        10,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        10,
+        0
+    ],
     "noattacks": "1 touch",
     "saveas": "Fighter: 2",
     "specialbonus": 1,
@@ -6764,6 +8604,11 @@ monsters = [
     "movement": "Swim 60' (10')",
     "name": "Shark, Bull",
     "noappearing": "Wild 3d6",
+    "noapprollwild": [
+        3,
+        6,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 2",
     "specialbonus": 0,
@@ -6787,6 +8632,11 @@ monsters = [
     "movement": "Swim 60' (10')",
     "name": "Shark, Great White",
     "noappearing": "Wild 1d4",
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 8",
     "specialbonus": 0,
@@ -6810,6 +8660,11 @@ monsters = [
     "movement": "Swim 80'",
     "name": "Shark, Mako",
     "noappearing": "Wild 2d6",
+    "noapprollwild": [
+        2,
+        6,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 4",
     "specialbonus": 0,
@@ -6834,6 +8689,21 @@ monsters = [
     "movement": "60'",
     "name": "Shrew, Giant",
     "noappearing": "1d4, Wild 1d8, Lair 1d8",
+    "noapproll": [
+        1,
+        4,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        8,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        8,
+        0
+    ],
     "noattacks": "2 bites",
     "saveas": "Fighter: 2",
     "specialbonus": 0,
@@ -6859,6 +8729,21 @@ monsters = [
     "movement": "60'",
     "name": "Shrew, Giant Venomous",
     "noappearing": "1d4, Wild 1d8, Lair 1d8",
+    "noapproll": [
+        1,
+        4,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        8,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        8,
+        0
+    ],
     "noattacks": "2 bites",
     "saveas": "Fighter: 2",
     "specialbonus": 1,
@@ -6884,6 +8769,11 @@ monsters = [
     "movement": "5'",
     "name": "Shrieker (Wailing Morel)",
     "noappearing": "1d8",
+    "noapproll": [
+        1,
+        8,
+        0
+    ],
     "noattacks": "None, but summons encounters",
     "saveas": "Fighter: 1",
     "specialbonus": 0,
@@ -6907,6 +8797,16 @@ monsters = [
     "movement": "40'",
     "name": "Skeleton",
     "noappearing": "3d6, Wild 3d10",
+    "noapproll": [
+        3,
+        6,
+        0
+    ],
+    "noapprollwild": [
+        3,
+        10,
+        0
+    ],
     "noattacks": "1 weapon",
     "saveas": "Fighter: 1",
     "specialbonus": 0,
@@ -6933,6 +8833,21 @@ monsters = [
     "movement": "30'",
     "name": "Snake, Pit Viper (and Rattlesnake)",
     "noappearing": "1d4, Wild 1d4, Lair 1d4",
+    "noapproll": [
+        1,
+        4,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 1",
     "specialbonus": 1,
@@ -6959,6 +8874,21 @@ monsters = [
     "movement": "40'",
     "name": "Snake, Giant Pit Viper (and Rattlesnake)",
     "noappearing": "1d2, Wild 1d2, Lair 1d2",
+    "noapproll": [
+        1,
+        2,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        2,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        2,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 2",
     "specialbonus": 1,
@@ -6982,6 +8912,21 @@ monsters = [
     "movement": "30'",
     "name": "Snake, Python",
     "noappearing": "1d3, Wild 1d3, Lair 1d3",
+    "noapproll": [
+        1,
+        3,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        3,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        3,
+        0
+    ],
     "noattacks": "1 bite, 1 constrict (see below)",
     "saveas": "Fighter: 5",
     "specialbonus": 1,
@@ -7006,6 +8951,11 @@ monsters = [
     "movement": "10' Swim 30'",
     "name": "Snake, Sea",
     "noappearing": "Wild 1d8",
+    "noapprollwild": [
+        1,
+        8,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 3",
     "specialbonus": 1,
@@ -7029,6 +8979,21 @@ monsters = [
     "movement": "30'",
     "name": "Snake, Spitting Cobra",
     "noappearing": "1d6, Wild 1d6, Lair 1d6",
+    "noapproll": [
+        1,
+        6,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        6,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        6,
+        0
+    ],
     "noattacks": "1 bite or 1 spit",
     "saveas": "Fighter: 1",
     "specialbonus": 1,
@@ -7054,6 +9019,16 @@ monsters = [
     "movement": "Fly 100'",
     "name": "Spectre*",
     "noappearing": "1d4, Lair 1d8",
+    "noapproll": [
+        1,
+        4,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        8,
+        0
+    ],
     "noattacks": "1 touch",
     "saveas": "Fighter: 6",
     "specialbonus": 2,
@@ -7078,6 +9053,21 @@ monsters = [
     "movement": "20' Web 40'",
     "name": "Spider, Giant Black Widow",
     "noappearing": "1d3, Wild 1d3, Lair 1d3",
+    "noapproll": [
+        1,
+        3,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        3,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        3,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 3",
     "specialbonus": 1,
@@ -7101,6 +9091,21 @@ monsters = [
     "movement": "40'",
     "name": "Spider, Giant Crab",
     "noappearing": "1d4, Wild 1d4, Lair 1d4",
+    "noapproll": [
+        1,
+        4,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 2",
     "specialbonus": 1,
@@ -7125,6 +9130,21 @@ monsters = [
     "movement": "50'",
     "name": "Spider, Giant Tarantula",
     "noappearing": "1d3, Wild 1d3, Lair 1d3",
+    "noapproll": [
+        1,
+        3,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        3,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        3,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 4",
     "specialbonus": 1,
@@ -7149,6 +9169,21 @@ monsters = [
     "movement": "20' Fly 60'",
     "name": "Sprite",
     "noappearing": "3d6, Wild 3d6, Lair 5d8",
+    "noapproll": [
+        3,
+        6,
+        0
+    ],
+    "noapprolllair": [
+        5,
+        8,
+        0
+    ],
+    "noapprollwild": [
+        3,
+        6,
+        0
+    ],
     "noattacks": "1 dagger or 1 spell",
     "saveas": "Magic-User: 4 (with Elf bonuses)",
     "specialbonus": 1,
@@ -7175,6 +9210,11 @@ monsters = [
     "movement": "Swim 40'",
     "name": "Squid, Giant, Male",
     "noappearing": "Wild 1d4 (see below)",
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "8 tentacles, 1 bite",
     "saveas": "Fighter: 6",
     "specialbonus": 0,
@@ -7201,6 +9241,11 @@ monsters = [
     "movement": "Swim 40'",
     "name": "Squid, Giant, Female",
     "noappearing": "Wild 1d4 (see below)",
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "8 tentacles, 1 bite",
     "saveas": "Fighter: 7",
     "specialbonus": 0,
@@ -7226,6 +9271,21 @@ monsters = [
     "movement": "10' Fly 60'",
     "name": "Stirge",
     "noappearing": "1d10, Wild 3d12, Lair 3d12",
+    "noapproll": [
+        1,
+        10,
+        0
+    ],
+    "noapprolllair": [
+        3,
+        12,
+        0
+    ],
+    "noapprollwild": [
+        3,
+        12,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 1",
     "specialbonus": 1,
@@ -7253,6 +9313,11 @@ monsters = [
     "movement": "5'",
     "name": "Strangle Vine",
     "noappearing": "1d4+1",
+    "noapproll": [
+        1,
+        4,
+        1
+    ],
     "noattacks": "1 entangle",
     "saveas": "Fighter: 6",
     "specialbonus": 0,
@@ -7278,6 +9343,16 @@ monsters = [
     "movement": "40'",
     "name": "Tentacle Worm",
     "noappearing": "1d3, Lair 1d3",
+    "noapproll": [
+        1,
+        3,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        3,
+        0
+    ],
     "noattacks": "6 tentacles",
     "saveas": "Fighter: 3",
     "specialbonus": 1,
@@ -7302,6 +9377,16 @@ monsters = [
     "movement": "50'",
     "name": "Tiger",
     "noappearing": "Wild 1d3, Lair 1d3",
+    "noapprolllair": [
+        1,
+        3,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        3,
+        0
+    ],
     "noattacks": "2 claws, 1 bite",
     "saveas": "Fighter: 6",
     "specialbonus": 0,
@@ -7325,6 +9410,11 @@ monsters = [
     "movement": "40' (10')",
     "name": "Titanothere",
     "noappearing": "Wild 1d6",
+    "noapprollwild": [
+        1,
+        6,
+        0
+    ],
     "noattacks": "1 butt or 1 trample",
     "saveas": "Fighter: 8",
     "specialbonus": 0,
@@ -7352,6 +9442,16 @@ monsters = [
     "movement": "20'",
     "name": "Treant",
     "noappearing": "Wild 1d8, Lair 1d8",
+    "noapprolllair": [
+        1,
+        8,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        8,
+        0
+    ],
     "noattacks": "2 fists",
     "saveas": "Fighter: 8",
     "specialbonus": 1,
@@ -7379,6 +9479,11 @@ monsters = [
     "movement": "40'",
     "name": "Troll",
     "noappearing": "1 (special, see below)",
+    "noapproll": [
+        0,
+        0,
+        1
+    ],
     "noattacks": "2 claws, 1 bite",
     "saveas": "Fighter: 7",
     "specialbonus": 1,
@@ -7406,6 +9511,21 @@ monsters = [
     "movement": "40'",
     "name": "Trollwife",
     "noappearing": "1d8, Wild 1d8, Lair 1d8",
+    "noapproll": [
+        1,
+        8,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        8,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        8,
+        0
+    ],
     "saveas": "Fighter: 6",
     "specialbonus": 1,
     "treasure": "D",
@@ -7584,6 +9704,11 @@ monsters = [
     "movement": "5' Swim 20'",
     "name": "Turtle, Box",
     "noappearing": "Wild 1d4",
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Normal Man",
     "specialbonus": 0,
@@ -7607,6 +9732,11 @@ monsters = [
     "movement": "5' Swim 20'",
     "name": "Turtle, Snapping",
     "noappearing": "Wild 1d4",
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 1",
     "specialbonus": 0,
@@ -7632,6 +9762,11 @@ monsters = [
     "movement": "80'",
     "name": "Unicorn",
     "noappearing": "Wild 1d6",
+    "noapprollwild": [
+        1,
+        6,
+        0
+    ],
     "noattacks": "2 hooves, 1 horn (+3 attack bonus)",
     "saveas": "Fighter: 8",
     "specialbonus": 1,
@@ -7657,6 +9792,11 @@ monsters = [
     "movement": "70'",
     "name": "Alicorn",
     "noappearing": "Wild 1d8",
+    "noapprollwild": [
+        1,
+        8,
+        0
+    ],
     "noattacks": "2 hooves, 1 horn",
     "saveas": "Fighter: 6",
     "specialbonus": 1,
@@ -7717,6 +9857,21 @@ monsters = [
     "movement": "40' Fly 60' (as giant bat, see below)",
     "name": "Vampire*",
     "noappearing": "1d6, Wild 1d6, Lair 1d6",
+    "noapproll": [
+        1,
+        6,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        6,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        6,
+        0
+    ],
     "noattacks": "1 weapon or special, see below",
     "saveas": "Fighter: 7",
     "specialbonus": 2,
@@ -7753,6 +9908,21 @@ monsters = [
     "movement": "40' Fly 60' (as giant bat, see below)",
     "name": "Vampire*",
     "noappearing": "1d6, Wild 1d6, Lair 1d6",
+    "noapproll": [
+        1,
+        6,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        6,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        6,
+        0
+    ],
     "noattacks": "1 weapon or special, see below",
     "saveas": "Fighter: 8",
     "specialbonus": 2,
@@ -7789,6 +9959,21 @@ monsters = [
     "movement": "40' Fly 60' (as giant bat, see below)",
     "name": "Vampire*",
     "noappearing": "1d6, Wild 1d6, Lair 1d6",
+    "noapproll": [
+        1,
+        6,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        6,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        6,
+        0
+    ],
     "noattacks": "1 weapon or special, see below",
     "saveas": "Fighter: 9",
     "specialbonus": 2,
@@ -7814,6 +9999,11 @@ monsters = [
     "movement": "Swim 30'",
     "name": "Water Termite, Giant",
     "noappearing": "Wild 1d4",
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "1 spray",
     "saveas": "Fighter: 1",
     "specialbonus": 0,
@@ -7839,6 +10029,11 @@ monsters = [
     "movement": "Swim 30'",
     "name": "Water Termite, Giant",
     "noappearing": "Wild 1d4",
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "1 spray",
     "saveas": "Fighter: 2",
     "specialbonus": 0,
@@ -7864,6 +10059,11 @@ monsters = [
     "movement": "Swim 30'",
     "name": "Water Termite, Giant",
     "noappearing": "Wild 1d4",
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "1 spray",
     "saveas": "Fighter: 3",
     "specialbonus": 0,
@@ -7889,6 +10089,11 @@ monsters = [
     "movement": "Swim 30'",
     "name": "Water Termite, Giant",
     "noappearing": "Wild 1d4",
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "1 spray",
     "saveas": "Fighter: 4",
     "specialbonus": 0,
@@ -7913,6 +10118,21 @@ monsters = [
     "movement": "40'",
     "name": "Weasel",
     "noappearing": "1d6, Wild 1d8, Lair 1d8",
+    "noapproll": [
+        1,
+        6,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        8,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        8,
+        0
+    ],
     "noattacks": "1 bite + hold",
     "saveas": "Fighter: 1",
     "specialbonus": 0,
@@ -7938,6 +10158,21 @@ monsters = [
     "movement": "50'",
     "name": "Weasel, Giant",
     "noappearing": "1d4, Wild 1d6, Lair 1d6",
+    "noapproll": [
+        1,
+        4,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        6,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        6,
+        0
+    ],
     "noattacks": "1 bite + hold",
     "saveas": "Fighter: 5",
     "specialbonus": 0,
@@ -7962,6 +10197,11 @@ monsters = [
     "movement": "Swim 80' (10')",
     "name": "Whale, Killer",
     "noappearing": "Wild 1d6",
+    "noapprollwild": [
+        1,
+        6,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 6",
     "specialbonus": 0,
@@ -7985,6 +10225,11 @@ monsters = [
     "movement": "Swim 60'",
     "name": "Whale, Narwhal",
     "noappearing": "Wild 1d4",
+    "noapprollwild": [
+        1,
+        4,
+        0
+    ],
     "noattacks": "1 horn",
     "saveas": "Fighter: 6",
     "specialbonus": 0,
@@ -8008,6 +10253,11 @@ monsters = [
     "movement": "Swim 60' (20')",
     "name": "Whale, Sperm",
     "noappearing": "Wild 1d3",
+    "noapprollwild": [
+        1,
+        3,
+        0
+    ],
     "noattacks": "1 bite or 1 sound blast",
     "saveas": "Fighter: 8",
     "specialbonus": 1,
@@ -8034,6 +10284,21 @@ monsters = [
     "movement": "30'",
     "name": "Wight*",
     "noappearing": "1d6, Wild 1d8, Lair 1d8",
+    "noapproll": [
+        1,
+        6,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        8,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        8,
+        0
+    ],
     "noattacks": "1 touch",
     "saveas": "Fighter: 3",
     "specialbonus": 1,
@@ -8057,6 +10322,21 @@ monsters = [
     "movement": "60'",
     "name": "Wolf",
     "noappearing": "2d6, Wild 3d6, Lair 3d6",
+    "noapproll": [
+        2,
+        6,
+        0
+    ],
+    "noapprolllair": [
+        3,
+        6,
+        0
+    ],
+    "noapprollwild": [
+        3,
+        6,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 2",
     "specialbonus": 0,
@@ -8080,6 +10360,21 @@ monsters = [
     "movement": "50'",
     "name": "Wolf, Dire",
     "noappearing": "1d4, Wild 2d4, Lair 2d4",
+    "noapproll": [
+        1,
+        4,
+        0
+    ],
+    "noapprolllair": [
+        2,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        2,
+        4,
+        0
+    ],
     "noattacks": "1 bite",
     "saveas": "Fighter: 4",
     "specialbonus": 0,
@@ -8104,6 +10399,16 @@ monsters = [
     "movement": "Fly 80'",
     "name": "Wraith*",
     "noappearing": "1d4, Lair 1d6",
+    "noapproll": [
+        1,
+        4,
+        0
+    ],
+    "noapprolllair": [
+        1,
+        6,
+        0
+    ],
     "noattacks": "1 touch",
     "saveas": "Fighter: 4",
     "specialbonus": 2,
@@ -8129,6 +10434,16 @@ monsters = [
     "movement": "30' (10') Fly 80' (15')",
     "name": "Wyvern",
     "noappearing": "Wild 1d6, Lair 1d6",
+    "noapprolllair": [
+        1,
+        6,
+        0
+    ],
+    "noapprollwild": [
+        1,
+        6,
+        0
+    ],
     "noattacks": "1 bite, 1 stinger or 2 talons, 1 stinger",
     "saveas": "Fighter: 7",
     "specialbonus": 1,
@@ -8152,6 +10467,11 @@ monsters = [
     "movement": "0",
     "name": "Yellow Mold",
     "noappearing": "1d8",
+    "noapproll": [
+        1,
+        8,
+        0
+    ],
     "noattacks": "Spore cloud (1/day)",
     "saveas": "Normal Man",
     "specialbonus": 1,
@@ -8177,6 +10497,16 @@ monsters = [
     "movement": "20'",
     "name": "Zombie",
     "noappearing": "2d4, Wild 4d6",
+    "noapproll": [
+        2,
+        4,
+        0
+    ],
+    "noapprollwild": [
+        4,
+        6,
+        0
+    ],
     "noattacks": "1 bludgeon or 1 weapon",
     "saveas": "Fighter: 2",
     "specialbonus": 0,
@@ -8203,6 +10533,11 @@ monsters = [
     "movement": "20'",
     "name": "Zombraire",
     "noappearing": "1",
+    "noapproll": [
+        0,
+        0,
+        1
+    ],
     "noattacks": "1 dagger or 1 spell",
     "saveas": "Magic-User: by HD",
     "specialbonus": 1,
@@ -8227,6 +10562,11 @@ monsters = [
     "movement": "40'",
     "name": "Skeletaire",
     "noappearing": "1",
+    "noapproll": [
+        0,
+        0,
+        1
+    ],
     "noattacks": "1 dagger or 1 spell",
     "saveas": "Magic-User: by HD",
     "specialbonus": 1,

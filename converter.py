@@ -31,6 +31,7 @@ import json, sys, glob, re
 xpnum = re.compile("^[0-9,][0-9,]*$")
 plusminus = re.compile("([+-])")
 dieroll = re.compile("([0-9][0-9]*)d([0-9][0-9]*)")
+dieparse = re.compile("([0-9][0-9]*)d([0-9][0-9]*)([+-][0-9][0-9]*)?")
 
 
 def xpconvert(s):
@@ -39,9 +40,58 @@ def xpconvert(s):
     return "".join(s.split(","))
 
 
+def safeint(s):
+    try:
+        return int(s)
+    except:
+        return 0
+
+
+def parsedice(s):
+    # parse the first word of given string
+    # returns parameter list and remainder of string
+    lst = s.strip().split(" ", 1)
+    first = s
+    remain = ""
+    if len(lst) > 1:
+        remain = lst[1].strip()
+        first = lst[0]
+    # a literal number is a special case here
+    try:
+        num = int(first)
+        return ([ 0, 0, num ], remain)
+    except:
+        pass
+    # so is it a die roll?
+    mo = dieparse.match(first)
+    if mo:
+        return ([ safeint(mo.group(1)), safeint(mo.group(2)), safeint(mo.group(3)) ], remain)
+    return (None, s)
+
+
+def parsenoapp(data):
+
+    noapp = data.get("noappearing", "0").lower().split()
+    if not noapp:
+        return
+
+    roll, rem = parsedice(noapp[0])
+    if roll:
+        data["noapproll"] = roll
+        noapp.pop(0) # extract and remove the word
+
+    # parse one word at a time.
+    while noapp:
+        word = noapp.pop(0)
+        if word in ("wild", "lair"):
+            roll, rem = parsedice(noapp.pop(0))
+            if roll:
+                data["noapproll%s" % word] = roll
+
+
 def parsehitdice(data):
 
-    hd = data["hitdice"]
+    hd = data.get("hitdice", "0")
 
     # parse hit dice
 
@@ -90,6 +140,8 @@ def export(data, outs):
         return
     if "hitdice" in data:
         parsehitdice(data)
+    if "noappearing" in data:
+        parsenoapp(data)
     for out in outs:
         out.write("%s,\n" % json.dumps(data, sort_keys=True, indent=4))
 
