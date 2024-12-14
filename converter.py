@@ -161,10 +161,12 @@ converters = {
 
 files = sorted(glob.glob("Monster-Data*.txt"))
 
-outp = open("monsterdata.json", "w")
+outjs = open("monsterdata.js", "w")
+outjson = open("monsterdata.json", "w")
 outpy = open("monsterdata.py", "w")
 
-outp.write("[\n")
+outjs.write("var monsters = [\n")
+outjson.write("[\n")
 outpy.write("monsters = [\n")
 
 # initialize the state machine
@@ -185,7 +187,7 @@ for fn in files:
         num += 1
     
         if line.strip() == "@@" or line.strip() == "@STOP@":
-            export(data, (outp, outpy))
+            export(data, (outjs, outjson, outpy))
             data = {}
             state = 0
             if line.strip() == "@STOP@":
@@ -244,13 +246,17 @@ for fn in files:
     inp.close()
     
     # behave as if closing a file ends a monster, since it should
-    export(data, (outp, outpy))
+    export(data, (outjs, outjson, outpy))
     data = {}
     state = 0
  
-outp.write("]\n")
+outjs.write("]\n")
+outjson.write("]\n")
 outpy.write("]\n")
-outp.close()
+
+outjs.close()
+outjson.close()
+outpy.close()
     
     
 # end of file.

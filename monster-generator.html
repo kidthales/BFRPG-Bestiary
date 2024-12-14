@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>Monster Generator Proof of Concept</title>
+<script language=javascript src='monsterdata.js'></script>
+<script>
+
+function dosearch() {
+    var results = document.getElementById("results");
+    var searchfld = document.getElementById("searchfld");
+    var searchtxt = searchfld.value.trim().toLowerCase();
+
+    if(searchtxt.length > 0) {
+        var lines = [];
+        for(var i = 0; i < monsters.length && lines.length < 10; i++) {
+            if(monsters[i]["name"].toLowerCase().slice(0,searchtxt.length) == searchtxt) {
+                var obj = monsters[i];
+                lines.push(obj["name"] + ": " + [
+                        "AC " + obj["armorclass"],
+                        "HD " + obj["hitdice"] + " (+" + obj["attackbonus"] + ")",
+                        "#At " + obj["noattacks"],
+                        "Dam " + obj["damage"],
+                        "Mv " + obj["movement"],
+                        "Sv " + obj["saveas"],
+                        "ML " + obj["morale"],
+                        "XP " + obj["xp"],
+                    ].join(", "));
+            }
+        }
+        if(lines.length > 0) {
+            results.innerHTML = lines.join("<br>\n");
+        } else {
+            results.innerHTML = "<i>... no results found for '" + searchtxt + "' ...</i>";
+        }
+    } else {
+        results.innerHTML = "<i>... begin your search above ...</i>";
+    }
+}
+
+</script>
+</head>
+<body>
+<h1>Monster Generator Proof of Concept</h1>
+<p>
+Search: <input type=text id=searchfld onchange='dosearch();' onkeyup='dosearch();'>
+<div id=results></div>
+</body>
+</html>
+
