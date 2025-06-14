@@ -29,77 +29,57 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 import json, sqlite3
 import monsterdata
 
-conn = sqlite3.connect('monsterdata.db')
-cursor = conn.cursor()
+columns = [
+    ('armorclass', 'TEXT'),
+    ('attackbonus', 'INTEGER'),
+    ('damage', 'TEXT'),
+    ('description', 'JSON'),
+    ('hitdice', 'TEXT'),
+    ('hitdiceroll', 'JSON'),
+    ('morale', 'TEXT'),
+    ('movement', 'TEXT'),
+    ('name', 'TEXT'),
+    ('noappearing', 'TEXT'),
+    ('noapproll', 'JSON'),
+    ('noapprolllair', 'JSON'),
+    ('noapprollwild', 'JSON'),
+    ('noattacks', 'TEXT'),
+    ('saveas', 'TEXT'),
+    ('specialbonus', 'INTEGER'),
+    ('treasure', 'TEXT'),
+    ('xp', 'TEXT')
+]
 
-cursor.execute('''CREATE TABLE IF NOT EXISTS monsters (
-    armorclass TEXT,
-    attackbonus INTEGER,
-    damage TEXT,
-    description TEXT,
-    hitdice TEXT,
-    hitdiceroll TEXT,
-    morale TEXT,
-    movement TEXT,
-    name TEXT,
-    noappearing TEXT,
-    noapproll TEXT,
-    noapprolllair TEXT,
-    noapprollwild TEXT,
-    noattacks TEXT,
-    saveas TEXT,
-    specialbonus INTEGER,
-    treasure TEXT,
-    xp TEXT
-)''')
-
-cursor.execute('''DELETE FROM monsters''')
-
-sql = '''INSERT INTO monsters(
-    armorclass,
-    attackbonus,
-    damage,
-    description,
-    hitdice,
-    hitdiceroll,
-    morale,
-    movement,
-    name,
-    noappearing,
-    noapproll,
-    noapprolllair,
-    noapprollwild,
-    noattacks,
-    saveas,
-    specialbonus,
-    treasure,
-    xp
-) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)'''
+sqldrop = 'DROP TABLE IF EXISTS monsters'
+sqlcreate = 'CREATE TABLE IF NOT EXISTS monsters ('
+sqlinsert = 'INSERT INTO monsters ('
+for column in columns:
+    sqlcreate += column[0]
+    sqlinsert += column[0]
+    if column[1] == 'JSON':
+        sqlcreate += ' TEXT'
+    else:
+        sqlcreate += ' ' + column[1]
+    if column != columns[-1]:
+        sqlcreate += ', '
+        sqlinsert += ', '
+sqlcreate += ')'
+sqlinsert += ') VALUES (' + ('?, ' * (len(columns) - 1)) + ' ?)'
 
 values = []
-
 for monster in monsterdata.monsters:
-    values.append((
-        monster.get('armorclass'),
-        monster.get('attackbonus'),
-        monster.get('damage'),
-        json.dumps(monster.get('description')),
-        monster.get('hitdice'),
-        json.dumps(monster.get('hitdiceroll')),
-        monster.get('morale'),
-        monster.get('movement'),
-        monster.get('name'),
-        monster.get('noappearing'),
-        json.dumps(monster.get('noapproll')),
-        json.dumps(monster.get('noapprolllair')),
-        json.dumps(monster.get('noapprollwild')),
-        monster.get('noattacks'),
-        monster.get('saveas'),
-        monster.get('specialbonus'),
-        monster.get('treasure'),
-        monster.get('xp')
-    ))
+    row = ()
+    for column in columns:
+        if column[1] == 'JSON':
+            row += (json.dumps(monster.get(column[0])),)
+        else:
+            row += (monster.get(column[0]),)
+    values.append(row)
 
-cursor.executemany(sql, values)
+conn = sqlite3.connect('monsterdata.db')
+cursor = conn.cursor()
+cursor.execute(sqldrop)
+cursor.execute(sqlcreate)
+cursor.executemany(sqlinsert, values)
 conn.commit()
 conn.close()
