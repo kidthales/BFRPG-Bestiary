@@ -1,0 +1,43 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - downstream-main
+  pull_request: ~
+  workflow_dispatch: ~
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.head_ref || github.run_id }}
+  cancel-in-progress: true
+
+jobs:
+  sync-monsterdata:
+    name: Sync Monster Data
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (push:main, workflow_dispatch)
+        if: ${{ github.event_name != 'pull_request' }}
+        uses: actions/checkout@v4
+
+      - name: Checkout (pull_request)
+        if: ${{ github.event_name == 'pull_request' }}
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.event.pull_request.head.ref }}
+
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Convert
+        run: python converter.py
+
+      - name: Add & Commit
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: monsterdata.*
+          commit: --allow-empty
+          message: '[skip ci] Sync Monster Data'
