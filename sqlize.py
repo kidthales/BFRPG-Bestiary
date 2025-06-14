@@ -50,36 +50,60 @@ columns = [
     ('xp', 'TEXT')
 ]
 
-sqldrop = 'DROP TABLE IF EXISTS monsters'
-sqlcreate = 'CREATE TABLE IF NOT EXISTS monsters ('
-sqlinsert = 'INSERT INTO monsters ('
-for column in columns:
-    sqlcreate += column[0]
-    sqlinsert += column[0]
-    if column[1] == 'JSON':
-        sqlcreate += ' TEXT'
-    else:
-        sqlcreate += ' ' + column[1]
-    if column != columns[-1]:
-        sqlcreate += ', '
-        sqlinsert += ', '
-sqlcreate += ')'
-sqlinsert += ') VALUES (' + ('?, ' * (len(columns) - 1)) + ' ?)'
+def generatemonsterstable():
+    sqlcreate = 'CREATE TABLE monsters ('
+    sqlinsert = 'INSERT INTO monsters ('
 
-values = []
-for monster in monsterdata.monsters:
-    row = ()
     for column in columns:
+        sqlcreate += column[0]
+        sqlinsert += column[0]
+
         if column[1] == 'JSON':
-            row += (json.dumps(monster.get(column[0])),)
+            sqlcreate += ' TEXT'
         else:
-            row += (monster.get(column[0]),)
-    values.append(row)
+            sqlcreate += ' ' + column[1]
+
+        if column != columns[-1]:
+            sqlcreate += ', '
+            sqlinsert += ', '
+
+    sqlcreate += ')'
+    sqlinsert += ') VALUES (' + ('?, ' * (len(columns) - 1)) + ' ?)'
+
+    values = []
+    for monster in monsterdata.monsters:
+        row = ()
+        for column in columns:
+            if column[1] == 'JSON':
+                row += (json.dumps(monster.get(column[0])),)
+            else:
+                row += (monster.get(column[0]),)
+        values.append(row)
+
+    cursor.execute('DROP TABLE IF EXISTS monsters')
+    cursor.execute(sqlcreate)
+    cursor.executemany(sqlinsert, values)
+
+def generatelicensetable():
+    cursor.execute('DROP TABLE IF EXISTS license')
+    cursor.execute('CREATE TABLE license (text TEXT)')
+
+    text = ''
+    found = False
+    with open('LICENSE', 'r') as file:
+        for line in file:
+            if found and line.strip() != '':
+                text += line
+            elif line.strip() == 'CC BY-SA License':
+                found = True
+                text += line
+    file.close()
+
+    cursor.execute('INSERT INTO license (text) VALUES (?)', (text,))
 
 conn = sqlite3.connect('monsterdata.sqlite')
 cursor = conn.cursor()
-cursor.execute(sqldrop)
-cursor.execute(sqlcreate)
-cursor.executemany(sqlinsert, values)
+generatemonsterstable()
+generatelicensetable()
 conn.commit()
 conn.close()
