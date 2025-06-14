@@ -76,7 +76,7 @@ for monster in monsterdata.monsters:
             row += (monster.get(column[0]),)
     values.append(row)
 
-conn = sqlite3.connect('monsterdata.db')
+conn = sqlite3.connect('monsterdata.sqlite')
 cursor = conn.cursor()
 cursor.execute(sqldrop)
 cursor.execute(sqlcreate)
