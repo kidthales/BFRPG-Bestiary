@@ -1,7 +1,7 @@
 LICENSES
 
 This package contains a mix of materials having different licenses.  The
-converter.py file is distributed under a BSD 2 Clause license; all textual
+converter.py and sqlize.py file is distributed under a BSD 2 Clause license; all textual
 materials containing game rules materials are under Creative Commons
 Attribution-ShareAlike 4.0.
 
@@ -10,6 +10,9 @@ BSD 2-Clause License
 
 converter.py
 Copyright (c) 2024, Chris Gonnerman
+
+sqlize.py
+Copyright (c) 2025, Tristan Bonsor
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
