@@ -67,7 +67,7 @@ def generatemonsterstable():
             sqlcreate += ', '
             sqlinsert += ', '
 
-    sqlcreate += ')'
+    sqlcreate += ', PRIMARY KEY (name, hitdice))'
     sqlinsert += ') VALUES (' + ('?, ' * (len(columns) - 1)) + ' ?)'
 
     values = []
