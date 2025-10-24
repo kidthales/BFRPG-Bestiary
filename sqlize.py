@@ -34,6 +34,7 @@ columns = [
     ('attackbonus', 'INTEGER'),
     ('damage', 'TEXT'),
     ('description', 'JSON'),
+    ('dragontable', 'JSON'),
     ('hitdice', 'TEXT'),
     ('hitdiceroll', 'JSON'),
     ('morale', 'TEXT'),
@@ -74,10 +75,13 @@ def generatemonsterstable():
     for monster in monsterdata.monsters:
         row = ()
         for column in columns:
-            if column[1] == 'JSON':
-                row += (json.dumps(monster.get(column[0])),)
+            if column[0] in monster:
+                if column[1] == 'JSON':
+                    row += (json.dumps(monster.get(column[0])),)
+                else:
+                    row += (monster.get(column[0]),)
             else:
-                row += (monster.get(column[0]),)
+                row += (None,)
         values.append(row)
 
     cursor.execute('DROP TABLE IF EXISTS monsters')
