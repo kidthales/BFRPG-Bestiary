@@ -343,7 +343,7 @@ No. Appearing: 1d2, Wild 1d4
 Save As: Fighter: 8
 Morale: 10
 Treasure Type: None
-XP: 3,385
+XP: 3385
 
 Purple worms are gigantic subterranean monsters; they are rarely found above ground.  Adult purple worms range from 5-9 feet in diameter and 50-100 feet long, with an average weight of about 40,000 pounds.
 The creature's tail ends in a narrow point tipped with a poisonous stinger; those injured by it must save vs. Poison or die.  Note that the purple worm's movement is less than the monster's length, so that, if attacking from out of a tunnel, it might not be able to use the stinger for several rounds.
@@ -361,7 +361,7 @@ No. Appearing: 1d2, Wild 1d4
 Save As: Fighter: 9
 Morale: 10
 Treasure Type: None
-XP: 3,745
+XP: 3745
 
 Purple worms are gigantic subterranean monsters; they are rarely found above ground.  Adult purple worms range from 5-9 feet in diameter and 50-100 feet long, with an average weight of about 40,000 pounds.
 The creature's tail ends in a narrow point tipped with a poisonous stinger; those injured by it must save vs. Poison or die.  Note that the purple worm's movement is less than the monster's length, so that, if attacking from out of a tunnel, it might not be able to use the stinger for several rounds.
@@ -379,7 +379,7 @@ No. Appearing: 1d2, Wild 1d4
 Save As: Fighter: 9
 Morale: 10
 Treasure Type: None
-XP: 4,160
+XP: 4160
 
 Purple worms are gigantic subterranean monsters; they are rarely found above ground.  Adult purple worms range from 5-9 feet in diameter and 50-100 feet long, with an average weight of about 40,000 pounds.
 The creature's tail ends in a narrow point tipped with a poisonous stinger; those injured by it must save vs. Poison or die.  Note that the purple worm's movement is less than the monster's length, so that, if attacking from out of a tunnel, it might not be able to use the stinger for several rounds.
@@ -397,7 +397,7 @@ No. Appearing: 1d2, Wild 1d4
 Save As: Fighter: 10
 Morale: 10
 Treasure Type: None
-XP: 4,675
+XP: 4675
 
 Purple worms are gigantic subterranean monsters; they are rarely found above ground.  Adult purple worms range from 5-9 feet in diameter and 50-100 feet long, with an average weight of about 40,000 pounds.
 The creature's tail ends in a narrow point tipped with a poisonous stinger; those injured by it must save vs. Poison or die.  Note that the purple worm's movement is less than the monster's length, so that, if attacking from out of a tunnel, it might not be able to use the stinger for several rounds.
@@ -415,7 +415,7 @@ No. Appearing: 1d2, Wild 1d4
 Save As: Fighter: 10
 Morale: 10
 Treasure Type: None
-XP: 20 HD 5,450
+XP: 5450
 
 Purple worms are gigantic subterranean monsters; they are rarely found above ground.  Adult purple worms range from 5-9 feet in diameter and 50-100 feet long, with an average weight of about 40,000 pounds.
 The creature's tail ends in a narrow point tipped with a poisonous stinger; those injured by it must save vs. Poison or die.  Note that the purple worm's movement is less than the monster's length, so that, if attacking from out of a tunnel, it might not be able to use the stinger for several rounds.
@@ -433,7 +433,7 @@ No. Appearing: 1d2, Wild 1d4
 Save As: Fighter: 6
 Morale: 10
 Treasure Type: None
-XP: 1,670
+XP: 1670
 
 Purple worms are gigantic subterranean monsters; they are rarely found above ground.  Adult purple worms range from 5-9 feet in diameter and 50-100 feet long, with an average weight of about 40,000 pounds.
 The creature's tail ends in a narrow point tipped with a poisonous stinger; those injured by it must save vs. Poison or die.  Note that the purple worm's movement is less than the monster's length, so that, if attacking from out of a tunnel, it might not be able to use the stinger for several rounds.
@@ -451,7 +451,7 @@ No. Appearing: 1d2, Wild 1d4
 Save As: Fighter: 6
 Morale: 10
 Treasure Type: None
-XP: 1,975
+XP: 1975
 
 Purple worms are gigantic subterranean monsters; they are rarely found above ground.  Adult purple worms range from 5-9 feet in diameter and 50-100 feet long, with an average weight of about 40,000 pounds.
 The creature's tail ends in a narrow point tipped with a poisonous stinger; those injured by it must save vs. Poison or die.  Note that the purple worm's movement is less than the monster's length, so that, if attacking from out of a tunnel, it might not be able to use the stinger for several rounds.
@@ -469,7 +469,7 @@ No. Appearing: 1d2, Wild 1d4
 Save As: Fighter: 7
 Morale: 10
 Treasure Type: None
-XP: 2,285
+XP: 2285
 
 Purple worms are gigantic subterranean monsters; they are rarely found above ground.  Adult purple worms range from 5-9 feet in diameter and 50-100 feet long, with an average weight of about 40,000 pounds.
 The creature's tail ends in a narrow point tipped with a poisonous stinger; those injured by it must save vs. Poison or die.  Note that the purple worm's movement is less than the monster's length, so that, if attacking from out of a tunnel, it might not be able to use the stinger for several rounds.
@@ -487,7 +487,7 @@ No. Appearing: 1d2, Wild 1d4
 Save As: Fighter: 7
 Morale: 10
 Treasure Type: None
-XP: 2,615
+XP: 2615
 
 Purple worms are gigantic subterranean monsters; they are rarely found above ground.  Adult purple worms range from 5-9 feet in diameter and 50-100 feet long, with an average weight of about 40,000 pounds.
 The creature's tail ends in a narrow point tipped with a poisonous stinger; those injured by it must save vs. Poison or die.  Note that the purple worm's movement is less than the monster's length, so that, if attacking from out of a tunnel, it might not be able to use the stinger for several rounds.
@@ -505,7 +505,7 @@ No. Appearing: 1d2, Wild 1d4
 Save As: Fighter: 8
 Morale: 10
 Treasure Type: None
-XP: 15 HD 2,975
+XP: 2975
 
 Purple worms are gigantic subterranean monsters; they are rarely found above ground.  Adult purple worms range from 5-9 feet in diameter and 50-100 feet long, with an average weight of about 40,000 pounds.
 The creature's tail ends in a narrow point tipped with a poisonous stinger; those injured by it must save vs. Poison or die.  Note that the purple worm's movement is less than the monster's length, so that, if attacking from out of a tunnel, it might not be able to use the stinger for several rounds.
